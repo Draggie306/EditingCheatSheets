@@ -46,7 +46,6 @@ Buses themselves are physical, parallel wires, typically visible on a motherboar
 The CPU is connected to RAM by three separate buses, the address bus, data bus and control bus. These are collectively known as the system bus. As each bus is shared, **only one device can transmit along a bus at any given time**.
 
 ![motherboard](https://cheatsheet-assets.ibaguette.com/alevel/compsci/motherboardlines.jpg)
-
 *Motherboard bus lines*
 
 #### Control bus
@@ -2142,5 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk5MDg1MTYsLTc3MjU4OTA1M119
+eyJoaXN0b3J5IjpbNjUwNTAzMzcwLC0xODQ5OTA4NTE2LC03Nz
+I1ODkwNTNdfQ==
 -->
