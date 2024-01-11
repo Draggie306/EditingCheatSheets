@@ -578,7 +578,7 @@ This can be used in any way to perform operations like adding adddresses in memo
 #### Attributes
 #### Inheritance
 
-![Inheritance joke](https://cheatsheet-assets.ibaguette.com/alevel/compsci/inheritance.jpg =60x50)
+![Inheritance joke](https://cheatsheet-assets.ibaguette.com/alevel/compsci/inheritance.jpg =400x280)
 
 
 #### Encapsulation
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTc5Mzg5NjksNjUwNTAzMzcwLC0xOD
-Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
+eyJoaXN0b3J5IjpbMjA3OTUzNzk3OCw2NTA1MDMzNzAsLTE4ND
+k5MDg1MTYsLTc3MjU4OTA1M119
 -->
