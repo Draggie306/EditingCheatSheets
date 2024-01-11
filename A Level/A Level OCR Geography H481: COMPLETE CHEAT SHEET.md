@@ -2,12 +2,12 @@
 
 
 [< Back to A level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
-# A Level Geography
+# A Level OCR Geography
 **⚠ This is a work in progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 21/12/2023 23:07.
-Last content addition: 21/12/2023 23:07](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 11/01/2024 21:02.
+Last content addition: 11/01/2024 21:02](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
 Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
@@ -322,7 +322,7 @@ They typically occur in larger groups, or ‘swarms'. This is known as a ‘**ba
 
 Drumlins can be up to 1,000m in length but are typically around 300-500m. They also improve revenue for farmers, as the topography allows them to have a larger farming area in the same sized plot of land. Their length to width ratio is typically between 1.8 and 4.1, and this may be an indication of past glacial velocities, with longer drumlins indicating a faster ice velocity due to the laminar flow of ice.
 
-Drumlins are often found in conjunction with [morainic](https://ibaguette.com/cheatsheets/alevel/geography/all#moraines) landforms and other depositional features like eskers, [kames](https://ibaguette.com/cheatsheets/alevel/geography/all#kames-and-kame-terraces), outwash plains and
+Drumlins are often found in conjunction with [morainic](#moraines) landforms and other depositional features like eskers, [kames](#kames-and-kame-terraces), outwash plains and
 
 I'd love to be like a drumlin one day, they're just so chilled out and calming
 
@@ -716,8 +716,34 @@ That's the end for glaciation! I hope you found it useful.
 
 # [TBD] Disease Dilemmas 
 
-This will take a while to write up...
+# Global patterns of disease 
+![Specification Content for Disease Dilemmas Key Idea 1 - "What are the global patterns of disease and can factors be identified that determine these?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.1.png)
 
+All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
+
+**Communicable** diseases are infectious diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
+**Non-communicable** diseases cannot be spread between 
+
+**Infectious** diseases are those which are spread by pathogens from any host to any host, with any form of contact. 
+
+**Contagious** diseases are those which spread between people's direct or indirect contact. Non-contagious diseases may include those transmitted through **vectors**. (Remember GCSE Biology?)
+> All contagious diseases are infectious
+> However, not all infectious diseases may be communicable. This is because 
+
+
+
+## 2. Is there a link between disease and levels of economic development?
+![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
+
+## 3. How effectively are communicable and noncommunicable diseases dealt with?
+![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
+
+## 4. How far can diseases be predicted and mitigated against?
+![Specification Content for Disease Dilemmas Key Idea 4 - "How far can diseases be predicted and mitigated against?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.4.png)
+
+
+## 5. Can diseases ever be fully eradicated?
+![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 
 
@@ -1065,7 +1091,7 @@ Variations in seafloor spreading velocity result in lateral **transform faults**
 
 ### Continental-continental
 
-In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, result in the land at the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes which erupt viscous lava and are less active compared to composite volcanoes and calderas.
+In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land at the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
 
 Rift valleys can also be found where spreading is occurring at a slower rate, such as the Mid-Atlantic Ridge (North American <--> Eurasian) on land such as Iceland.
 
@@ -1176,5 +1202,5 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbMTE2ODgxMTU3MiwtMTA2ODM4OTA1NV19
 -->
