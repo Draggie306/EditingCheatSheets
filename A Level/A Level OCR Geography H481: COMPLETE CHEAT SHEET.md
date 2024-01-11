@@ -731,7 +731,7 @@ All types of diseases can be categorised into distinct categories depending on h
  **Non-contagious** diseases cannot be transmitted from one person to another. However, they may include those transmitted through **vectors**.
 
 For example:
-- Malaria is communicable (can spread), infectious (spread by parasite) but non-contagious (cannot go directly from a person to person)
+- Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
 - Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
 
@@ -1205,5 +1205,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbMTY5ODc2NTczMSwxMjMzNzE2OTYzLC0xMD
+Y4Mzg5MDU1XX0=
 -->
