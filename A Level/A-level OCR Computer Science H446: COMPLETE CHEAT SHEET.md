@@ -623,7 +623,7 @@ However, with the second image here, you should be able to tell that it's not as
 
 This logic can be applied to audio too. MP3 files and OGG files are formats that use lossy compression to remove sounds ouside of audible hearing ranges, or by removing quieter elements of a music track that play at the same time as louder parts.
 
-VoIP services like Discord use compression at various **bitrates** to transmit peoples' voices. Lower bitrates such as 8kbps will require more compression and people will sound less defined and monotonic, while higher bitrates such as 64kbps - the default by many services today - will not have any issue in understanding the person at the other end of the line as this is less compressed. However, we still can still discern the difference between even the highest bitrates and being face-to-face.
+VoIP services like Discord use compression at various **bitrates** to transmit peoples' voices. Lower bitrates such as 8kbps will require more compression and people will sound less defined and monotonic, while higher bitrates such as 64kbps - the default by many services today - will not have any issue in understanding the person at the other end of the line as this is less compressed. However, humans can still discern the difference between even the highest bitrates and being face-to-face.
 
 > With advancements in audio codecs and compression techniques, lower bitrates have become more usable.
 
@@ -631,6 +631,7 @@ VoIP services like Discord use compression at various **bitrates** to transmit p
 
 ![audio](https://cheatsheet-assets.ibaguette.com/alevel/compsci/soundwave.png)
 *Visualisation of what happens to audio content*
+
 **Lossy Compression:**
 |Advantages|Disadvantages|
 |--|--|
@@ -2141,6 +2142,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwMDE2NDY3NCw2NTA1MDMzNzAsLTE4ND
-k5MDg1MTYsLTc3MjU4OTA1M119
+eyJoaXN0b3J5IjpbLTE1OTIxOTU5OTYsNjUwNTAzMzcwLC0xOD
+Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
 -->
