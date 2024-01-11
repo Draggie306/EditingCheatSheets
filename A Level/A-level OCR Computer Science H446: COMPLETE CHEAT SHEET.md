@@ -655,6 +655,7 @@ Lossless compression is important when transferring files such as binary data (l
 
 However, lossless compression has disadvantages too. Lossy files are still much better for highly optimising size and quality of images as they are able to discard large amounts of the file if needed. Therefore, generally, only slight reductions over the initial file are possible. 
 
+**Lossless compression:**
 |Advantages|Disadvantages|
 |--|--|
 |All of the original file's data is preserved|  Longer file transfer times and potential buffering|
@@ -790,7 +791,7 @@ Even if 1 bit of input data is changed, these functions will return completely d
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/hashes.png)
 *The SHA-1, CRC32, MD5 and SHA-256 hashes for this file at the time of writing. Oops, as I've written that, it's changed already...*
 
-"1E71416792A1681496EBFB56B00D8056C9BA1C59" - sha-1 hash
+> "*1E71416792A1681496EBFB56B00D8056C9BA1C59*" - sha-1 hash
 
 ### Uses for hashing
 
@@ -860,10 +861,10 @@ In a relational database, data is held in tables, or **relations**. Each row in 
 
 |CustID|SubID|prodID|Tier|custName
 |--|--|--|--|--|
-| 12 | 120.CmpSc | 235 |1| Joe
-| 34 | 111.Geog | 243 |1| Sam
-| 54 | 120.CmpSc | 235 |1| Oli
-| 54 | 121.French | 239 |1| Oli
+| 12 | 120.CmpSc | 235 |4| Jake
+| 34 | 111.Geog | 243 |2| Kez
+| 54 | 120.CmpSc | 235 |3| Frankie
+| 54 | 121.French | 239 |5| Oli
 
 Normalisation is a process used to create the most efficient design possible for a database. The structure should be one so that complex queries from different relations can be made, with no unnecessary duplication and high consistency.
 
@@ -2142,6 +2143,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTIxOTU5OTYsNjUwNTAzMzcwLC0xOD
-Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
+eyJoaXN0b3J5IjpbMTYzNzQyMTU2LC0xNTkyMTk1OTk2LDY1MD
+UwMzM3MCwtMTg0OTkwODUxNiwtNzcyNTg5MDUzXX0=
 -->
