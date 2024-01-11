@@ -1,14 +1,9 @@
 
 
-
-
-
-
 [< Back to A level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
 # A Level OCR H446 Computer Science
-
-> Ah yes more computer science!
+Welcome to the A Level OCR Computer Science H446 Cheat Sheet, with everything covered in detail in the specification. 
 
 **This Cheat Sheet is in development. Unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 
@@ -2147,5 +2142,5 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjU4OTA1M119
+eyJoaXN0b3J5IjpbLTE4NDk5MDg1MTYsLTc3MjU4OTA1M119
 -->
