@@ -530,7 +530,7 @@ print(x)
 print(i)
 ```
 
-Over several passes, code oprimisation techniques may remove the for loop and just set `x` to 0 so it doesn't get redefined 10,000 times. More severe optimisations may calculate that `i` will be 50000 every time, so just change the value of y to 50000.
+Over several passes, code optimisation techniques may remove the for loop and just set `x` to 0 so outside of iit doesn't get redefined 10,000 times. More severe optimisations may calculate that `i` will be 50000 every time, so just change the value of y to 50000.
 
 ### Linkers and loaders
 
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MzQxNDk1Niw2NTA1MDMzNzAsLTE4ND
+eyJoaXN0b3J5IjpbMTY5NDY3MDYwOSw2NTA1MDMzNzAsLTE4ND
 k5MDg1MTYsLTc3MjU4OTA1M119
 -->
