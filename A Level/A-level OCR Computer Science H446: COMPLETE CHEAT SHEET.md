@@ -1249,7 +1249,7 @@ It's worth noting that the IP has no guarantee of correct transmission, and it i
 
 #### Link layer
 
-AKA Data Link/Network Interface layer
+This is also known as the Data Link/Network Interface layer
 
 Each layer has its own specific tasks in transmitting data over a network.
 
@@ -1282,11 +1282,11 @@ How to add an external stylesheet:
 Changing the attributes of an HTML element:
 
 ```js
-chosenElement = document.getElementById("example"); 
-// Gets element with id "example" from the DOM
+// Get element with id "example" from the DOM
+var chosenElement = document.getElementById("example"); 
 
-chosenElement.innerHTML = "Hello, World!"; 
 // Change the displayed HTML content
+chosenElement.innerHTML = "Hello, World!"; 
 ```
 
   
@@ -1299,7 +1299,7 @@ chosenElement.innerHTML = "Hello, World!";
 # [tbd] 1.5 Legal, moral, cultural and ethical issues
 
 
-The **Data Protection Act 2018**: controls the way data about living people is stored and processed 
+The **Data Protection Act 2018** controls the way data about living people is stored and processed 
 - It is a national law which complements the European Union's General Data Protection Regulation (GDPR)
 
 The **Computer Misuse Act 1990** makes it an offence to access or modify computer material without permission
@@ -2143,6 +2143,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzNzQyMTU2LC0xNTkyMTk1OTk2LDY1MD
-UwMzM3MCwtMTg0OTkwODUxNiwtNzcyNTg5MDUzXX0=
+eyJoaXN0b3J5IjpbLTQ0MjA3MDQyNCwtMTU5MjE5NTk5Niw2NT
+A1MDMzNzAsLTE4NDk5MDg1MTYsLTc3MjU4OTA1M119
 -->
