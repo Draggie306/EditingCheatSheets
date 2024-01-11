@@ -538,7 +538,7 @@ The linker must assign memory addresses to external calls from separate librarie
 
 The loader must copy the program and any linked libraries into main memory to be executed. The loader will also correctly assign memory addresses, as the program expects that it is in memory address 0.
 
-Libraries, pre-compiled code modules, have benefits such as being tested, optimised and save time as code does not have to be rewritten. It can also save on memory - many programs may use a library to set all characters to uppercase which only has to be  loaded once into memory, and just linked by the linker.
+Libraries, pre-compiled code modules, have benefits such as being tested, optimised and save time as code does not have to be rewritten. It can also save on memory - many programs may use a library to set all characters to uppercase which only has to be loaded once into memory, and just linked by the linker, as opposed to redefining this every time.
 
 
 ## 1.2.4 Types of Programming Language
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg2NzYyMzcsNjUwNTAzMzcwLC0xOD
-Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTgzOTQwMSw2NTA1MDMzNzAsLTE4ND
+k5MDg1MTYsLTc3MjU4OTA1M119
 -->
