@@ -722,14 +722,15 @@ That's the end for glaciation! I hope you found it useful.
 All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
 
 **Communicable** diseases are infectious diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
-**Non-communicable** diseases cannot be spread between 
+**Non-communicable** diseases cannot be spread between people. These are a result of lifestyle choices and genetic factors
 
 **Infectious** diseases are those which are spread by pathogens from any host to any host, with any form of contact. 
 
-**Contagious** diseases are those which spread between people's direct or indirect contact. Non-contagious diseases may include those transmitted through **vectors**. (Remember GCSE Biology?)
-> All contagious diseases are infectious
-> However, not all infectious diseases may be communicable. This is because 
 
+**Contagious** diseases are those which spread **between people** through direct or indirect contact.
+ **Non-contagious** diseases may include those transmitted through **vectors**. (Remember GCSE Biology?)
+
+Malaria is communicable (can spread), infectious
 
 
 ## 2. Is there a link between disease and levels of economic development?
@@ -1202,5 +1203,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODgxMTU3MiwtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTE0NDkyOTYwODgsLTEwNjgzODkwNTVdfQ
+==
 -->
