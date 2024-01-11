@@ -721,16 +721,18 @@ That's the end for glaciation! I hope you found it useful.
 
 All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
 
-**Communicable** diseases are infectious diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
+**Communicable** diseases are diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
 **Non-communicable** diseases cannot be spread between people. These are a result of lifestyle choices and genetic factors
 
-**Infectious** diseases are those which are spread by pathogens from any host to any host, with any form of contact. 
-
+**Infectious** diseases are those which are spread by **pathogens** from any host to any host, with any form of contact. 
+**Non-infectious** diseases cannot be caused by pathogens between hosts.
 
 **Contagious** diseases are those which spread **between people** through direct or indirect contact.
- **Non-contagious** diseases may include those transmitted through **vectors**. (Remember GCSE Biology?)
+ **Non-contagious** diseases cannot be transmitted from one person to another. However, they may include those transmitted through **vectors**.
 
-Malaria is communicable (can spread), infectious
+For example:
+- Malaria is communicable (can spread), infectious (spread by parasite) but non-contagious (cannot go directly from a person to person)
+- Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
 
 ## 2. Is there a link between disease and levels of economic development?
@@ -1203,6 +1205,5 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkyOTYwODgsLTEwNjgzODkwNTVdfQ
-==
+eyJoaXN0b3J5IjpbMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
