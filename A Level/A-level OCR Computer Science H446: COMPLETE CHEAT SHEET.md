@@ -472,7 +472,7 @@ Similarly to assemblers, compilers translate the source code into machine code. 
 
 ### Interpreters
 
-Interpreters are more designed for development, with it going through source code line-by-line, and only translating it into machine code if there are no syntax erros. This compares to compilers, which will translate the entire source code before it is ececuted.
+Interpreters are more designed for development, with it going through source code line-by-line, and only translating it into machine code if there are no syntax erros. This compares to compilers, which will translate the entire source code before it is executed.
 
 JavaScript for example is interpreted. This in the long run speeds up (the website) as it doesn't need to be compiled to various different devices' machine code requirements, and each device can interpret the source JavaScript in the way that works for that processor. It also reduces network traffic as binary files may be much larger than compact source code equivalents.
 
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTU5NjU0OTUsNjUwNTAzMzcwLC0xOD
-Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
+eyJoaXN0b3J5IjpbLTU4MzQxNDk1Niw2NTA1MDMzNzAsLTE4ND
+k5MDg1MTYsLTc3MjU4OTA1M119
 -->
