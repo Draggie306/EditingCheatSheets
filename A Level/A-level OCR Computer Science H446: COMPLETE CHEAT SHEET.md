@@ -610,10 +610,10 @@ Non-essential information is removed from the source file. In the below images, 
 
 If a pixel in an image is combined with a block of others in lossy compression, it isn't much of a deal.
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/IMG_20230526_174532-FromCamera.jpg =600x800)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/IMG_20230526_174532-FromCamera.jpg =400x600)
 *Directly from my phone camera. 25.438 KiB*
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/IMG_20230526_174532-Compress.png =600x800)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/IMG_20230526_174532-Compress.png =400x600)
 *Compressed! 543 KiB. ~50x reduction in filesize*
 
 However, with the second image here, you should be able to tell that it's not as clear or as precise as the first one. Different colours have been merged into one, and "blockiness" is visible as the compression algorithm tries to combine multiple areas that have generally the same colours into one to save storage space. **It tries to remove as much of the less significant details as possible, conserving the general essence of the image.** There is a trade off between how heavily the image is compressed (and therefore the smaller the filesize) and the quality.
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3OTUzNzk3OCw2NTA1MDMzNzAsLTE4ND
+eyJoaXN0b3J5IjpbMTIwMDE2NDY3NCw2NTA1MDMzNzAsLTE4ND
 k5MDg1MTYsLTc3MjU4OTA1M119
 -->
