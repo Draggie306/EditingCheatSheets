@@ -444,7 +444,7 @@ For the optimisation of the performance of the computer and performing useful ta
 - Compression software can reduce file size for transfer or to save on disk space.
 
 ### Applications software
-Generak purpose, special purpose or custom written (bespoke) software.
+General-purpose, special purpose or custom written (bespoke) software.
 
 Ready made software is known as off the shelf software, and may include general-purpose software such as word processors or a graphics editing package. They are less expensive or free, well documented and tested.
 
@@ -463,7 +463,7 @@ Closed source software or proprietary software does not allow access to the sour
 ## 1.2.3 Software Development
 
 ### Assemblers
-Assemblers translate assembly code instructions into machine  code, or object code. Each assembly instruction is 1:1 equivalent to one machine code instruction, which is dependent on the instruction set and the underlying type of processor and its architecture (hardware specific). Basic lexical analysis such as comment removal occurs here too.
+Assemblers translate assembly code instructions into machine/object code. Each assembly instruction is 1:1 equivalent to one machine code instruction, which is dependent on the instruction set and the underlying type of processor and its architecture (hardware specific). Basic lexical analysis such as comment removal occurs here too.
 
 
 ### Compilers
@@ -2141,6 +2141,6 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUwNTAzMzcwLC0xODQ5OTA4NTE2LC03Nz
-I1ODkwNTNdfQ==
+eyJoaXN0b3J5IjpbLTE5OTU5NjU0OTUsNjUwNTAzMzcwLC0xOD
+Q5OTA4NTE2LC03NzI1ODkwNTNdfQ==
 -->
