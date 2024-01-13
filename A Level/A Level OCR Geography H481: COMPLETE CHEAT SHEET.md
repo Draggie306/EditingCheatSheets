@@ -734,6 +734,7 @@ For example:
 
 
 
+
 ## 2. Is there a link between disease and levels of economic development?
 ![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
 
@@ -1204,6 +1205,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ4MzAxNjE0LC02NDI3MzEwMjAsMTIzMz
-cxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTE0NjExMTMyMTYsLTY0MjczMTAyMCwxMj
+MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
