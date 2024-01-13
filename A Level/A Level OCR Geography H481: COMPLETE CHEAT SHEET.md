@@ -693,7 +693,7 @@ This dam (or, collection of three dams) were built in East Iceland on a large pr
 
 The dam could provide enough energy for all Icelandic homes and small businesses, but instead all energy provides the nearby aluminium smelter called **Alcoa**. 
 
-However, there has been widespread backlash over the prokect, as it flooded over 400,000 acres of unspoilt highland wilderness which was **the second largest unspoiled area in Europe**. In total, almost 750,000 acres of land was affected by the construction of the dam, which is around 3% of Iceland's total land mass.
+However, there has been widespread backlash over the project, as it flooded over 400,000 acres of unspoilt highland wilderness which was **the second largest unspoiled area in Europe**. In total, almost 750,000 acres of land was affected by the construction of the dam, which is around 3% of Iceland's total land mass.
 
 The dam was built as Alcoa produces 2% of the world's aluminium supply, and global financial markets at the time of construction were expected to make a significant number of jobs, and this aluminium industry was expected to make up 10% of Iceland's total GDP. This has not happened yet, and the price of aluminium had almost halved just two years after construction finished, and has not recovered to this level seldom for market bubbles seen with the Russian invasion, which stressed productions of almost all raw materials.
 
@@ -1205,6 +1205,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODc2NTczMSwxMjMzNzE2OTYzLC0xMD
+eyJoaXN0b3J5IjpbLTU5NDY3NTIzMCwxMjMzNzE2OTYzLC0xMD
 Y4Mzg5MDU1XX0=
 -->
