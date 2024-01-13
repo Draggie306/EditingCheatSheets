@@ -77,7 +77,7 @@ Glaciers themselves can be seen as systems as they have a TON of different input
 
 ### The Glacial Budget and Mass Balance
 
-A glacier forms when snowfall exceeds summer melt in an area, resulting in the accumulation of snow and ice	 year after year, typically in a hollow on a mountain with a northwest-southeast aspect in the northern hemisphere.
+A glacier forms when snowfall exceeds summer melt in an area, resulting in the accumulation of snow and ice year after year, typically in a hollow on a mountain with a northwest-southeast aspect in the northern hemisphere.
 
 Over time, snow is compacted and turned into glacial ice, and when this is around 40m thick, the intense pressure causes it to begin flowing. The top of the glacier is white, but glacial ice at the base of the glacier is blue as oxygen has left the system.
 
@@ -90,38 +90,38 @@ The glacier mass balance is the total **sum** of all the **accumulation** (snow,
 Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in an ideal scenario:
 ![Diagram of the Glacial Mass Balance in a glacier, oscillating between minimum and maximum glacier mass ](https://cheatsheet-assets.ibaguette.com/alevel/geography/MassBalance.jpg)
 
-An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter, and ablation extreme in the summer season.
+An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter, and the ablation extreme in the summer season.
 
-Layers of snow within the ice give evidence for the way that it has formed.
+Layers of snow within the ice give evidence of the way that it has formed.
 
 
 ### Types of glacier and movement
 (Date studied: ~29/09/2022)
 
 An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
-A **piedmont glacier** is one that spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
-A **valley glacier** is one **bound by valley walls**, coming from higher mountain, from  a plateau on an ice cap or an ice sheet.
+A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
+A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
 An **ice cap** - a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
 
 
 Valley glaciers usually occur in high altitude locations, with high relief, and have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
 
-Ice sheets however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of a high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and have a little precipitation but also lower temperatures so ablation levels are lower too.
+Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of a high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
 
 
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. Thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
 
 Cold-based glaciers:
 - have a slow rate of movement (<5m/year);
 - are located in extreme latitude (polar) regions;
 - are generally flat;
 - have a low basal temperature, remaining stuck to the bedrock below the pressure melting point;
-- are formed in low precipitation areas,  the glacier remains below freezing point during all seasons.
+- are formed in low precipitation areas, and the glacier remains below freezing point during all seasons.
 
 Warm-based glaciers:
 - have rapid movement (20-200m/year);
-- are located in high altitude (mountainous) regions;
-- have a basal temperature at or above pressure melting point;
+- are located in high-altitude (mountainous) regions;
+- have a basal temperature at or above the pressure melting point;
 - have steep(er) relief;
 - have water present throughout, with the ice acting as a lubricant.
 
@@ -144,29 +144,28 @@ Ablation till is material deposited at the terminus by melting ice from stagnant
 It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
 
 ### Factors affecting the microclimate 
-The microclimate is a small region with its own distinct climatic characteristics, for example one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller scale conditions too. 
+The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions too. 
 
 **Regional climate**
 
-The wind is a moving force and is able to carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes.
+The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes.
 
-The wind is a moving force and is able to carry out processes such as transportation, position and erosion. In the air, these are known as n processes, and contributes to shaping glaciated landscapes.
-Wind is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand. 
+The wind is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand. 
 
-Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At higher altitudes, there are typically more prolonged periods of above freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expaensive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both regionally and seasonally, in determining mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
+Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At higher altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both regionally and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
 
 **Geology**
 
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak, and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering as seen, through carbonation.
+Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering as seen, through carbonation.
 
-Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. Some types of limestone, like carboniferous limestone, has many interconnected joints, giving it 'secondary permeability'. 
-> **Primary permeability** is when spaces brackets (pores) absorb and retain water.
+Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
+> **Primary permeability** is when spaces (pores) absorb and retain water.
 
 **Latitude and Altitude**
 
-Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with a little seasonal variation. Being so dry and extremely cold, they are much different to valley glaciers, which are more dynamic, as they have higher precipitation levels névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occurs. 
+Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
 
-Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and in the Himalayas. These glaciers are still not as cold as cold-based glaciers however.
+Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
 
 
 ## How are glacial landscaped developed?
@@ -759,7 +758,7 @@ Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk
 
 A migrant is .....
 
-Interdependence - interrelationships between ACs, EDCs ans LIDCs through trade, foreign aid and migration
+Interdependence - interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
 
 Globalisation - the growing integration and interdependence between peoples' lives economically, politically and environmentally.
 
@@ -1206,6 +1205,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
-Y4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTIwODk0NDQ2MjgsLTY0MjczMTAyMCwxMj
+MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
