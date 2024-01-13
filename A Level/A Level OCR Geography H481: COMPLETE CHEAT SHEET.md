@@ -3,7 +3,7 @@
 
 [< Back to A level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 # A Level OCR Geography
-**⚠ This is a work in progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
+**⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
 [Latest update: 11/01/2024 21:02.
@@ -15,7 +15,7 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png)
-*Top notch graphic design by me*
+*Top-notch graphic design by me*
 
 For more information, see the end. 
 
@@ -36,10 +36,10 @@ There are 3 main parts to any system: inputs, processes and outputs.
 Glaciers are dynamic. Glaciated landscapes may be seen as a system with many interrelated components (stores), processes (cause/effect mechanisms) and inputs & outputs. This forms an open system.
 
 - Inputs
-	- percipitation (snowfall)
+	- precipitation (snowfall)
 	- material from deposition, weathering and mass movement
 	- avalanches 
-	- thermal energy (from sun)
+	- thermal energy (from the sun)
 	- kinetic energy
 - Outputs (Ablation)
 	- evaporation
@@ -52,7 +52,7 @@ Glaciers are dynamic. Glaciated landscapes may be seen as a system with many int
 	- debris
 	- potential energy (from its location)
 - Throughputs/processes
-	- debris movement down slope
+	- debris movement downslope
 	- deposition
 	- kinetic energy from glacier movement
 
@@ -106,7 +106,7 @@ An **ice cap** - a **dome-shaped mass of glacial ice** usually situated on a hig
 
 Valley glaciers usually occur in high altitude locations, with high relief, and have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
 
-Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of a high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
+Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
 
 
 Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
@@ -163,7 +163,7 @@ Structure relates to the physical rock types, like faulting, bedding and jointin
 
 **Latitude and Altitude**
 
-Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
+Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
 
 Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
 
@@ -294,7 +294,7 @@ These mark a **pause or halt of glacial retreat** (e.g. when there are a couple 
 
 #### Terminal moraine
 
-A ridge, often characterised by being the largest and most prominent in the area, marking the **maximum advance of a glacial period** (glacial maximum), deposited at the snout of the glacier. Often cresent-shaped when observed from the cross profile.
+A ridge, often characterised by being the largest and most prominent in the area, marking the **maximum advance of a glacial period** (glacial maximum), deposited at the snout of the glacier. Often crescent-shaped when observed from the cross profile.
 
 #### Recessional moraines
 
@@ -302,7 +302,7 @@ A combination of the **end and terminal moraines**.
 
 ### Erratics
 
-They are randomly placed bits of rock and other debris which can be characterised by being of a different geology compared to that of surrounding rocks, e.g. limestone in a valley mainly of basalt.
+They are randomly placed bits of rock and other debris which can be characterised by being of different geology compared to that of surrounding rocks, e.g. limestone in a valley mainly of basalt.
 
 This can be seen in the Lake District where rocks belonging to the rock group Borrowdale Volcanics were found in an area dominated by limestone.
 The **Bowder Stone** is another example being a 2,000-ton andesite lava boulder south of Keswick in the Lake District which most likely originated in Scotland.
@@ -360,7 +360,7 @@ Inside modern-day Ullswater is a series of **roche moutonées** such as Norfolk 
 The Glenridding village has visible depositional till extending into Ullswater, visible from satellite imagery, easily proving that there was once glacial activity in the area.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png)
-*As you can see, there is material extending into Ullswater from the valley leading down from Helvellyn. This shows that there were substantial amounts of debris that was being deposited and moved along this glacial route.*
+*As you can see, there is material extending into Ullswater from the valley leading down from Helvellyn. This shows that there were substantial amounts of debris that were being deposited and moved along this glacial route.*
 
 ### Essay snippet: inter-related valley landforms [16 marks]
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
@@ -442,7 +442,7 @@ Eskers are long, sinuous (*many curves and turns*) ridges made from sand, gravel
 
 These tunnels and channels over time become filled up with sediment. During deglaciation, this sediment is dropped onto the bedrock leaving **stratified** ridges, signifying that a glacial meltwater tunnel was somewhere above it. This could be either a kame (see below) or an esker.
 
-The general consensus is that the deposition is caused when **pressure is released** at the glacier's snout, so as the glacier retreats, the point of deposition retreats too. This can describe their **beaded** appearance (vary in height and width throughout) with the beads of greater size representing periods of relatively slow retreat, or halted ablation. Others may say that the larger beads are caused as a result of the greater load carried by the meltwater in summer seasons.
+The general consensus is that the deposition is caused when **pressure is released** at the glacier's snout, so as the glacier retreats, the point of deposition retreats too. This can describe their **beaded** appearance (vary in height and width throughout) with the beads of greater size representing periods of relatively slow retreat, or halted ablation. Others may say that the larger beads are caused as a result of the greater load carried by the meltwater in the summer seasons.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Eskers.png)
 *Here are 2 angles showing what they look like, in Svalbard.*
@@ -618,7 +618,7 @@ During the thawing of the active layer in the spring and summer months, water sa
 
 #### Soil/Frost Creep or Mass Wasting
 This is a process which moves material down a slope by a few centimetres per year even on high gradients.
-On freezing, the particles in the slope's soil are raised at a 90^o^ angle to the slope (vertically), and when the soil thaws and the particles are dropped, the particles are now at a slightly lower point to their original location. This is then repeated over time 
+When the soil freezes, the particles within the slope are lifted vertically at a 90-degree angle to the slope. As the soil thaws and the particles settle, they end up slightly lower than their original position. This process is repeated over time, gradually causing the slope to shift downward.
 
 
 ### Pingos
@@ -652,7 +652,7 @@ In summer, this crack in the soil fills with meltwater. Over time as many freeze
 
 
 ### Case study: Oil extraction in Alaska (Periglacial)
-Part of Alaska is located within the arctic circle, at 66.5^o^N.
+Part of Alaska is located within the Arctic Circle, at 66.5^o^N.
 However, since 1968, vast amounts of oil reserves have been found offshore and within Alaska itself, including inside the **ANWR** (Arctic National Wildlife Refuge) and, more specifically, **Area 1002** within it. An estimated 12 billion barrels of oil is located in this area alone, with half of it (~6bn) being available to extract using currently available techniques.
 
 For the United States, this would provide a key resource for energy security, while at the same time reducing dependence on foreign, potentially malicious, entities, which may limit their supply, such as Russia. This weakness has been seen in Europe, with Russia's invasion of Ukraine, so now more than ever the US sees this as essential. 
@@ -663,15 +663,14 @@ It imported 37% of its total oil consumption in 2016 (7,259,000 barrels per day)
 Gravel extraction adds insult to injury. The loss of gravel from fluvial systems can change the composition of the river profile and exacerbate damages further downstream from the extraction site. Extracting gravel from a glacial outwash site has been proven to lower the groundwater levels by over a metre in a 2km radius as well.
 
 #### Urban heat island effect
-Barrow, Alaska is the northernmost settlement in the USA and the largest native community in the Arctic, with a population of 4600 in 2000, increasing from just 300 in 1900. Recent decades have seen an increase in mean annual and winter air temperature, with an earlier snowmelt in the village and a 
-weaker snowmelt trend in the surrounding tundra. 
+Barrow, Alaska is the northernmost settlement in the USA and the largest native community in the Arctic, with a population of 4600 in 2000, increasing from just 300 in 1900. Recent decades have seen an increase in mean annual and winter air temperature, with an earlier snowmelt in the village and a weaker snowmelt trend in the surrounding tundra. 
 
 The urban heat island (UHI) effect is a phenomenon where **urban areas are significantly warmer than their rural surroundings** due to activities by humans, like air conditioning, hot water pipes and road building. 
 
 A strong urban heat island (UHI) was found during winter, with the urban area averaging 2.2 °C warmer than the hinterland. There was a strong positive correlation between monthly UHI magnitude and natural gas production/use, ultimately resulting in a **9% reduction in accumulated freezing degree days in the urban area**.
 
 This excess heat is mostly generated from:
-- The burning of fossil fuels during flaring. This increases the carbon dioxide concentration in the local atmosphere, resulting in an enhanced greenhouse effect. This increases amounts of terrestrial radiation within these areas.
+- The burning of fossil fuels during flaring. This increases the carbon dioxide concentration in the local atmosphere, resulting in an enhanced greenhouse effect. This increases the amount of terrestrial radiation within these areas.
 - The absorption of solar radiation by urban surfaces - solar insulation warms up these more than surroundings as tarmac/gravel structures are black, which absorb more radiation. 
 - The reduced evaporative cooling from vegetation. 
 
@@ -681,16 +680,16 @@ This thawing can furthermore lead to infrastructure damage, as roads and buildin
 
 #### Thermokarst
 
-A landscape characterised by depressions due to the thawing of the ground ice which comprises the active layer and permafrost below. Visible in the Atlaskan North Slope.
+A landscape characterised by depressions due to the thawing of the ground ice which comprises the active layer and permafrost below. Visible in the Alaskan North Slope.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Thermokarst.jpg)
 
 
 ### Case study: Kárahnúkar HEP Dam, Iceland
 
-This dam (or, collection of three dams) were built in East Iceland on a large proglacial lake, sourced from one of the largest glaciers in Europe. It is actively retreating, so provides water to the dam which can then be used as **hydroelectricity**. The dam itself was finished in 2007 and is large enough to be seen from space.
+This dam (or, collection of three dams) was built in East Iceland on a large proglacial lake, sourced from one of the largest glaciers in Europe. It is actively retreating, so provides water to the dam which can then be used as **hydroelectricity**. The dam itself was finished in 2007 and is large enough to be seen from space.
 
-The dam could provide enough energy for all Icelandic homes and small businesses, but instead all energy provides the nearby aluminium smelter called **Alcoa**. 
+The dam could provide enough energy for all Icelandic homes and small businesses, but instead, all energy provides the nearby aluminium smelter called **Alcoa**. 
 
 However, there has been widespread backlash over the project, as it flooded over 400,000 acres of unspoilt highland wilderness which was **the second largest unspoiled area in Europe**. In total, almost 750,000 acres of land was affected by the construction of the dam, which is around 3% of Iceland's total land mass.
 
@@ -698,7 +697,7 @@ The dam was built as Alcoa produces 2% of the world's aluminium supply, and glob
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Aluminium-prices.png)
 
-Glacial meltwater, or milk, is released by the Vatnajökull glacier and flows into the lake blocked by the dam. This glacial meltwater is known to have high concentration of sediment within it, and as such reduces the capacity of the dam over time. This is because the suspended sediment at the base of the water solidifies when deposited, as there is little kinetic energy at the bottom to keep suspended sediment floating. Over time, the base level of the lake increases, reducing overall water capacity, until this excess sediment is ‘purged' by the dam management system, which may happen annually. 
+Glacial meltwater, or **glacial milk**, is released by the Vatnajökull glacier and flows into the lake blocked by the dam. This glacial meltwater is known to have a high concentration of sediment within it, and as such reduces the capacity of the dam over time. This is because the suspended sediment at the base of the water solidifies when deposited, as there is little kinetic energy at the bottom to keep suspended sediment floating. Over time, the base level of the lake increases, reducing overall water capacity, until this excess sediment is ‘purged' by the dam management system, which may happen annually. 
 
 [Here's a video of sediment getting purged](https://www.youtube.com/watch?v=BudgYjuVkYk)
 
@@ -1205,6 +1204,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzMyNjc5MiwtNjQyNzMxMDIwLDEyMz
-M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbOTQ4MzAxNjE0LC02NDI3MzEwMjAsMTIzMz
+cxNjk2MywtMTA2ODM4OTA1NV19
 -->
