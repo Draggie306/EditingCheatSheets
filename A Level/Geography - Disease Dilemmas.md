@@ -71,9 +71,11 @@ Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-
 
 India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air with particulate matter above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
 
+Over the past 2 decades, fine particle concentration has increased by 69% across India,
+
 Air pollution here is largely caused by particulate matter, like NO~2~, S0~2~ and O~3~, emitted from vehicles, factories and coal-based factories. Biomass in rural areas also contributes to this: burning paraffin and animal excrement increases indoor air pollution so much that up to 1 million people die prematurely annually because of this. This is visible as **photochemical smog** - which can cause acid rain.
 
-> PM2.5 are particulates smaller than 2.5 micrometres in size, which can penetrate and remain persistently in the lungs and interfere with DNA, causing mutations like cancer and increasing the probability of other non-communicable and chronic illnesses. Bronchitis, asthma, lung cancer, and CVDs (heart disease)  
+> PM 2.5 are particulates smaller than 2.5 micrometres in size, which can penetrate and remain persistently in the lungs and interfere with DNA, causing mutations like cancer and increasing the probability of other non-communicable and chronic illnesses. Bronchitis, asthma, lung cancer, and CVDs (heart disease)  
 
 In many cities such as Bangalore, around 50% of children suffer from asthma. This is the highest worldwide.
 
@@ -115,5 +117,5 @@ Further reading: [Wikipedia](https://en.wikipedia.org/wiki/Air_pollution_in_Indi
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxMDQ0MzkzLC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbOTUxNjE1MzIzLC0zMTIyNjM1MDNdfQ==
 -->
