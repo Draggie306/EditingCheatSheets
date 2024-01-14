@@ -732,7 +732,7 @@ For example:
 - Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
 - Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
-
+In addition, diseases can be 
 
 
 ## 2. Is there a link between disease and levels of economic development?
@@ -1205,6 +1205,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjExMTMyMTYsLTY0MjczMTAyMCwxMj
-MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMz
+M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
