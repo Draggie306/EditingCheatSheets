@@ -133,13 +133,13 @@ In addition, large-scale population migration occurs at the same time as the rai
  
 As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled from the malaria warnings, despite being a beautiful country along the East African Rift.
 
-The uneven epidemiology also affects food security, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malara, many refuse to work in the lowlands and overexploit the already poorer quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible  to damaging famines. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
+The uneven epidemiology also affects food security, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malara, many refuse to work in the lowlands and overexploit the already poorer quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible to damaging famines. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
 
 ### Mitigation strategies and responses
 
 There has been little medicinal development concerning anti-malarial treatments for over 50 years. Chloroquine, which raises the blood pH and therefore that of the parasite, killing it, is becoming increasingly resisted by the parasites and can be toxic for those who take it (socioeconomic impact too). As a result, the government and NGOs have been working together to mitigate the risk of this disease.
 
-The U.S. President's Malaria Initiative (PMI) has 'invested' half a billion dollars into antimalarial programs, such as providing around **50 million insecticide-treated nets (ITNs)** to residents, prioritising pregnant women and those under 5. Indoor residual spraying (IRS) has also been used extensively, in over 12 million homes and public places. Child **death rates have fallen by over 35%**, and **70% of homes** now have protection from an ITN or through IRS. In total, the number of malaria-induced deaths has **declined by 50% in just 15 years from the peak in 2004**.
+The U.S. President's Malaria Initiative (PMI) has 'invested' half a billion dollars into antimalarial programs, such as providing around **50 million insecticide-treated nets (ITNs)** to residents, prioritising pregnant women and those under 5. Indoor residual spraying (IRS) has also been used extensively, in over 12 million homes and public places. Child **death rates have fallen by over 35%**, and **70% of homes** now have protection from an ITN or through IRS. In total, the number of malaria-induced deaths has **declined by 50% in just 15 years from the peak in 2004**. These are some examples of indirect mitigation strategies.
 
 The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push to eliminate Ethiopia worldwide by 2030, a strategy that worked for Smallpox during the 20th Century. It remains to be seen how growing resistance and increased incidence may have an effect on the longer-term outlook. 
 
@@ -162,6 +162,8 @@ A thousand people
 
 ### Mitigation strategies and responses
 
+Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. Skin melanoma is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - only 11% of people say they always use sunscreen in the UK ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)]. 
+
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -172,6 +174,6 @@ A thousand people
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2Mjc0ODgzMCwtMTMwMjM0NTUxOCwtNT
-czMTk0NTE2LC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbNTgwNTI1MTAzLC0xMzAyMzQ1NTE4LC01Nz
+MxOTQ1MTYsLTMxMjI2MzUwM119
 -->
