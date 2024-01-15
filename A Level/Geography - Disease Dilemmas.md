@@ -121,9 +121,9 @@ Malaria, one of the world's most deadly diseases, is estimated to have killed ar
 
 > Sporozoites inoculated by the female Anopheles vector enters liver cells, rupturing and releasing mature merozoites which move into red blood cells.
 
-200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. 
+200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. Malaria can also be caught again, as it can take many reinfections to build up sufficient immunity to become protected against it. [[2](https://www.mdedge.com/hematology-oncology/article/187381/related-issues/why-its-hard-develop-immunity-against-malaria)]
 
-The **epidemiology** of malaria is unevenly distributed. Areas such as the Gambella province, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm,  conditions mix with stagnant water pools provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
+The **epidemiology** of malaria is unevenly distributed. Areas such as the Gambella province, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm, >30 degrees conditions mix with stagnant water pools provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
 In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many agricultural workers migrate temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and work into the night, when transmission is at its highest. Irrigation, in the Awash Valley and in Gambella, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
 
 
@@ -145,6 +145,10 @@ The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push
 
 ## Case study: Cancer in the UK
 
+Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 were due to cancer. 
+
+> Carsinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may c
+
 
 
 
@@ -157,6 +161,6 @@ The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mjg2MTEyMzAsLTEzMDIzNDU1MTgsLT
+eyJoaXN0b3J5IjpbLTExODA2Nzc2NDIsLTEzMDIzNDU1MTgsLT
 U3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
