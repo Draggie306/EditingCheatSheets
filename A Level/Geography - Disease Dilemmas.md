@@ -117,7 +117,9 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 
 ## Case study: Malaria in Ethiopia
 
-Malaria is the world's most deadly disease, estimated to have killed half of all humans that have ever lived
+Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease.
+
+200 million cases of malaria were reported in 
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -128,6 +130,6 @@ Malaria is the world's most deadly disease, estimated to have killed half of all
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE4NzA2MDksLTU3MzE5NDUxNiwtMz
-EyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMjA3NzMyMDg0MiwtNTczMTk0NTE2LC0zMT
+IyNjM1MDNdfQ==
 -->
