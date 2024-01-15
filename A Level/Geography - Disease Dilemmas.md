@@ -117,9 +117,11 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 
 ## Case study: Malaria in Ethiopia
 
-Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease.
+Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
 
-200 million cases of malaria were reported in 
+200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. 
+
+The epidemiology of malaria is unevenly distributed. Areas such as the Gambella region, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm conditions mix with stagnant water pools provide ideal breeding grounds for mosquitoes. In the highlands, where altitudes reach 2,200m 
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -130,6 +132,6 @@ Malaria, one of the world's most deadly diseases, is estimated to have killed ar
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NzMyMDg0MiwtNTczMTk0NTE2LC0zMT
-IyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE5NDk5MTIsLTU3MzE5NDUxNiwtMz
+EyMjYzNTAzXX0=
 -->
