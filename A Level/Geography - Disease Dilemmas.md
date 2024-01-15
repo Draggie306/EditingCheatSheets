@@ -222,21 +222,26 @@ Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articl
 
 Plants have been used for a long time as medicines to cure diseases, from old herbal remedies in prehistory to the medieval Doctrine of Signatures. 
 
-The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. This has been unable to be synthesised synthetically through scientific means.
+The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. **Vinblastine can help testicular cancer, Hodgekin's lymphoma and more**. Furthermore, other alkaloids can be used to treat some cancers too. This has been unable to be synthesised synthetically through scientific means.
 
-In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of healthcare services around the world. However, for its indiginous farmers, 
-and has come under scritiny from the EU.
+In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of healthcare services around the world.
 
+However, it is patented by Eli Lily, which makes it illegal for others to sexually reproduce, import or export the plant. As a result, it maintains a monopoly over the periwinkle market and can effectively charge the prices they decide to use it. Furthermore, this also allows them to get away with **biopiracy**, as **under 5% of the money is given back to the indigenous farmers**. Economic growth is limited due to export restrictions under Lilly which can exacerbate poverty in a region, as workers are effectively being exploited for transnationals' gain.
 
+Although it has come under scrutiny from some EU regulators, this practice largely goes unnoticed, as pharmaceutical companies have leverage and spend billions on discovering new drugs.
+
+Biopiracy further reading: [here](https://www.jstor.org/stable/25684263?seq=11)
 
 
 ## Case study: GSK (formerly GlaxoSmithKline)
+
+GSK is part of the transnational pharmaceutical industry, which is a for-profit industry.
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIzMjE0NzM5LC0xNTU3ODg0NTk2LC0xMz
-AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
+eyJoaXN0b3J5IjpbMTk1MDA0NjEzOCwtMTU1Nzg4NDU5NiwtMT
+MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
