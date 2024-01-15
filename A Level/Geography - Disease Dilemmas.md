@@ -149,7 +149,18 @@ Cancers are non-communicable, non-infectious and non-contagious diseases. One in
 
 > Carcinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may cause 
 
-Rates of cancer in the UK are not evenly distributed. The northeast has the highest rate with colon, lung and rectal cancer, as opposed to areas like 
+Rates of cancer in the UK are not evenly distributed. The northeast has the highest rate of colon, lung and rectal cancer, as opposed to areas like London with the lowest rates of cancer in the country, where prostate cancer is highest. 
+
+Melanoma, a type of skin cancer, has the fewest cases in more deprived communities according to the Index of Multiple Deprivation compared to lesser deprived communities.
+Lung cancer has significantly more (170%) cases in the 50% more deprived communities compared to the least deprived half.
+
+There is a clear link between smoking and at least 15 different types of cancer. 7 in 10 lung cancer cases are caused by this; it is also the most common cause of cancer death in the UK
+
+### Socio-economic impacts on the UK
+A thousand people 
+
+
+### Mitigation strategies and responses
 
 
 
@@ -161,6 +172,6 @@ Rates of cancer in the UK are not evenly distributed. The northeast has the high
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzMyMDU5NiwtMTMwMjM0NTUxOCwtNT
+eyJoaXN0b3J5IjpbMTA2Mjc0ODgzMCwtMTMwMjM0NTUxOCwtNT
 czMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
