@@ -1,7 +1,268 @@
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
+> Written with [StackEdit](https://stackedit.io/).# A Level Computer Science - June 2023 Paper 1 Revision
+
+# Software
+Software makes the world go round!
+## Application software
+
+Applications software is software installed by the user to be of benefit to them
+
+Can be divided into:
+- General-purpose
+	- Off-the-shelf application that can be used for a variety of tasks: word processor, spreadsheets
+- Special purpose
+	- Created to perform one specific task: accounting, camera applications, games. browser
+- Bespoke
+	- Readily available and preexisting applications which are available for anyone to purchase are known as **off-the-shelf software**.
+	- Software that is custom-made for a specific user or company is bespoke software. This is mostly used by businesses as they can afford to employ coders and designers to create the software. 
+
+### Open-source
+True open source-licensed software allows anyone to access, inspect, and modify its source code.
+
+Open source programs are free to use (but may have license restrictions for redistribution and licensing for companies), and the owner still has copyright over the source code written.
+
+Usually, anyone can modify the software and sell it to customers, providing derivatives of this original open-source program is also open-source. 
+
+> Freeware is free to use, but its source code is not public
+
+This is different from closed-source proprietary software which does not allow access to its source code, the creator owns the copyright and can require a license to use the software, which may include restrictions and policies in use, for example only running it on a particular site and no redistribution of the application.
+
+
+## BIOS
+The BIOS is the Basic Input Output System. It has a variety of roles, and most of them are executed on system startup. When a computer is initialised, the BIOS is read from non-volatile ROM: Its roles include:
+- Initialises and tests hardware devices such as memory (POST) before loading the operating system
+- Query attached devices such as the PCI/e 
+- Loads the operating system (Bootstrap loader) from secondary storage, if initialised successfully, into primary RAM
+
+
+## LANs
+Local area networks are a type of network (where 2+ computers are connected physically or wirelessly) in a **restricted geographical area**, such as a home, office or school.
+
+A network switch is used to **connect multiple computers** within a LAN, allowing data communication.
+
+> A hub connects multiple Ethernet devices together and **makes them act as a single node** in a network.
+
+## Protocols
+A protocol is a set of rules governing data communication, ensuring standardisation across devices.
+
+There are a range of protocols to know:
+
+- The Internet Protocol (IP) addresses each device (router) connected to the Internet. 
+- Each device on a network needs to be uniquely identified, their hardware MAC address is used.
+
+HTTP(S) is a protocol that specifies that the resource to retrieve requires https (hypertext transfer protocol) and is most likely a webpage. The fully qualified domain name and name of the resource to be accessed make up the URL of a resource to access through HTTP
+
+SMTP (sending), POP (receiving + deleting) and IMAP (receiving local + server copy) are email protocols 
+
+### TCP/IP (optional)
+
+The TCP/IP stack is the standard of networking protocols with four layers:
+- Application (application-level protocols applied e.g. email clients or browsers)
+- Transport (packets, ports, checksums, uses the Transmission Control/User Datagram protocols)
+- Network (uses IP to address packets)
+- Link (across a physical connection, uses MAC addresses of the physical NIC)
+
+The reverse occurs on the receiving end
+
+> Protocols are typically followed by `://`. For example, `wss://<domain>` for websockets, `ftp://<ip_addr>` for File Transfer Protocol and more
+
+>The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network.
+
+## Operating system
+OSes have a variety of functions including
+
+- providing a UI so the user can interact with the computer system
+	- this hides the complexity of managing the hardware devices connected
+	- this is done through a CLI or GUI 
+- [memory management](#memory-management)
+- interrupt handling
+- processor scheduling
+
+
+## Memory management
+Operating systems must allow the allocation of RAM to and between different programs executing on the computer
+All programs may occupy more space than there is available in memory and thus the OS must manage the allocation
+
+This can be done in different ways:
+
+### Paging
+Memory is divided into various fixed-chung sections called pages. Each page has a unique address
+Pages may not be allocated in a physically contiguous manner - and as a result, a page table has to be used to map the logical and physical memory locations
+
+Unlike in HDDs, this apparent fragmentation is not a problem
+
+### Segmentation
+Memory chunks can be allocated in different lengths depending on parts of the program such as a function or variable
+
+The OS can manage the allocation of these for efficiency - e.g. the same memory addresses can be used for the same function across different programs 
+
+### Virtual memory
+
+Virtual memory is an area of secondary storage which acts as RAM
+Some segments or pages of current processes can be stored here if they are deemed less frequently accessed than other programs such as the OS itself
+
+**Disk thrashing** may occur if too many processes' pages are swapped in and out of this virtual location - memory is much faster than secondary storage
+
+
+## Stacks
+Stacks are a LIFO abstract data type data structure 
+
+Items can be pushed and popped to and from the top. The most recently pushed items are at the top. Data is retrieved from the SAME end it enters. Recursive functions make use of the stack.
+
+Overflow - pushing to full stack
+Underflow - popping from an empty stack
+- Before these operations are undertaken the programmer should use a function like `stack.isFull()` or `stack.isEmpty()` to prevent a stack overflow/underflow error
+
+On a system level, the call stack stores and passes the outputs between functions, return values and parameters
+
+Another system-level stack is used when CPU interrupts occur. The interrupt service routine handles what the CPU should do when there is an interrupt called, contents of CPU registers are pushed onto the stack, the interrupt service routine handles the interrupt and the values then popped into the CPU registers.
+
+> Examples of stacks include: back function on a web browser, recent changes made to code and word documents
+
+## Pseudocode
+Good luck
+
+```cpp
+stack = new Stack()
+
+stack = [12, 34, 463, 34. 59]
+
+// pop item
+if top_pointer == 0 then
+	print("The stack is empty. Not popping due to underflow")
+else
+	item = stack[top_pointer].pop()
+	top_pointer = top_pointer - 1
+	// in a function, item would be returned
+endif
+
+// push item
+if top_pointer == stack.length() then
+	print("The stack is full")
+else
+	stack[top_pointer + 1] = 34
+endif
+```
+
+## Queues
+
+Queues are another specialist, abstract data type, typically used in event-driven programming. A queue is a list which can only be inserted from one end and retrieved from another. They are a FIFO structure
+
+Elements can interact with the queue by using `enQueue()`, `deQueue()`, `isEmpty()` and `isFull()`.
+
+Array-based queues have predictable memory usage as they take up a proportional amount of memory to the size of the queue instantiated during the program.
+
+### Circular queues
+Queues with an array (mutable static data type) can be circular. This is when the front and rear pointers are used to determine where the front and end of the queue are. To add an item, we `enQueue(item)` at position `end_pointer + 1`.
+
+But before we do that, we should check if:
+- The `front_pointer == rear_pointer + 1` (or `isFull()` or `size == maxSize`) as if so the queue is full. 
+- The queue is empty if the `front_pointer == rear_pointer` (or `isEmpty()` or `size == 0`)
+
+Circular queues are more memory efficient - the pointer can just point at the next element without filling in the queue spaces with blanks between the elements
+
+### Priority queue
+Sometimes priority queues are used to give preference to certain elements. When `enQueue()`ing an item the priority (which can be denoted with a letter), it will jump up the queue until it reaches other elements of that priority.
+
+
+# Data types & structures
+The below sections target data types, structures and calculations.
+
+## Arrays, tuples and lists
+
+### Arrays
+Arrays cannot typically grow in size and are static. Size and data type of all items must be specified during initialisation
+- Ordering 100 cities with individual variable names is inconvenient
+- They can be added to an array, referred to with an index between square brackets
+- To call the tenth city, you would do city_ten = city [9] (due to 0-indexing)
+
+Arrays can be of two, three or more dimensions. As such they can be used to represent records, tables, and coordinates. 
+
+### Tuples
+Tuples are ordered sets of values of mixed data types. However, they are immutable and the data stored cannot be changed. They are static
+
+It can be instantiated with:
+my_tuple = new Tuple(29387, "beans" "Helllo", 34, 324, True, False)
+
+However we can't change my_tuple[2] = "Hello" due to the immutability, nor can items be appended
+
+### Lists
+are dynamic data structures and can grow/shrink as the program requires
+
+
+## Binary and hexadecimal
+Denary value 15 is equivalent to hex F and binary `1111`.
+
+To convert between binary and hex, split into nibbles and calculate 0-9, A-F what the value(s) is(are).
+
+To convert from hex to binary, DIVide by 16 (work out how many times 16 goes into the value) and convert this into hex. Then you MOD 16 for the remainder and convert this into hex. Then combine the two hex values.
+
+## Two's complement
+
+Flip all the bit values and then add the value `1`. The first, most significant bit represents a the opposite value when represented as two's complement - in an 8-bit binary value it would represent -128 in two's complement. 
+
+When subtracting, simply add the negative number. In other words, use two's complement on the number to subtract to make it a negative, and apply normal binary addition rules. 
+
+## Sign and magnitude
+These are basic ways of representing positive and negative numbers.
+
+The sign bit is an additional bit added to the leftmost position. Should this be `1`, then the overall value (magnitude) should represent a negative number. Likewise, if it is `0`, then the overall value is a positive number.
+
+e.g. let's say the number is 131:
+`1000 0011`
+to make this -131, it would be:
+`11000 0011`
+
+
+However, arithmetic values cannot be easily done without an additional decoding step performed. This is why two's complement is preferred and used across various devices.
+
+## Floating point binary
+Possibly the hardest section.
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/compsci/WhatTheSpecSaysFloatingPointArithmetic.png)
+
+Floating point numbers involve a mantissa and exponent. They are represented as m x 10^n^, where $m$ is the mantissa and $n$ is the expone**n**t.
+
+The normalisation of floating points rewrites them in the form of scientific notation. This means that there is one digit, followed by the decimal place, and the rest is a decimal. Then, it is followed by a multiplication of ten to either a positive or negative power.
+
+In floating point binary, the concept is the same. The mantissa's binary point will always be after the most significant bit to start with. Then, we look at the exponent. Apply the normal binary weighting line to it, and convert it to denary. We then move the binary point along the mantissa, to the right if a positive exponent and to the left if negative, the number of digits that the exponent adds to. From this, the final value is obtained. Apply the normal binary weighting line to it and convert it into denary.
+
+> Remember, values below the binary point are fractional ones.
+
+
+
+
+# Programming languages
+The below sections are a section of the content of the paper targeted on programming languages, starting with assembly
+
+## Assembly language
+
+## High-level languages
+
+## Encryption and hashing
+
+## HTML & CSS
+
+## Computing-related legislation
+
+## SQL
+
+### Normalisation
+
+## Functions
+
+## Logic gates
+
+## Boolean expressions
+
+### Truth tables
+
+### Karnaugh maps
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTExNzUzOTk0MzQsNzMwOTk4MTE2XX0=
 -->
