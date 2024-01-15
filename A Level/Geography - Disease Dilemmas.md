@@ -218,14 +218,18 @@ Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articl
 
 ## Case study: Rosy Periwinkle
 
-If you want these notes, please dm me and I'll update the page :)
+Plants have been used for a long time as medicines to cure diseases. From the 
 
+
+
+
+## Case study: GSK (formerly GlaxoSmithKline)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDczOTQ2MTksLTE1NTc4ODQ1OTYsLT
-EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMTIyMjE4Nzc4LC0xNTU3ODg0NTk2LC0xMz
+AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
 -->
