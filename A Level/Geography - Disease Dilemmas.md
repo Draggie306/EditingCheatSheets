@@ -162,9 +162,14 @@ A thousand people
 
 ### Mitigation strategies and responses
 
-Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. **Skin cancer melanoma** is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - only 11% of people say they always use sunscreen in the UK ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)] for **an average of 3% per year**. To combat this, the Met Office now issue weather warnings and forecasts for UV levels, including for the most popular holiday destinations. The Sunbeds (Regulations) Act 2010 forbids the supply of tanning devices to those under 18. Finally, additional education in schools and publicity campaigns have also been increasingly employed by the government warning the public about melanoma.
+Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. **Skin cancer melanoma** is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - only 11% of people say they always use sunscreen in the UK ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)] for **an average of 3% per year**. To combat this, the Met Office now issue weather warnings and forecasts for UV levels, including for the most popular holiday destinations. The Sunbeds (Regulations) Act 2010 forbids the supply of tanning devices to those under 18. Finally, additional education in schools and publicity campaigns have also been increasingly employed by the government to warn the public about melanoma.
 
-In addition
+In addition, (international) charities and organisations have employed a range of measures to tackle cancer. Macmillan Cancer Support and Cancer Research UK are some charities who both employ direct and indirect strategies. Firstly, Cancer Research UK invest large sums of their donations into various cancer drugs, and treatments such as immunotherapy, chemotherapy and radiotherapy. The research done in these fields has resulted in many clinical trials which, if successful, can help to detect cancers early and therefore increase survivability. This charity also runs indirect strategies like campaigns to reduce smoking, where a 1% reduction in smoking can save 3,000 and more lives annually. With 150,000 children taking up smoking each year and many continuing for the rest of their lives, they also run educational awareness courses to discourage the uptaking of this habit.
+
+
+Perhaps the most important organisation involving the mitigation of cancer in the UK is the NHS itself. 
+
+The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. 
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -175,6 +180,6 @@ In addition
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTc4ODQ1OTYsLTEzMDIzNDU1MTgsLT
-U3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMzk2ODQwNjQ4LC0xNTU3ODg0NTk2LC0xMz
+AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
 -->
