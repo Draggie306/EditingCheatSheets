@@ -237,12 +237,14 @@ Biopiracy further reading: [here](https://www.jstor.org/stable/25684263?seq=11)
 
 GSK is part of the transnational pharmaceutical industry, which is a for-profit industry.
 
-Historically, GSK has been (and may still be) overcharging governments and individuals for drugs, making abnormally high profits on lifesaving therapeutics. Its former employees have been criminally prosecuted on two continents, and have also been accused of lobbying governments and international organisations, with the use of bribing medical experts in favour of them. In addition, they have been seen to prioritise the R&D of drugs that require long repeated prescriptions and less those which are not as profitable like for tropical diseases.
+Historically, GSK has been (and may still be) overcharging governments and individuals for drugs, making abnormally high profits on lifesaving therapeutics. Its former employees have been criminally prosecuted on two continents, and have also been accused of lobbying governments and international organisations, with the use of bribing medical experts in favour of them. In addition, they have been seen to prioritise the R&D of drugs that require long repeated prescriptions and less those which are not as profitable like those needed for tropical diseases.
 
-Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaterniary sector jobs, improving local economies in their 36 countries of manufacturing.  
+Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaternary sector jobs, improving local economies in their 36 countries of manufacturing.  
 
+Some of GSK's breakthroughs and patents include the first malaria candidate vaccine and ongoing Nobel Prize-winning discoveries for malarial drugs. They also provide medication for type 2 diabetes and discovered the first oncology drug for leukaemia. On top of this, they are one of the only pharmaceuticals to be actively researching new candidate drugs for the WHO's top 3 global priority diseases. Patents in medicine last for no longer than 20 years and gives GSK the ability to invest greater amounts in new medicines. They currently hold almost 10,000 patents, largely in HIV medication, cancer treatments, cardiovascular disease and in Covid-19.
 
-### Flows of distribution
+As GSK had an operating profit of £6.433 billion in 2022, they are able to afford to provide LIDCs and EDCs drugs and medicines at significant discounts: 80% of the 800mn vaccine doses given were to these countries in 2014. In addition, they do not enforce 
+
 
 
 ---
@@ -252,6 +254,6 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxNTg3NjUyLC0xNTU3ODg0NTk2LC0xMz
-AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
+eyJoaXN0b3J5IjpbLTE1NTk0NzUwMzcsLTE1NTc4ODQ1OTYsLT
+EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
