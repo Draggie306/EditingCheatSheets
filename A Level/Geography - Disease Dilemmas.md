@@ -159,7 +159,7 @@ There is a clear link between smoking and at least 15 different types of cancer.
 ### Socio-economic impacts on the UK
 A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. 500 people die daily from cancers. Incidence, in areas dependent of deprivation status, is going to increase by over 40% by 2035 for half a million new cases annually. 
 
-The workforce is affected: 120,000 people below the age of 65 are diagnosed every year with cancer. They are likely to leave the labour force for many months at a time during treatment, and many may never return of are too physically in pain or fatigued due to the secondary effects of chemo
+The workforce is affected: 120,000 people below the age of 65 are diagnosed every year with cancer. They are likely to leave the labour force for many months at a time during treatment, and many may never return to work - some are too physically in pain or fatigued due to the secondary effects of chemotherapy, for example, to return. The UK has one of the highest rates of carers for those with cancer in the "western" world with over 1 million people caring for someone with a terminal condition, out of work or undergoing treatment. In addition to the 50,000+ working-age people who die to cancer each year, the economic losses of this quickly adds up into the tens of billions, with hundreds of thousands never able to work again.
 
 
 ### Mitigation strategies and responses
@@ -182,11 +182,24 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 ## 4. How far can diseases be predicted and mitigated against?
 ![Specification Content for Disease Dilemmas Key Idea 4 - "How far can diseases be predicted and mitigated against?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.4.png)
 
+## Case study: The Red Cross and cholera in Haiti
+
+
+Haiti is th 
+
+
+Further reading: 
+
 
 ## 5. Can diseases ever be fully eradicated?
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
+## Case study: Rosy Periwinkle
+
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2ODg2MDgwNywtMTU1Nzg4NDU5NiwtMT
+eyJoaXN0b3J5IjpbMjAyMTY2ODc4MCwtMTU1Nzg4NDU5NiwtMT
 MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
