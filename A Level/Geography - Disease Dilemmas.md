@@ -124,11 +124,27 @@ Malaria, one of the world's most deadly diseases, is estimated to have killed ar
 The **epidemiology** of malaria is unevenly distributed. Areas such as the Gambella province, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm conditions mix with stagnant water pools provides ideal breeding grounds for mosquitoes. In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
 In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many agricultural workers migrate temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and work into the night, when transmission is at its highest. Irrigation, in the Awash Valley and in Gambella, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
 
-Strategies 
+
+ 
 
 ### Socio-economic impacts on Ethiopia
  
- As with all communicable disease, it is the poor who are the most susceptible and carry the burden of the disease. 
+As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled from the malaria warnings, despite being a beautiful country along the East African Rift.
+
+The uneven epidemiology also affects food security, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malara, many refuse to work in the lowlands and overexploit the already poorer quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible  to damaging famines. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
+
+### Mitigation strategies and responses
+
+There has been little medicinal development concerning anti-malarial treatments for over 50 years. Chloroquine, which raises the blood pH and therefore that of the parasite, killing it, is becoming increasingly resisted by the parasites and can be toxic for those who take it (socioeconomic impact too). As a result, the government and NGOs have been working together to mitigate the risk of this disease.
+
+The U.S. President's Malaria Initiative (PMI) has 'invested' half a billion dollars into antimalarial programs, such as providing around **50 million insecticide-treated nets (ITNs)** to residents, prioritising pregnant women and those under 5. Indoor residual spraying (IRS) has also been used extensively, in over 12 million homes and public places. Child **death rates have fallen by over 35%**, and **70% of homes** now have protection from an ITN or through IRS. In total, the number of malaria-induced deaths has **declined by 50% in just 15 years from the peak in 2004**.
+
+The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push to eliminate Ethiopia worldwide by 2030, a strategy that worked for Smallpox during the 20th Century. It remains to be seen how growing resistance and increased incidence may have an effect on the longer-term outlook. 
+
+## Case study: Cancer in the UK
+
+
+
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -139,6 +155,6 @@ Strategies
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0NTA2Nzk4LC01NzMxOTQ1MTYsLTMxMj
-I2MzUwM119
+eyJoaXN0b3J5IjpbLTEzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMz
+EyMjYzNTAzXX0=
 -->
