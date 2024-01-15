@@ -157,7 +157,9 @@ Lung cancer has significantly more (170%) cases in the 50% more deprived communi
 There is a clear link between smoking and at least 15 different types of cancer. 7 in 10 lung cancer cases are caused by this; it is also the most common cause of cancer death in the UK
 
 ### Socio-economic impacts on the UK
-A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. 500 people 
+A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. 500 people die daily from cancers. Incidence, in areas dependent of deprivation status, is going to increase by over 40% by 2035 for half a million new cases annually. 
+
+The workforce is affected: 120,000 people below the age of 65 are diagnosed every year with cancer. They are likely to leave the labour force for many months at a time during treatment, and many may never return of are too physically in pain or fatigued due to the secondary effects of chemo
 
 
 ### Mitigation strategies and responses
@@ -167,11 +169,11 @@ Environmental factors can explain a large percentage (~ two-thirds) of cancer ca
 In addition, (international) charities and organisations have employed a range of measures to tackle cancer. Macmillan Cancer Support and Cancer Research UK are some charities who both employ direct and indirect strategies. Firstly, Cancer Research UK invest large sums of their donations into various cancer drugs, and treatments such as immunotherapy, chemotherapy and radiotherapy. The research done in these fields has resulted in many clinical trials which, if successful, can help to detect cancers early and therefore increase survivability. This charity also runs indirect strategies like campaigns to reduce smoking, where a 1% reduction in smoking can save 3,000 and more lives annually. With 150,000 children taking up smoking each year and many continuing for the rest of their lives, they also run educational awareness courses to discourage the uptaking of this habit.
 
 
-Perhaps the most important organisation involving the mitigation of cancer in the UK is the NHS itself. "Stoptober" campaigns for smoking raises money and makes people 5x more likely to permanently quit. £200 million investments are resulting in much faster diagnoses turnarounds - a target of 2 weeks from the GP to the hospital, and 2 months from the GP to treatments commencing. 
+Perhaps the most important organisation involving the mitigation of cancer in the UK is the NHS itself. "Stoptober" campaigns for smoking raise money and make people 5x more likely to permanently quit. £200 million investments are resulting in much faster diagnoses turnarounds - a target of 2 weeks from the GP to the hospital, and 2 months from the GP to treatments commencing. GP training and support have provided access to quicker diagnosis turnarounds, and this is supplemented by screening. Breast cancer screening every 3 years for women aged between 50 and 71, alongside cervical screening at similar intervals for women between 26 and 64 years to catch the most common cancers. Additionally, vaccinations like the Year 8 HPV vaccine have been promoted.
 
-However, again there s 
+However, the UK NHS system is seen as a "postcode lottery", not just for cancers but all types of chronic diseases. Covid-19 has amplified and shown the vulnerabilities in such a system, with over 300,000 being on the national cancer waiting list, with 3.1% of these waiting more than 3 months. This is after being diagnosed with cancer! Understandably, this shows that many people's cancer can progress despite referrals quickly from GPs. due to a lack of hospital availability. **For every 4 weeks' delay in treatment, there is a 10% reduction in complete survival likelihood**.
 
-The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. However the effectiveness of these remains limited - the purchase of sweets and unhealthy foods can still be undertaken, and the prevalence of smoking has not seen a substantial decrease since the Covid-19 pandemic, whilst the use of e-cigarettes has increased.
+The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. Finally, the 10-year cancer plan with state-of-the-art radiotherapy machines and record investment to reduce the effects of an ageing population. However the effectiveness of these remains limited - the purchase of sweets and unhealthy foods can still be undertaken, and the prevalence of smoking has not seen a substantial decrease since the Covid-19 pandemic, whilst the use of e-cigarettes has increased. Moreover, lack of access to these new technologies in northern areas of the country has been revealed, on top of complaints about "red tape" and additional beaurocracy from importing them.
 
 
 ![smoking prevalence](https://allen-carr-live.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/06/07151619/Smoking-UK-stats-England-smoking-prevalence-by-region-1024x310.png)
@@ -185,6 +187,6 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDgyNjgyNiwtMTU1Nzg4NDU5NiwtMT
+eyJoaXN0b3J5IjpbLTc2ODg2MDgwNywtMTU1Nzg4NDU5NiwtMT
 MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
