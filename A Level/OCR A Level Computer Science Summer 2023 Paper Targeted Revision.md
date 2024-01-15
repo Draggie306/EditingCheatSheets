@@ -252,7 +252,7 @@ In this scenario, the mantissa has been normalised. However this is only half th
 
 1.  **Original Binary Number:** 000010110111
 2.  **Separate into Mantissa and Exponent:** 00001011 0111
-3.  **Normalize Mantissa:** 0.1011000 0111
+3.  **Normalise Mantissa:** 0.1011000 0111
 4.  **Adjust Exponent:** 0.1011000 0100 (Shifted 3 positions to the left, so reduce the exponent by 3)
 5.  **Combine Mantissa and Exponent:** 01011000 0100
 6.  **Convert to Decimal:** 0.5 + 0.125 + 0.0625 = 0.6875
@@ -290,5 +290,6 @@ The below sections are a section of the content of the paper targeted on program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDMzOTM2Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTQ3NjUxMzM5NCwyMTAwMzM5MzY3LDczMD
+k5ODExNl19
 -->
