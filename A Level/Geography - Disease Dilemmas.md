@@ -186,7 +186,11 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 
 Haiti is known as "the poorest country in the Western hemisphere". It has a GNI per capita of US $1665 PPP and poverty is around 60%. The Mw 7.0 quake in January 2010 killed around 10% of the population of the capital, Port-au-Prince. More than 90% of the population lived in slums and half had no access to toilets. 
 
-Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley, are believed to have brought the disease, 9 months after the quake hit the island nation. 720,000 cholera cases were counted within 4 years, with around half a million hospitalisations - 82 hospitals had been damaged or destroyed during the quake. 
+Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley, are believed to have brought the disease, 9 months after the quake hit the island nation. 820,000 cholera cases were counted within 4 years, with around half a million hospitalisations - 82 hospitals had been damaged or destroyed during the quake. 
+
+The British Red Cross targeted the outbreak with its own response progrmme between 2010 and 2012.  10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and this the Red Cross were able to deliver clean water to 300,000 cap dwellers  in the capital. On top of this, as cholera is water-borne, the built 1300 latrines, serving almost 200 people each. 
+
+Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)].
 
 
 Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
@@ -201,6 +205,6 @@ Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articl
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MjAyNDE0NiwtMTU1Nzg4NDU5NiwtMT
-MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE1NzE0MzY4MDgsLTE1NTc4ODQ1OTYsLT
+EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
