@@ -184,8 +184,7 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 
 ## Case study: The Red Cross and cholera in Haiti
 
-
-Haiti is th 
+Haiti is known as "the poorest country in the Western hemisphere". It has a GNI per capita of US $1665 PPP and povery is around 60%. The Mw 7.0 quake in January 2010 killed around 10% of the population of the capital, Port-au-Prince. More than 90% of the population lived in slums and half had no access to toilets. 
 
 
 Further reading: 
@@ -200,6 +199,6 @@ Further reading:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTY2ODc4MCwtMTU1Nzg4NDU5NiwtMT
-MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQzMjc4NzEsLTE1NTc4ODQ1OTYsLT
+EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
