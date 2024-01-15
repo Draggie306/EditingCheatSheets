@@ -107,7 +107,7 @@ Further reading: [Wikipedia](https://en.wikipedia.org/wiki/Air_pollution_in_Indi
 
 In 1997, there was the legally binding Kyoto Protocol. It created agreements on reducing carbon emissions around the world, such as by 2012 there will be 22% lower emissions. In comparison to 1990 in the EU, however, global carbon emissions increased by 65%! Despite this, the goal was achieved and even by 5% in the EU. This caused industries - directly or indirectly - to move and relocate away from the EU. Carbon trading systems were also considered too complex, would not help to reduce emissions, and only included those countries that had already been industrialised. 
 
-In 2015, there was the Paris Climate Convention. It agreed to reduce CO~2~ emissions below 60% of 2010 levels by 2050 and to keep global temperature rises below 2° C in comparison to the 1900 average. Ideally, this was set to 1.5°, but this is considered too difficult.
+In 2015, this protocol was replaced by the Paris Climate Convention. It agreed to reduce CO~2~ emissions below 60% of 2010 levels by 2050 and to keep global temperature rises below 2° C in comparison to the 1900 average. Ideally, this was set to 1.5°, but this is considered too difficult.
 
 
 
@@ -128,5 +128,6 @@ Malaria is the world's most deadly disease, estimated to have killed half of all
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbLTE0MTE4NzA2MDksLTU3MzE5NDUxNiwtMz
+EyMjYzNTAzXX0=
 -->
