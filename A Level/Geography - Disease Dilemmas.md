@@ -147,9 +147,9 @@ The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push
 
 Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 were due to cancer. 
 
-> Carsinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may c
+> Carcinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may cause 
 
-
+Rates of cancer in the UK are not evenly distributed. The northeast has the highest rate with colon, lung and rectal cancer, as opposed to areas like 
 
 
 
@@ -161,6 +161,6 @@ Cancers are non-communicable, non-infectious and non-contagious diseases. One in
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODA2Nzc2NDIsLTEzMDIzNDU1MTgsLT
-U3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMTQxMzMyMDU5NiwtMTMwMjM0NTUxOCwtNT
+czMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
