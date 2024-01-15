@@ -216,9 +216,16 @@ Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articl
 ## 5. Can diseases ever be fully eradicated?
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
-## Case study: Rosy Periwinkle
+## Case study: the rosy periwinkle
 
-Plants have been used for a long time as medicines to cure diseases. From the 
+![enter image description here](https://www.europarl.europa.eu/resources/library/images/20121206PHT04354/20121206PHT04354_original.jpg)
+
+Plants have been used for a long time as medicines to cure diseases, from old herbal remedies in prehistory to the medieval Doctrine of Signatures. 
+
+The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. This has been unable to be synthesised synthetically through scientific means.
+
+In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of healthcare services around the world. However, for its indiginous farmers, 
+and has come under scritiny from the EU.
 
 
 
@@ -230,6 +237,6 @@ Plants have been used for a long time as medicines to cure diseases. From the
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjE4Nzc4LC0xNTU3ODg0NTk2LC0xMz
+eyJoaXN0b3J5IjpbOTIzMjE0NzM5LC0xNTU3ODg0NTk2LC0xMz
 AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
 -->
