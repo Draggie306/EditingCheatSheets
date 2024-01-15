@@ -22,7 +22,21 @@ For example:
 - Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
 - Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
-In addition, diseases can be 
+In addition, diseases can diffuse in different ways
+
+- expansion diffusion: increasing in geographical area, typically decreasing in severity
+- relocation diffusion: move from one area to another
+- contagious diffusion: spread from person to person
+- hierarchical diffusion: spread along transport links
+
+All of these are linked to Hargerstrand's diffusion model. 
+
+Be careful when applying this to outbreaks like Covid where the model assumes that people will always want to travel and constant movement. Lockdowns can result in this model's predictions being broken.
+
+Different scales:
+- endemic: persistent in a restricted geographical area
+- epidemic: an outbreak that has spread to a larger population
+- pandemic: an outbreak that has spread worldwide
 
 
 ## 2. Is there a link between disease and levels of economic development?
@@ -74,9 +88,9 @@ Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-
 
 India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air with particulate matter above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
 
-Over the past 2 decades, fine particle concentration has increased by 69% across India,
+Over the past 2 decades, fine particle concentration has increased by 69% across India, reducing the life expectancy by around 2.4 years nationally.
 
-Air pollution here is largely caused by particulate matter, like NO~2~, S0~2~ and O~3~, emitted from vehicles, factories and coal-based factories. Biomass in rural areas also contributes to this: burning paraffin and animal excrement increases indoor air pollution so much that up to 1 million people die prematurely annually because of this. This is visible as **photochemical smog** - which can cause acid rain.
+Air pollution here is largely caused by **particulate matter (PM)**, like NO~2~, S0~2~ and O~3~, emitted from vehicles, factories and coal-based factories. Biomass in rural areas also contributes to this: burning paraffin and animal excrement increases indoor air pollution so much that up to 1 million people die prematurely annually because of this. This is visible as **photochemical smog** - which can cause acid rain.
 
 > PM 2.5 are particulates smaller than 2.5 micrometres in size, which can penetrate and remain persistently in the lungs and interfere with DNA, causing mutations like cancer and increasing the probability of other non-communicable and chronic illnesses. Bronchitis, asthma, lung cancer, and CVDs (heart disease)  
 
@@ -84,19 +98,19 @@ In many cities such as Bangalore, around 50% of children suffer from asthma. Thi
 
 In Delhi, PM 2.5s are at 24x the safe level - and increasing. A reduction to safe levels would benefit life expectancy more than eliminating unsafe water access and eliminating poverty, combined.
 
-Air pollution is having a significant negative impact on India's economic output and various social factors. There is an added burden on healthcare systems to accommodate for lung cancers and other cardiovascular, chronic illnesses when the country has not fully made it out of the Age of Receding Pandemics (Stage 2) of the epidemiological transition model. The particulate matter at such high levels has an impact on the brain, reducing its function by several percent and potentially reducing educational attainment and the chances of students contributing to the economy through high-skilled employment. Even if they do, the reduced life expectancy will shorten the times they will be able to work, earn, spend and reinvest in the economy.
+Air pollution is having a significant negative impact on India's economic output and various social factors. There is an **added burden on healthcare systems** to accommodate for lung cancers and other cardiovascular, chronic illnesses when the country has not fully made it out of the Age of Receding Pandemics (Stage 2) of the epidemiological transition model. The particulate matter at such high levels has an **impact on the brain, reducing its function by several percent** and potentially **reducing educational attainment** and the chances of students contributing to the economy through high-skilled employment. Even if they do, the **reduced life expectancy will shorten the times they will be able to work, earn, spend and reinvest in the economy.**
 
 > Nearly 1.67 million deaths and an estimated loss of USD 28.8 billion worth of output were India's prices for worsening air pollution in 2019. ^[1]
 
-Respiratory diseases are 1.7x higher in Delhi, with a 40% decrease in lung function because of air pollution. In addition, there are 20% more non-smoking-related lung cancer diagnoses each year, with a total of 1 in 68 males being diagnosed with this - in one year alone.
+Respiratory diseases are **1.7x higher in Delhi**, with a **40% decrease in lung function because of air pollution**. In addition, there are 20% more non-smoking-related lung cancer diagnoses each year, with a total of **1 in 68 males being diagnosed with lung cancer in one year** alone.
 
 [^1]: https://www.indiatoday.in/diu/story/will-an-extended-ban-on-firecrackers-help-improve-the-air-we-breathe-1858861-2021-09-29
 
 
 ### Solutions
 
-However, there is a silver lining to the smog cloud. Gujarat, a state in the west of the country, has set a legal limit on pollutant emissions for industrial plants. The government gives out a set amount of permits to companies, and should certain factories require more emissions, they must trade these permits to raise their emissions allowances. This financially incentivises businesses to invest in less emissive processing facilities, reducing air pollution, whilst providing a revenue stream for the local authority to tackle the effects of heightened levels of emissions, in addition to tackling a root cause of this through the trading permits. 
-Petrol and diesel subsidies have been scrapped in some areas (these fuels power large amounts - 1/3 - of electrical production) and further, 14 Indian cities are expanding the use of high-speed metro systems - encouraging clean, fast public transport which reduces traffic congestion. 
+However, there is a silver lining to the smog cloud. Gujarat, a state in the west of the country, has set a legal limit on pollutant emissions for industrial plants. The government gives out a set amount of **emission permits** to companies, and should certain factories require more emissions, they must trade these permits to raise their emissions allowances. This financially incentivises businesses to invest in less emissive processing facilities, reducing air pollution, whilst providing a revenue stream for the local authority to tackle the effects of heightened levels of emissions, in addition to tackling a root cause of this through the trading permits. 
+Petrol and diesel subsidies have been scrapped in some areas (these fuels power large amounts - 1/3 - of electrical production) and further, **14 Indian cities are expanding the use of high-speed metro systems** - encouraging clean, fast public transport which reduces traffic congestion. 
 
 In rural areas, zigzag brick kilns which reduce coal consumption by 80% have been fitted in various communities, despite slow progress. Burning stubble in fields - a huge smoke pollutant which wind frequently carries from rural to urban settlements, making up **17% of India's emissions** - is also in the process of having additional restrictions. 
 
@@ -212,6 +226,6 @@ If you want these notes, please dm me and I'll update the page :)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE4OTQ3NDAsLTE1NTc4ODQ1OTYsLT
-EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMjEwNzE1NjIyNSwtMTU1Nzg4NDU5NiwtMT
+MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
