@@ -237,11 +237,21 @@ Biopiracy further reading: [here](https://www.jstor.org/stable/25684263?seq=11)
 
 GSK is part of the transnational pharmaceutical industry, which is a for-profit industry.
 
+Historically, GSK has been (and may still be) overcharging governments and individuals for drugs, making abnormally high profits on lifesaving therapeutics. Its former employees have been criminally prosecuted on two continents, and have also been accused of lobbying governments and international organisations, with the use of bribing medical experts in favour of them. In addition, they have been seen to prioritise the R&D of drugs that require long repeated prescriptions and less those which are not as profitable like for tropical diseases.
 
+Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaterniary sector jobs, improving local economies in their 36 countries of manufacturing.  
+
+
+### Flows of distribution
+
+
+---
+
+Note: Although not a case study, grassroots strategies should also be recapped (guinea worm)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MDA0NjEzOCwtMTU1Nzg4NDU5NiwtMT
-MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbOTgxNTg3NjUyLC0xNTU3ODg0NTk2LC0xMz
+AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
 -->
