@@ -169,7 +169,7 @@ In addition, (international) charities and organisations have employed a range o
 
 Perhaps the most important organisation involving the mitigation of cancer in the UK is the NHS itself. 
 
-The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. 
+The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. However the effectiveness of these remains limited - the purchase of sweets and unhealthy foods can still be undertaken, and   
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -180,6 +180,6 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2ODQwNjQ4LC0xNTU3ODg0NTk2LC0xMz
-AyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2MzUwM119
+eyJoaXN0b3J5IjpbLTEyNDQ5Nzk2MjAsLTE1NTc4ODQ1OTYsLT
+EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
