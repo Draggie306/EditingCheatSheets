@@ -162,8 +162,9 @@ A thousand people
 
 ### Mitigation strategies and responses
 
-Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. Skin melanoma is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - only 11% of people say they always use sunscreen in the UK ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)]. 
+Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. **Skin cancer melanoma** is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - only 11% of people say they always use sunscreen in the UK ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)] for **an average of 3% per year**. To combat this, the Met Office now issue weather warnings and forecasts for UV levels, including for the most popular holiday destinations. The Sunbeds (Regulations) Act 2010 forbids the supply of tanning devices to those under 18. Finally, additional education in schools and publicity campaigns have also been increasingly employed by the government warning the public about melanoma.
 
+In addition
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -174,6 +175,6 @@ Environmental factors can explain a large percentage (~ two-thirds) of cancer ca
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwNTI1MTAzLC0xMzAyMzQ1NTE4LC01Nz
-MxOTQ1MTYsLTMxMjI2MzUwM119
+eyJoaXN0b3J5IjpbLTE1NTc4ODQ1OTYsLTEzMDIzNDU1MTgsLT
+U3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
