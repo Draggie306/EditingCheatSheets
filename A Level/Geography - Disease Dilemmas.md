@@ -115,16 +115,20 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 ## 3. How effectively are communicable and noncommunicable diseases dealt with?
 ![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
 
-## Case study: Malaria in Ethiopia
+## Case study: Malaria in Ethiopia (LIDC)
 
-Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
+Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium (primary *P. vivax*) parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
 
 200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. 
 
-The epidemiology of malaria is unevenly distributed. Areas such as the Gambella province, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm conditions mix with stagnant water pools provides ideal breeding grounds for mosquitoes. In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
-In addition, large scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many agricultural workers migrate temporarily from the malaria free highlands to the lowlands. Farmers often sleep in airy barns and work into the night, when transmission is at its highest. Irrigation, in the Awash valley and in Gambella, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
+The **epidemiology** of malaria is unevenly distributed. Areas such as the Gambella province, situated to the west of the Ethiopian highland mountains (relief rainfall) is in a lowland area and malaria is endemic. This area, where humid and warm conditions mix with stagnant water pools provides ideal breeding grounds for mosquitoes. In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
+In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many agricultural workers migrate temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and work into the night, when transmission is at its highest. Irrigation, in the Awash Valley and in Gambella, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
 
+Strategies 
+
+### Socio-economic impacts on Ethiopia
  
+ As with all communicable disease, it is the poor who are the most susceptible and carry the burden of the disease. 
 
 
 ## 4. How far can diseases be predicted and mitigated against?
@@ -135,6 +139,6 @@ In addition, large scale population migration occurs at the same time as the rai
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5Njk0NDY2OCwtNTczMTk0NTE2LC0zMT
-IyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbNDg0NTA2Nzk4LC01NzMxOTQ1MTYsLTMxMj
+I2MzUwM119
 -->
