@@ -225,9 +225,9 @@ Plants have been used for a long time as medicines to cure diseases, from old he
 
 The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. **Vinblastine can help testicular cancer, Hodgekin's lymphoma and more**. Furthermore, other alkaloids can be used to treat some cancers too. This has been unable to be synthesised synthetically through scientific means.
 
-In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of healthcare services around the world.
+In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of dollars from healthcare services around the world.
 
-However, it is patented by Eli Lily, which makes it illegal for others to sexually reproduce, import or export the plant. As a result, it maintains a monopoly over the periwinkle market and can effectively charge the prices they decide to use it. Furthermore, this also allows them to get away with **biopiracy**, as **under 5% of the money is given back to the indigenous farmers**. Economic growth is limited due to export restrictions under Lilly which can exacerbate poverty in a region, as workers are effectively being exploited for transnationals' gain.
+However, it is patented by Eli Lilly, which makes it illegal for others to sexually reproduce, import or export the plant. As a result, it maintains a monopoly over the periwinkle market and can effectively charge the prices they decide to use it. Furthermore, this also allows them to get away with **biopiracy**, as **under 5% of the money is given back to the indigenous farmers**. Economic growth is limited due to export restrictions under Lily which can exacerbate poverty in a region, as workers are effectively being exploited for transnationals' gain.
 
 Although it has come under scrutiny from some EU regulators, this practice largely goes unnoticed, as pharmaceutical companies have leverage and spend billions on discovering new drugs.
 
@@ -258,6 +258,6 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI0NDc4NzMsLTE1NTc4ODQ1OTYsLT
-EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbMTYxMjMyOTg1OCwtMTU1Nzg4NDU5NiwtMT
+MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
