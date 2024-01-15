@@ -1,7 +1,10 @@
 
-# [TBD] Disease Dilemmas 
+# Disease Dilemmas Complete Notes
+Note that this is an incomplete cheat sheet. No ads will be shown. Eventually, the content here will be merged into the [main cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all). Happy revision!
 
-# Global patterns of disease 
+Last update: 15/01/2024 20:59
+
+## 1. Global patterns of disease
 ![Specification Content for Disease Dilemmas Key Idea 1 - "What are the global patterns of disease and can factors be identified that determine these?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.1.png)
 
 All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
@@ -188,9 +191,9 @@ Haiti is known as "the poorest country in the Western hemisphere". It has a GNI 
 
 Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley, are believed to have brought the disease, 9 months after the quake hit the island nation. 820,000 cholera cases were counted within 4 years, with around half a million hospitalisations - 82 hospitals had been damaged or destroyed during the quake. 
 
-The British Red Cross targeted the outbreak with its own response progrmme between 2010 and 2012.  10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and this the Red Cross were able to deliver clean water to 300,000 cap dwellers  in the capital. On top of this, as cholera is water-borne, the built 1300 latrines, serving almost 200 people each. 
+The British Red Cross targeted the outbreak with its own response programme between 2010 and 2012.  10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and the Red Cross were able to deliver clean water to 300,000 cap dwellers in the capital. On top of this, as cholera is water-borne, they built 1300 latrines, serving almost 200 people each. They also directly treated over 20,000 cholera cases in treatment units across Haiti, provided medical supplies to hospitals in the Artibonite Valley and also indirectly combatted the disease through educational measures, teching how to avoid infection and the symptoms.
 
-Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)].
+Coupled with other aid workers like Cuban doctors who treated more than 75,000 cholera cases, it may have been a much greater success than it was. Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)]. Basic functionality and sanitation was not put in place across the country. 
 
 
 Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
@@ -201,10 +204,14 @@ Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articl
 
 ## Case study: Rosy Periwinkle
 
+If you want these notes, please dm me and I'll update the page :)
+
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzE0MzY4MDgsLTE1NTc4ODQ1OTYsLT
+eyJoaXN0b3J5IjpbLTE1NDE4OTQ3NDAsLTE1NTc4ODQ1OTYsLT
 EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
 -->
