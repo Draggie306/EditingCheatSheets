@@ -241,11 +241,14 @@ Historically, GSK has been (and may still be) overcharging governments and indiv
 
 Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaternary sector jobs, improving local economies in their 36 countries of manufacturing.  
 
-Some of GSK's breakthroughs and patents include the first malaria candidate vaccine and ongoing Nobel Prize-winning discoveries for malarial drugs. They also provide medication for type 2 diabetes and discovered the first oncology drug for leukaemia. On top of this, they are one of the only pharmaceuticals to be actively researching new candidate drugs for the WHO's top 3 global priority diseases. Patents in medicine last for no longer than 20 years and gives GSK the ability to invest greater amounts in new medicines. They currently hold almost 10,000 patents, largely in HIV medication, cancer treatments, cardiovascular disease and in Covid-19.
+Some of GSK's breakthroughs and patents include the first malaria candidate vaccine and ongoing Nobel Prize-winning discoveries for malarial drugs. They also provide medication for type 2 diabetes and discovered the first oncology drug for leukaemia. On top of this, they are one of the only pharmaceuticals to be actively researching new candidate drugs for the WHO's top 3 global priority diseases. Patents in medicine last for no longer than 20 years and gives GSK the ability to invest greater amounts in new medicines. They currently hold almost 10,000 patents, largely in HIV medication, cancer treatments, cardiovascular disease and Covid-19.
 
-As GSK had an operating profit of £6.433 billion in 2022, they are able to afford to provide LIDCs and EDCs drugs and medicines at significant discounts: 80% of the 800mn vaccine doses given were to these countries in 2014. In addition, they do not enforce 
+As GSK had an operating profit of £6.433 billion in 2022, they are able to afford to provide LIDCs and EDCs drugs and medicines at significant discounts: 80% of the 800mn vaccine doses given were to these countries in 2014. In addition, they do not enforce historic patents or file new medicinal patents in LIDCs, allowing companies to manufacture versions of their medicines in these countries. FInally, their code of practice now involves capping the prices of patented drugs in LIDCs, many of which cannot manufacture their own pharmaceuticals, to 25% of the UK price and only allowing a 5% return on each product sold - the remaining 20% of its profits are invested into the developing country where it is sold.
 
 
+## Mini case study: Guinea worm in Ghana
+
+The Guinea worm eradication programme and the Ghana Red Cross women's program partnered and women, who are typically the ones to source water for families, were taught about the benefits of filtering water to avoid contamination. Women were also responsible for reporting and monitoring all cases of the worm back to the WHO. 
 
 ---
 
@@ -254,6 +257,6 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTk0NzUwMzcsLTE1NTc4ODQ1OTYsLT
-EzMDIzNDU1MTgsLTU3MzE5NDUxNiwtMzEyMjYzNTAzXX0=
+eyJoaXN0b3J5IjpbLTI1NDY3OTY0MCwtMTU1Nzg4NDU5NiwtMT
+MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
 -->
