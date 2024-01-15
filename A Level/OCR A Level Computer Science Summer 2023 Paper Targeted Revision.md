@@ -1,7 +1,4 @@
-
-
-
-> Written with [StackEdit](https://stackedit.io/).# A Level Computer Science - June 2023 Paper 1 Revision
+# A Level Computer Science - June 2023 Paper 1 Revision
 
 # Software
 Software makes the world go round!
@@ -225,12 +222,30 @@ Possibly the hardest section.
 
 Floating point numbers involve a mantissa and exponent. They are represented as m x 10^n^, where $m$ is the mantissa and $n$ is the expone**n**t.
 
-The normalisation of floating points rewrites them in the form of scientific notation. This means that there is one digit, followed by the decimal place, and the rest is a decimal. Then, it is followed by a multiplication of ten to either a positive or negative power.
+Floating points are written in the form of scientific notation. This means that there is one digit, followed by the decimal place, and the rest is a decimal. Then, it is followed by a multiplication of ten to either a positive or negative power.
 
 In floating point binary, the concept is the same. The mantissa's binary point will always be after the most significant bit to start with. Then, we look at the exponent. Apply the normal binary weighting line to it, and convert it to denary. We then move the binary point along the mantissa, to the right if a positive exponent and to the left if negative, the number of digits that the exponent adds to. From this, the final value is obtained. Apply the normal binary weighting line to it and convert it into denary.
 
 > Remember, values below the binary point are fractional ones.
 
+### Normalisation
+
+- 000010110111
+
+Typically the binary number will be given as an 8-bit mantissa and a 4-bit exponent. If not, separate it into this format.
+
+- 00001011 0111
+
+Next, the mantissa must start with **either** 01 (for a positive number) **or** 10 (for a negative number). Do not just write this in the first two most significant bit areas though: the entire number must be shifted along to accommodate for this. If a sequence of `01` only occurs three spaces to the right, the whole binary number must be moved left three spaces. 
+
+- 0.1011000  0111
+
+In this scenario, the mantissa has been normalised. However this is only half the equation, to compensate for this binary shift, the exponent must be reduced. This is done by applying the normal binary weighting line to the exponent values and subtracting (or adding) the number of binary shifts performed from the total value of the exponent. For example, if the exponent was `0111` and we moved three spaces to the left, we must reduce 3 from the exponent, to get `0100`. 
+
+- 0.1011000  0100
+= 01011000 0100
+
+= 0.5 + 0.125 + 0.625
 
 
 
@@ -264,5 +279,5 @@ The below sections are a section of the content of the paper targeted on program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUzOTk0MzQsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTE4NjE5ODczMDEsNzMwOTk4MTE2XX0=
 -->
