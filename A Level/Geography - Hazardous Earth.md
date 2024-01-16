@@ -161,9 +161,11 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 
 ## Case study: Volcan del Fuego, Guatemala
 
-Guatemala is an LIDC in Central America with an HDI of 0.627. 
+Guatemala is an LIDC in Central America with an HDI of 0.627 and GNI/capital of $8,500 PPP.
 
-The eruption in 2018 was Guatemala’s deadliest event since 1902. It killed over 200 people with a VEI 3-4 plume reaching 15.2km. There was no hazard plan, and despite being one of the most active volcanoes along the pacific Ring of Fire, it seems that people did not fully understand the risks. Bodies in 6 destroyed villages were found not far from homes, cooborating with video footage of people simply staring at the ash cloud and oncoming pyroclastic flows. Efforts to evacuate the area 
+The eruption in 2018 was Guatemala’s deadliest event since 1902. It **killed over 200 people** with a VEI 3-4 plume reaching 15.2km. There was **no hazard plan**, and despite being one of the most active volcanoes along the Pacific Ring of Fire, it seems that people did not fully understand the risks. Bodies in 6 destroyed villages were found not far from homes, corroborating with video footage of people simply staring at the ash cloud and oncoming pyroclastic flows. Coupled with the fact that there was no evacuation alert issued, this shows that the infrastructure and investment were simply inadequate in the region. 
+
+Efforts to evacuate the area were rendered difficult due to inaccurate data involving road access, population size and population locations in proximity to the volcano's flanks prone to pyroclastic flows. **The Guatemalan Mountain Rescue Brigade** were already searching for a missing person when explosive activity increased, and were able to help a significant but unknown number of people in surrounding villages to evacuate, emphasising the **need for well-trained and experienced individuals** for mitigation of vulnerability. Mitigation of losses could have been better but was not totally inadequate: firefighters were immediately deployed to the area with the aim of recovering trapped people and bodies, however, the heat and nature of the pyroclastics simply incinerated many buildings. **6,000 people were eventually evacuated** as lava flows continued into the night and temporary shelters were provisioned with priority given to women and children, showing that there was at least some emergency provisioning.
 
 ## Case study: Mount Nyiragongo, DRC, May 2021
 
@@ -173,7 +175,7 @@ As a result, only one warning was issued for an imminent eruption a fortnight pr
 
 However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared this time, showing how far a small warning system and prior community knowledge can help mitigate vulnerability.
 
-
+## Case study
 
 
 ## Strategies to manage volcanic hazards
@@ -193,5 +195,5 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MDczNzk5LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbNTYwNjE0NzE3LC0xNjcwNjUzNzYzXX0=
 -->
