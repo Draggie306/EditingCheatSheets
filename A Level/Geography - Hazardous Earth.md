@@ -141,19 +141,26 @@ In April 2010, the second, most significant explosive eruption occurred, peaking
 ### Impacts on people
 Many farm crops and roads were washed away from glacial *jökulhlaups*, and fish exports from the Icelandic offshore fishing industry were halted due to the ash. Around 800 nearby residents were evacuated from large trucks and members of the fire brigade. Because of good infrastructure, warning systems and education, there were no direct deaths from the eruption.
 
-On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £100mn and some companies were never able to recover from this. On top of 400,000 Britons stranded globally due to the three major London airports being closed - almost 1% of the population - this was particularly damaging.
+On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on the tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £102mn and some companies were never able to recover from this. On top of 400,000 Britons stranded globally due to the three major London airports being closed - almost 1% of the population - this was particularly damaging.
 
-Just-in-time manufacturing and trade as a result of globalisation such as the transport Kenyan flowers cost the horticultural industry around $3mn per day, with many thousands of farmers who rely on a source of stable income in LIDCs being temporarily laid off.  
+Just-in-time manufacturing and trade as a result of globalisation such as the transport of Kenyan flowers cost the horticultural industry around $3mn per day, with 5 thousand flower and vegetable farmers who rely on a source of stable income in LIDCs being temporarily laid off. (97% of flowers are delivered to Europe, which is difficult when the whole airspace is closed!)
 
-"Volcano tourism" has increased sharply since the eruption, with people going to visit the geological landforms and effusive activity like lava streams across the country. Tourist levels were 43% above forecast levels, with almost 80,000 additional visits. These people spend an average of ~$2000 each, generatign significant revenue for the country.
+"Volcano tourism" has increased sharply since the eruption, with people going to visit the geological landforms and effusive activity like lava streams across the country. Tourist levels were 43% above forecast levels, with almost 80,000 additional visits. These people spend an average of ~$2000 each, generating significant revenue for the country.
 
-"**The increase in Icelandic tourism was far greater than the previous decline caused by the natural disaster and greatly exceeded forecasts.**" [[1](https://hospitalityinsights.ehl.edu/iceland-tourism-boom)]. This clearly shows how it can be a benefit to countries which can successfully mitigate the vulnerability 
+"**The increase in Icelandic tourism was far greater than the previous decline caused by the natural disaster and greatly exceeded forecasts.**" [[1](https://hospitalityinsights.ehl.edu/iceland-tourism-boom)]. This clearly shows how it can be a benefit to countries which can successfully mitigate against vulnerability, losses and the event itself.
 
+ 
 
 > How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
 
 
 ## Case study: Volcan del Fuego, Guatemala
+
+
+
+## Case study: Mount Nyiragongo, DRC, May 2021
+
+Mountain Nyiragongo is situated on a continental divergent plate boundary, resulting in effusive eruptions. The world's largest lava lake is situated in the volcano, which is a **cinter cone**, and it began to grow and show increased activity. However, the Goma Volcano Observatory was unable to successfully pay for Internet connections to remotely monitor the volcanic activity on instruments, or staff fuel to take measurements due to a withdrawal of World Bank funding due to allegations government corruption one year prior. As a result, only one warning was issued for. An imminent eruption. Events opened on the sintoni's flanks in May. Which flowed towards Goma at the rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation. Whilst there was an evacuation warning of for 400,000 people. As a result of the city evacuation plan. And a third of the population moved quickly. 2000 homes were destroyed and 17 villages were ruined.
 
 
 ## Strategies to manage volcanic hazards
@@ -172,5 +179,5 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODY1NzM5LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTgwMjgyMzExMSwtMTY3MDY1Mzc2M119
 -->
