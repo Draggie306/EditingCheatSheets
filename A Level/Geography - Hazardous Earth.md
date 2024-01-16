@@ -129,6 +129,11 @@ Effusive, basaltic eruption causes these as low-length polymerisation of the lav
 ### East African Rift Valley
 The African Plate is splitting in two! Land is dropping down due to ridge push and convection. There are also volcanic mountains
 
+# Volcano Case Studies
+- Mitigating the event is a costly method of reducing the effects of an eruption as it is occurring - e.g. ash wall construction and lowering concrete barriers from helicopters in Etna, spraying water on lava to cool and slow it down in Iceland
+- Mitigating against vulnerability is preparing the community and planning for hazards to occur. Indonesia's Centre for Volcanology and Geological Hazard Mitigation is... [tbd]
+- Managing losses is how the event is responded to. Well-trained search and rescue teams and temporary shelter provisioning are perhaps key to reducing the impact of an eruption. EDCs such as Indonesia may be the most adept to dealing with these.
+
 ## Case study: Eyjafjallajökull, Iceland
 Iceland, in 2010, had a HDI of 0.92 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
 
@@ -164,7 +169,7 @@ Mountain Nyiragongo is situated on a continental divergent plate boundary, resul
 
 As a result, only one warning was issued for an imminent eruption a fortnight preceding the May eruption. Three vents opened on the cinder cone's flanks, which flowed towards Goma at a rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation - the invisible, toxic CO2 gathers in low-lying areas. Whilst there was an evacuation warning of 400,000 people as a result of the city evacuation plan and a third of the population moved quickly, 2000 homes were destroyed and 17 villages were ruined.
 
-However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared 
+However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared this time, showing how far a small warning system and prior community knowledge can help mitigate vulnerability.
 
 
 
@@ -185,5 +190,6 @@ However, this LIDC eruption was much better handled compared to the eruption in 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTMxMjU1LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbLTE3MTk3MzEzODAsLTE2NzA2NTM3NjNdfQ
+==
 -->
