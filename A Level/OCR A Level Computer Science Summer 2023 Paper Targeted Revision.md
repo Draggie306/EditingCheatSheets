@@ -390,10 +390,21 @@ HTML uses tags to define the page content and structure
 
 **Regulation of Investigatory Powers Act 2000**
 - Regulates large-scale surveillance and investigation by authorities
+- Requires ISPs to secretly watch over all activities in transit
+- Prevents the existence of any court documents which prove that this has been undertaken
 - Allows interception of communications on target individuals (subject to legal safeguards)
 
+Companies can be fined if they do not disclose that a data breach has occurred by the ICO.
+
+
+**Investigatory Powers Act 2016**
+- More obligations for ISPs to assist with data interception - log retention of activity for at least 1 year without a police warrant
+- Allows police to hack devices with any means for national security benefits
 
 ## SQL
+
+SELECT (column) FROM (table) WHERE (var) LIKE/BETWEEN/= (criteria) ORDER BY (var) DESC
+
 
 ### Normalisation
 
@@ -410,6 +421,6 @@ HTML uses tags to define the page content and structure
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI1NTc1NTEyLC00NzY1MTMzOTQsMjEwMD
+eyJoaXN0b3J5IjpbLTkxMDU1NzkzLC00NzY1MTMzOTQsMjEwMD
 MzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
