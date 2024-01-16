@@ -403,10 +403,43 @@ Companies can be fined if they do not disclose that a data breach has occurred b
 
 ## SQL
 
-SELECT (column) FROM (table) WHERE (var) LIKE/BETWEEN/= (criteria) ORDER BY (var) DESC
+SELECT (column) FROM (table) WHERE (var) LIKE/BETWEEN/= (criteria) ORDER BY (var) DESC, (var) ASC
 
+ALTER TABLE (table)
+MODIFY COLUMN (columnID)
+
+DELETE FROM (table)
+WHERE (primaryKey) = "CRITERIA"
+
+```
+CREATE TABLE tableName
+(
+	SomeColumn 			CHAR(4) 	NOT NULL	PRIMARY KEY,
+	SomeOtherColumn		VARCHAR,
+	FOREIGN KEY			OtherTableColumn		REFERENCES SomeOtherTable(PrimaryKey)
+)
+
+
+```
 
 ### Normalisation
+
+A table in 1st normal form has no repeating attributes (atomic values)
+A table in 2NF is in 1NF and has no partial dependencies (only when composite primary key)
+A table is in 3NF if it is in 2NF and has no transitive/non-key dependencies; all fields depend on the key, the whole key and nothing but the key
+
+Benefits of 3NF normalisation is that it upholds ACID
+
+**Atomicity**
+The instruction/database query is executed in its entirety or not at all
+
+**Consistency**
+All transactions must a
+
+**Isolation**
+
+**Durability**
+
 
 ## Functions
 
@@ -421,6 +454,6 @@ SELECT (column) FROM (table) WHERE (var) LIKE/BETWEEN/= (criteria) ORDER BY (var
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMDU1NzkzLC00NzY1MTMzOTQsMjEwMD
+eyJoaXN0b3J5IjpbMjE2NTI4NTc4LC00NzY1MTMzOTQsMjEwMD
 MzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
