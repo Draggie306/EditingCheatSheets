@@ -317,7 +317,7 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 ## HTML & CSS
 
-The Document Object Model interpreter converts the HTML document into a displayable, formatted page
+The Document Object Model interpreter converts the HTML document into a displayable, formatted page [todo]
 The Cascading Style Sheet interpreter styles related HTML to format the page in a more sophisticated way
 The JavaScript engine compiles referenced JS code and executes it within the page sandbox
 
@@ -329,10 +329,12 @@ HTML uses tags to define the page content and structure
 <h2>Header 2</h2>
 <h3>Header 3</h3>
 <p> Paragraph</p>
-<ul>Unordered list</ul>
-<ul>Unordered list</ul>
-<ol>Ordered list 1</ol>
-<ol>Ordered list 2</ol>
+<ul>
+	<li>Unordered list</<li>
+</ul>
+<ol>
+	<li>Ordered list 2</li>
+</ol>
 ```
 
 #### Stylesheet
@@ -340,20 +342,20 @@ HTML uses tags to define the page content and structure
 ```html
 <head>
 	<style>
-	<!-- For an element -->
+	/* For an element */
 	h1 {
-		color: blue; <!-- Don't forget to use American spellings -->
+		color: blue; /* Don't forget to use American spellings */
 		font-size: larger;
 		text-align: center;
 	}
 	
-	<!-- For an ID (identifier) -->
+	/* For an ID (identifier) */
 	#my-text-id-1 {
 		text-align: left;
 		border: none;
 		background-color: #00acff;
 	}
-	<!-- For a class -->
+	/* For a class */
 	.myclass23 {
 		border-style: solid;
 		border-color: pink;
@@ -364,16 +366,32 @@ HTML uses tags to define the page content and structure
 
 #### Inline/embedded styling
 ```html
-<p style="color:red; font-size=large">Red large text</p>
+<p style="color:red; font-size:large">Red large text</p>
 ```
 
 #### External stylesheet
 ```css
-<link href = "styles.css" rel="stylesheet" type="text/css">
+<link href="styles.css" rel="stylesheet" type="text/css">
 ```
 
 
 ## Computing-related legislation
+
+**The Data Protection Act 2018**
+- Controls how data about living people is stored and processed, containing the EU GDPR
+
+**Computer Misuse Act 1990**
+- An offence to modify or access computer material without permission from the owner
+- Addresses computer-related crimes
+
+**Copyright, Designs and Patents Act 1988**
+- Illegal to infringe or copy others' work without permission
+- Protects the intellectual property rights of creators - e.g. illegal sites and users
+
+**Regulation of Investigatory Powers Act 2000**
+- Regulates large-scale surveillance and investigation by authorities
+- Allows interception of communications on target individuals (subject to legal safeguards)
+
 
 ## SQL
 
@@ -392,6 +410,6 @@ HTML uses tags to define the page content and structure
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NjIzMjYzLC00NzY1MTMzOTQsMjEwMD
+eyJoaXN0b3J5IjpbMzI1NTc1NTEyLC00NzY1MTMzOTQsMjEwMD
 MzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
