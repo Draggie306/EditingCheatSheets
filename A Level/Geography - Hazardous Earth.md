@@ -160,7 +160,13 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 
 ## Case study: Mount Nyiragongo, DRC, May 2021
 
-Mountain Nyiragongo is situated on a continental divergent plate boundary, resulting in effusive eruptions. The world's largest lava lake is situated in the volcano, which is a **cinter cone**, and it began to grow and show increased activity. However, the Goma Volcano Observatory was unable to successfully pay for Internet connections to remotely monitor the volcanic activity on instruments, or staff fuel to take measurements due to a withdrawal of World Bank funding due to allegations government corruption one year prior. As a result, only one warning was issued for. An imminent eruption. Events opened on the sintoni's flanks in May. Which flowed towards Goma at the rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation. Whilst there was an evacuation warning of for 400,000 people. As a result of the city evacuation plan. And a third of the population moved quickly. 2000 homes were destroyed and 17 villages were ruined.
+Mountain Nyiragongo is situated on a continental divergent plate boundary, resulting in effusive eruptions. The world's largest lava lake is situated in the volcano, which is a **cinter cone**, and it began to grow and show increased activity. However, the Goma Volcano Observatory was unable to successfully pay for Internet connections to remotely monitor the volcanic activity on instruments, or staff fuel to take measurements due to a withdrawal of World Bank funding due to allegations of government corruption one year prior. Goma is the provincial capital city of 2,000,000 inhabitants around 15 kilometres to the South.
+
+As a result, only one warning was issued for an imminent eruption a fortnight preceding the May eruption. Three vents opened on the cinder cone's flanks, which flowed towards Goma at a rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation - the invisible, toxic CO2 gathers in low-lying areas. Whilst there was an evacuation warning of 400,000 people as a result of the city evacuation plan and a third of the population moved quickly, 2000 homes were destroyed and 17 villages were ruined.
+
+However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared 
+
+
 
 
 ## Strategies to manage volcanic hazards
@@ -179,5 +185,5 @@ Mountain Nyiragongo is situated on a continental divergent plate boundary, resul
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjgyMzExMSwtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbMjEwNTMxMjU1LC0xNjcwNjUzNzYzXX0=
 -->
