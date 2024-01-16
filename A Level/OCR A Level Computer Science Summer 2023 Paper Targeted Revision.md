@@ -268,15 +268,34 @@ These languages are directly matched to the machine code which is specific to th
 
 The assembler at this stage translates the mnemonics into the machine code.
 
+If the LMC code is covered in any detail. lord have mercy
 
 ## High-level languages
-These are written "above" the low-level languages. Each instruction may equate to several lines of machine code. They are designed to be mroe human-readable, with an English-like syntax, and can be cross-sytem and operate across varying CPU architectures. This is in comparison to low level languages like assembly, which are platform-dependent.
+These are written "above" the low-level languages. Each instruction may equate to several lines of machine code. They are designed to be more human-readable, with an English-like syntax, and can be cross-system and operate across varying CPU architectures. This is in comparison to low-level languages like assembly, which are platform-dependent.
 
-Programming aradigms involved in high-level langauges include imperative and procedural. Imperative programming includes declarative and object-oriented coding. They use sequence, selection and iteration to tell a computer how to solve a problem.
+Programming paradigms involved in high-level languages include imperative and procedural. Imperative programming includes declarative and object-oriented coding. They use sequence, selection and iteration to tell a computer how to solve a problem.
 
-Declarative languages like Pascal
+Declarative languages like SQL, HTML and CSS on the other hand tell the computer what it should do as opposed to how it can do it
 
 ## Encryption and hashing
+
+**Lossless compression**
+- No data is lost, just represented in a different way
+- Good for binary files, text files
+- Run-length encoding and dictionary compression are used to reduce file size e.g. images
+
+**Lossy compression**
+- Non-essential data is permanently removed, such as similar image colours or inaudible sounds
+- Can sacrifice quality for more significant file size gains
+
+**Caesar cipher encryption**
+- All letters are shifted by a given amount in the alphabet
+- Can be broken by brute force
+- Frequency analysis can show that E is the most common letter followed by T, A, O etc. Patterns can be spotted fairly quickly.
+
+**Vernham cipher encryption**
+- Unbreakable encryption
+- XOR operations are used to encrypt data with a one time pad of truly random origin with a length equal or greater than the 
 
 ## HTML & CSS
 
@@ -299,6 +318,6 @@ Declarative languages like Pascal
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3Mzg1NzEzLC00NzY1MTMzOTQsMjEwMD
-MzOTM2Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTgzNjYyNzUzMywtNDc2NTEzMzk0LDIxMD
+AzMzkzNjcsNzMwOTk4MTE2XX0=
 -->
