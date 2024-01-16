@@ -317,9 +317,60 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 ## HTML & CSS
 
-```htmlk
-<link href = "styles.css" rel="stylesheet" type="text/css">
+The Document Object Model interpreter converts the HTML document into a displayable, formatted page
+The Cascading Style Sheet interpreter styles related HTML to format the page in a more sophisticated way
+The JavaScript engine compiles referenced JS code and executes it within the page sandbox
 
+HTML uses tags to define the page content and structure
+
+#### Tags
+```html
+<h1>Header 1</h1>
+<h2>Header 2</h2>
+<h3>Header 3</h3>
+<p> Paragraph</p>
+<ul>Unordered list</ul>
+<ul>Unordered list</ul>
+<ol>Ordered list 1</ol>
+<ol>Ordered list 2</ol>
+```
+
+#### Stylesheet
+
+```html
+<head>
+	<style>
+	<!-- For an element -->
+	h1 {
+		color: blue; <!-- Don't forget to use American spellings -->
+		font-size: larger;
+		text-align: center;
+	}
+	
+	<!-- For an ID (identifier) -->
+	#my-text-id-1 {
+		text-align: left;
+		border: none;
+		background-color: #00acff;
+	}
+	<!-- For a class -->
+	.myclass23 {
+		border-style: solid;
+		border-color: pink;
+		height: 200px;
+		width: 50pc;
+	} 
+```
+
+#### Inline/embedded styling
+```html
+<p style="color:red; font-size=large">Red large text</p>
+```
+
+#### External stylesheet
+```css
+<link href = "styles.css" rel="stylesheet" type="text/css">
+```
 
 
 ## Computing-related legislation
@@ -341,6 +392,6 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjI5NDUzNywtNDc2NTEzMzk0LDIxMD
-AzMzkzNjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTU5NjIzMjYzLC00NzY1MTMzOTQsMjEwMD
+MzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
