@@ -121,7 +121,7 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 ### Yellowstone supervolcano
 
 ### Stratovolcanoes
-Cone-shaped formed by explosive extrusive volcanicity. Due to high viscosity, typically near a converging boundary, caused by long-length polymers due to the mixture of hot asthenospheric material and subducted plate debris which contains H~2~O, gases and other material from the ocean floor. This results in more gases developing, rising upwards and mixed in viscous, relatively cool (~600-800 degrees C) rhyolitic magma chambers and explosive eruptions occurring when the gases reach the surface. The high viscosity causes the lava to not travel long distances. Over time, ash and lava will solidify in strata, building up around the central volcanic funnel causing the characteristic dome shape. 
+Cone-shaped formed by explosive extrusive volcanicity. Due to high viscosity, typically near a converging boundary, caused by long-length silica-rich acidic polymers due to the mixture of hot asthenospheric material and subducted plate debris which contains H~2~O, gases and other material from the ocean floor. This results in more gases developing, rising upwards and mixed in viscous, relatively cool (~600-800 degrees C) rhyolitic magma chambers. The explosive eruptions occur when the magma pushed by gases reaches the surface. The high viscosity causes the lava to not travel long distances. Over time, ash and lava will solidify in strata, building up around the central volcanic funnel causing the characteristic dome shape. 
 
 ### Shield Volcanoes
 Effusive, basaltic eruption causes these as low-length polymerisation of the lava allows for higher temperatures (>1000degrees) and less viscosity, enabling long-distance transport after the initial extrusion.
@@ -130,6 +130,7 @@ Effusive, basaltic eruption causes these as low-length polymerisation of the lav
 The African Plate is splitting in two! Land is dropping down due to ridge push and convection. There are also volcanic mountains
 
 ## Case study: Eyjafjallajokull, Iceland
+Iceland ha
 
 
 ## Case study: Volcan del Fuego, Guatemala
@@ -151,5 +152,5 @@ The African Plate is splitting in two! Land is dropping down due to ridge push a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNjc4NTE1LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTEwNDgxODI4MCwtMTY3MDY1Mzc2M119
 -->
