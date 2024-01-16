@@ -132,9 +132,9 @@ The African Plate is splitting in two! Land is dropping down due to ridge push a
 ## Case study: Eyjafjallajökull, Iceland
 Iceland, in 2010, had a HDI of 0.92 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
 
-Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with basaltic 
+Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with characteristic basaltic andesitic lava. This attracted some tourists to the area, and ash reached no more than 4km in the atmosphere - a VEI 2 eruption.
 
-In April 2010, the second, most significant explosive eruption occurred, peaking at a VEI of 4. This was particularly damaging for many reasons.
+In April 2010, the second, most significant explosive eruption occurred, peaking at a VEI of 4. This was particularly damaging for many reasons. It was directly below the very stable jet stream, pushing wind towards the UK and Europe. The eruption took place under 200m of glacial ice, with much of the meltwater flowing back into the caldera increasing the explosivity with high gases and increased pressure. This also caused glass-rich ash to be formed quickly which was injected 
 
 > How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
 
@@ -158,5 +158,5 @@ In April 2010, the second, most significant explosive eruption occurred, peaking
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjU5NTU2NywtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbOTkxMDYzNTEyLC0xNjcwNjUzNzYzXX0=
 -->
