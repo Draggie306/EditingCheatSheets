@@ -295,7 +295,15 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 **Vernham cipher encryption**
 - Unbreakable encryption
-- XOR operations are used to encrypt data with a one time pad of truly random origin with a length equal or greater than the 
+- XOR operations are used to encrypt data with a one-time pad of truly random origin with a length equal to or greater than the original data, given in person and destroyed after use.
+
+**Symmetric encryption**
+- When the same key is used to encrypt and decrypt data. Therefore intercepting the key is as easy as intercepting a message. This is private key cryptography.
+
+**Asymmetric encryption**
+- Uses a different key to encrypt and decrypt data
+- The public key, which anyone can see, can be used to encrypt a given piece of data.
+- The private key, used to decrypt the data into plaintext, is only known by one party like a server. This means that communication can be verified to be coming from and going to the specific server
 
 ## HTML & CSS
 
@@ -318,6 +326,6 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjYyNzUzMywtNDc2NTEzMzk0LDIxMD
+eyJoaXN0b3J5IjpbMTM4NzExOTI3MywtNDc2NTEzMzk0LDIxMD
 AzMzkzNjcsNzMwOTk4MTE2XX0=
 -->
