@@ -8,10 +8,11 @@ This is effectively asking about how well it is a **source of information about 
 - Not contain essential **information**? This could be the magnitude, focus, people affected by it, why that specific location. If it is a map, why that area? Geology?
 - Have a completely understandable **scale**? Pick out a year/month and can you get a precise reading? Is it going up in regular, precise intervals or random numbers of years?
 - Have a reliable **source**? Is it from the USGS, the UNDRR, the EU?
+- If statistics give, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
 
 
 ## Theory of Plate Tectonics
-The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected from scientific communities.
+The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected by scientific communities.
 
 ---
 ![enter link description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308808608534648/wegener-haha-original.gif)
@@ -190,9 +191,11 @@ Quick facts:
 - Infrastructure such as electricity and telecommunications already exists in the region, reducing the amount of pull factors to move into urban regions such as Yogyakarta to the south.
 - However, although risk perception is high, it may have been overridden by a sense of dependence on the land - they may not have a financial buffer compared to when Eyjafjallajokull erupted with the same VEI in the same year.
 
-Mitigation strategies have been partially successful. The local Javanese government compensated many
+Mitigation strategies have been partially successful. The local Javanese government compensated many thousands of farmers with plots of land elsewhere to discourage the continued inhabitation of the flanks.
 
-Despite the local government's demonstration of regularly clearing valleys from debris, there can be no replacement from ensuring that people are moved away from the stratovolcano's flanks and provided access to another area - something which has been done for those in zone 3. However, for an EDC with some of the fastest-growing populations and high population densities supporting 1,000/km^2^ even in remote areas of Java, a balance seems to have been struck by successfully modifying the vulnerability to a large extent whilst not investing huge amount of money to save less and less residents who do simply do not wish to move.
+Indonesia has very well-prepared, experienced and equipped emergency services. In addition, there is a constant clearance of flood and river channels to reduce the impact of lahars, which were seen, especially due to the Equatorial nature of the country, and pyroclastic flows might have on the population, of which there were over a dozen during Mount Merapi's eruption in 2010. In addition, local governments have been able to provide hundreds of thousands of people with emergency shelters, some of which end up becoming permanent settlements, which are much futher away from the volcano itself, mitigating vulnerabilities further. However, despite this apparent organisation, the shelters are also prone to disease outbreaks. The "mass exodus" of people who the shelters have been occupied by have historically has involved many children becoming severely injured and separated from their parents and their families. Despite allegations of corruption, local governments' responses during national disasters remain excellent, including aid delivery from both internal and external means.
+
+Despite the local government's demonstration of regularly clearing valleys from debris, there can be no replacement for ensuring that people are moved away from the stratovolcano's flanks and provided access to another area - something which has been done for those in zone 3. However, for an EDC with some of the fastest-growing populations and high population densities supporting 1,000/km^2^ even in remote areas of Java, a balance seems to have been struck by successfully modifying the vulnerability to a large extent whilst not investing huge amount of money to save less and less residents who do simply do not wish to move.
 
 ## Strategies to manage volcanic hazards
 
@@ -211,5 +214,5 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzE5NTMwNiwtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbLTU4MjgzMTQyMiwtMTY3MDY1Mzc2M119
 -->
