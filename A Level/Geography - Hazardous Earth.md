@@ -163,7 +163,7 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 
 Guatemala is an LIDC in Central America with an HDI of 0.627. 
 
-It killed over 200 people with 
+The eruption in 2018 was Guatemala’s deadliest event since 1902. It killed over 200 people with a VEI 3-4 plume reaching 15.2km. There was no hazard plan, and despite being one of the most active volcanoes along the pacific Ring of Fire, it seems that people did not fully understand the risks. Bodies in 6 destroyed villages were found not far from homes, cooborating with video footage of people simply staring at the ash cloud and oncoming pyroclastic flows. Efforts to evacuate the area 
 
 ## Case study: Mount Nyiragongo, DRC, May 2021
 
@@ -193,5 +193,5 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4MDg5NTcyLC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbLTY1MDczNzk5LC0xNjcwNjUzNzYzXX0=
 -->
