@@ -71,33 +71,39 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 
  
 ## Convergent plate boundaries
-- upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental
-- responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic an bound
-- oceanic plate subducts, melting in the asthenosphere. 
+- upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental. Big, shallow focus earthquakes
+- responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
+- oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 
-
+- oceanic-oceanic also forms island arcs. Antilles and Aleutian
+(explain from memory)
 
 ## Conservative plate boundaries
+Typically continental plates move past in a strike-slip shearing motion. 
+
+No crust destroyed, no magma created, no volcanoes
+However there are very big earthquake potenial
+(explain from memory)
 > Conservative boundaries are also referred to as transform plate boundaries (wording in the USA only)
 
 
-# Volcanoes
+## Volcanoes
 
 ## The chemistry of an eruption
 The nature of a volcanic eruption is shaped by a range of factors. For example, the viscosity, or the ‘stickiness’ of magma. The viscosity measures the resistance to flow an, in the case of volcanic activity, the more viscous it is, the more explosively the eruption may be. 
 
 Additionally, the gas inside the magma chamber drives the flow of the magma through the mantle and crust. Gas can build up within the magma chamber, forcing the magma to be quickly discharged and causing a more explosive eruption. Other factors can include the pipe’s shape. The length and diameter of it can cause differing explosion types, with typically short, narrow pipes creating greater explosions. 
 
-Magma is made of molten rock crystals which grow as the liquid inside cools down. Gas bubbles can make this more porous, viscosity and chemistry of the melt and temperature can change the characteristics of magma. The chemistry of magma refers to the polymerisation state of the liquid. Remember GCSE chemistry? Polymers are long chains of molecules; if these contain silica and oxygen inide, it becomes more viscous. Acidic, rhyolitic lava is characteristic of this chemistry, from typically converging boundaries. 
+Magma is made of molten rock crystals which grow as the liquid inside cools down. Gas bubbles can make this more porous, viscosity and chemistry of the melt and temperature can change the characteristics of magma. The chemistry of magma refers to the polymerisation state of the liquid. Remember GCSE chemistry? Polymers are long chains of molecules; if these contain silica and oxygen inside, it become more viscous. Acidic, rhyolitic lava is characteristic of this chemistry, from typically converging boundaries. 
 
-> Alkaline, H2O molecules break up these polymers into smaller, simple molecules which flow more easily and typically basaltic. 
+> Alkaline and H~2~O molecules break up these polymers into smaller, simple molecules which flow more easily and are typically basaltic. 
 
 To simplify the remembrance of the formation and type of magma, have a look at this table and see if you notice a pattern.
 
 | Explosive eruptions | Effusive eruptions |
 |--|--|
 | Typically forms at converging boundaries | Typically forms at diverging boundaries or hotspots |
- | Formed as a result of subduction | Formed from a deep mantle plume |
+ | Formed as a result of subduction | Formed from a deep mantle plume, or from ridge pull |
 | Temperatures cooler, at around 750 | Hot temperatures at 1000+ degrees |
 | Sticky, viscous magma | Runny, low viscosity magma |
 | Acidic | Less acidic |
@@ -106,21 +112,25 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 | Distinct central vent and perhaps several side vents | Fissure eruptions common |
 | Less unpredictable but infrequent | More unpredictable, but more frequent |
 | Recurrence intervals can range from several years to several thousand+ years | Recurrence intervals are very frequent, even once per day |
-| Examples include Mt Pinatubo, Mt. St. Helens,  | Examples include Iceland,  |
+| Examples include Mt Pinatubo, Mt. St. Helens,  | Examples include Iceland, Hawaii |
 
 ### Intrusive volcanicity
 
 ### Hotspot volcanoes
 
-### Yellowstone
+### Yellowstone supervolcano
 
 ### Stratovolcanoes
+Cone-shaped formed by explosive extrusive volcanicity. Due to high viscosity, typically near a converging boundary, caused by long-length polymers due to the mixture of hot asthenospheric material and subducted plate debris which contains H~2~O, gases and other material from the ocean floor. This results in more gases developing, rising upwards and mixed in viscous, relatively cool (~600-800 degrees C) rhyolitic magma chambers and explosive eruptions occurring when the gases reach the surface. The high viscosity causes the lava to not travel long distances. Over time, ash and lava will solidify in strata, building up around the central volcanic funnel causing the characteristic dome shape. 
 
 ### Shield Volcanoes
+Effusive, basaltic eruption causes these as low-length polymerisation of the lava allows for higher temperatures (>1000degrees) and less viscosity, enabling long-distance transport after the initial extrusion.
 
 ### East African Rift Valley
+The African Plate is splitting in two! Land is dropping down due to ridge push and convection. There are also volcanic mountains
 
 ## Case study: Eyjafjallajokull, Iceland
+
 
 ## Case study: Volcan del Fuego, Guatemala
 
@@ -141,6 +151,5 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDE4MjUxMTcsLTE2NzA2NTM3NjNdfQ
-==
+eyJoaXN0b3J5IjpbNzkyNjc4NTE1LC0xNjcwNjUzNzYzXX0=
 -->
