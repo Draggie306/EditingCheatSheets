@@ -134,7 +134,15 @@ Iceland, in 2010, had a HDI of 0.92 and a GNI per capita of US$36,270 PPP, with 
 
 Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with characteristic basaltic andesitic lava. This attracted some tourists to the area, and ash reached no more than 4km in the atmosphere - a VEI 2 eruption.
 
-In April 2010, the second, most significant explosive eruption occurred, peaking at a VEI of 4. This was particularly damaging for many reasons. It was directly below the very stable jet stream, pushing wind towards the UK and Europe. The eruption took place under 200m of glacial ice, with much of the meltwater flowing back into the caldera increasing the explosivity with high gases and increased pressure. This also caused glass-rich ash to be formed quickly which was injected 
+In April 2010, the second, most significant explosive eruption occurred, peaking at a VEI of 4. This was particularly damaging for many reasons. It was directly below the very stable jet stream, pushing wind towards the UK and Europe. The eruption took place under 200m of glacial ice, with much of the meltwater flowing back into the caldera increasing the explosivity with high gases and increased pressure. This also caused glass-rich ash to be formed quickly which was injected into the troposphere at above 10km in altitude, which moved its way along Western and Central Europe.
+
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/b/b1/Eyjafjallaj%C3%B6kull_volcanic_ash_composite.png)
+
+### Impacts on people
+Many farm crops and roads were washed away from glacial *jökulhlaups*, and fish exports from the Icelandic offshore fishing industry were halted due to the ash. Around 800 nearby residents were evacuated from large trucks and members of the fire brigade.
+
+On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £100mn and some companies were never able to recover from this. On top of 400,000 Britons 
+
 
 > How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
 
@@ -158,5 +166,5 @@ In April 2010, the second, most significant explosive eruption occurred, peaking
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkxMDYzNTEyLC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTE1MTU5OTIzOSwtMTY3MDY1Mzc2M119
 -->
