@@ -9,7 +9,7 @@ This is effectively asking about how well it is a **source of information about 
 - Have a completely understandable **scale**? Pick out a year/month and can you get a precise reading? Is it going up in regular, precise intervals or random numbers of years?
 - Have a reliable **source**? Is it from the USGS, the UNDRR, the EU?
 
-
+## Case study: 
 
 
 
@@ -22,5 +22,6 @@ This is effectively asking about how well it is a **source of information about 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIyOTk5MjkzLC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbLTEzMzIyNzk3MDAsLTE2NzA2NTM3NjNdfQ
+==
 -->
