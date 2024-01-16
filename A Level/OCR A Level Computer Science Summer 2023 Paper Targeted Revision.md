@@ -301,11 +301,26 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 - When the same key is used to encrypt and decrypt data. Therefore intercepting the key is as easy as intercepting a message. This is private key cryptography.
 
 **Asymmetric encryption**
-- Uses a different key to encrypt and decrypt data
-- The public key, which anyone can see, can be used to encrypt a given piece of data.
-- The private key, used to decrypt the data into plaintext, is only known by one party like a server. This means that communication can be verified to be coming from and going to the specific server
+- Uses a different but mathematically related key to encrypt and decrypt data (public and private keys).
+- The public key encrypts data, private key decrypts it.
+- The public key is made... public
+- The private key, used to decrypt the data into plaintext, is only known by one party like a server. 
+- Communication can be verified to be coming from and going to the specific server
+- Prevents man-in-the-middle attacks as data intercepted cannot be decrypted without the private key
+
+
+**Hashing**
+- Hashing functions map an input to a fixed-length, typically smaller output. 
+- The original value cannot be determined
+- Useful for storing passwords - less of a security risk to store a hashed representation of them in a hashed format rather than the values of them themselves. We just need to compare the inputted value's hashed value to the password 
+
 
 ## HTML & CSS
+
+```htmlk
+<link href = "styles.css" rel="stylesheet" type="text/css">
+
+
 
 ## Computing-related legislation
 
@@ -326,6 +341,6 @@ Declarative languages like SQL, HTML and CSS on the other hand tell the computer
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NzExOTI3MywtNDc2NTEzMzk0LDIxMD
+eyJoaXN0b3J5IjpbMTExNjI5NDUzNywtNDc2NTEzMzk0LDIxMD
 AzMzkzNjcsNzMwOTk4MTE2XX0=
 -->
