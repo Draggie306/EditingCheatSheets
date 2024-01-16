@@ -264,8 +264,17 @@ In this scenario, the mantissa has been normalised. However this is only half th
 The below sections are a section of the content of the paper targeted on programming languages, starting with assembly
 
 ## Assembly language
+These languages are directly matched to the machine code which is specific to the architecture and its instruction set. It uses mnemonics which are short words which correlate to machine code binary. 
+
+The assembler at this stage translates the mnemonics into the machine code.
+
 
 ## High-level languages
+These are written "above" the low-level languages. Each instruction may equate to several lines of machine code. They are designed to be mroe human-readable, with an English-like syntax, and can be cross-sytem and operate across varying CPU architectures. This is in comparison to low level languages like assembly, which are platform-dependent.
+
+Programming aradigms involved in high-level langauges include imperative and procedural. Imperative programming includes declarative and object-oriented coding. They use sequence, selection and iteration to tell a computer how to solve a problem.
+
+Declarative languages like Pascal
 
 ## Encryption and hashing
 
@@ -290,6 +299,6 @@ The below sections are a section of the content of the paper targeted on program
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjUxMzM5NCwyMTAwMzM5MzY3LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbODM3Mzg1NzEzLC00NzY1MTMzOTQsMjEwMD
+MzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
