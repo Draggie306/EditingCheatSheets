@@ -87,7 +87,7 @@ Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-
 
 ## Case study: Air pollution and cancer in India
 
-India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air with particulate matter above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
+India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI per capita of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
 
 Over the past 2 decades, fine particle concentration has increased by 69% across India, reducing the life expectancy by around 2.4 years nationally.
 
@@ -137,21 +137,21 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 
 Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium (primary *P. vivax*) parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
 
-> Sporozoites inoculated by the female Anopheles vector enters liver cells, rupturing and releasing mature merozoites which move into red blood cells.
+> Sporozoites inoculated by the female Anopheles vector enter liver cells, rupturing and releasing mature merozoites which move into red blood cells.
 
 200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. Malaria can also be caught again, as it can take many reinfections to build up sufficient immunity to become protected against it. [[2](https://www.mdedge.com/hematology-oncology/article/187381/related-issues/why-its-hard-develop-immunity-against-malaria)]
 
-The **epidemiology** of malaria is unevenly distributed. Areas such as the **Gambella province**, situated to the west of the **Ethiopian highland mountains** (relief rainfall) is in a **lowland area and malaria is endemic**. This area, where humid and warm, >30 degrees conditions mix with **stagnant water pools** provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
-In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many **agricultural workers migrate** temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and **work into the night, when transmission is at its highest**. **Irrigation, in the Awash Valley and in Gambella**, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
+The **epidemiology** of malaria is unevenly distributed. Areas such as the **Gambella province**, situated to the west of the **Ethiopian highland mountains** (relief rainfall) are in a **lowland area and malaria is endemic**. This area, where humid and warm, >30 degrees conditions mix with **stagnant water pools** provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, altitudes reach over 4,000m and are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest-elevation capital city in the world. 
+In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many **agricultural workers migrate** temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and **work into the night, when transmission is at its highest**. **Irrigation, in the Awash Valley and Gambella**, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
 
 
  
 
 ### Socio-economic impacts on Ethiopia
  
-As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled from the malaria warnings, despite being a beautiful country along the East African Rift.
+As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled by the malaria warnings, despite being a beautiful country along the East African Rift.
 
-The uneven epidemiology also affects **food security**, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malaria, many refuse to work in the lowlands and overexploit the already poorer quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible to damaging **famines**. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
+The uneven epidemiology also affects **food security**, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malaria, many refuse to work in the lowlands and overexploit the already poorer-quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible to damaging **famines**. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
 
 ### Mitigation strategies and responses
 
@@ -163,7 +163,7 @@ The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push
 
 ## Case study: Cancer in the UK
 
-Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 were due to cancer. 
+Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 was due to cancer. 
 
 > Carcinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may cause 
 
@@ -175,7 +175,7 @@ Lung cancer has significantly more (170%) cases in the 50% more deprived communi
 There is a clear link between smoking and at least 15 different types of cancer. **7 in 10 lung cancer cases are caused by smoking**; it is also the most common cause of cancer death in the UK
 
 ### Socio-economic impacts on the UK
-A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. **500 people die daily from cancers**. Incidence, in areas dependent of deprivation status, is going to increase by over 40% by 2035 for half a million new cases annually. 
+A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. **500 people die daily from cancers**. Incidence, in areas independent of deprivation status, is going to increase by over 40% by 2035 for half a million new cases annually. 
 
 The workforce is affected: **120,000 people below the age of 65 are diagnosed every year with cancer**. They are likely to leave the labour force for many months at a time during treatment, and many may never return to work - some are too physically in pain or fatigued due to the secondary effects of chemotherapy, for example, to return. The UK has one of the highest rates of carers for those with cancer in the "western" world with over 1 million people caring for someone with a terminal condition, out of work or undergoing treatment. In addition to the 50,000+ working-age people who die to cancer each year, the economic losses of this quickly adds up into the tens of billions, with hundreds of thousands never able to work again.
 
@@ -258,6 +258,7 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMjMyOTg1OCwtMTU1Nzg4NDU5NiwtMT
-MwMjM0NTUxOCwtNTczMTk0NTE2LC0zMTIyNjM1MDNdfQ==
+eyJoaXN0b3J5IjpbMTg5ODY3NDE5NiwxNjEyMzI5ODU4LC0xNT
+U3ODg0NTk2LC0xMzAyMzQ1NTE4LC01NzMxOTQ1MTYsLTMxMjI2
+MzUwM119
 -->
