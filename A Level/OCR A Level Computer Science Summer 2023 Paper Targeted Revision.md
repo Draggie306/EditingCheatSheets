@@ -434,16 +434,20 @@ Benefits of 3NF normalisation is that it upholds ACID
 The instruction/database query is executed in its entirety or not at all
 
 **Consistency**
-All transactions must a
+All transactions must abide by the transaction rules (referential integrity)
 
 **Isolation**
+All transactions executing concurrently will have the same result as if they are executed sequentially
 
 **Durability**
-
+The state of all processed transactions will remain so after the transaction has been completed (can use disk buffer, etc.)
 
 ## Functions
+Return a value
 
 ## Logic gates
+
+
 
 ## Boolean expressions
 
@@ -454,6 +458,6 @@ All transactions must a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE2NTI4NTc4LC00NzY1MTMzOTQsMjEwMD
-MzOTM2Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbMTg0NTgwNzQ1NCwtNDc2NTEzMzk0LDIxMD
+AzMzkzNjcsNzMwOTk4MTE2XX0=
 -->
