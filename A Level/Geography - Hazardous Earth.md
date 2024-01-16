@@ -180,15 +180,15 @@ However, this LIDC eruption was much better handled compared to the eruption in 
 Indonesia is an EDC with an HDI of 0.705 and GNI per capita of **$4,580** in 2022. It is in a very unstable tectonic region, with the Sunda Trench being the subduction zone between the Indo-Australian plate to the south and east, and the continental Eurasian plate to the north. There are 130 active volcanoes in Indonesia and, as a result, 70% of the 273 million inhabitants live within 100km of an active volcano - within range of damaging distances to historic VEI 6 and 7 eruptions of Tambora and Krakatau. 8.6 million are within 10km of these volcanoes - the range of a pyroclastic flow. 
 
 Quick facts:
-- Eruption occurred in October 2010
+- Eruption occurred in October 2010. Peak VEI of 4 - deadliest in 150 years
 - 353 people died, mostly due to close proximity pyroclastic flows
 - 350,000 evacuated from the areas in hazard zones 1, 2 and 3
-- Many people 
+- Many people returned as the eruption was still ongoing. It lasted over a month from 25th October to the end of November
 
 50,000 people are living on Mt. Merapi's slopes, within the most dangerous hazard Zone 3. This is primarily due to the agricultural benefits of volcano flanks:
 - Ash deposits are rich in potassium and phosphorous. Combined with added relief rainfall and being in a tropical equatorial region, there is plenty of water to supply large swaths of agricultural regions
 - Infrastructure such as electricity and telecommunications already exists in the region, reducing the amount of pull factors to move into urban regions such as Yogyakarta to the south.
-- However, although risk perception is high, many people may have deemed that 
+- However, although risk perception is high, it may have been overridden by a sense of dependence on the land - they may not have a financial buffer compared to when Eyjafjallajokull erupted with the same VEI in the same year.
 
 Mitigation strategies have been partially successful. The local Javanese government compensated many
 
@@ -211,5 +211,5 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg4Njg2NzE0LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTMwNzE5NTMwNiwtMTY3MDY1Mzc2M119
 -->
