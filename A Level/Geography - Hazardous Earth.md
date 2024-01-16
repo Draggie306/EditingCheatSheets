@@ -139,9 +139,15 @@ In April 2010, the second, most significant explosive eruption occurred, peaking
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/b/b1/Eyjafjallaj%C3%B6kull_volcanic_ash_composite.png)
 
 ### Impacts on people
-Many farm crops and roads were washed away from glacial *jökulhlaups*, and fish exports from the Icelandic offshore fishing industry were halted due to the ash. Around 800 nearby residents were evacuated from large trucks and members of the fire brigade.
+Many farm crops and roads were washed away from glacial *jökulhlaups*, and fish exports from the Icelandic offshore fishing industry were halted due to the ash. Around 800 nearby residents were evacuated from large trucks and members of the fire brigade. Because of good infrastructure, warning systems and education, there were no direct deaths from the eruption.
 
-On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £100mn and some companies were never able to recover from this. On top of 400,000 Britons 
+On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £100mn and some companies were never able to recover from this. On top of 400,000 Britons stranded globally due to the three major London airports being closed - almost 1% of the population - this was particularly damaging.
+
+Just-in-time manufacturing and trade as a result of globalisation such as the transport Kenyan flowers cost the horticultural industry around $3mn per day, with many thousands of farmers who rely on a source of stable income in LIDCs being temporarily laid off.  
+
+"Volcano tourism" has increased sharply since the eruption, with people going to visit the geological landforms and effusive activity like lava streams across the country. Tourist levels were 43% above forecast levels, with almost 80,000 additional visits. These people spend an average of ~$2000 each, generatign significant revenue for the country.
+
+"**The increase in Icelandic tourism was far greater than the previous decline caused by the natural disaster and greatly exceeded forecasts.**" [[1](https://hospitalityinsights.ehl.edu/iceland-tourism-boom)]. This clearly shows how it can be a benefit to countries which can successfully mitigate the vulnerability 
 
 
 > How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
@@ -166,5 +172,5 @@ On the continent, over 100,000 flights were cancelled, affecting 7 million passe
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MTU5OTIzOSwtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbMTUxODY1NzM5LC0xNjcwNjUzNzYzXX0=
 -->
