@@ -161,7 +161,9 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 
 ## Case study: Volcan del Fuego, Guatemala
 
+Guatemala is an LIDC in Central America with an HDI of 0.627. 
 
+It killed over 200 people with 
 
 ## Case study: Mount Nyiragongo, DRC, May 2021
 
@@ -177,6 +179,7 @@ However, this LIDC eruption was much better handled compared to the eruption in 
 ## Strategies to manage volcanic hazards
 
 ### Mitigating against events
+Humans cannot stop volcanic hazards
 
 ### Mitigating against vulnerability
 
@@ -190,6 +193,5 @@ However, this LIDC eruption was much better handled compared to the eruption in 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk3MzEzODAsLTE2NzA2NTM3NjNdfQ
-==
+eyJoaXN0b3J5IjpbODA4MDg5NTcyLC0xNjcwNjUzNzYzXX0=
 -->
