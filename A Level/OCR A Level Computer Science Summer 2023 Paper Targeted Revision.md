@@ -270,8 +270,9 @@ Value: -14.5
 3) Add `1` to the least significant bit column, now in the fraction stage
 > 11110001.1
 
-4) Normalise mantissa by shifting the bits. We disregard leftmost zeroes up until there is a zero
+4) Normalise mantissa by shifting the bits until the leftmost bits are `10` (for a negative number) 
 > (111) 	1.00011
+> = 1.00011
 
 5) Pad because of the ones we just took off to an 8bit number
 > 1.0001100
@@ -279,9 +280,8 @@ Value: -14.5
 6) As we moved 4 digits to the left, calculate the exponent
 > 0100
 
-7) Append e
-
-= 1.0001100 0100
+7) Append exponent to the normalised floating point
+> 1.0001100 0100
 
 
 
@@ -484,6 +484,6 @@ Return a value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NDIwMjcyNSwxODQ1ODA3NDU0LC00Nz
-Y1MTMzOTQsMjEwMDMzOTM2Nyw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbNTgyMzI0MTA2LDE4NDU4MDc0NTQsLTQ3Nj
+UxMzM5NCwyMTAwMzM5MzY3LDczMDk5ODExNl19
 -->
