@@ -198,7 +198,7 @@ To convert from hex to binary, DIVide by 16 (work out how many times 16 goes int
 
 ## Two's complement
 
-Flip all the bit values and then add the value `1`. The first, most significant bit represents a the opposite value when represented as two's complement - in an 8-bit binary value it would represent -128 in two's complement. 
+Flip all the bit values and then add the value `1` to **the least significant bit**. The first, most significant bit represents a the opposite value when represented as two's complement - in an 8-bit binary value it would represent -128 in two's complement. 
 
 When subtracting, simply add the negative number. In other words, use two's complement on the number to subtract to make it a negative, and apply normal binary addition rules. 
 
@@ -257,6 +257,32 @@ In this scenario, the mantissa has been normalised. However this is only half th
 5.  **Combine Mantissa and Exponent:** 01011000 0100
 6.  **Convert to Decimal:** 0.5 + 0.125 + 0.0625 = 0.6875
 7.  **Apply Exponent:** 0.6875 * 10^4^ = 6875
+
+### Negative denary to a normalised floating point with two's complement
+Value: -14.5
+
+1) Convert to positive denary (14.5):
+> 0000 1110.1
+
+2) Perform one's compliment (total inversion of all bits)
+> 11110001.0 
+
+3) Add `1` to the least significant bit column, now in the fraction stage
+> 11110001.1
+
+4) Normalise mantissa by shifting the bits. We disregard leftmost zeroes up until there is a zero
+> (111) 	1.00011
+
+5) Pad because of the ones we just took off to an 8bit number
+> 1.0001100
+
+6) As we moved 4 digits to the left, calculate the exponent
+> 0100
+
+7) Append e
+
+= 1.0001100 0100
+
 
 
 
@@ -458,6 +484,6 @@ Return a value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0NTgwNzQ1NCwtNDc2NTEzMzk0LDIxMD
-AzMzkzNjcsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTU1NDIwMjcyNSwxODQ1ODA3NDU0LC00Nz
+Y1MTMzOTQsMjEwMDMzOTM2Nyw3MzA5OTgxMTZdfQ==
 -->
