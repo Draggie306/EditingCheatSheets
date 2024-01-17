@@ -43,20 +43,21 @@ Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](htt
 
 
 ---
-![enter image description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308809199927436/wegener-yeeha-original.gif)
+```![enter image description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308809199927436/wegener-yeeha-original.gif)
+```
 
 ---
 
 
-## Plate boundaries
-A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
+## Plate Boundaries
+A plate boundary is where two plates meet. This is not the same as there being two plate boundaries! There is only one boundary and two plates.
 
 ## Divergent plate boundaries
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
  
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
-At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at time of eruption.
+At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
 
 Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to, releasing kinetic energy. (There is little volcanic activity along transform faults.)
 
@@ -214,5 +215,5 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjgzMTQyMiwtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
