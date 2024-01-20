@@ -177,6 +177,10 @@ Arrays cannot typically grow in size and are static. Size and data type of all i
 
 Arrays can be of two, three or more dimensions. As such they can be used to represent records, tables, and coordinates. 
 
+
+### Lists
+are dynamic data structures and can grow/shrink as the program requires
+
 ### Tuples
 Tuples are ordered sets of values of mixed data types. However, they are immutable and the data stored cannot be changed. They are static
 
@@ -185,8 +189,8 @@ my_tuple = new Tuple(29387, "beans" "Helllo", 34, 324, True, False)
 
 However we can't change my_tuple[2] = "Hello" due to the immutability, nor can items be appended
 
-### Lists
-are dynamic data structures and can grow/shrink as the program requires
+
+
 
 
 ## Binary and hexadecimal
@@ -484,6 +488,7 @@ Return a value
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgyMzI0MTA2LDE4NDU4MDc0NTQsLTQ3Nj
-UxMzM5NCwyMTAwMzM5MzY3LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTEzNTI2NzE5MzQsNTgyMzI0MTA2LDE4ND
+U4MDc0NTQsLTQ3NjUxMzM5NCwyMTAwMzM5MzY3LDczMDk5ODEx
+Nl19
 -->
