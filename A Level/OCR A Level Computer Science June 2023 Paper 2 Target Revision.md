@@ -3,7 +3,7 @@
 
 # Data Structures
 - Abstract data types (ADTs) are a way of encapsulating data, and operations on that data, into a single unit. They may have various different implementations.
-- A data structure on the other hand is a well-defined, both in terms of how data is stored and how data is interacted with
+- A data structure on the other hand is well-defined, both in terms of how data is stored and how data is interacted with
 
 ### Trees
 are an abstract data type. Data that is hierarchical, such as a file system, can be represented in a tree data structure as opposed to in a linear manner. A tree is a connected, undirected graph with no cycles
@@ -17,11 +17,11 @@ are an abstract data type. Data that is hierarchical, such as a file system, can
 
 
 ## Binary Search Trees
-[Trees](#trees) can also store non-heirarchical data. Binary trees are a good example of this: each node has at most one or two children. 
+[Trees](#trees) can also store non-hierarchical data. Binary trees are a good example of this: each node has at most one or two children. 
 
 The big-O notation of these trees is O (log n). Unbalanced trees have a worst-case time complexity of O(n)
 
-**"Starting at the root each time, if the next item is less than the node, it is added to the left of the root. Otherwise move it to the right."**
+**"Starting at the root each time, if the next item is less than the node, it is added to the left of the root. Otherwise, move it to the right."**
 
 They can be represented as an array with each index containing a left and right pointer, and the data itself. Use -1 as a pointer if there is no subtree
 
@@ -65,7 +65,7 @@ When there are two children, the value of the smallest value in the right (large
 
 
 ## Backtracking
-Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on previous results. For example, instead of traversing each possible path in a maze, the backtracking algorithm can swap to an adjacent path on reaching a dead end. The last decision made will be undone, and an alternative path (or **candidate**) is attempted.
+Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on previous results. For example, instead of traversing each possible path in a maze, the backtracking algorithm can swap to an adjacent path on reaching a dead end. The last decision made will be undone, and an alternative path (or **candidate**) is then attempted.
 
 ## Graph
 
@@ -290,6 +290,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMDAxNzI3MiwxMzE5NzU2MTU5LC02Mj
+eyJoaXN0b3J5IjpbMTM5NzQwMzE4MCwxMzE5NzU2MTU5LC02Mj
 g2MjYyMTYsLTEyOTE5MTg2NDNdfQ==
 -->
