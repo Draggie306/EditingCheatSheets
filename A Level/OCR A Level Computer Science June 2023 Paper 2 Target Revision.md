@@ -187,11 +187,33 @@ Concurrent processing is the act of processing data at the same time as opposed 
 
 # OOP/Procedural
 
+### procedural languages
+Procedural languages are those which tell the computer how to complete an instruction/follow an algorithm as a sequence of step-by-step instructions, or procedures, which can, in turn, call other procedures. All data about variables and content is stored as primitive data types: var, char, Bool, int, float, etc.
 
 
 
 ## Constructors
 Contructors, in a nutshell, are procedures within a class that create a new instance of an object. They are typically declared in OOP as `public procedure new(attribute1, attribute2 ...)`. Emphasis on the `new` name.
+
+This allows multiple independent variables to be created as instances of a class object.
+
+```cpp
+class Cat
+	private furColour
+	private breed
+	
+	// rest of attributes
+
+	public procedure new(furColour, breed)
+		furColour = furColour
+		breed = breed
+	endprocedure
+
+
+cat1 = new Cat("black", "siamese")
+
+```
+	 
 
 
 ## Local/global variables (9 marks)
@@ -228,6 +250,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MjkwMDA0NCwtNjI4NjI2MjE2LC0xMj
+eyJoaXN0b3J5IjpbMTc2NzY0NzAwMSwtNjI4NjI2MjE2LC0xMj
 kxOTE4NjQzXX0=
 -->
