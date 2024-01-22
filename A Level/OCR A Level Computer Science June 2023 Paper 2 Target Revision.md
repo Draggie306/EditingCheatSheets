@@ -188,7 +188,9 @@ Bubble sort is a very simple algorithm to implement and is simple to understand.
 	- Compare this to the value of the element at position iteration plus one
 	- If the number is greater, swap them
 	- (this can be done by creating a temp variable for the position of the current iteration, setting position to position + 1, then setting position + 1 to temp)
-	- Add   
+	- Add 1 to iteration (i)
+	- Repeat until for statement is complete
+- Print out the ordered list!
 
 
 
@@ -288,6 +290,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIwNTE0NjUsMTMxOTc1NjE1OSwtNj
-I4NjI2MjE2LC0xMjkxOTE4NjQzXX0=
+eyJoaXN0b3J5IjpbLTYwMDAxNzI3MiwxMzE5NzU2MTU5LC02Mj
+g2MjYyMTYsLTEyOTE5MTg2NDNdfQ==
 -->
