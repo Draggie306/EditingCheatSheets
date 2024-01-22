@@ -197,13 +197,15 @@ Concurrent processing is the act of processing data at the same time as opposed 
 ## Local/global variables
 Local and global variables are both variables but with differing **scopes** and lifetime.
 
-There are a range of reasons as to where, when and why to use local and global variables. A global variable, typically declared with the `global` keyword in object-oriented and procedural languages, has its data available and modifiable for any procedure in the program. This is different to a local variable, which is declared within an enclosing scope of a single procedure, and is removed from memory and unassigned when all processing is completed within that procedure, and the procedure becomes out-of-scope. Global variables have a static lifetime, meaning it is allocated when the program starts and is deallocated when the program terminates.
+There are a range of reasons as to where, when and why to use local and global variables. A global variable, typically declared with the `global` keyword in object-oriented and procedural languages, such as Python, has its data available and modifiable for any procedure in the program. This is different to a local variable, which is declared within an enclosing scope of a single procedure, and is removed from memory and unassigned when all processing is completed within that procedure, and the procedure becomes out-of-scope. Global variables have a static lifetime, meaning it is allocated when the program starts and is deallocated when the program terminates.
 
-The benefits of using local variables are significant. Firstly, local variables allow for recursion. This is because each declaration of the variable is local to that specific function and, as such, a copy is created in memory of the function and all its content (or "**frame**") and is typically pushed onto a call stack. This local variable, which can store various values such as the calculation in the Fibonacci sequence, can be then used
+The benefits of using local variables are significant. Firstly, local variables allow for **recursion**. This is because each declaration of the variable is local to that specific function and, as such, a copy is created in memory of the function and all its content (or "**frame**") and is typically pushed onto a call stack. This local variable, which can store various values such as the calculation in the Fibonacci sequence, can be then used to store the values of the previous intermediary inputs, calculations and outputs to calculate the final output, all whilst using the same variable name due to differing scopes. This improves efficiency as various variables do not have to be statically typed nor specified for each iteration. 
+
+In addition, local variables reduce "spaghetti code" and improve the efficiency and readability of a program, improving its maintainability. As locally scoped variables only exist during the execution of a particular subroutine, they cannot overwrite the data of other variables which may interrupt and cause unexpected behaviour. For example, this is particularly the case in large programs with a range of different calculations required. In maths programs, the variable name "value" or "number" may be frequently used by programmers for simplicity, and these functions may call other functions with the same variable identifier. However, as the scope of each variable is that of that function executing, 
 
 
 
-> If it's something theoretical for an exam, I find I learn best by digging into something (ideally from multiple books or sources) until I know I understand the whole picture well enough to write about it on my own as a test to see what I'd picked up and what I'd missed! After writing down, I'll compare my explanation to the books or official answers afterwards. It takes a long time doing that but I think a good way to know how well you understand something is when you can put it into plain English language, without having to refer back to books, using words that any non-technical non-IT person would be able to understand. [1](https://www.thestudentroom.co.uk/showthread.php?t=5347580)
+> If it's something theoretical for an exam, I find I learn best by digging into something (ideally from multiple books or sources) until I know I understand the whole picture well enough to write about it on my own as a test to see what I'd picked up and what I'd missed! After writing it down, I'll compare my explanation to the books or official answers afterwards. It takes a long time to do that but I think a good way to know how well you understand something is when you can put it into plain English language, without having to refer back to books, using words that any non-technical non-IT person would be able to understand. [1](https://www.thestudentroom.co.uk/showthread.php?t=5347580)
 
 
 
@@ -211,6 +213,6 @@ The benefits of using local variables are significant. Firstly, local variables 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNTk2NjQwNywtNjI4NjI2MjE2LC0xMj
-kxOTE4NjQzXX0=
+eyJoaXN0b3J5IjpbLTE5NjMyNTE2MTksLTYyODYyNjIxNiwtMT
+I5MTkxODY0M119
 -->
