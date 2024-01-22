@@ -65,7 +65,7 @@ When there are two children, the value of the smallest value in the right (large
 
 
 ## Backtracking
-Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on 
+Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on previous results. For example, instead of traversing each possible path in a maze, the backtracking algorithm can swap to an adjacent path on reaching a dead end. The last decision made will be undone 
 
 ## Graph
 
@@ -198,5 +198,6 @@ Concurrent processing is the acy of processing data at the same time as opposed 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTE5MTg2NDNdfQ==
+eyJoaXN0b3J5IjpbLTEzNjM4ODY4MTUsLTEyOTE5MTg2NDNdfQ
+==
 -->
