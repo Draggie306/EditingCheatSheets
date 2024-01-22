@@ -65,7 +65,7 @@ When there are two children, the value of the smallest value in the right (large
 
 
 ## Backtracking
-Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on previous results. For example, instead of traversing each possible path in a maze, the backtracking algorithm can swap to an adjacent path on reaching a dead end. The last decision made will be undone 
+Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on previous results. For example, instead of traversing each possible path in a maze, the backtracking algorithm can swap to an adjacent path on reaching a dead end. The last decision made will be undone, and an alternative path (or **candidate**) is attempted.
 
 ## Graph
 
@@ -166,7 +166,7 @@ It's worth noting that sometimes when big-O is applied to algorithms such as dep
 
 
 ## Concurrent processing
-Concurrent processing is the acy of processing data at the same time as opposed to equentially - one after the other. 
+Concurrent processing is the act of processing data at the same time as opposed to sequentially - one after the other. 
 
 
 ## Merge sort and bubble sort
@@ -198,6 +198,5 @@ Concurrent processing is the acy of processing data at the same time as opposed 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjM4ODY4MTUsLTEyOTE5MTg2NDNdfQ
-==
+eyJoaXN0b3J5IjpbLTYyODYyNjIxNiwtMTI5MTkxODY0M119
 -->
