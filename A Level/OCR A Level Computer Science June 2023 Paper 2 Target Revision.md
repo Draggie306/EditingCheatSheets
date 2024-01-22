@@ -1,0 +1,202 @@
+# OCR A Level Computer Science June 2023 Paper 2 Algorithms and Programming Dedicated Target Revision Cheat Sheet
+
+
+# Data Structures
+- Abstract data types (ADTs) are a way of encapsulating data, and operations on that data, into a single unit. They may have various different implementations.
+- A data structure on the other hand is a well-defined, both in terms of how data is stored and how data is interacted with
+
+### Trees
+are an abstract data type. Data that is hierarchical, such as a file system, can be represented in a tree data structure as opposed to in a linear manner. A tree is a connected, undirected graph with no cycles
+
+- Each item is a **node**. Each node may have/be:
+	- a **parent** node with links to one or multiple children
+	- a child node which is linked to a parent and may or may not have children
+	- a leaf node with no children
+	- a root node at the top of the tree where everything stems from
+
+
+
+## Binary Search Trees
+[Trees](#trees) can also store non-heirarchical data. Binary trees are a good example of this: each node has at most one or two children. 
+
+The big-O notation of these trees is O (log n). Unbalanced trees have a worst-case time complexity of O(n)
+
+**"Starting at the root each time, if the next item is less than the node, it is added to the left of the root. Otherwise move it to the right."**
+
+They can be represented as an array with each index containing a left and right pointer, and the data itself. Use -1 as a pointer if there is no subtree
+
+
+
+## Depth-first (post-order)
+Traverse the left subtree, then the right subtree, then visit the root node.
+
+Algorithmically, this can be written as:
+
+```c
+procedure post_traverse(index)
+	if tree[index].left_pointer != 0 then
+		post_traverse(tree[index].left_pointer)
+	endif
+
+	if tree[index].right_pointer != 0 then
+		post_traverse(tree[index].right_pointer)
+	endif
+	
+	print(tree[index].data)
+endprocedure
+```
+
+For either in-order, pre-order and post-order traversals, the location of the print statement is what changes. The base algorithm is the same. Pre-order search would have the output preceding the first selection, whilst the in-order search would have the output statement between the two selection statements.
+
+The output of post-order traversals will always be the last time that node is visited in the entire tree. 
+
+Alternatively, you can calculate it by finding the leftmost node and moving right and up (see diagram to help)
+
+### Deleting a node
+When deleting a node from the search tree, the binary search tree's properties must be conserved. That is, each value to the right of any node must be greater than the root node, and each value from the left must be smaller.
+
+For leaf nodes, this is easy.
+
+However, it is slightly more tricky when there are one or more child nodes
+
+When there is only one child, its parent is simply removed and the child is attached to the grandparent node
+
+When there are two children, the value of the smallest value in the right (largest) subtree replaces the one of the node being deleted.
+
+
+## Backtracking
+Backtracking is a method used to intelligently try out different paths or sequences until the solution is found, based on 
+
+## Graph
+
+
+
+## Dijkstra's Shortest Path Algorithm
+Dijkstra's algorithm is a way of finding the shortest path between one and any other node in a weighted graph. It can be unidirectional or bidirectional, too.
+
+The data type used is a priority queue. Initially, each node is assigned a temporary distance with 0 at the start and infinity at every other node. 
+
+Each iteration through the algorithm generally looks like this:
+1. Add all nodes to the priority queue with the starting node value of 0 and everything else infinity
+2. If the node has been fully explored, mark them green and dequeue them
+3. Compute distance to all other neighbours
+4. Reorder the priority based on distance
+5. Update the distance to each node if a shorter one is found
+6. Traverse to the next closest node
+7. Repeat until the priority queue is empty and all nodes' shortest distances have been calculated
+
+> Limitations include negative weights not being calculated correctly
+> Graphs with loads of nodes may be better suited to use a "Fibonacci heap" rather than a weighted graph.
+
+
+## Decomposition
+Breaking a problem into smaller sub-problems in a way that each individual sub-problem is easier to tackle, and completes a task of the overall problem. Sub-problems can be continually divided.
+
+This is an element of **modularisation** and part of thinking procedurally.
+
+The benefits of decomposition include:
+- Large programs can be broken down into easier to maintain modules
+- These modules, if used frequently by a range of software, can be included in a library (e.g. cryptographic functions)
+- Modules can be individually tested which allows for better debugging without affecting any other part of the program, and programmers can work on several modules concurrently.
+- Modules can be re-used and called throughout the program
+
+
+## Linked List
+A dynamic, abstract data structure. Each element/node in the linked list contains the data itself, and pointers to the next node's address (link). 
+
+It is non-contiguous. This means that data is not stored sequentially in memory. The last value will point to null.
+
+When adjusting the linked list, adding an element is as easy as changing the pointer value for the previous node to the new, inserted value, and setting the pointer value of this new node to the next node in the list. Similarly, deleting a node and its data will just modify the previous node's link to the next node, after the deleted one. 
+
+Mutltiple pointers or links can be added to nodes in the array which can represent anothe way of ordering, e.g. alphabetical AND number ordering of a list of names.
+
+## Functions
+Return a value
+
+
+## Recursive functions and algorithms
+A recursive routine must satisfy three conditions:
+- Include a **base/stopping case**
+- **Call itself** if this base case is not met
+- Have a **finite number of recursions**
+
+
+## Big-O Notation
+Big-O is used to represent the time and compute efficiency of an algorithm.
+
+Tractable problems have a polynomial time solution, or better. These are O(n), O(n^2^) and O(n^k^).
+Intractable problems are those which do not have polynomial time solutions. They are effectively useless as they cannot solve a problem in an efficient, reasonable amount of time, as time and computational power increases significantly for even small increases of 
+
+It's worth noting that sometimes when big-O is applied to algorithms such as depth-first traversals with only ~30 elements or so, they may be negligible time differences in exponential solutions compared to linear or logarithmic solutions for small element numbers and, as such, it may be more efficient and simpler to code for programmers to just use an algorithm with a poor time complexity as it will not bring much, if any, benefit to when the input size is small.
+
+### Linear
+- The algorithm takes an amount of time that increases with a linear positive correlation with more elements added. O(n)
+	- Example: For loop
+	- Okay
+
+#### Constant
+- The algorithm takes a fixed amount of time, no matter how many elements inputted there are. O(1)
+	- Example: Always returning the first value in an array
+	- Best case
+
+### Exponential
+
+- The algorithm takes a large amount of time even for small increases in elements. O(2^n^)
+	- Terrible
+
+- The algorithm takes an obscenely large amount of time even for small increases in elements. O(n^n^)
+	- Shocking
+
+#### Quadratic
+- The algorithm takes more time than a standard linear correlation when more elements are added. O(n^2^)
+	- Awful
+
+#### Factorial
+- The algorithm must compute every single possible combination of all elements and all preceding elements. O(n!)
+	- Example: Travelling salesman problem
+	- Just avoid
+
+### Logarithmic
+- The algorithm a linear amount of time, in addition to slightly more time, for each element to compute the results of a large number. O(n log n)
+	- Examples: Merge sort, quick sort, binary tree sorting
+	- Okay
+- The algorithm only takes slightly more time for each increase in elements. O(log n)
+	- Example: Binary search
+	- Excellent
+
+
+## Concurrent processing
+Concurrent processing is the acy of processing data at the same time as opposed to equentially - one after the other. 
+
+
+## Merge sort and bubble sort
+
+
+## IDE
+
+
+
+## Sub-procedures
+
+
+
+
+## Abstraction
+
+
+
+## OOP/Procedural
+
+
+
+
+## Constructors
+
+
+
+## Local/global variables
+
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyOTE5MTg2NDNdfQ==
+-->
