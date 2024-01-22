@@ -160,6 +160,8 @@ It's worth noting that sometimes when big-O is applied to algorithms such as dep
 - The algorithm a linear amount of time, in addition to slightly more time, for each element to compute the results of a large number. O(n log n)
 	- Examples: Merge sort, quick sort, binary tree sorting
 	- Okay
+
+
 - The algorithm only takes slightly more time for each increase in elements. O(log n)
 	- Example: Binary search
 	- Excellent
@@ -172,6 +174,10 @@ It is especially important in database transactional processes
 
 ## Merge sort and bubble sort
 
+
+### Merge sort
+Merge sort is based on the divide and conquer strategy similar to binary search. As such, it is 
+Merge sort repeately divides the initial list 
 
 
 ## IDE
@@ -270,6 +276,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxOTc1NjE1OSwtNjI4NjI2MjE2LC0xMj
-kxOTE4NjQzXX0=
+eyJoaXN0b3J5IjpbLTEzMDQ0MDMxNzYsMTMxOTc1NjE1OSwtNj
+I4NjI2MjE2LC0xMjkxOTE4NjQzXX0=
 -->
