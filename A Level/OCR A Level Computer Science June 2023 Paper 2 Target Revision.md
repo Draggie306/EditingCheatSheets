@@ -168,8 +168,10 @@ It's worth noting that sometimes when big-O is applied to algorithms such as dep
 ## Concurrent processing
 Concurrent processing is the act of processing data at the same time as opposed to sequentially - one after the other. 
 
+It is especially important in database transactional processes
 
 ## Merge sort and bubble sort
+
 
 
 ## IDE
@@ -182,7 +184,7 @@ Concurrent processing is the act of processing data at the same time as opposed 
 
 
 ## Abstraction
-
+Hiding the exact way in which data is interacted with to make it simpler to understand
 
 
 # OOP/Procedural
@@ -268,6 +270,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMzA0NDYxNSwtNjI4NjI2MjE2LC0xMj
+eyJoaXN0b3J5IjpbMTMxOTc1NjE1OSwtNjI4NjI2MjE2LC0xMj
 kxOTE4NjQzXX0=
 -->
