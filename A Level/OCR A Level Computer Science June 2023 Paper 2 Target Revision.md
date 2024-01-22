@@ -185,13 +185,13 @@ Concurrent processing is the act of processing data at the same time as opposed 
 
 
 
-## OOP/Procedural
+# OOP/Procedural
 
 
 
 
 ## Constructors
-
+Contructors, in a nutshell, are procedures within a class that create a new instance of an object. They are typically declared in OOP as `public procedure new(attribute1, attribute2 ...)`. Emphasis on the `new` name.
 
 
 ## Local/global variables (9 marks)
@@ -205,19 +205,19 @@ In addition, local variables reduce "spaghetti code" and improve the efficiency 
 
 This is different to global variables. These are visible to all subroutines and can be modified by them. Global variable values can be much harder to track using breakpoints and debugging tools in an IDE if seemingly unrelated subroutines may accidentally modify the global value. However, global variables also have their uses too: values which may remain unchanged during the execution of a program such as "tax" and "pi" can be statically typed as a constant and global, which prevents the modification of the value, whilst only needing to be initialised once at the beginning of the program for it to be within the scope of all relevant functions.
 
-### Summary
+### Local/global var summary
 
-- Local variables
+- **Local variables**
 	- Only accessible/modifiable in a single procedure
 	- Dynamic lifetime, created and removed only during procedure execution
 	- Allows recursion for efficient handling of intermediate values without the need for redeclaration due to being in different scopes - separate instances for each function call "frame".
-	- Improves code readability and maintainability as local scoped variables cannot interfere with other variables
-	- Prevents o
-- Global variables
+	- Improves code readability and maintainability as local scoped variables cannot overwrite other variables
+- **Global variables**
 	- Visible to all subroutines/procedures
 	- Static lifetime, allocated at program start; deallocated at program termination
 	- Risk of spaghetti code and unintended modifications to values especially in big programs
 	- Can be useful for certain situations, e.g. avoiding redeclaration of constants e.g. "pi" across the program
+	- Can be harder to track and debug as more subroutines have more opportunity to inadvertently alter them.
 
 
 > If it's something theoretical for an exam, I find I learn best by digging into something (ideally from multiple books or sources) until I know I understand the whole picture well enough to write about it on my own as a test to see what I'd picked up and what I'd missed! After writing it down, I'll compare my explanation to the books or official answers afterwards. It takes a long time to do that but I think a good way to know how well you understand something is when you can put it into plain English language, without having to refer back to books, using words that any non-technical non-IT person would be able to understand. [1](https://www.thestudentroom.co.uk/showthread.php?t=5347580)
@@ -228,6 +228,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjE3OTUzLC02Mjg2MjYyMTYsLTEyOT
-E5MTg2NDNdfQ==
+eyJoaXN0b3J5IjpbMTA3MjkwMDA0NCwtNjI4NjI2MjE2LC0xMj
+kxOTE4NjQzXX0=
 -->
