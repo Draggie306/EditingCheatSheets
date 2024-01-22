@@ -177,7 +177,19 @@ It is especially important in database transactional processes
 ### Merge sort
 Merge sort is based on the divide and conquer strategy similar to binary search. As such, its average and worst-case time complexity is O(n log n) - making it more efficient than bubble and insertion sort/
 
-Merge sort repeatedly divides the initial list in half until there are singular elements. Then, each element from index 0 is compared with its neighbouring one (index + 1). This is repeated until the first pair is ordered successfully. This is repeated; the sublists therefore double in size after comparing the elements and merging them. Repeat until 
+Merge sort repeatedly divides the initial list in half until there are singular elements. Then, each element from index 0 is compared with its neighbouring one (index + 1). This is repeated until the first pair is ordered successfully. This is repeated; the sublists therefore double in size after comparing the elements and merging them. Repeat until the resulting list is of complete length and is ordered.
+
+### Bubble sort
+Bubble sort is a very simple algorithm to implement and is simple to understand. Each element in the array is compared to the element at its position, plus one. 
+
+- Get the length of the array
+- For each iteration (i) to the length of the array subtract 1 (zero-index):
+	- Get the value of the element at position iteration
+	- Compare this to the value of the element at position iteration plus one
+	- If the number is greater, swap them
+	- (this can be done by creating a temp variable for the position of the current iteration, setting position to position + 1, then setting position + 1 to temp)
+	- Add   
+
 
 
 ## IDE
@@ -276,6 +288,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYwNjc1NTQsMTMxOTc1NjE1OSwtNj
+eyJoaXN0b3J5IjpbLTExOTIwNTE0NjUsMTMxOTc1NjE1OSwtNj
 I4NjI2MjE2LC0xMjkxOTE4NjQzXX0=
 -->
