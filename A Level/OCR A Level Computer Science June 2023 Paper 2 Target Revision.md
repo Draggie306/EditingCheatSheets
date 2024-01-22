@@ -195,8 +195,11 @@ Concurrent processing is the act of processing data at the same time as opposed 
 
 
 ## Local/global variables
+Local and global variables are both variables but with differing scopes
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyODYyNjIxNiwtMTI5MTkxODY0M119
+eyJoaXN0b3J5IjpbLTQzMDEwODg5OCwtNjI4NjI2MjE2LC0xMj
+kxOTE4NjQzXX0=
 -->
