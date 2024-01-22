@@ -174,10 +174,10 @@ It is especially important in database transactional processes
 
 ## Merge sort and bubble sort
 
-
 ### Merge sort
-Merge sort is based on the divide and conquer strategy similar to binary search. As such, it is 
-Merge sort repeately divides the initial list 
+Merge sort is based on the divide and conquer strategy similar to binary search. As such, its average and worst-case time complexity is O(n log n) - making it more efficient than bubble and insertion sort/
+
+Merge sort repeatedly divides the initial list in half until there are singular elements. Then, each element from index 0 is compared with its neighbouring one (index + 1). This is repeated until the first pair is ordered successfully. This is repeated; the sublists therefore double in size after comparing the elements and merging them. Repeat until 
 
 
 ## IDE
@@ -276,6 +276,6 @@ This is different to global variables. These are visible to all subroutines and 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDQ0MDMxNzYsMTMxOTc1NjE1OSwtNj
+eyJoaXN0b3J5IjpbLTE3MzYwNjc1NTQsMTMxOTc1NjE1OSwtNj
 I4NjI2MjE2LC0xMjkxOTE4NjQzXX0=
 -->
