@@ -8,7 +8,8 @@ These include
 - Integers
 - Real/float
 - Char
-- 
+
+This is different to composite data types
 
 
 ## ASCII and Unicode
@@ -32,5 +33,5 @@ These include
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDc2MjI2MjJdfQ==
+eyJoaXN0b3J5IjpbMTI2NjI5Njk3M119
 -->
