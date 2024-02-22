@@ -1322,7 +1322,7 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
 At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
 
-Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to the releasing kinetic energy. (There is little volcanic activity along transform faults.)
+Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to the releasing of kinetic energy. (There is little volcanic activity along transform faults.)
 
 > A transform fault is **only the lateral** part of the zig-zag, between ocean ridge crests.
 
@@ -1516,6 +1516,6 @@ https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMTE2MzcwMCwxNzA5NDk5NzY1LC02ND
-I3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
+czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
