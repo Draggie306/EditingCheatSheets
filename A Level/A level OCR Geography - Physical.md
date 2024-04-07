@@ -106,7 +106,7 @@ Valley glaciers usually occur in high altitude locations, with high relief, and 
 Ice sheets however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of a high/low latitude and have slow rates of movement and only around 5m/year. The base of the glacier is frozen to the bedrock and have a little precipitation but also lower temperatures so ablation levels are lower too.
 
 
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. Thickness of the ice, and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster .  Conversely, he **rigid zone** is on the top half of the glacier.
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. Thickness of the ice, and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster .  Conversely, the **rigid zone** is on the top half of the glacier.
 
 Cold-based glaciers:
 - have a slow rate of movement (<5m/year);
@@ -731,5 +731,5 @@ ChatGPT or any other text-based generative transformer model was **not used** to
 
 Just kidding, I spent like 10mins reading it in French but here's the English version haha: https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee_en/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTc4MjY1MV19
+eyJoaXN0b3J5IjpbMTYwODQ0NDMxLC02MjU3ODI2NTFdfQ==
 -->
