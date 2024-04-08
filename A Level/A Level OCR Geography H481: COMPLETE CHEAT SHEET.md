@@ -177,7 +177,7 @@ This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) 
 When this ice melts or the area is deglaciated, a *tarn* (or corrie lake) is created, enclosed by the rock lip. Material may then continue to fall down from the back wall due to continued weathering, combined with aspect and steep relief, known as **scree**.
 
 
-
+[add image of Easedale Tarn morainic lip here when bored]
 
 
 
@@ -1528,7 +1528,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTE4NTE1MywzMjQ0MzYxNjcsMTcwOT
+eyJoaXN0b3J5IjpbLTkwNTczOTgxMCwzMjQ0MzYxNjcsMTcwOT
 Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
 NTVdfQ==
 -->
