@@ -6,8 +6,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 22/01/2024 22:37
-Last content addition: 18/01/2024 21:02](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 08/04/2024 20:20
+Last content addition: 08/04/2024 20:20](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
 Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
@@ -129,19 +129,6 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
-### [tbd] Useful stuff
-
-- **Supraglacial** material is material which is located on the top of a glacier.
-- **Englacial** material is material which is located inside a glacier.
-- **Subglacial** material is material which is located on the base of a glacier.
-- Material deposited during glaciation is called **drift**.
-- Material deposited directly by ice is called **till**.
-- Material deposited by meltwater is called outwash, or **glacio-fluvial material**.
-
-Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as drumlins.
-Ablation till is material deposited at the terminus by melting ice from stagnant, or retreating glaciers during a warm period or end of glaciation event. Most depositional landforms are this type.
-
-It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
 
 ### Factors affecting the microclimate 
 The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions too. 
@@ -175,24 +162,28 @@ Glacial landforms are typically classified according to erosional and deposition
 
 
 ### Corries
-A corrie is an armchair-shaped depression in a mountain.
-Also known as a *cwm* or *cirque*, corries are formed from small hollows on the slopes of mountains where snow begins to accumulate, typically on the north-west to south-east facing slopes (or with an *azimuth* ranging from 300-140 degrees) on a mountain in the northern hemisphere. 
+![A corrie.](https://cheatsheet-assets.ibaguette.com/alevel/geography/Corrie.png)
+*The processes occurring in a corrie.*
+
+
+A corrie is an armchair-shaped depression in a mountain. Also known as a *cwm* or *cirque*, they are formed from small hollows on the slopes of mountains where snow begins to accumulate, typically on the north-west to south-east facing slopes (or with an *azimuth* ranging from 300-140 degrees) on a mountain in the northern hemisphere. 
 
 > This is due to its **aspect**, or the orientation of which a slope faces, with this specific aspect resulting in having less insolation. Greater amounts of irradiation add thermal energy to the system, resulting in ablation.
 
-This virgin snow turns is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; 1 year). Over multiple years, the snow at the bottom is compressed into ice, and plucking begins to be the dominant process at the base. 
+This virgin snow is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; 1 year).
 
-This newly-formed hollow, deepened by the **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slumping**. 
+This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slumping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
 
-When this ice melts, a *tarn* (or corrie lake) is created, with potentially a rock lip created from washed out *moraine* or rocks forming at its front. 
-After the ice has melted and deglaciation has occurred, this material may then fall down from the back wall due to its aspect and steep relief, which is known as scree.
+When this ice melts or the area is deglaciated, a *tarn* (or corrie lake) is created, enclosed by the rock lip. Material may then continue to fall down from the back wall due to continued weathering, combined with aspect and steep relief, known as **scree**.
 
-![A corrie.](https://cheatsheet-assets.ibaguette.com/alevel/geography/Corrie.png)
-*The processes occurring in a Corrie.*
+
+
+
+
 
 ### Arêtes
 
-An arête is a knife-shaped, sharp ridge formed when two corries' back walls continually erode back-to-back. Over time, these back walls meet, and a distinct ridge is formed. 
+An arête is a knife-shaped, narrow ridge formed when two corries' back walls continually erode back-to-back. Over time, these back walls meet, and a distinct ridge is formed. 
 
 ![A diagram of a mountain, which has had erosional processes acting upon it.](https://cheatsheet-assets.ibaguette.com/alevel/geography/Landforms-of-Glaciation_2.png)
 *A diagram of a mountain, which has had erosional processes acting upon it.*
@@ -271,7 +262,20 @@ After deglaciation, isostatic readjustment may occur, and these compressed, lowe
 
 ## Glacial depositional landforms
 
+- **Supraglacial** material is material which is located on the top of a glacier.
+- **Englacial** material is material which is located inside a glacier.
+- **Subglacial** material is material which is located on the base of a glacier.
+- Material deposited during glaciation is called **drift**.
+- Material deposited directly by ice is called **till**.
+- Material deposited by meltwater is called outwash, or **glacio-fluvial material**.
+
+Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as drumlins.
+Ablation till is material deposited at the terminus by melting ice from stagnant, or retreating glaciers during a warm period or end of glaciation event. Most depositional landforms are this type.
+
+It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
+
 ![A photo of a valley glacier, with an erratic, eskers and more landforms](https://cheatsheet-assets.ibaguette.com/alevel/geography/ValleyGlacierLandscapeFormations.png)
+There are a range of depositional landforms visible in this photograph. Can you identify them all?
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Moranic%20Valley%20Glacier.jpg)
 
@@ -338,8 +342,11 @@ Glaciers erode the valley into the typical U-shape. These lakes are typically lo
 
 
 ## [tbd] Case study: Lake District
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG)
+*A beautful view towards Helvellyn from Blencathra.*
 
 [Dev Note] 02/02/2023: Just need to add examples from the essay as well as some research info.
+
 
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Lake%20District%20Landforms.png)
@@ -1291,6 +1298,8 @@ Paleo (fossilised) magnetism is the record of historic magnetic changes as the E
 ### Glacial deposits
 Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest.  
 
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Roche_moutonée_with_striations.jpg)
+*Striations and spherical laval bombs visible in a roche moutonée near Easedale Tarn, Lake District. Credit: me* 
 
 
 ### Apparent fit of the continents
@@ -1509,13 +1518,17 @@ This gets the spearman's correlation for the two sets of data
 
 ChatGPT or any other text-based generative transformer model was **not used** to directly write the content here. It's good for clarification of certain topics (and I've used it for that), but **don't get used to it** otherwise you'll lose your creativity.
 
-https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03&ps=50&bt=19840101&et=20221231
+---
+To add later:
+
+[Development of Dubai time-lapse [interactive]](https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03&ps=50&bt=19840101&et=20221231)
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
-czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMTEyNTE4NTE1MywzMjQ0MzYxNjcsMTcwOT
+Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
+NTVdfQ==
 -->
