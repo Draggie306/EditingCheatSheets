@@ -83,14 +83,14 @@ Over time, snow is compacted and turned into glacial ice, and when this is aroun
 
 Snowflakes -> Granular snow -> Névé -> Firn -> Glacial ice
 
-Glacial ice has a density of 850kg/m^3^. It is rock hard and feels glassy and is almost translucent.
+Glacial ice has a density of 850kg/m^3^. It is rock hard, feels glassy and is almost translucent.
 
-The glacier mass balance is the total **sum** of all the **accumulation** (snow, ice, freezing rain) and melt or **ice loss** (from calving icebergs, melting, sublimation) across the entire glacier, or ablation. 
+The glacier mass balance is the total **sum** of all the **accumulation** (snow, ice, freezing rain) and melt or **ice loss** (from calving icebergs, melting, sublimation) across the entire glacier, or amount of ablation. 
 
 Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in an ideal scenario:
 ![Diagram of the Glacial Mass Balance in a glacier, oscillating between minimum and maximum glacier mass ](https://cheatsheet-assets.ibaguette.com/alevel/geography/MassBalance.jpg)
 
-An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter, and the ablation extreme in the summer season.
+An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season.
 
 Layers of snow within the ice give evidence of the way that it has formed.
 
@@ -104,7 +104,7 @@ A **valley glacier** is one **bound by valley walls**, coming from a higher moun
 An **ice cap** - a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
 
 
-Valley glaciers usually occur in high altitude locations, with high relief, and have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
+Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
 
 Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
 
@@ -131,7 +131,7 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 
 
 ### Factors affecting the microclimate 
-The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions too. 
+The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions. 
 
 **Regional climate**
 
@@ -170,7 +170,7 @@ A corrie is an armchair-shaped depression in a mountain. Also known as a *cwm* o
 
 > This is due to its **aspect**, or the orientation of which a slope faces, with this specific aspect resulting in having less insolation. Greater amounts of irradiation add thermal energy to the system, resulting in ablation.
 
-This virgin snow is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; 1 year).
+This virgin snow is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; of 1 year).
 
 This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slumping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
 
@@ -190,7 +190,7 @@ An arête is a knife-shaped, narrow ridge formed when two corries' back walls co
 
 ### Pyramidal peaks
 
-A pyramidal peak is a high mountain whose surroundings have been eroded as corries. Three or more corries eroding back-to-back (similarly to how arêtes form) result in this sharp peak forming. There are typically distinct ridges visible all the way to the summit, representing the boundary between corries. 
+A pyramidal peak is a high mountain whose surroundings have been eroded as corries. Three or more corries eroding back-to-back (similarly to how arêtes form) result in this sharp peak forming. There are typically distinct aretes visible all the way up to the peak, representing the boundary between corries. 
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Matterhorn.jpg)
 *The Matterhorn in the European Alps. It is a great example of a pyramidal peak.*
@@ -236,7 +236,7 @@ A ribbon lake as well as a misfit stream may also be present in the base of the 
 
 A roche moutonnée is a more resistant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
 
-As this meltwater is forced up and over the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the downvalley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock. 
+As this meltwater is forced up and over the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock. 
 
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002).
 
@@ -333,11 +333,8 @@ I'd love to be like a drumlin one day, they're just so chilled out and calming
 
 [Theory of depositional drumlin video](https://www.youtube.com/watch?v=xKtUpWZ8RqQ)
 
-### Ribbon lakes
 
-Ribbon lakes are both depositional and erosional. They are formed by the combined processes of glacial erosion, which deepens and widens the valley floor, and glacial deposition, which leaves sediment along the shores of the lake.
 
-Glaciers erode the valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to have come from an area of high incline to a more expansive area. This means that the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. More detail over at [the ullswater case study](#ullswater).
 
 
 
@@ -1528,7 +1525,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTczOTgxMCwzMjQ0MzYxNjcsMTcwOT
+eyJoaXN0b3J5IjpbMjAwMDU5NjQyNCwzMjQ0MzYxNjcsMTcwOT
 Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
 NTVdfQ==
 -->
