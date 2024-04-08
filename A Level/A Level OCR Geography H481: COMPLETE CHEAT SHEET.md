@@ -29,7 +29,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 
 ## Glaciers as Systems
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x500)
 Photo from [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)
 
 There are 3 main parts to any system: inputs, processes and outputs. 
@@ -221,15 +221,13 @@ After deglaciation, there may be some (iconic) water features in these glacial t
 
 #### Ribbon lake
 
-Vertical erosion typically leaves the floor of a valley glacier system relatively flat, and deeper than in preglaciation periods. This depression (or **rock basin**) is then refilled with water after a glacier retreats. 
-
-These lakes show the path of a glacier, typically during times of compressing flow (more detail in the case study below). 
+Glaciers erode the valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to have come from an area of high incline to a more expansive area. This means that the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilled with water after a glacier retreats. More detail over at [Ullswater ](#ullswater) in the Lake District case study section.
 
 #### Misfit stream
 
 A ribbon lake as well as a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
 
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg)
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x670)
 *Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
 
 ### Roche moutonnées
@@ -274,7 +272,7 @@ Ablation till is material deposited at the terminus by melting ice from stagnant
 
 It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
 
-![A photo of a valley glacier, with an erratic, eskers and more landforms](https://cheatsheet-assets.ibaguette.com/alevel/geography/ValleyGlacierLandscapeFormations.png)
+![A photo of a valley glacier, with an erratic, eskers and more landforms](https://cheatsheet-assets.ibaguette.com/alevel/geography/ValleyGlacierLandscapeFormations.png =700x500)
 There are a range of depositional landforms visible in this photograph. Can you identify them all?
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Moranic%20Valley%20Glacier.jpg)
@@ -339,14 +337,14 @@ I'd love to be like a drumlin one day, they're just so chilled out and calming
 
 
 ## [tbd] Case study: Lake District
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG)
-*A beautful view towards Helvellyn from Blencathra.*
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
+*A beautiful view towards Helvellyn from Blencathra.*
 
 [Dev Note] 02/02/2023: Just need to add examples from the essay as well as some research info.
 
 
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Lake%20District%20Landforms.png)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Lake%20District%20Landforms.png =1050x450)
 *Glacial features of the Lake District, including subglacial lineations, meltwater channels, eskers, drumlins, moraines, glacially streamlined bedrock and more.*
 
 
@@ -359,7 +357,7 @@ This glacier would have continued flowing downstream towards modern-day Penrith,
 
 Inside modern-day Ullswater is a series of **roche moutonées** such as Norfolk Island and Lingy Holm. The geology of roche moutonées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png =750x500)
 
 The Glenridding village has visible depositional till extending into Ullswater, visible from satellite imagery, easily proving that there was once glacial activity in the area.
 
@@ -532,7 +530,7 @@ As the glacier moves over bedrock, plucking and abrasion (erosion) occurs result
 In summer months, there is typically higher glacial discharge and ablation, resulting in these tilly islets being destroyed by water, which has a little more energy due to increased velocity. This leads to more erosion, and these islets then go on to reform later. This makes the outwash plain have a distinct look. This can be described as dynamic.
 > The elevated level of erosion is typically closer to the glacial snout but then progressively loses energy. 
 
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/A%20Lovely%20Outwash%20Plain.jpg)
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/A%20Lovely%20Outwash%20Plain.jpg =400x600)
 
 In areas that were once glaciated, old outwash pains can be found by looking for sediment, with large angular rocks and boulders being present closer to the glacial mass and smaller, smoother rocks and sediment being further away from the glacier, similar to a typical river system aside from their origin. Outwash plains can extend for miles beyond the glacial margin (terminal moraine).
 
@@ -557,7 +555,7 @@ Due to climate change, braided streams may dry up due to smaller amounts of ice 
 As a result, there can be expected to be more eroded streams, being deeper and wider, inside this outwash plain, followed then by the area becoming dry and tundra-like. Whilst vegetation thrives in outwash plains due to the rich minerals present in the glacial meltwater, this may also dry up in the future, becoming a barren, sandy and gravelly area with little life, or could be taken over and reclaimed by plants depending on resource availability.
 
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/valley-braidedstream.jpg)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/valley-braidedstream.jpg =700x500)
 *Is that a braided stream AND a proglacial lake inside a valley glacier system?*
 Photo from [Jonas Mendes](https://unsplash.com/@nipher?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).
 
@@ -618,7 +616,7 @@ When the ground and soil on slopes is frozen during the winter, the soil particl
 During the thawing of the active layer in the spring and summer months, water saturates the ground as it cannot drain easily (due to the impermeable, frozen permafrost below - it is forced to stay in the upper layer) or evaporate due to the cooler climate. Friction is reduced between these particles, which are already loose after the freezing months, as this water can lubricate them. As a result of this excessive lubrication, the soil moves downslope easily. (The extra mass from the water can also help with this.)
 
 
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/solifluction.jpg)
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/solifluction.jpg =700x600)
 
 #### Soil/Frost Creep or Mass Wasting
 This is a process which moves material down a slope by a few centimetres per year even on high gradients.
@@ -1525,7 +1523,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMDU5NjQyNCwzMjQ0MzYxNjcsMTcwOT
+eyJoaXN0b3J5IjpbLTUzNjI3MzY0OSwzMjQ0MzYxNjcsMTcwOT
 Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
 NTVdfQ==
 -->
