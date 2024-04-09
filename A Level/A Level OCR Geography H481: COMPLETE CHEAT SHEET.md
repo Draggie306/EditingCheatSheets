@@ -14,7 +14,7 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png =500x300)
 *Top-notch graphic design by me*
 
 For more information, see the end. 
@@ -29,7 +29,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 
 ## Glaciers as Systems
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x500)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
 Photo from [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)
 
 There are 3 main parts to any system: inputs, processes and outputs. 
@@ -1523,7 +1523,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNjI3MzY0OSwzMjQ0MzYxNjcsMTcwOT
+eyJoaXN0b3J5IjpbMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOT
 Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
 NTVdfQ==
 -->
