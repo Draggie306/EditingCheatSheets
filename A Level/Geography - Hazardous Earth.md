@@ -49,8 +49,8 @@ Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](htt
 ---
 
 
-## Plate Boundaries
-A plate boundary is where two plates meet. This is not the same as there being two plate boundaries! There is only one boundary and two plates.
+## Plate Bboundaries
+A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
 
 ## Divergent plate boundaries
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
@@ -215,5 +215,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTcxNDQ5NzI3NSwyMTgyOTEwNDcsLTE2Nz
+A2NTM3NjNdfQ==
 -->
