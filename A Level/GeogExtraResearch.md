@@ -6,8 +6,14 @@
 # Glaciation
 
 
+## Case sudy Glaciated Landscapes -  Minnesota 
+https://www.dot.state.mn.us/materials/manuals/geotechnical/Appendix%20A%20Geology%20of%20Minnesota.pdf
+
+https://core.ac.uk/download/pdf/76353204.pdf
+
 # Human rights
 
+## case study afghan
 https://www.amnesty.org/en/location/asia-and-the-pacific/south-asia/afghanistan/report-afghanistan/
 
 
@@ -26,16 +32,7 @@ https://watson.brown.edu/costsofwar/costs/human/civilians/afghan
 https://www.unicef.org/afghanistan/education
 
 
-Case sudy Glaciated Landscapes -  Minnesota 
-https://www.dot.state.mn.us/materials/manuals/geotechnical/Appendix%20A%20Geology%20of%20Minnesota.pdf
-
-https://core.ac.uk/download/pdf/76353204.pdf
-
-
-
-
-
-## Case study Human Rights: DRC
+## Case study DRC
 https://www.amnesty.org/en/location/africa/east-africa-the-horn-and-great-lakes/democratic-republic-of-the-congo/report-democratic-republic-of-the-congo/ amnesty
 
 https://www.bbc.co.uk/news/world-africa-13286306 context
@@ -51,5 +48,5 @@ https://www.care-international.org/our-work/where-we-work/democratic-republic-co
 CARE stats
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MDQ4MTI5Ml19
+eyJoaXN0b3J5IjpbLTE4MzYwOTg4NzYsMTY1MDQ4MTI5Ml19
 -->
