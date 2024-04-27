@@ -4,9 +4,17 @@ Last modification: 09/04/2024
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
+
+Changing family structures; the changing nature of marriage and partnership; being a good citizen
+Trends in fashion; how young people respond to modern technology; relationships with others and peer pressure
+The education system and student issues; work and travel opportunities and the changing work scene
+Reasons for migration; factors which make migration/integration easy/difficult
+Reasons for marginalisation; ways to eliminate marginalisation
+
 ---
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
 *giving earth life support - created with [dall-e 3](https://openai.com/dall-e-3)*
+
 
 
 "Without water and carbon I literally would not be here" - a wise man, 2024
@@ -214,5 +222,5 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2] https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTkwMzMwMTI5NywtMTM2MTkzMjUzNV19
 -->
