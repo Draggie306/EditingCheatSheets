@@ -111,21 +111,23 @@ Ice sheets, however, are large masses of snow and ice defined by being greater t
 
 Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
 
-Cold-based glaciers:
+Cold-based (polar) glaciers:
 - have a slow rate of movement (<5m/year);
 - are located in extreme latitude (polar) regions;
 - are generally flat;
 - have a low basal temperature, remaining stuck to the bedrock below the pressure melting point;
 - are formed in low precipitation areas, and the glacier remains below freezing point during all seasons.
 
-Warm-based glaciers:
+Warm-based (alpine) glaciers:
 - have rapid movement (20-200m/year);
 - are located in high-altitude (mountainous) regions;
 - have a basal temperature at or above the pressure melting point;
-- have steep(er) relief;
+- are in areas of steep(er) relief;
 - have water present throughout, with the ice acting as a lubricant.
 
-Cold-based glaciers are unable to move by basal sliding as the basal temperature is below the pressure melting point. Instead, they move through **internal deformation**, and ice at 0°C deforms 100 times faster than at -20°C.
+Cold-based glaciers are unable to move by basal sliding as the basal temperature is below the pressure melting point. Instead, they move through **internal deformation**.
+
+> Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and 
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
@@ -1521,7 +1523,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODk5MTEyODcsMzk4NDg3MjE1LDM5Nz
+eyJoaXN0b3J5IjpbLTE2OTMzNjAxNjIsMzk4NDg3MjE1LDM5Nz
 c3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1
 LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
