@@ -384,9 +384,11 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some places, with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
-Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin.
 
-The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high were created by tectonic compression. The Arrowhead region in the northeast, located near to Lake Superior, 
+The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high were created by tectonic compression. The Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting exposed weaker, lesser-jointed shale rocks.
+
+Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were 
+ 
 
 
 As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred as the moraine was overtopped, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. With the water came deposition: large swathes of fertile silt and soil deposits have been left behind in the valley, likely from the Big Stone Moraine. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation! [simplified]
@@ -1534,7 +1536,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTcxMTk4MiwtMTM3ODEzMDQwOCwtMT
+eyJoaXN0b3J5IjpbMTIyMjI0ODkzNiwtMTM3ODEzMDQwOCwtMT
 MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
 MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMz
 I0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2
