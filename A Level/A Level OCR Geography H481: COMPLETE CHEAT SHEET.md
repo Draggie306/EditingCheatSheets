@@ -384,7 +384,7 @@ These examples clearly show the significant extent to which landforms in a valle
 
 Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the Black Sea. 
 
-When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren'. It helped form the modern Minnesota and Mississippi rivers.
+When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully grain, and it had a large impact on the climate, sea level and even early civi
 
 
 
@@ -1524,8 +1524,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNzM1MDg0LC05MTIwMTE4NTUsLTE3Mz
-gyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODEx
-LDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMz
-cxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTIwMzU0NDE1MTYsLTkxMjAxMTg1NSwtMT
+czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
+MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
+MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
