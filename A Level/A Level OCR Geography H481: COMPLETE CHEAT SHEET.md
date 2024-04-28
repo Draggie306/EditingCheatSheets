@@ -405,7 +405,8 @@ The Wadena Lobe was the first of the four main lobes that were on top of Minneso
 This deposition produced the Alexandra and Itasca moraines, forming the tilly Wadena Drumlin Field over the Wadena, Otter Tail and Todd counties, and reached just south of the present-day Twin Cities.
 
 
-### 
+### Rainy and Superior Lobes
+The Rainy Lobe moved in from the north east to the south west of 
 
 
 
@@ -1528,8 +1529,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTE2MTA0Nyw2NDY3NzA0MjAsLTkxMj
-AxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQx
-LDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
-czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMzYwMjcxNTgzLDY0Njc3MDQyMCwtOTEyMD
+ExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEs
+MTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNz
+MxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
