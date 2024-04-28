@@ -247,7 +247,7 @@ More specifically, it was introduced by a French geologist called Horace-Bénéd
 
 ### Ellipsoidal basins
 
-These are no ordinary valley or alpine glacier erosional landform. These are huge areas formed by ice sheets such as the Laurentide Ice Sheet in North America. (more detail with the [Ice Sheet Case Study](https://ibaguette.com/cheatsheets/alevel/geography/all#ice-sheet-case-study-minnesota))
+These are no ordinary valley or alpine glacier erosional landform. These are huge areas formed by ice sheets such as the Laurentide Ice Sheet in North America. (more detail with the [Minnesota Ice Sheet Case Study](#ice-sheet-case-study-minnesota))
 
 These huge ice sheets (more than 50,000km^2^) exert large amounts of pressure on the landscape as well as great erosional quarrying by subglacial material. Examples of this feature include Hudson Bay, and smaller ellipsoidal basins created the Great Lakes in North America.
 
@@ -1521,8 +1521,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTIxMjQxOTcsLTE3MzgyODA1NjEsMz
-k4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2
-NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMT
-A2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbMTA1NDgyODUyNCwtMTczODI4MDU2MSwzOT
+g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
+LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
+Y4Mzg5MDU1XX0=
 -->
