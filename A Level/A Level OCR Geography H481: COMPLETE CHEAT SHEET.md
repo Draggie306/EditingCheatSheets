@@ -325,7 +325,7 @@ They typically occur in larger groups, or ‘swarms'. This is known as a ‘**ba
 
 Drumlins can be up to 1,000m in length but are typically around 300-500m. They also improve revenue for farmers, as the topography allows them to have a larger farming area in the same sized plot of land. Their length-to-width ratio is typically between 1.8 and 4.1, and this may be an indication of past glacial velocities, with longer drumlins indicating a faster ice velocity due to the laminar flow of ice.
 
-Drumlins are often found in conjunction with [morainic](#moraines) landforms and other depositional features like eskers, [kames](#kames-and-kame-terraces), outwash plains and
+Drumlins are often found in conjunction with [morainic](#moraines) landforms and other depositional features like eskers, [kames](#kames-and-kame-terraces) and outwash plains.
 
 I'd love to be like a drumlin one day, they're just so chilled out and calming
 
@@ -353,7 +353,7 @@ I'd love to be like a drumlin one day, they're just so chilled out and calming
 
 ### Glenridding Valley & Ullswater
 
-Ice from Red Tarn at Helvellyn flowed northeast into Glenridding Valley. Joining up with another larger glacier, a **glacial trough** was created in present-day Ullswater. Exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
+Ice from Red Tarn at Helvellyn flowed northeast into Glenridding Valley. Joining up with another larger glacier, a **glacial trough** was created in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
 
 This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
@@ -1523,8 +1523,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NTMwMzY2NCwtMTczODI4MDU2MSwzOT
-g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
-LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
-Y4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTEzNzUwNDMzNDYsLTE3MzgyODA1NjEsMz
+k4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2
+NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMT
+A2ODM4OTA1NV19
 -->
