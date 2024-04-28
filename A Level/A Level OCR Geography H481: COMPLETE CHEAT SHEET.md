@@ -384,9 +384,9 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
-Its last advance occurred between around 100kya and 20kya, where subglacial erosion carveed out huge
+Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake.  
 
-Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places, 
+WhenLake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places, 
 
 
 . It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the Black Sea. 
@@ -1535,8 +1535,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYwNTE0MzcsLTkxMjAxMTg1NSwtMT
-czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
-MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
-MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTY4ODMxNTc4NSwtOTEyMDExODU1LC0xNz
+M4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4Mjgx
+MSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMz
+M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
