@@ -357,7 +357,7 @@ Ice from Red Tarn at Helvellyn flowed northeast into Glenridding Valley. Joining
 
 This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
-Inside modern-day Ullswater is a series of **roche moutonées** such as Norfolk Island and Lingy Holm. The geology of roche moutonées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
+Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk Island and Lingy Holm. The geology of roche moutonnées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png =750x500)
 
@@ -1296,7 +1296,7 @@ Paleo (fossilised) magnetism is the record of historic magnetic changes as the E
 Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest.  
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Roche_moutonée_with_striations.jpg)
-*Striations and spherical laval bombs visible in a roche moutonée near Easedale Tarn, Lake District. Credit: me* 
+*Striations and spherical laval bombs visible in a roche moutonnée near Easedale Tarn, Lake District. Credit: me* 
 
 
 ### Apparent fit of the continents
@@ -1523,8 +1523,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzUwNDMzNDYsLTE3MzgyODA1NjEsMz
-k4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2
-NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMT
-A2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTE1NTI0MzcyMCwtMTczODI4MDU2MSwzOT
+g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
+LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
+Y4Mzg5MDU1XX0=
 -->
