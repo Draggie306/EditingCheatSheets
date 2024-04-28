@@ -412,14 +412,11 @@ The Rainy Lobe moved in from the north to northeast of Minnesota and deposited t
 The Superior lobe came in from the northeast at the same time. Partially covering present-day Lake Superior, it deposited a series of basalt, red sandstone and greenstone till moraines extending southwards to the Twin Cities. Like Wadena, it too deposited drumlins.
 
 
-
 ### Des Moines lobe
-
 The Des Moines Lobe was active during the most recent glacial period (LGP), around 13kya. It moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast.  In the southwest, the **Prairie Coteau** region has examples of terminal moraine, and outwash plains. Many of this lobe's deposits are over 160 metres deep in the region.
 
 
 ### Post-glacial modification
-
 Isostatic readjustment occurs when these ice sheet glaciers retreat due to the land not being under pressure anymore. This land then typically rebounds upwards and elevations increase in the area where glaciers once lay. Fluvial activities continued to mould the landscape after full glacial retreat had occurred.
 
 
@@ -1514,10 +1511,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5NTI2MDY0OCwtMTA1ODU5NDczMiwtMz
-k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
-MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLT
-E3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgy
-ODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMT
-IzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
+M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
+NDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC
+0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4
+MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLD
+EyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
