@@ -387,7 +387,7 @@ The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some p
 
 The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high were created by tectonic compression. The Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting exposed weaker, lesser-jointed shale rocks.
 
-Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were 
+Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were eroded; now Eagle Mountain, the highest, is only 701m high. Part of Lake Superior and 
  
 
 
@@ -1536,9 +1536,9 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMjI0ODkzNiwtMTM3ODEzMDQwOCwtMT
-MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
-MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMz
-I0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2
-OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbNzY0NDM3MzI4LC0xMzc4MTMwNDA4LC0xMz
+IyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4Mjgw
+NTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMj
+Q0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5
+NjMsLTEwNjgzODkwNTVdfQ==
 -->
