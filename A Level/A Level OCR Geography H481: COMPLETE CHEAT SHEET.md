@@ -382,7 +382,7 @@ These examples clearly show the significant extent to which landforms in a valle
 
 [Dev Note] 02/02/2023: Add lobes.
 
-The Laurentide Ice Sheet was a huge ice sheet with cycles of  
+The Laurentide Ice Sheet was a huge ice sheet with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
 Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places, 
 
@@ -1533,8 +1533,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDU5ODY2NCwtOTEyMDExODU1LC0xNz
-M4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4Mjgx
-MSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMz
-M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTE1MDQwODA3NjUsLTkxMjAxMTg1NSwtMT
+czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
+MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
+MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
