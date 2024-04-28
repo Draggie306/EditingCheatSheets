@@ -1366,7 +1366,7 @@ Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](htt
 ---
 
 
-## Plate Bboundaries
+## Plate Boundaries
 A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
 
 ## Divergent plate boundaries
@@ -1584,7 +1584,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0ND
-M2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYz
-LC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzOD
+gyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAs
+MTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
