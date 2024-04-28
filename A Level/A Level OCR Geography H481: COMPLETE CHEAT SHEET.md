@@ -414,7 +414,8 @@ The Superior lobe came in from the northeast at the same time. Partially coverin
 
 
 ### Des Moines lobe
-Moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast. 
+
+The Des Moines Lobe was active during the most recent glacial period (LGP), around 13kya. It moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast. 
 In the southwest, **Prairie Coteau** is an example of a terminal moraine.
 Many of this lobe's deposits are over 160 metres deep.
 
@@ -1517,9 +1518,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNz
-gxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4
-NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMz
-QzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEw
-MjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1Mz
+I3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQy
+MCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOT
+c3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2
+NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ
+==
 -->
