@@ -251,7 +251,7 @@ These are no ordinary valley or alpine glacier erosional landform. These are hug
 
 These huge ice sheets (more than 50,000km^2^) exert large amounts of pressure on the landscape as well as great erosional quarrying by subglacial material. Examples of this feature include Hudson Bay, and smaller ellipsoidal basins created the Great Lakes in North America.
 
-On top of the subglacial erosion which may have occurred, the majority of the landscape's formation  (*yes, I'd say they're larger than just landforms*)  is due to isostatic lowering. This involves the sheer mass of the ice sheet, potentially several kilometres thick, exerting pressure on the lithosphere and effectively compressing it into being smaller.
+On top of the subglacial erosion which may have occurred, the majority of the landscape's formation (*yes, I'd say they're larger than just landforms*)  is due to isostatic lowering. This involves the sheer mass of the ice sheet, potentially several kilometres thick, exerting pressure on the lithosphere and effectively compressing it into being smaller.
 
 After deglaciation, isostatic readjustment may occur, and these compressed, lowered areas may readjust and bounce back upwards, now being under no additional pressure.
 
@@ -1523,8 +1523,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkyOTY5NTU3LC0xNzM4MjgwNTYxLDM5OD
-Q4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcs
-MTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNj
-gzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOT
+g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
+LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
+Y4Mzg5MDU1XX0=
 -->
