@@ -409,7 +409,7 @@ This deposition produced the Alexandra and Itasca moraines, forming the tilly Wa
 ### Rainy and Superior Lobes
 The Rainy Lobe moved in from the north east of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
 
-The Superior lobe at the same time, partially covering present-day Lake Superior, deposited a series of basalt and greenstone till 
+The Superior lobe at the same time, partially covering present-day Lake Superior, deposited a series of basalt, red sandstone and greenstone till moraines extending southwards to the Twin Cities. Like Wadena, it too deposited drumlins.
 
 
 
@@ -418,7 +418,7 @@ The Superior lobe at the same time, partially covering present-day Lake Superior
 The rainy lobe moved in after the Wadena lobe in the same general area, but only covered half the area. However, the Superior lobe was much larger and moved in from the northeast. It partly covered the modern-day Lake Superior, on the east side of the state.
 Their last glacial advance deposited coarse till which contained various types of basalt, gabbro, granite, red sandstone, slate and even greenstone. The red sandstone made the overall deposits seem reddish and dusty-looking.
 Deposits can be found across the northeast half of Minnesota, stretching as far south as Minneapolis.
-Like Wadena, it too deposited drumlins.
+
 
 ### Des Moines lobe
 Moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast. 
@@ -1524,7 +1524,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDAzOTg0MywxMTU1MzI3NTM3LC0xMz
+eyJoaXN0b3J5IjpbLTczMjI4NjA2MiwxMTU1MzI3NTM3LC0xMz
 c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
 ODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMT
 M0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMx
