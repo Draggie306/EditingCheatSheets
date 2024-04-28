@@ -29,12 +29,13 @@ Paleo (fossilised) magnetism is the record of historic magnetic changes as the E
 ### Glacial deposits
 Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest.  
 
+
+### Apparent fit of the continents
+*He noticed that the continents look just like pieces of a broken puzzle...*
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
 *A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4/?utm_source=share&utm_medium=web2x&context=3) to [  
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
 
-### Apparent fit of the continents
-*He noticed that the continents look just like pieces of a broken puzzle...*
 
 ### Geologic sequences
 
@@ -215,6 +216,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNDQ5NzI3NSwyMTgyOTEwNDcsLTE2Nz
+eyJoaXN0b3J5IjpbMTAyNzQxNjI4OSwyMTgyOTEwNDcsLTE2Nz
 A2NTM3NjNdfQ==
 -->
