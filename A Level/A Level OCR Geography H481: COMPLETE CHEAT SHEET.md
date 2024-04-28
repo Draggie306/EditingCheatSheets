@@ -234,9 +234,9 @@ A ribbon lake as well as a misfit stream may also be present in the base of the 
 
 A roche moutonnée is a more resistant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
 
-As this meltwater is forced up and over the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock. 
+As this meltwater is forced up and over the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock and giving it a craggy appearance.
 
-Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002).
+Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
 *Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
@@ -1523,8 +1523,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTI0MzcyMCwtMTczODI4MDU2MSwzOT
-g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
-LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
-Y4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMjkyOTY5NTU3LC0xNzM4MjgwNTYxLDM5OD
+Q4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcs
+MTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNj
+gzODkwNTVdfQ==
 -->
