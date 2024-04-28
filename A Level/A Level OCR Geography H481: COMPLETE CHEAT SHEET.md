@@ -384,21 +384,20 @@ These examples clearly show the significant extent to which landforms in a valle
 
 Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the Black Sea. 
 
-When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully grain, and it had a large impact on the climate, sea level and even early civi
-
-
-
-Its major drainage reorganization events greatly had an impact on climate, sea level and possibly even early human civilization.
-
-
-
-The erosion and the melting formed the Glacial River Warren and formed the modern Minnesota and upper Mississippi rivers.
+When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully grain, and it had a large impact on the climate, sea level and even early civilisation!
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
 *The top left is the bed of Lake Agassiz, and the eroded area is visible too. North Minnesota.*
 
 An interactive map of the glacial extent and lobes is available [here](https://royalholloway.maps.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c).
+
+There are three phases of the glaciation period you need to know, with four associated lobes.
+
+### Wadena Lobe
+The Wadena Lobe was the first of the four main lobes that were on 
+
+
 
 ### Wadena lobe
 The Wadena Lobe had depositional impacts on the north-west of the state. Its deposits were red and sandy, derived from **red sandstone & shale rock in the north and the northeast of Canada**.
@@ -1524,8 +1523,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzU0NDE1MTYsLTkxMjAxMTg1NSwtMT
-czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
-MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
-MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMTAxODMxNjE5NSwtOTEyMDExODU1LC0xNz
+M4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4Mjgx
+MSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMz
+M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
