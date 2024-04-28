@@ -400,13 +400,13 @@ If you're interested, an interactive map of the glacial extent and lobes is avai
 There are three phases of the glaciation period you need to know, with four associated lobes. Lobes themselves form because ice wants to move under gravity, and with the Laurentide ice sheet at 2 miles high, the base of the ice sheet was under significant pressure. The thickness of the ice above, topography of the land and geology have an impact on how lobes form. In areas of lower resistance such as a valley, ice can be channeled and advance faster, forming the lobes. 
 
 ### Wadena Lobe
-The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the northto norwest and is characterised by the deposits it created, being from red sandstone, shale and limestone.
+The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north to north-west and is characterised by the deposits it created, being from red sandstone, shale and limestone.
 
-This deposition produced the Alexandra and Itasca moraines, forming the tilly Wadena Drumlin Field over the Wadena, Otter Tail and Todd counties, and reached just south of the present-day Twin Cities.
+This deposition produced the Alexandra and Itasca moraines, forming the tilly Wadena Drumlin Field over the Wadena, Otter Tail and Todd counties, and its ground moraine reached just south of the present-day Twin Cities.
 
 
 ### Rainy and Superior Lobes
-The Rainy Lobe moved in from the north east to the south west of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
+The Rainy Lobe moved in from the north east of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
 
 
 
@@ -1529,9 +1529,9 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY2OTcxODAzLC0xMzIyODMwNDMwLDY0Nj
-c3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIx
-NSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOT
-Q5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkw
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNj
+Q2NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3
+MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNz
+A5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4
+OTA1NV19
 -->
