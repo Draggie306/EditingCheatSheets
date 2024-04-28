@@ -1211,10 +1211,8 @@ The Gini coefficient is used to measure the  inequality of income and thereby de
 
 
 ## Players that impact on economic change
-
-Specification content:
-4. **Who are the players that influence economic change in places?**
-4.a. **Places are influenced by a range of players operating at different scales.**
+> Who are the players that influence economic change in places?
+4.a. Places are influenced by a range of players operating at different scales.
 
 
 - The role of players in driving economic change, including at least one of local and national government, MNCs or international institutions. 
@@ -1251,7 +1249,7 @@ Specification content:
 	- the relative success of the rebranding.
 ---
 
-## Rebranding
+## [tbd] Rebranding
 There are 5 main ways to rebrand an area:
 - Top-down investment
 - Market-let strategies
@@ -1260,6 +1258,7 @@ There are 5 main ways to rebrand an area:
 - Legacy
 (Others include art events, historical exhibitions etc.)
 
+---
 
 end of paper 2
 
@@ -1524,7 +1523,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODc0ODQzMiwtMTYxMjAwNjcxNCwtMT
+eyJoaXN0b3J5IjpbMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMT
 A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
 MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
 05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
