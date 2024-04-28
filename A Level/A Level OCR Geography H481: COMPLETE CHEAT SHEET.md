@@ -834,7 +834,7 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 
 
 
-## Dealing with communicable
+## Dealing with communicable and non-communicable diseases
 ![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
 
 ## Case study: Malaria in Ethiopia (LIDC)
@@ -901,7 +901,7 @@ The UK government also employ many indirect strategies. Smoking was banned indoo
 ![smoking prevalence](https://allen-carr-live.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/06/07151619/Smoking-UK-stats-England-smoking-prevalence-by-region-1024x310.png)
 
 
-## 4. How far can diseases be predicted and mitigated against?
+## Predicting and mitigating against diseases
 ![Specification Content for Disease Dilemmas Key Idea 4 - "How far can diseases be predicted and mitigated against?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.4.png)
 
 ## Case study: The Red Cross and cholera in Haiti
@@ -918,7 +918,7 @@ Coupled with other aid workers like Cuban doctors who treated more than 75,000 c
 Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
 
 
-## 5. Can diseases ever be fully eradicated?
+## Can diseases ever be fully eradicated?
 ![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
 
 ## Case study: the rosy periwinkle
@@ -1534,10 +1534,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzY3MTM0NCwtMTYxMjAwNjcxNCwtMT
-A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
-MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
-05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
-NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
-02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTEyMjEwNjgyNzEsLTE2MTIwMDY3MTQsLT
+EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
+NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
+wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
+NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NS
+wtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+
 -->
