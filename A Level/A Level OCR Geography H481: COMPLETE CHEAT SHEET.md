@@ -426,9 +426,6 @@ In the southwest, **Prairie Coteau** is an example of a terminal moraine.
 Many of this lobe's deposits are over 160 metres deep.
 
 
-### Deglaciation
-Glacial Lake Agassiz was formed by glaciers which blocked the natural drainage of the area and as a result a lake developed to the south of the ice. The river that drained Lake Agassiz was known as Glacier River Warren. This left behind fertile silt deposits in what is now the Red River Valley. 
-The water is then thought to have overflowed at Brown's Valley and cut the present Minnesota River Valley, described as a **glof**, a glacial lake outburst flood. This discharge was staggering and also helped form the adjacent Mississippi River.
 
 ### Post-glacial modification
 The present landscape of Minnesota resulted largely from glacial activity in the Quaternary Period, or the most recent 2 million years. The Laurentide Ice Sheet grew and retreated several times over this period. 
@@ -1527,9 +1524,9 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc1NTUxNTA3LC0xMzc4MTMwNDA4LC0xMz
-IyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4Mjgw
-NTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMj
-Q0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5
-NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMT
+MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
+MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMz
+I0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2
+OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
