@@ -382,16 +382,19 @@ These examples clearly show the significant extent to which landforms in a valle
 
 [Dev Note] 02/02/2023: Add lobes.
 
-The Laurentide Ice Sheet was a huge ice sheet with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
+The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some places, with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin.
 
-As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz  which was up to 2 miles in height in some places,  [simplified]
+As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, you can imagine that  
+
+
+[simplified]
 
 
 
 
-. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the Black Sea. 
+. . 
 
 When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully grain, and it had a large impact on the climate, sea level and even early civilisation!
 
@@ -1537,8 +1540,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI5MDgzODQ2LDY0Njc3MDQyMCwtOTEyMD
-ExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEs
-MTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNz
-MxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTMwOTg2MTk3Niw2NDY3NzA0MjAsLTkxMj
+AxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQx
+LDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
+czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
