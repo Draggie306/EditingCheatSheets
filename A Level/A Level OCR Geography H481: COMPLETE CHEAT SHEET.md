@@ -1480,7 +1480,10 @@ Humans cannot stop volcanic hazards
 
 
 # [tbd] Earth's Life Support Systems
-Another physical geography section, this may be the most widely studies topic across the UK, along with the costs and rivers unit.
+
+> This information will be coming soon! Message me on Discord if you want it early
+
+Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
 
 ## Water
 Water is a fundamental part of life on Earth. Without it, we may not exist. This is so much so that liquid water is believed to be one of the key ingredience for life, alongside chemistry and energy. Water allows elements to become more complex, sustaining multicellular organisms' growth and complexity. 
@@ -1523,10 +1526,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMT
-A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
-MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
-05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
-NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
-02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTE0ODgyMjkyOTIsMTY1NjI1NjE1MywtMT
+YxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1
+MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0Mz
+AsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4
+NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2Ny
+wxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2
+ODM4OTA1NV19
 -->
