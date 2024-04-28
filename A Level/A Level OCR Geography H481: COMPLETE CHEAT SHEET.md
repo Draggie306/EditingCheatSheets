@@ -415,12 +415,10 @@ The Superior lobe came in from the northeast at the same time. Partially coverin
 
 ### Des Moines lobe
 
-The Des Moines Lobe was active during the most recent glacial period (LGP), around 13kya. It moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast.  In the southwest, the **Prairie Coteau** region has examples of terminal moraine, and outwash plains. Many of this lobe's deposits are over 160 metres deep in the region
-
+The Des Moines Lobe was active during the most recent glacial period (LGP), around 13kya. It moved in from the northwest, covering vast expanses of the west of the county from the most northerly point to the most southerly point. It deposited till that is **tan** to **buff** **coloured** and is **clay-rich and calcareous** due to its shale and limestone source in the northeast.  In the southwest, the **Prairie Coteau** region has examples of terminal moraine, and outwash plains. Many of this lobe's deposits are over 160 metres deep in the region.
 
 
 ### Post-glacial modification
-The present landscape of Minnesota resulted largely from glacial activity in the Quaternary Period, or the most recent 2 million years. The Laurentide Ice Sheet grew and retreated several times over this period. 
 
 Isostatic readjustment occurs when these ice sheet glaciers retreat due to the land not being under pressure anymore. This land then typically rebounds upwards and elevations increase in the area where glaciers once lay. Fluvial activities continued to mould the landscape after full glacial retreat had occurred.
 
@@ -1516,10 +1514,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE0NjQxMzYwLC0zOTY3Mjc3OSwtNDMxOT
-UyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQz
-MCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOT
-g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
-LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
-Y4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00Mz
+E5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMw
+NDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLD
+M5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYx
+NjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLT
+EwNjgzODkwNTVdfQ==
 -->
