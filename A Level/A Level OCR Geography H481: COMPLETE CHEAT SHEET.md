@@ -402,7 +402,7 @@ There are three phases of the glaciation period you need to know, with four asso
 ### Wadena Lobe
 The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north-west and is characterised by the deposits it created, being from red sandstone, shale and limestone.
 
-This deposition produced the Alexandra and Itasca moraines, forming tilly drumlin swarms over the Wadena, Otter Tail and Todd counties, and reached just south of the present-day Twin Cities.
+This deposition produced the Alexandra and Itasca moraines, forming the tilly Wadena Drumlin Field over the Wadena, Otter Tail and Todd counties, and reached just south of the present-day Twin Cities.
 
 
 ### 
@@ -1528,8 +1528,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTM4MDY5LDY0Njc3MDQyMCwtOTEyMD
-ExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEs
-MTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNz
-MxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTczNTE2MTA0Nyw2NDY3NzA0MjAsLTkxMj
+AxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQx
+LDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
+czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
