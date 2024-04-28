@@ -1185,22 +1185,16 @@ b) Places are represented through a variety of contrasting formal and informal a
 
 
 ## Economic change and patterns of social inequality
-Specification content:
-3. **How does economic change influence patterns of social inequality in places?**
 
-
-
-3.a. **The distribution of resources, wealth and opportunities are not evenly spread within and between places.**
+> 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
+3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
+3.c. Social inequality impacts people and places in different ways.
 - The concept of social inequality and how this can be measured through indices such as housing, healthcare, education, employment and access to services. 
 - How and why spatial patterns of social inequalities vary both within and between places.
-
-3.b. **Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.**
 - The influence of global connections and globalisation in driving structural economic change in places, such as de-industrialisation and the rise of the service industry. 
 - How structural economic change impacts patterns of social opportunities and inequality for people and places. 
 - How cyclical economic change (booms and recessions) has varied impacts on social opportunities and inequality. 
 - The role of government in reducing, reinforcing and creating patterns of social inequality in places through spending or cuts in key services such as availability and accessibility of education, healthcare, infrastructure and community services.
-
-3.c. **Social inequality impacts people and places in different ways.**
 - Case studies of two contrasting places to illustrate: 
 	- the types of evidence of social inequality that can be found there such as housing, environmental quality, crime rates, digital divide 
 	- the range of factors that influence people's social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
@@ -1530,7 +1524,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjIyNzM2OCwtMTYxMjAwNjcxNCwtMT
+eyJoaXN0b3J5IjpbLTMxODc0ODQzMiwtMTYxMjAwNjcxNCwtMT
 A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
 MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
 05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
