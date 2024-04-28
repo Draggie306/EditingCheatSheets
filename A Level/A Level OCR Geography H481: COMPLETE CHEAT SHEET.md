@@ -13,7 +13,7 @@ Last content addition: 28/04/2024 21:58](https://gist.github.com/Draggie306/1072
 Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
-> NEW! You can also follow iBaguette on
+> NEW! You can also follow [iBaguette on Instagram](https://instagram.com/ibaguettecom) for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png =500x300)
 *Top-notch graphic design by me*
@@ -1535,10 +1535,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5MTA2Njk4LC0xNjEyMDA2NzE0LC0xMD
-U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
-NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
-kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
-MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLT
-Y0MjczMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTE0NDgxNDYzODYsLTE2MTIwMDY3MTQsLT
+EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
+NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
+wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
+NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NS
+wtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+
 -->
