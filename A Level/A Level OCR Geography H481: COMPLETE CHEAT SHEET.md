@@ -1481,7 +1481,7 @@ Humans cannot stop volcanic hazards
 
 # [tbd] Earth's Life Support Systems
 
-> This information will be coming soon! Message me on Discord if you want it early
+> This information will be coming soon! Message me if you want it early
 
 Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
 
@@ -1526,11 +1526,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODgyMjkyOTIsMTY1NjI1NjE1MywtMT
-YxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1
-MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0Mz
-AsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4
-NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2Ny
-wxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2
-ODM4OTA1NV19
+eyJoaXN0b3J5IjpbOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MT
+IwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1
+NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLD
+Y0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4
+NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMT
+cwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgz
+ODkwNTVdfQ==
 -->
