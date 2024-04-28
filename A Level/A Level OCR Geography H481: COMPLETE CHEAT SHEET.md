@@ -386,14 +386,7 @@ The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some p
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin.
 
-As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation[simplified]
-
-
-
-
-. . 
-
-
+As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation! [simplified]
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
@@ -404,11 +397,12 @@ If you're interested, an interactive map of the glacial extent and lobes is avai
 
 
 ## Ice Lobes
-There are three phases of the glaciation period you need to know, with four associated lobes.
+There are three phases of the glaciation period you need to know, with four associated lobes. 
 
 ### Wadena Lobe
 The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north-west and is characterised by the deposits it created, being from red sandstone and shale.
 
+This deposition p
 
 
 
@@ -1537,7 +1531,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjYzMDUzMiw2NDY3NzA0MjAsLTkxMj
+eyJoaXN0b3J5IjpbMTA0MjAzNDU3Nyw2NDY3NzA0MjAsLTkxMj
 AxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQx
 LDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
 czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
