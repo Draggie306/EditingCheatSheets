@@ -384,6 +384,8 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
+Its last advance occurred between around 100kya and 20kya, where subglacial erosion carveed out huge
+
 Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places, 
 
 
@@ -1533,7 +1535,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQwODA3NjUsLTkxMjAxMTg1NSwtMT
+eyJoaXN0b3J5IjpbLTEzODYwNTE0MzcsLTkxMjAxMTg1NSwtMT
 czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
 MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
 MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
