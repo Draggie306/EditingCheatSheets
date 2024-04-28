@@ -408,6 +408,8 @@ This deposition produced the Alexandra and Itasca moraines, forming the tilly Wa
 ### Rainy and Superior Lobes
 The Rainy Lobe moved in from the north east of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
 
+The Superior lobe, partially covering present-day Lake Superior, 
+
 
 
 
@@ -1529,7 +1531,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU3NDM3NjksLTEzNzgxMzA0MDgsLT
+eyJoaXN0b3J5IjpbLTEyMTI5NDA1MjAsLTEzNzgxMzA0MDgsLT
 EzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3Mzgy
 ODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLD
 MyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcx
