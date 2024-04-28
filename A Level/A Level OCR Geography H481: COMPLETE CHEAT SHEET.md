@@ -397,12 +397,12 @@ If you're interested, an interactive map of the glacial extent and lobes is avai
 
 
 ## Ice Lobes
-There are three phases of the glaciation period you need to know, with four associated lobes. Lobes themselves form because ice wants to move under gravity, and with the Laurentide ice sheet at 2 miles high, the base of the ice sheet was under significant pressure. The thickness of the ice above, topography of the land and geology have an impact on how lobes form. In areas of lower resistance such as a valley, ice can be channeled and advance faster, f 
+There are three phases of the glaciation period you need to know, with four associated lobes. Lobes themselves form because ice wants to move under gravity, and with the Laurentide ice sheet at 2 miles high, the base of the ice sheet was under significant pressure. The thickness of the ice above, topography of the land and geology have an impact on how lobes form. In areas of lower resistance such as a valley, ice can be channeled and advance faster, forming the lobes. 
 
 ### Wadena Lobe
 The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north-west and is characterised by the deposits it created, being from red sandstone, shale and limestone.
 
-This deposition produced the 
+This deposition produced the Alexandra and Itasca moraines, forming tilly drumlin swarms over the Wadena, Otter Tail and Todd counties.
 
 
 
@@ -1531,7 +1531,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjc0NzI5ODYsNjQ2NzcwNDIwLC05MT
+eyJoaXN0b3J5IjpbLTE5MTQzNDc1NzcsNjQ2NzcwNDIwLC05MT
 IwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0
 MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02ND
 I3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
