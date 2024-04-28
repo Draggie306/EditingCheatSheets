@@ -127,7 +127,7 @@ Warm-based (alpine) glaciers:
 
 Cold-based glaciers are unable to move by basal sliding as the basal temperature is below the pressure melting point. Instead, they move through **internal deformation**.
 
-> Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and 
+> Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and the cold temperatures inhibiting internal deformation to a very slow rate.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
@@ -137,9 +137,7 @@ The microclimate is a small region with its own distinct climatic characteristic
 
 **Regional climate**
 
-The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes.
-
-The wind is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand. 
+The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand.
 
 Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At higher altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both regionally and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
 
@@ -1523,7 +1521,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMzNjAxNjIsMzk4NDg3MjE1LDM5Nz
+eyJoaXN0b3J5IjpbLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nz
 c3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1
 LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
