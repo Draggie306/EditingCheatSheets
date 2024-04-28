@@ -1,8 +1,10 @@
 
   
 
-[< Back to A level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+[< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+
 # A Level OCR Geography: Complete Cheat Sheet
+
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
@@ -1535,11 +1537,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDgxNDYzODYsLTE2MTIwMDY3MTQsLT
-EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
-NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
-wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
-NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NS
-wtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
-
+eyJoaXN0b3J5IjpbMjI1MTI3MDU0LC0xNjEyMDA2NzE0LC0xMD
+U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
+NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
+kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
+MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLT
+Y0MjczMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
