@@ -999,10 +999,7 @@ Intraregional migration is migration that occurs within a region, for example, t
 # [TBD] 2.1 – Changing Spaces; Making Places
 
 ## What's in a place?
-
-**Key idea:**
-
-1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
 **Content:**
 
@@ -1163,8 +1160,7 @@ The local availability of a resource or natural advantage can encourage the grow
 
 ## How do we understand place?
 
-**Key Ideas**
-a) People see, experience and understand place in different ways, this can also change over time. 
+> a) People see, experience and understand place in different ways, this can also change over time. 
 b) Places are represented through a variety of contrasting formal and informal agencies.
 
 **Content A:**
@@ -1534,11 +1530,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEwNjgyNzEsLTE2MTIwMDY3MTQsLT
-EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
-NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
-wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
-NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NS
-wtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
-
+eyJoaXN0b3J5IjpbMTkwMjIyNzM2OCwtMTYxMjAwNjcxNCwtMT
+A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
+MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
+05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
+NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
+02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
