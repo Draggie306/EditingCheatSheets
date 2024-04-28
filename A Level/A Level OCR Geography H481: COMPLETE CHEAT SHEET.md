@@ -380,18 +380,19 @@ These examples clearly show the significant extent to which landforms in a valle
 ![Laurentide Ice Sheet](https://cheatsheet-assets.ibaguette.com/alevel/geography/Laurentide_Ice_Sheet.png)
 *The Laurentide Ice Sheet during various glacial stages*
 
-
 [Dev Note] 02/02/2023: Add lobes.
-
-
 
 Lake Agassiz was a vast glacial lake located in central North America which was fed by contributory meltwater from the Laurentide ice sheet, which was up to 2 miles in height in some places. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the Black Sea. 
 
 When an outburst flood occurred, around 11,000 years ago, it resulted in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren'. It helped form the modern Minnesota and Mississippi rivers.
 
+
+
 Its major drainage reorganization events greatly had an impact on climate, sea level and possibly even early human civilization.
 
-The erosion and the melting formed the glacial river warren and formed the modern Minnesota and upper Mississippi rivers.
+
+
+The erosion and the melting formed the Glacial River Warren and formed the modern Minnesota and upper Mississippi rivers.
 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
@@ -1523,8 +1524,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg2OTM0MTgsLTkxMjAxMTg1NSwtMT
-czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
-MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
-MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMTkzNzM1MDg0LC05MTIwMTE4NTUsLTE3Mz
+gyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODEx
+LDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMz
+cxNjk2MywtMTA2ODM4OTA1NV19
 -->
