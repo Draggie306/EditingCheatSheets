@@ -382,7 +382,7 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some places, with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
-The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high were created by tectonic compression. The Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting exposed weaker, lesser-jointed shale rocks.
+The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were eroded; now Eagle Mountain, the highest, is only 701m high. Part of Lake Superior and other Arrowhead region lakes were deeply eroded thans to their weaker geologies. 
  
@@ -425,11 +425,6 @@ Moved in from the northwest, covering vast expanses of the west of the county fr
 In the southwest, **Prairie Coteau** is an example of a terminal moraine.
 Many of this lobe's deposits are over 160 metres deep.
 
-### Erosional impacts of the ice
-
-The highest mountains in Minnesota were worn down from being made of metamorphic gneiss and many kilometres high; now they're just 500 to 700 meters in elevation. 
-Furthermore, a large [ellipsoidal basin](#ellipsoidal-basins) was created and contains thousands of lakes like Upper and Lower Red Lake in North Minnesota, and **Mille Lacs Lake** in Central Minnesota. 
-In the Arrowhead Northeast region, this erosion was especially deep due to earlier tectonic tilting of the landscape which exposed weak shale rock. Lakes here lie in deeply eroded shales.
 
 ### Deglaciation
 Glacial Lake Agassiz was formed by glaciers which blocked the natural drainage of the area and as a result a lake developed to the south of the ice. The river that drained Lake Agassiz was known as Glacier River Warren. This left behind fertile silt deposits in what is now the Red River Valley. 
@@ -1532,9 +1527,9 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5MzQ2MzQ5OCwtMTM3ODEzMDQwOCwtMT
-MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
-MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMz
-I0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2
-OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbNjc1NTUxNTA3LC0xMzc4MTMwNDA4LC0xMz
+IyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4Mjgw
+NTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMj
+Q0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5
+NjMsLTEwNjgzODkwNTVdfQ==
 -->
