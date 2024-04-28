@@ -87,10 +87,10 @@ Glacial ice has a density of 850kg/m^3^. It is rock hard, feels glassy and is al
 
 The glacier mass balance is the total **sum** of all the **accumulation** (snow, ice, freezing rain) and melt or **ice loss** (from calving icebergs, melting, sublimation) across the entire glacier, or amount of ablation. 
 
-Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in an ideal scenario:
+Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in a typical scenario:
 ![Diagram of the Glacial Mass Balance in a glacier, oscillating between minimum and maximum glacier mass ](https://cheatsheet-assets.ibaguette.com/alevel/geography/MassBalance.jpg)
 
-An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season.
+An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season. In the image above, as the accumulation is equal to ablation, the glacier is not growing.
 
 Layers of snow within the ice give evidence of the way that it has formed.
 
@@ -1521,7 +1521,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjcwODQzMjEsMzk4NDg3MjE1LDM5Nz
+eyJoaXN0b3J5IjpbLTE2ODk5MTEyODcsMzk4NDg3MjE1LDM5Nz
 c3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1
 LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
