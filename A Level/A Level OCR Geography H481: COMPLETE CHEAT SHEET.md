@@ -407,17 +407,10 @@ This deposition produced the Alexandra and Itasca moraines, forming the tilly Wa
 
 
 ### Rainy and Superior Lobes
-The Rainy Lobe moved in from the north east of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
+The Rainy Lobe moved in from the north to northeast of Minnesota and deposited the St Croix moraine, made of greyish, brown greenstone around 20kya.
 
-The Superior lobe at the same time, partially covering present-day Lake Superior, deposited a series of basalt, red sandstone and greenstone till moraines extending southwards to the Twin Cities. Like Wadena, it too deposited drumlins.
+The Superior lobe came in from the northeast at the same time. Partially covering present-day Lake Superior, it deposited a series of basalt, red sandstone and greenstone till moraines extending southwards to the Twin Cities. Like Wadena, it too deposited drumlins.
 
-
-
-
-### Rainy and Superior lobes
-The rainy lobe moved in after the Wadena lobe in the same general area, but only covered half the area. However, the Superior lobe was much larger and moved in from the northeast. It partly covered the modern-day Lake Superior, on the east side of the state.
-Their last glacial advance deposited coarse till which contained various types of basalt, gabbro, granite, red sandstone, slate and even greenstone. The red sandstone made the overall deposits seem reddish and dusty-looking.
-Deposits can be found across the northeast half of Minnesota, stretching as far south as Minneapolis.
 
 
 ### Des Moines lobe
@@ -1524,9 +1517,9 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMjI4NjA2MiwxMTU1MzI3NTM3LC0xMz
-c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
-ODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMT
-M0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMx
-MDIwLDEyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNz
+gxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4
+NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMz
+QzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEw
+MjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
