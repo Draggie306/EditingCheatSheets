@@ -276,11 +276,11 @@ It can be known whether sediment was deposited by water or ice. Ice-transported 
 *There are a range of depositional landforms visible in this photograph. Can you identify them all?*
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Moranic%20Valley%20Glacier.jpg)
-A great diagram of t
+*A great diagram of all the different types of moraine.*
 
 ### Moraines
 
-Moraines are ridges of soil, rocks and till which have been deposited by a glacial system.
+Moraines are ridges of soil, rocks and till which have been deposited by a glacial system. Strictly speaking, only the main three are on the OCR specification, but there's no harm in being able to explain them all.
 
 #### Medial moraines
 
@@ -318,6 +318,8 @@ It is not known exactly how drumlins are formed, but the most likely and agreed 
 This is an example of **lodgement till** (not ablation till) as it is formed as the glacier is still advancing.
 
 Others argue that they may have a bedrock core (hence rock-cored drumlins) and as material was obstructed, sediment began accumulating around this, much like in the way of a dune, and was streamlined in the same way as above.
+
+Another argument to the formation of drumlins is that they occur when a glacier move over an area of existing glacial deposits. As the glacier moves over this existing till, the pressure of the overlying ice causes the till to be remoulded and changed into the characteristic shape of streamlined till that we know and love as a drumlin.
 
 They typically occur in larger groups, or ‘swarms'. This is known as a ‘**basket of eggs**' topography.
 
@@ -1521,7 +1523,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NzI3MzMwMiwtMTczODI4MDU2MSwzOT
+eyJoaXN0b3J5IjpbLTU5NTMwMzY2NCwtMTczODI4MDU2MSwzOT
 g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
 LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
 Y4Mzg5MDU1XX0=
