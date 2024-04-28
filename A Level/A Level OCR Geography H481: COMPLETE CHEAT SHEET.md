@@ -390,8 +390,11 @@ When an outburst flood occurred, around 11,000 years ago, it resulted in large-s
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
 *The top left is the bed of Lake Agassiz, and the eroded area is visible too. North Minnesota.*
 
-An interactive map of the glacial extent and lobes is available [here](https://royalholloway.maps.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c).
+If you're interested, an interactive map of the glacial extent and lobes is available [here](https://royalholloway.maps.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c), thanks to the brilliant geographers over at Royal Holloway.
 
+
+
+## Ice Lobes
 There are three phases of the glaciation period you need to know, with four associated lobes.
 
 ### Wadena Lobe
@@ -1525,8 +1528,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE3NDc5NDAsLTkxMjAxMTg1NSwtMT
-czODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4
-MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMj
-MzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTg4NTAxMjI1NywtOTEyMDExODU1LC0xNz
+M4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4Mjgx
+MSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMz
+M3MTY5NjMsLTEwNjgzODkwNTVdfQ==
 -->
