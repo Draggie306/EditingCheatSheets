@@ -966,11 +966,34 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
-A migrant is .....
 
-Interdependence - interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
+A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
 
-Globalisation - the growing integration and interdependence between peoples' lives economically, politically and environmentally.
+**Interdependence** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
+
+**Globalisation** is the growing integration and interdependence between peoples' lives economically, politically and environmentally.
+
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
+
+Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
+
+Migration on a global scale is significant. In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
+
+> Global migration involves dynamic flows of people between countries, regions and continents
+
+## [tbd] Consequences of migration
+When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
+
+### Positives of migration
+
+Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
+
+
+**Stability**
+
+
+### Intra-regional migration
+Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -1511,10 +1534,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
-M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
-NDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC
-0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4
-MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLD
-EyMzM3MTY5NjMsLTEwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbMTE2MDI4NjAwMiwtMTYxMjAwNjcxNCwtMT
+A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
+MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
+05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
+NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
+02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
