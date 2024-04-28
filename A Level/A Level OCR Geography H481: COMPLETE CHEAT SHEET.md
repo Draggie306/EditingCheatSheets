@@ -464,7 +464,7 @@ Many eskers are found in central Ireland, some are in Canada, as well as many in
 A meltwater stream is visible south of it, as well as another esker to the east.
 
 **Post-glacial climate change in Eskers**
-During periods of increasing global climatic temperatures, the rate of glacial ablation increases and results in more meltwater being produced. This means that there is more accumulation of sediment in proglacial areas and the length of these eskers is likely to increase or become more beaded with greater and more intense ablation periods. 
+During periods of increasing global climatic temperatures, the rate of glacial ablation increases and results in more meltwater being produced. This means that there is more accumulation of sediment in proglacial areas and the length of these eskers is likely to increase or become more beaded with greater and more intense ablation periods. With faster glacial ablation, eskers will be exposed in greater number.
 
 ### Kames and Kame Terraces 
 
@@ -1514,10 +1514,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00Mz
-E5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMw
-NDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLD
-M5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYx
-NjcsMTcwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLT
-EwNjgzODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTM5NTI2MDY0OCwtMTA1ODU5NDczMiwtMz
+k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
+MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLT
+E3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgy
+ODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMT
+IzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
