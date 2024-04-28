@@ -785,7 +785,7 @@ Bangladesh, although has its problems, is improving too. The threat of more seve
 Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-3983-b9f7-4b038c3b8e55/MDRBD025efr%20%281%29.pdf)
 
 
-## 2. Is there a link between disease and levels of economic development?
+## Disease vs Economic Development
 ![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
 
 
@@ -834,7 +834,7 @@ In 2015, this protocol was replaced by the Paris Climate Convention. It agreed t
 
 
 
-## 3. How effectively are communicable and noncommunicable diseases dealt with?
+## Dealing with communicable
 ![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
 
 ## Case study: Malaria in Ethiopia (LIDC)
@@ -1534,10 +1534,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ0OTAzNTU0LC0xNjEyMDA2NzE0LC0xMD
-U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
-NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
-kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
-MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLT
-Y0MjczMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbMTg2NzY3MTM0NCwtMTYxMjAwNjcxNCwtMT
+A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
+MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
+05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
+NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
+02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
