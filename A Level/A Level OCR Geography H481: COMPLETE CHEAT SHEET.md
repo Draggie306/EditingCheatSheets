@@ -172,12 +172,12 @@ A corrie is an armchair-shaped depression in a mountain. Also known as a *cwm* o
 
 This virgin snow is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; of 1 year).
 
-This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slumping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
+This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slipping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
 
 When this ice melts or the area is deglaciated, a *tarn* (or corrie lake) is created, enclosed by the rock lip. Material may then continue to fall down from the back wall due to continued weathering, combined with aspect and steep relief, known as **scree**.
 
 
-[add image of Easedale Tarn morainic lip here when bored]
+[editor tbd note: add image of Easedale Tarn morainic lip here later]
 
 
 
@@ -373,7 +373,7 @@ At the same time, under its own weight, the ice at the base begins to rotate, kn
 These examples clearly show the significant extent to which landforms in a valley glacier system are interrelated between different erosional landforms, from the initial snowflakes settling in a hollow to the creation of many other landforms during and after glaciation has occurred.
 
 
-## [tbd] Ice Sheet Case Study: Minnesota
+## Ice Sheet Case Study: Minnesota
 
 ![Laurentide Ice Sheet](https://cheatsheet-assets.ibaguette.com/alevel/geography/Laurentide_Ice_Sheet.png)
 *The Laurentide Ice Sheet during various glacial stages*
@@ -1521,7 +1521,8 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nz
-c3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1
-LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbLTIwMTIxMjQxOTcsLTE3MzgyODA1NjEsMz
+k4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2
+NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcxNjk2MywtMT
+A2ODM4OTA1NV19
 -->
