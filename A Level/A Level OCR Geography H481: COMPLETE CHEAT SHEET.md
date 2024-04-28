@@ -400,9 +400,9 @@ If you're interested, an interactive map of the glacial extent and lobes is avai
 There are three phases of the glaciation period you need to know, with four associated lobes. 
 
 ### Wadena Lobe
-The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north-west and is characterised by the deposits it created, being from red sandstone and shale.
+The Wadena Lobe was the first of the four main lobes that were on top of Minnesota. Arriving around 30kya, the lobe came in from the north-west and is characterised by the deposits it created, being from red sandstone, shale and limestone.
 
-This deposition p
+This deposition produced the 
 
 
 
@@ -1531,7 +1531,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MjAzNDU3Nyw2NDY3NzA0MjAsLTkxMj
+eyJoaXN0b3J5IjpbMTcxMzY4NzAwNiw2NDY3NzA0MjAsLTkxMj
 AxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQx
 LDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mj
 czMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
