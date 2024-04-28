@@ -37,7 +37,8 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 Photo from [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)
 
 There are 3 main parts to any system: **inputs**, **processes** and **outputs**. 
-Glaciers are dynamic. Glaciated landscapes may be seen as a system with many interrelated components (stores), processes (cause/effect mechanisms) and inputs & outputs. This forms an open system.
+
+Glaciers are dynamic. Glaciated landscapes may be seen as a system with many interrelated components (stores), processes (cause/effect mechanisms), inputs and outputs. This forms an **open system**.
 
 - Inputs
 	- precipitation (snowfall)
@@ -1538,7 +1539,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMjI2MzIzLC0xNjEyMDA2NzE0LC0xMD
+eyJoaXN0b3J5IjpbLTY4Mjc5NTUxLC0xNjEyMDA2NzE0LC0xMD
 U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
 NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
 kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
