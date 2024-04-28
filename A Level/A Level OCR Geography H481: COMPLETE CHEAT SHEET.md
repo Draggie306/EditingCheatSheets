@@ -255,7 +255,7 @@ On top of the subglacial erosion which may have occurred, the majority of the la
 
 After deglaciation, isostatic readjustment may occur, and these compressed, lowered areas may readjust and bounce back upwards, now being under no additional pressure.
 
-> [REVIEW] Admin note: this must be fact checked and reviewed to ensure clarity and precision!
+> [REVIEW] Editor tbd note: this must be fact checked and reviewed to ensure clarity and precision!
 
 
 ## Glacial depositional landforms
@@ -267,16 +267,16 @@ After deglaciation, isostatic readjustment may occur, and these compressed, lowe
 - Material deposited directly by ice is called **till**.
 - Material deposited by meltwater is called outwash, or **glacio-fluvial material**.
 
-Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as drumlins.
+Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as the theory of depositional drumlins.
 Ablation till is material deposited at the terminus by melting ice from stagnant, or retreating glaciers during a warm period or end of glaciation event. Most depositional landforms are this type.
 
 It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
 
 ![A photo of a valley glacier, with an erratic, eskers and more landforms](https://cheatsheet-assets.ibaguette.com/alevel/geography/ValleyGlacierLandscapeFormations.png =700x500)
-There are a range of depositional landforms visible in this photograph. Can you identify them all?
+*There are a range of depositional landforms visible in this photograph. Can you identify them all?*
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Moranic%20Valley%20Glacier.jpg)
-
+A great diagram of t
 
 ### Moraines
 
@@ -1521,7 +1521,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDgyODUyNCwtMTczODI4MDU2MSwzOT
+eyJoaXN0b3J5IjpbLTQ5NzI3MzMwMiwtMTczODI4MDU2MSwzOT
 g0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3
 LDE3MDk0OTk3NjUsLTY0MjczMTAyMCwxMjMzNzE2OTYzLC0xMD
 Y4Mzg5MDU1XX0=
