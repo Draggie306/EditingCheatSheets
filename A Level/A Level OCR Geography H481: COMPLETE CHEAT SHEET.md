@@ -572,14 +572,14 @@ Being in a periglacial area means an area that is near to, or on the fringe of, 
 This is also part of the Earth's cryosphere, as well as glaciers, ice sheets, and more!
 
 Permafrost itself is comprised of:
-- the active layer (this is the top few metres or so. It is warmer as it is closer to the surface. It may become unfrozen during the summer months and vegetation may grow too.)
+- the **active layer** (this is the top few metres or so. It is warmer as it is closer to the surface. It may become unfrozen during the summer months and vegetation may grow too.)
 - the permafrost layer itself.
-- talik (year-round sections of unfrozen ground, soil, and rocks that lie in permafrost areas, but itself is not frozen)
+- **talik** (year-round sections of unfrozen ground, soil, and rocks that lie in permafrost areas, but itself is not frozen)
 
 There are 3 types of permafrost:
-- Continuous permafrost: there is little thawing, even in the summer. These are often in areas of high altitude and latitude.
-- Discontinuous permafrost: There are some patches of consistent permafrost, but are broken up by talik extending to the active layer
-- Sporadic permafrost: small amounts of permafrost largely enclosed by talik
+- **Continuous** permafrost: there is little thawing, even in the summer. These are often in areas of high altitude and latitude.
+- **Discontinuous** permafrost: There are some patches of consistent permafrost, but are broken up by talik extending to the active layer
+- **Sporadic** permafrost: small amounts of permafrost largely enclosed by talik
 
 ### Patterned ground
 
@@ -1539,10 +1539,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4Mjc5NTUxLC0xNjEyMDA2NzE0LC0xMD
-U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
-NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
-kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
-MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLT
-Y0MjczMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
+eyJoaXN0b3J5IjpbLTc4MzI5NDI3MSwtMTYxMjAwNjcxNCwtMT
+A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
+MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
+05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
+NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
+02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
 -->
