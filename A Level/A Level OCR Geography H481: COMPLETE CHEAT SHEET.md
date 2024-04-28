@@ -643,8 +643,7 @@ In summer, this crack in the soil fills with meltwater. Over time as many freeze
 >Summary: Soil cracks when cooled quickly. In summer the crack fills with meltwater, and as it refreezes many freeze-thaw events take place, expanding the ice by 9% each time. This eventually results in the formation of an ice wedge.
 
 ## Human activities in Glacial and Periglacial Landscape Systems
-**Key Ideas**
-4.a. Human activity causes change within periglacial landscape systems.
+> 4.a. Human activity causes change within periglacial landscape systems.
 4.b. Human activity causes change within glaciated landscape systems.
 
 
@@ -711,11 +710,6 @@ That's the end for glaciation! I hope you found it useful.
 
 # [TBD] Disease Dilemmas 
 
-
-
-# Disease Dilemmas Complete Notes
-Note that this is an incomplete cheat sheet. No ads will be shown. Eventually, the content here will be merged into the [main cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all). Happy revision!
-
 Last update: 15/01/2024 22:38
 Word count: 4,807 (25,446 characters)
 
@@ -755,7 +749,8 @@ Different scales:
 
 
 ## 2. Is there a link between disease and levels of economic development?
-![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)### Patterns of diseases
+![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
+### Patterns of diseases
 
 #### Malaria
 
@@ -1539,10 +1534,10 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzI5NDI3MSwtMTYxMjAwNjcxNCwtMT
-A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
-MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
-05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
-NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC
-02NDI3MzEwMjAsMTIzMzcxNjk2MywtMTA2ODM4OTA1NV19
+eyJoaXN0b3J5IjpbNTQ0OTAzNTU0LC0xNjEyMDA2NzE0LC0xMD
+U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
+NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
+kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
+MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLT
+Y0MjczMTAyMCwxMjMzNzE2OTYzLC0xMDY4Mzg5MDU1XX0=
 -->
