@@ -12,9 +12,10 @@ please let me know if there are any errors :)
 Last content addition: 28/04/2024 21:58](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
-Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
+You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
+
 > NEW! You can also follow [iBaguette on Instagram](https://instagram.com/ibaguettecom) for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png =500x300)
@@ -35,7 +36,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
 Photo from [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)
 
-There are 3 main parts to any system: inputs, processes and outputs. 
+There are 3 main parts to any system: **inputs**, **processes** and **outputs**. 
 Glaciers are dynamic. Glaciated landscapes may be seen as a system with many interrelated components (stores), processes (cause/effect mechanisms) and inputs & outputs. This forms an open system.
 
 - Inputs
@@ -1537,7 +1538,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI1MTI3MDU0LC0xNjEyMDA2NzE0LC0xMD
+eyJoaXN0b3J5IjpbMjEyMjI2MzIzLC0xNjEyMDA2NzE0LC0xMD
 U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
 NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
 kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
