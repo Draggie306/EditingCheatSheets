@@ -7,8 +7,8 @@ Welcome to the A Level OCR Computer Science H446 Cheat Sheet, with everything co
 
 **This Cheat Sheet is in development. Unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 
-[Last general update: 16/12/2023 19:42.
-Last content addition: 04/12/2023 20:57](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Last general update: 22/01/2024 22:58.
+Last content addition: 22/01/2024 22:42](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 ✅ Note: This file is synced with [this repository](https://github.com/Draggie306/CheatSheets). You'll always be on the latest version.
 
@@ -2240,7 +2240,7 @@ The last (most recent) function to be called will be computed first. Then, when 
 
 
 ## Hash tables
-Hash tables, an abstract data structure, involves processing the value of an item with a hashing function to assert its address. No matter how large the dataset, these will be fast, as there is no searching algorithm being used; only one calculation is needed to find the address of the item (provided the hash function is good, and there are no collisions - see below).
+Hash tables, an abstract data structure, involves processing the value of an item with a hashing function to assert its address. No matter how large the dataset, these will be fast, as there is no searching algorithm being used; only one calculation is needed to find the address of the item (provided the hash function is good, and there are no collisions - see below) and therefore the time complexity is O(1).
 
 `address = key mod (#ofslots)` - this is the hash function
 
@@ -2273,7 +2273,7 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjQ5NjM3MywtNDQyMDcwNDI0LC0xNT
-kyMTk1OTk2LDY1MDUwMzM3MCwtMTg0OTkwODUxNiwtNzcyNTg5
-MDUzXX0=
+eyJoaXN0b3J5IjpbLTE1NjIxMTA1MzksMTU1MjQ5NjM3MywtND
+QyMDcwNDI0LC0xNTkyMTk1OTk2LDY1MDUwMzM3MCwtMTg0OTkw
+ODUxNiwtNzcyNTg5MDUzXX0=
 -->
