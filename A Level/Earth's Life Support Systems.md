@@ -49,6 +49,8 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 
 ## Introduction to carbon
 
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/8/82/Carbon_cycle-cute_diagram.svg)
+
 Carbon is the building block of life on Earth. It is available for use in the natural world and by humans.
 
 It is found across the planet, in a wide variety of stores, and is measured in Petagrams of Carbon - PgC - which is the same 1 gigatonne. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
@@ -243,8 +245,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNj
-U0ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtNDgwNTM4OTEz
-LDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MT
-kzMjUzNV19
+eyJoaXN0b3J5IjpbMTI5NDM3NDIzNiwtMTc1MTY0MzQ3LC03Mz
+c4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1
+LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
+c1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
