@@ -130,7 +130,8 @@ If the dry envronmental lapse rate is lower than the ELR, the air parcel that wo
 
 
 Air can be cooled, aside from just moving vertially upwards, in several ways, and they create different types of clouds.
-- Hot air rises through convection, cooling through adiabatic expension, in areas of atmospheri
+- Hot air rises through **convection**, cooling through adiabatic expension, in areas of atmospheric instability.
+- Air can move laterally over a cooler area, as **advection**. 
 
 
 ### Catchment hydrology
@@ -223,6 +224,6 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc4MjI4MTYsNjU4MjA5NTIsLTE4ND
-Q2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbLTY2NTQzNzc3MCw2NTgyMDk1MiwtMTg0ND
+Y4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
