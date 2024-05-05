@@ -172,7 +172,10 @@ Combustion is simply the process of buning organic material with oxygen, releasi
 
 The biggest example of this (10 GtC/yr) is human activities, from fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
 
-In natural environments too this is essential lightning creating fires, removing forest floor litter and allowing new growth when spaces of the forest canopy are opened. This moves carbon from the biosphere, and sometimes soils
+In natural environments too this is essential lightning creating fires, removing forest floor litter and allowing new growth when spaces of the forest canopy are opened. This moves carbon from the biosphere, and sometimes soils and peat too, to the atmosphere.
+
+### Volcanism (Hazards)
+Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, ha
 
 
 
@@ -237,7 +240,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzY2ODg1MSwtMTY4MjAyNjExOSwtMz
+eyJoaXN0b3J5IjpbMTEyNTI3NjE4NiwtMTY4MjAyNjExOSwtMz
 c4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4
 ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
