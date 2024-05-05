@@ -175,7 +175,7 @@ The biggest example of this (10 GtC/yr) is human activities, from fossil fuels f
 In natural environments too this is essential lightning creating fires, removing forest floor litter and allowing new growth when spaces of the forest canopy are opened. This moves carbon from the biosphere, and sometimes soils and peat too, to the atmosphere.
 
 ### Volcanism (Hazards)
-Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, the gases and matter is burned> 
+Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, the gases and matter is burned. At a convergent boundary, the gases bubble up and release the stored carbon from the lithosphere into the atmosphere. This is extremely slow, over millions of years, but when this does occur, it is 	 
 
 
 
@@ -240,7 +240,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODAxNzczOSwtMTY4MjAyNjExOSwtMz
-c4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4
-ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbNTczNjU0ODAsLTE2ODIwMjYxMTksLTM3OD
+I4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgw
+LDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
