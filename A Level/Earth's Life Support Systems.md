@@ -178,7 +178,7 @@ In natural environments too this is essential lightning creating fires, removing
 Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, the gases and matter is burned. At a convergent boundary, the gases bubble up and release the stored carbon from the lithosphere into the atmosphere. This is extremely slow, over millions of years, but when it does occur, can be significant. This accounts for around 300 m tonnes per year (40x less than anthropomorphic emissions). [Source](https://www.eurekalert.org/news-releases/736161)
 
 ### Oceanic sequestration
-Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of the  
+Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of  
 
 
 
@@ -241,7 +241,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMD
-I2MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1Miwt
-MTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTEzMTk0NjUxMTEsLTczNzg5NzY4LDU3Mz
+Y1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkx
+Myw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNj
+E5MzI1MzVdfQ==
 -->
