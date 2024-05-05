@@ -168,7 +168,7 @@ Chemical weathering can also be significant, such as carbonation, which occurs w
 A combination of physical weathering, which increases the surface area susceptible to chemical weathering, and chemical weathering itself
 
 ### Combustion
-
+Combustion is simply the process of buning organic material with oxygen, releasing carbon and other gases. 
 
 
 
@@ -232,7 +232,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc0NTQ2ODM5LC0zNzgyODMyOTUsLTQ4MD
-UzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2Mjks
-LTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtND
+gwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYy
+OSwtMTM2MTkzMjUzNV19
 -->
