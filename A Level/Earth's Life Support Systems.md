@@ -161,7 +161,7 @@ Photosynthesis is the process that transfers atmospheric carbon dioxide into the
 Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
 
 ### Weathering
-Weathering includes physical and chemical components. 
+Weathering includes physical, chemical and biological components, and refers to the in-situ breakdown of 
 
 Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action.
 Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretacious aquatic organisms obtain their carbon.
@@ -231,7 +231,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1OD
-IwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUz
-NV19
+eyJoaXN0b3J5IjpbLTIwMzkwMTUzOTcsLTM3ODI4MzI5NSwtND
+gwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYy
+OSwtMTM2MTkzMjUzNV19
 -->
