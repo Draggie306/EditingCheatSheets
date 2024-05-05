@@ -134,7 +134,7 @@ Air can be cooled, aside from just moving vertially upwards, in several ways, an
 - Hot air rises through **convection**, cooling through adiabatic expension, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms common.
 - Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, condensation is more likely, with higher dew points)
 - Air can be forced through wind over an area of high topography (mountains) through **orographic lift**, cooling more rapidly and thus reaching the dew point more quickly, forming clouds on the windward side of the mountain. This creates orographic rainfall on one side and a rain shadow on the other.
-- When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. 
+- When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. Air at the boundary of this front may suddenly cool more rapidly, reaching the dew point and forming clouds. 
 
 ### Catchment hydrology
 There are a range of processes in a drainage basin that affect the water cycle.
@@ -226,7 +226,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxODIxOTg3NywtNDgwNTM4OTEzLDY1OD
+eyJoaXN0b3J5IjpbMjAzMDI5NDU1OCwtNDgwNTM4OTEzLDY1OD
 IwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUz
 NV19
 -->
