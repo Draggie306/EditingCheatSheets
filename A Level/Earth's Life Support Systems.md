@@ -129,12 +129,13 @@ This may be hard to visualise as we cannot see individual clouds and water risin
 
 If the dry envronmental lapse rate is lower than the ELR, the air parcel that would typically rise is unable to do so as it is cooler than the surroundings and can only rise through force (e.g. topographic changes) as the atmosperic conditions here are stable.
 
+#### Ways clouds form
 
 Air can be cooled, aside from just moving vertially upwards, in several ways, and they create different types of clouds.
 - Hot air rises through **convection**, cooling through adiabatic expension, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms common.
 - Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, condensation is more likely, with higher dew points)
 - Air can be forced through wind over an area of high topography (mountains) through **orographic lift**, cooling more rapidly and thus reaching the dew point more quickly, forming clouds on the windward side of the mountain. This creates orographic rainfall on one side and a rain shadow on the other.
-- When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. The hot air above is lifted by the cool air below, making it cool more rapidly and, if this is enough to reach the dew point, the air becomes saturated and  
+- When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. The hot air above is lifted by the cool air below, rapidly cooling it and, if this is enough to reach the dew point, the air becomes saturated and clouds form! 
 
 ### Catchment hydrology
 There are a range of processes in a drainage basin that affect the water cycle.
@@ -226,7 +227,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY0Mjk1NjcsLTQ4MDUzODkxMyw2NT
-gyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1
-MzVdfQ==
+eyJoaXN0b3J5IjpbMTQxMzc0MDAzMCwtNDgwNTM4OTEzLDY1OD
+IwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUz
+NV19
 -->
