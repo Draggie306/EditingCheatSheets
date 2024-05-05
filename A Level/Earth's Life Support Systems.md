@@ -151,7 +151,7 @@ When this water has **infiltrated** into the soil, it can move through it latera
 ## Inputs, outputs and processes of carbon
 
 ### Precipitation
-I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may preciptate when the organisms die and lithfy on the ocean floor.
+I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may preciptate when the organisms die and lithfy on the ocean floor. However, as carbon is acidic, too much of this can disturb marine life.
 
 
 ### Photosynthesis 
@@ -227,7 +227,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzc0MDAzMCwtNDgwNTM4OTEzLDY1OD
+eyJoaXN0b3J5IjpbMTQzNTk5MjE3OSwtNDgwNTM4OTEzLDY1OD
 IwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUz
 NV19
 -->
