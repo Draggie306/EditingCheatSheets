@@ -128,6 +128,10 @@ This may be hard to visualise as we cannot see individual clouds and water risin
 
 If the dry envronmental lapse rate is lower than the ELR, the air parcel that would typically rise is unable to do so as it is cooler than the surroundings and can only rise through force (e.g. topographic changes) as the atmosperic conditions here are stable.
 
+
+Air can be cooled, aside from just moving vertil
+
+
 ### Catchment hydrology
 There are a range of processes in a drainage basin that affect the water cycle.
 
@@ -218,6 +222,6 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
-c1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbLTI1MDQyOTY2MSw2NTgyMDk1MiwtMTg0ND
+Y4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
