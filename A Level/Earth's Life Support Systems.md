@@ -155,7 +155,7 @@ I'm not sure why the specification specifically states this, as this is mostly t
 
 
 ### Photosynthesis 
-Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospheric store too.
+Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospheric store too. This is an example of the fast carbon cycle.
 
 ### Decomposition
 Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
@@ -231,7 +231,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDE2NzQ2MTksLTM3ODI4MzI5NSwtND
-gwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYy
-OSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbMjQ0MDE4NjgxLC0zNzgyODMyOTUsLTQ4MD
+UzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2Mjks
+LTEzNjE5MzI1MzVdfQ==
 -->
