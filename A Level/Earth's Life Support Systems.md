@@ -170,7 +170,9 @@ A combination of physical weathering, which increases the surface area susceptib
 ### Combustion
 Combustion is simply the process of buning organic material with oxygen, releasing carbon and other gases. 
 
-H
+The biggest example of this (10 GtC/yr) is human activities, from fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
+
+In natural environments too this is essential with
 
 
 
@@ -235,7 +237,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NTg4MTE3MywtMTY4MjAyNjExOSwtMz
-c4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4
-ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbNjgyNjQ0MDU5LC0xNjgyMDI2MTE5LC0zNz
+gyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4
+MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
