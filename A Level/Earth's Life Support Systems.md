@@ -97,7 +97,7 @@ Ablation, whch you might remember from the Glaciated Landcapes unit, is the resu
 ### Condensation & cloud formation
 
 There are some fundamental principles of cloud formation you need to know:
-- HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR.
+- **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gas)
 - As air rises, **it always cools**, at a rate of 0.6 degrees C per 100m or so.
 	- Due to gravity, there are fewer molecules of air above the original air pocket. Therefore the pressure is lower, and the air pocket expands. With this expansion there is greater room for the molecules to collide, reducing kinetic energy. A reduction in energy lowers temperatures. 
 - Air rises when it moves over a mountainous region, or wind from below moves over a mountain.
@@ -225,6 +225,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0ND
-Y4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDY2Mzg5MDksLTQ4MDUzODkxMyw2NT
+gyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1
+MzVdfQ==
 -->
