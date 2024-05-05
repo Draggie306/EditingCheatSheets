@@ -177,7 +177,7 @@ The biggest example of this (10 GtC/yr) is human activities, from fossil fuels f
 In natural environments too this is essential lightning creating fires, removing forest floor litter and allowing new growth when spaces of the forest canopy are opened. This moves carbon from the biosphere, and sometimes soils and peat too, to the atmosphere.
 
 ### Volcanism (Hazards)
-Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, the gases and matter is burned. At a convergent boundary, the gases bubble up and release the stored carbon from the lithosphere into the atmosphere. This is extremely slow, over millions of years, but when it does occur, can be significant. This accounts for around 300 m tonnes per year (40x less than anthropomorphic emissions). [Source](https://www.eurekalert.org/news-releases/736161)
+Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, the gases and matter is heated. At a convergent boundary, the gases bubble up and release the stored carbon from the lithosphere into the atmosphere. This is extremely slow, over millions of years, but when it does occur, can be significant. This accounts for around 300 m tonnes per year (40x less than anthropomorphic emissions). [Source](https://www.eurekalert.org/news-releases/736161)
 
 ### Oceanic sequestration
 Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later 
@@ -245,7 +245,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NDM3NDIzNiwtMTc1MTY0MzQ3LC03Mz
+eyJoaXN0b3J5IjpbLTI4MDEzNzEyNSwtMTc1MTY0MzQ3LC03Mz
 c4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1
 LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
 c1NjI5LC0xMzYxOTMyNTM1XX0=
