@@ -131,7 +131,7 @@ If the dry envronmental lapse rate is lower than the ELR, the air parcel that wo
 
 Air can be cooled, aside from just moving vertially upwards, in several ways, and they create different types of clouds.
 - Hot air rises through **convection**, cooling through adiabatic expension, in areas of atmospheric instability. This forms large cumulus and cumulonimbus clouds.
-- Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, the dew point decreases 
+- Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, condensation is more likely, with higher dew points)
 
 
 ### Catchment hydrology
@@ -224,6 +224,6 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDYxODgwNTIsNjU4MjA5NTIsLTE4ND
+eyJoaXN0b3J5IjpbLTEzNzE1NTcyODUsNjU4MjA5NTIsLTE4ND
 Q2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
