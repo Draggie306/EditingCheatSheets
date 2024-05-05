@@ -170,6 +170,8 @@ A combination of physical weathering, which increases the surface area susceptib
 ### Combustion
 Combustion is simply the process of buning organic material with oxygen, releasing carbon and other gases. 
 
+H
+
 
 
 
@@ -215,6 +217,7 @@ As I've hinted at and I'm sure you've realised by now, the water and carbon cycl
 ## Management srategies
 > 4.b. The global implications of water and carbon management.
 
+Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/satellite-pictures
 
 
 # Additional Skills
@@ -232,7 +235,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtND
-gwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYy
-OSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTU1NTg4MTE3MywtMTY4MjAyNjExOSwtMz
+c4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4
+ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
