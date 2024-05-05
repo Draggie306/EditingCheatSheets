@@ -135,7 +135,7 @@ When precipitaion occurs in an area above freezing point, is is able to move rap
 
 Overland flow is the term used for the flow of water over the ground. It is the same as surface runoff. When on the surface, water may infiltrate into the soil - provided that the ground is not saturated. If the ground is saturated, typically defined by the water table being at the surface, then the water running off on the surface is known as saturated overland flow.
 
-When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as ocean or lake where evaporation moves it into the atmospheric store.
+When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as ocean or lake, where it remains for long periods of time. Eventially, evaporation moves it into the atmospheric store.
 
 
 
@@ -218,6 +218,6 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMz
-YxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
+c1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
