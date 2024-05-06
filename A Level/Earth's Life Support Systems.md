@@ -270,7 +270,9 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 ### Afforestation
 Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
-The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths he
+
+
+The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
 
 # Additional Skills
@@ -287,11 +289,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODc5NjE1MSwyMTEwMjQ4ODA4LC0yMD
-QwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1
-MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5Nz
-I1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4
-OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC
-00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1
-NjI5XX0=
+eyJoaXN0b3J5IjpbNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwND
+A3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2OTUy
+MTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0NTk3Mj
+UsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5
+NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLT
+Q4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2
+MjldfQ==
 -->
