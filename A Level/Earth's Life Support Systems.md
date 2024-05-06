@@ -209,7 +209,7 @@ Comparatively, water has several distinct stores and flows in the rainforest. As
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
-In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely convectional, with some advection from 
+In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely convectional, with some advection from the Atlantic pushing air westwards towards the Andes, where orographic lift may occur, or pushes the air to the south-east.
 
 
 ### Carbon in the rainforest
@@ -274,7 +274,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Mzk0Mjc4ODYsMTIyNDcxNDg2NSwtMj
+eyJoaXN0b3J5IjpbLTE2NjIwNjM2OTksMTIyNDcxNDg2NSwtMj
 EzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0
 NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC
 0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2
