@@ -187,7 +187,7 @@ Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a co
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 ### Vegetation
-Vegetation 
+Vegetation, or th
 
 
 ### Sediments
@@ -254,9 +254,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTA2NzU0MSwtMTkzMjQ1OTcyNSwxMD
-M4NDA5MSw2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3Njgs
-NTczNjU0ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtNDgwNT
-M4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwt
-MTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbNTA5OTM4MTMwLC0xOTMyNDU5NzI1LDEwMz
+g0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1
+NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1Mz
+g5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1NjI5LC0x
+MzYxOTMyNTM1XX0=
 -->
