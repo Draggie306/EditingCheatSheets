@@ -205,7 +205,7 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Water in the rainforest
 
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception loss.  
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that 
 
 
 
@@ -271,10 +271,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODY2NDMwMCwxMjI0NzE0ODY1LC0yMT
-MxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3
-NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLT
-E3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYx
-MTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xOD
-Q0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTEzMTAxMjI4MDUsMTIyNDcxNDg2NSwtMj
+EzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0
+NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC
+0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2
+MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMT
+g0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
