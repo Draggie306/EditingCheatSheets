@@ -163,7 +163,7 @@ Photosynthesis is the process that transfers atmospheric carbon dioxide into the
 Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
 
 ### Weathering
-Weathering includes physical, chemical and biological components, and refers to the in-situ breakdown of ock.
+Weathering includes physical, chemical and biological components, and refers to the in-situ breakdown of rock.
 
 Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action.
 Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretacious aquatic organisms obtain their carbon - and accounts for 300 million tonnes annually.
@@ -186,11 +186,17 @@ Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a co
 
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into sediment at the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
+### Vegetation
+
+
+### Sediments
 
 
 
 ## Case study: the Amazon Rainforest
 > 2a. It is possible to identify the physical and human factors that affect the water and carbon cycles in a tropical rainforest.
+
+
 
 ## Case study: the Arctic Tundra
 > 2b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area.
@@ -247,8 +253,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDc2NTk1NDYsNjMzODUzNDM0LC0xNz
-UxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5
-LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0ND
-Y4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbMTE1MzA5NjcyNiw2MzM4NTM0MzQsLTE3NT
+E2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTks
+LTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0Nj
+gxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
