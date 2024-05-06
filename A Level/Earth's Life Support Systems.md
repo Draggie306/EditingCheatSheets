@@ -270,7 +270,7 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 ### Afforestation
 Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
-#### 
+The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 b
 
 
 # Additional Skills
@@ -287,11 +287,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc0NTk1NzgsMjExMDI0ODgwOCwtMj
-A0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5
-NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OT
-cyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3
-ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NS
-wtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3
-NTYyOV19
+eyJoaXN0b3J5IjpbLTg5MjU2NzAzMCwyMTEwMjQ4ODA4LC0yMD
+QwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1
+MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5Nz
+I1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4
+OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC
+00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1
+NjI5XX0=
 -->
