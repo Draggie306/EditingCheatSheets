@@ -207,6 +207,7 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
 
+This is an example of a positive feedback loop: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
 
 ### Carbon in the rainforest
@@ -271,7 +272,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODcwMzUyNywxMjI0NzE0ODY1LC0yMT
+eyJoaXN0b3J5IjpbLTg3OTE4MDI4NiwxMjI0NzE0ODY1LC0yMT
 MxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3
 NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLT
 E3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYx
