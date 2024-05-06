@@ -1,6 +1,6 @@
 # 1.2 - Earth's Life Support Systems
-Wordcount: 3500
-Last modification: 27/04/2024
+Wordcount: 3777
+Last modification: 06/05/2024
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -20,7 +20,7 @@ License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The short answer to this is that the water and carbon cycles are **very important**.
 
-The long answer? Well...:
+The long answer? Well...
 
 ## Introduction to water
 > 1a. Water and carbon support life on Earth and move between the land, oceans and atmosphere.
@@ -254,7 +254,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxNjk4OTEsLTE5MzI0NTk3MjUsMT
+eyJoaXN0b3J5IjpbLTEyNTI0NzYxNTMsLTE5MzI0NTk3MjUsMT
 AzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5NzY4
 LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MD
 UzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2Mjks
