@@ -274,7 +274,7 @@ Afforestation is the process of planting trees in areas where there are none, pe
 
 The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
-Of course, ensuring that the land does not become deforested in the first place, perhaps though leglislation or policing against farmer
+Of course, ensuring that the land does not become deforested in the first place, perhaps though leglislation or policing against farmers and miners can be argued to be a more effective management strategy as this preserves the natural ecosystem. Or, legal but managed logging of areas that ensure that monocultures are avoided whilst preserving the biodiversity through the replanting of diverse trees may also be a better strategy.
 
 [Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
 
@@ -282,7 +282,7 @@ Of course, ensuring that the land does not become deforested in the first place,
 ### Agricultural practices
 Agricultural practices are also usedin conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than jsut CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
 
-At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land 
+At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. This allows 
 
 
 
@@ -300,11 +300,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTU1NjQyMywtNTE2MTkxMDQ0LC0xNj
-UzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3Njkz
-NDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC
-0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1
-MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0Mz
-QsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIw
-MjYxMTldfQ==
+eyJoaXN0b3J5IjpbLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
+Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
+MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NS
+wtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEy
+NTI0NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzND
+M0LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgy
+MDI2MTE5XX0=
 -->
