@@ -211,7 +211,7 @@ Comparatively, water has several distinct stores and flows in the rainforest. As
 
 In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely **convectional**, with some **advection** from the Atlantic pushing air westwards towards the Andes, where **orographic lift** may occur, or pushes the air to the south-east. [Changes in rainforest management result in droughts occuring in Brazil's population centres](https://en.wikipedia.org/wiki/2014%E2%80%932017_Brazilian_drought) - the "worst drought in 100 years" from 2014-17.
 
-When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). 
+When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
 
 https://en.wikipedia.org/wiki/Flying_river
 
@@ -277,10 +277,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0OTAxMTM3NSwxMjI0NzE0ODY1LC0yMT
-MxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3
-NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLT
-E3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYx
-MTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xOD
-Q0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMj
+EzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0
+NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC
+0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2
+MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMT
+g0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
