@@ -266,13 +266,22 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 
 
 ## Management strategies for carbon
+At a local scale, an example of an all-round approach to management strategies can be seen with the UN's REDD+ scheme - which offers incentives to companies and businesses to change the way forest resources are handled. "Carbon credits" can be purchased by TNCs from local tribespeople, who use the money for sustainable development with agroforestry and land stewardship, as opposed to more intensive agriculture, reducing emissions and deforestation. [UNEP - REDD](https://www.unep.org/explore-topics/climate-action/what-we-do/redd)
+
 
 ### Afforestation
 Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
 The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
-On a more local scale, an example of this can be seen with the UN's REDD+ scheme - which offers incentives to companies and businesses to change the way forest resources are handled. "Carbon credits" can be purchased by TNCs from local tribespeople, who used the money for sustainable development with agroforestry and land stewardship, as opposed to more intensive agriculture, reducing emissions and deforestation.	  
+At a local scale, Degraded Land Afforestation in Uruguay 
+
+[Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
+
+
+### Agricultural practices
+
+
 
 
 # Additional Skills
@@ -289,11 +298,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNz
-g0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5
-MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3Ni
-wtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEw
-Mzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OC
-w1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1
-Mzg5MTNdfQ==
+eyJoaXN0b3J5IjpbLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMT
+EzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4
+MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNC
+wxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5
+MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzND
+csLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgy
+ODMyOTVdfQ==
 -->
