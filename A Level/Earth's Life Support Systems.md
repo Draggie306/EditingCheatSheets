@@ -190,7 +190,7 @@ In addition to this, phytoplankton and other marine life take in carbon from the
 
 
 ### Sediments
-Sedimentary rocks include limestone, shale
+Sedimentary rocks include limestone, shale and sandstone. As sediment, from organic matter, builds up over time, the sediment at the base of an accumulation may be compressed and turned into rock, a process known as **lithification**.
 
 
 ## Case study: the Amazon Rainforest
@@ -253,8 +253,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODgyNDc1Miw2MzM4NTM0MzQsLTE3NT
-E2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTks
-LTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0Nj
-gxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNj
+QzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0z
+NzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MT
+g4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
