@@ -211,7 +211,7 @@ Comparatively, water has several distinct stores and flows in the rainforest. As
 
 In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely **convectional**, with some advection from the Atlantic pushing air westwards towards the Andes, where orographic lift may occur, or pushes the air to the south-east. 
 
-When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, cumulonimbus clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon). 
+When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, cumulonimbus clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense r
 
 
 ### Carbon in the rainforest
@@ -276,10 +276,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc1Mzc4MjYwLDEyMjQ3MTQ4NjUsLTIxMz
-EyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2
-MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMT
-c1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjEx
-OSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4ND
-Q2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbLTE3MjAxMjEwMTIsMTIyNDcxNDg2NSwtMj
+EzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0
+NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC
+0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2
+MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMT
+g0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
