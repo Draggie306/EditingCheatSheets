@@ -187,11 +187,11 @@ Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a co
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 ### Vegetation
-Vegetation, or the biosphere, takes in huge amounts of carbon and sequesters it for long periods of time. Rainforests, boreal forests and mangroves photosynthesise large quantities of carbon from the tmosphere. In general, for the first 100 years of a tree's life, it is a carbon sink, and even after this ends, the carbon sequestered is visible in its huge trunk and biomass store, potentially several tonnes of it.
+Vegetation, or the biosphere, takes in huge amounts of carbon and sequesters it for long periods of time. Rainforests, boreal forests and mangroves photosynthesise large quantities of carbon from the tmosphere. In general, for the first 100 years of a tree's life, it is a carbon sink, and even after this period ends, the carbon sequestered is visible in its huge trunk and biomass store, potentially several tonnes of it. Some vegetation can store carbon for centuries.
 
 
 ### Sediments
-Sedimentary rocks include limestone, shale and sandstone. As sediment, from organic matter, builds up over time, the sediment at the base of an accumulation may be compressed and turned into rock, a process known as **lithification**. This process notably occurs at the ocean floor
+Sedimentary rocks include limestone, shale and sandstone. As sediment, from organic matter, builds up over time, the sediment at the base of an accumulation may be compressed and turned into rock, a process known as **lithification**. This process notably occurs at the ocean floor and accounts for 0.2GtC/yr from the hydrosphere -> lithosphere.
 
 
 ## Case study: the Amazon Rainforest
@@ -254,9 +254,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NzI4MzYzOSwtMTkzMjQ1OTcyNSwxMD
-M4NDA5MSw2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3Njgs
-NTczNjU0ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtNDgwNT
-M4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwt
-MTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTEzNTAxNjk4OTEsLTE5MzI0NTk3MjUsMT
+AzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5NzY4
+LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MD
+UzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2Mjks
+LTEzNjE5MzI1MzVdfQ==
 -->
