@@ -204,7 +204,7 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 The Arctic Tundra is located between 60 and 75 degrees N and includes parts of Russia, Canada, Norway, Iceland and Alaska, among others. It occupies a combines 8m km^2^ and is defined by having a July isotherm of 10 degrees C. This means that t warmest month reaches a maximum temperature of 10 degrees (this is roughly equivalent to the tree line). The Arctic Circle is the southernmost point where the sun can remain below the horizon for 24 hours during certain seasons. 
 
-The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells n the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, tempreatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat comprensate for the short growing season.
+The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, tempreatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat comprensate for the short growing season.
 
 ### Water cycle
 
@@ -214,7 +214,7 @@ Temperatures are low, with a mean of -15C. Precipitation is also low, with annua
 
 ### Carbon cycle
 
-Permafrost is estimate to contain 
+Permafrost is estimate to contain 1,600 GtC in the tundra. 
 
 ## Human impacts on the water cycle
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
@@ -254,9 +254,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTI0NzYxNTMsLTE5MzI0NTk3MjUsMT
-AzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5NzY4
-LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MD
-UzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2Mjks
-LTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTgxMTE5MTU3NSwtMTI1MjQ3NjE1MywtMT
+kzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3NTE2NDM0
+NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTksLTM3OD
+I4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgw
+LDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
