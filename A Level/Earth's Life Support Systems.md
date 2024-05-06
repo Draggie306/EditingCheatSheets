@@ -184,7 +184,7 @@ Not part of the Paper 1, but a synoptic link can be made to volcanoes and how th
 
 Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later 
 
-In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into sediment at the ocean floor, or being eaten by other organisms like
+In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into sediment at the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 
 
@@ -247,8 +247,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTUxNTA3NSw2MzM4NTM0MzQsLTE3NT
-E2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTks
-LTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0Nj
-gxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTE5MDc2NTk1NDYsNjMzODUzNDM0LC0xNz
+UxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5
+LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0ND
+Y4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
