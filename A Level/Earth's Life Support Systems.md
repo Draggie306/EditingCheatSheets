@@ -187,7 +187,7 @@ Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a co
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 ### Vegetation
-Vegetation, or th
+Vegetation, or the biosphere, takes in huge amounts of carbon and sequesters it for long periods of time. Rainforests, boreal forests and mangroves absorb large quantities of carbon from the atmosphere.
 
 
 ### Sediments
@@ -254,7 +254,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA5OTM4MTMwLC0xOTMyNDU5NzI1LDEwMz
+eyJoaXN0b3J5IjpbMzQ2OTk0NTE0LC0xOTMyNDU5NzI1LDEwMz
 g0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1
 NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1Mz
 g5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1NjI5LC0x
