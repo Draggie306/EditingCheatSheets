@@ -201,12 +201,13 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 Topical rainforests are almost exclusively located between the two tropics, at 2	3.5degN and S from the equator. They are categorised by having high average temperatures (around 27degC), little variation in temperatures seasonally, and very high annual precipitation (>2000mm). Although the precipitation can vary, with Manaus recording 6x more rainfall inwinter/ spring compared to summer, there is no dry season.
 
+70% of the Amazon is located in Brazil. 
 
 ### Water in the rainforest
 
 Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being in the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **over half** of all precipitation being recycled - evaporated again before it having a chance to run off.
 
-Interception loss - precipitation (rainfall) stopped by trees and subsequently evaporates - represents a **quarter** of the
+Interception loss - precipitation (rainfall) stopped by trees and subsequently evaporates - represents a **quarter** of evaporation in rainforests. 
 
 
 
@@ -272,7 +273,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzEzOTM3OCwtMjEzMTIxOTMwNCwxOT
+eyJoaXN0b3J5IjpbMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOT
 E2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0
 NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLT
 czNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMy
