@@ -268,7 +268,7 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 ## Management strategies for carbon
 
 ### Afforestation
-Afforestation is the process of planting tt
+Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. As trees are 
 
 
 
@@ -286,11 +286,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU0NDg2MzU3LDIxMTAyNDg4MDgsLTIwND
-A3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2OTUy
-MTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0NTk3Mj
-UsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5
-NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLT
-Q4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2
-MjldfQ==
+eyJoaXN0b3J5IjpbMTM3NzI1NTkyNCwyMTEwMjQ4ODA4LC0yMD
+QwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1
+MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5Nz
+I1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4
+OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC
+00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1
+NjI5XX0=
 -->
