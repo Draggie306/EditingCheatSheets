@@ -180,6 +180,8 @@ In natural environments too this is essential lightning creating fires, removing
 Not part of the Paper 1, but a synoptic link can be made to volcanoes and how they release carbon for Paper 3, Hazardous Earth. As tectonic activity moves carbon that has been lithified on the ocean floor as sediment into the Earth's crust and mantle, where the matter is heated and turned into a gas. At a convergent boundary, the gases bubble up and release the stored carbon from the lithosphere into the atmosphere. This is extremely slow, known as the **[deep water cycle](https://en.wikipedia.org/wiki/Deep_water_cycle?from=iBaguetteELSS)**, over millions of years, but when it does occur, can be significant. This accounts for around 300 m tonnes per year (40x less than anthropomorphic emissions). [Source](https://www.eurekalert.org/news-releases/736161)
 
 ### Oceanic sequestration
+![enter image description here](https://upload.wikimedia.org/wikipedia/commons/e/e9/Oceanic_Food_Web.jpg)
+
 Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later 
 
 In addition to this,
@@ -245,8 +247,8 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNz
-g5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUs
-LTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4Nz
-U2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTM3MzU5NjA1Nyw2MzM4NTM0MzQsLTE3NT
+E2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTks
+LTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0Nj
+gxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
