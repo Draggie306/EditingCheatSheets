@@ -197,7 +197,7 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 ## Case study: the Amazon Rainforest
 > 2a. It is possible to identify the physical and human factors that affect the water and carbon cycles in a tropical rainforest.
 
-[You may have done this at GCSE!](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#managing-climate-change) 
+[You may have done this at GCSE](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#tropical-rainforests) -  might be good looking back for a general understanding!
 
 Topical rainforests are almost exclusively located between the two tropics, at 33.5degN and S from the equator. They are categorised by having high average temperatures (around 27degC), little variation in temperatures seasonally, and very high annual precipitation (>2000mm). Although the precipitation can vary, with Manaus recording 6x more rainfall inwinter/ spring compared to summer, there is no dry season.
 
@@ -269,9 +269,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU1MjE2OTY4LC04MTExOTE1NzUsLTEyNT
-I0NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0
-LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMD
-I2MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1Miwt
-MTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE3MTYwNjk1MzQsLTgxMTE5MTU3NSwtMT
+I1MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0
+MzQsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2OD
+IwMjYxMTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUy
+LC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
