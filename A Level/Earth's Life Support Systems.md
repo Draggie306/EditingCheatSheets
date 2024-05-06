@@ -207,6 +207,7 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 
 
+
 ### Carbon in the rainforest
 
 
@@ -269,10 +270,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtOD
-ExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0
-MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1Nz
-M2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5
-MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMz
-YxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbMzk3ODU5MjYsLTIxMzEyMTkzMDQsMTkxNj
+k1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5
+NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mz
+c4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1
+LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
+c1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
