@@ -216,7 +216,7 @@ When rainfall events do occur, the significant moisture availability and high te
 https://en.wikipedia.org/wiki/Flying_river
 
 ### Carbon in the rainforest
-
+ 
 
 
 
@@ -277,10 +277,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMj
-EzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0
-NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC
-0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2
-MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMT
-g0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMj
+I0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5
+MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MS
+w2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0
+ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLD
+Y1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkz
+MjUzNV19
 -->
