@@ -199,7 +199,12 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 [You may have done this at GCSE!](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#managing-climate-change) 
 
+Topical rainforests are almost exclusively located between the two tropics, at 33.5degN and S f
+
+
 ### Water in the rainforest
+
+
 
 
 ### Carbon in the rainforest
@@ -264,9 +269,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQxNDYzNDYsLTgxMTE5MTU3NSwtMTI1Mj
-Q3NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQs
-LTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMj
-YxMTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0x
-ODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTIyOTkxOTE3MiwtODExMTkxNTc1LC0xMj
+UyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQz
+NCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMTY4Mj
+AyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIs
+LTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
