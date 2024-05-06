@@ -205,7 +205,7 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Water in the rainforest
 
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being in the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off. This level of evapotranspiration is a result of high transpiration rates and high am  
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception loss.  
 
 
 
@@ -271,10 +271,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NTIzNDI3LDEyMjQ3MTQ4NjUsLTIxMz
-EyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2
-MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMT
-c1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjEx
-OSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4ND
-Q2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbMTgzODY2NDMwMCwxMjI0NzE0ODY1LC0yMT
+MxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3
+NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLT
+E3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYx
+MTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xOD
+Q0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
 -->
