@@ -199,7 +199,7 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 [You may have done this at GCSE](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#tropical-rainforests) -  might be good looking back for a more general understanding!
 
-Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by having high average temperatures (around 27degC), little variation in temperatures seasonally, and very high annual precipitation (>2000mm). Although the precipitation can vary, with Manaus recording 6x more rainfall inwinter/ spring compared to summer, there is no dry season.
+Topical rainforests are almost exclusively located between the two tropics, at 2	3.5degN and S from the equator. They are categorised by having high average temperatures (around 27degC), little variation in temperatures seasonally, and very high annual precipitation (>2000mm). Although the precipitation can vary, with Manaus recording 6x more rainfall inwinter/ spring compared to summer, there is no dry season.
 
 
 ### Water in the rainforest
@@ -269,9 +269,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMj
-UyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQz
-NCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMTY4Mj
-AyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIs
-LTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtOD
+ExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0
+MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1Nz
+M2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5
+MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMz
+YxOTMyNTM1XX0=
 -->
