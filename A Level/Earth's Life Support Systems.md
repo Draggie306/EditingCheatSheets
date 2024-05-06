@@ -272,7 +272,7 @@ Afforestation is the process of planting trees in areas where there are none, pe
 
 The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
-On a more local scale, an example of this can be seen with the UN's REDD+ scheme - which offers incentives to companies and businesses to change the way forest resources are handled. "Carbon credits" were purc
+On a more local scale, an example of this can be seen with the UN's REDD+ scheme - which offers incentives to companies and businesses to change the way forest resources are handled. "Carbon credits" can be purchased by TNCs from local tribespeople who can plant 
 
 
 # Additional Skills
@@ -289,11 +289,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NDgxMDM4LDE3ODQ3ODY5NzAsNDIzNz
-Y5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2
-NSwtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLT
-EyNTI0NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUz
-NDM0LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNj
-gyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1
-Ml19
+eyJoaXN0b3J5IjpbLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMz
+c2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4
+NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC
+0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1
+MzQzNCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMT
+Y4MjAyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5
+NTJdfQ==
 -->
