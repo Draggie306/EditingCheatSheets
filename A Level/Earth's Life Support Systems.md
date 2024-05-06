@@ -204,7 +204,7 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Water in the rainforest
 
-
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being in the equator, large amounts of photosynthesis can occur. 
 
 
 
@@ -270,10 +270,10 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk3ODU5MjYsLTIxMzEyMTkzMDQsMTkxNj
-k1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5
-NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mz
-c4OTc2OCw1NzM2NTQ4MCwtMTY4MjAyNjExOSwtMzc4MjgzMjk1
-LC00ODA1Mzg5MTMsNjU4MjA5NTIsLTE4NDQ2ODE4ODAsODkyOD
-c1NjI5LC0xMzYxOTMyNTM1XX0=
+eyJoaXN0b3J5IjpbLTg3NTMyNzMxOCwtMjEzMTIxOTMwNCwxOT
+E2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0
+NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLT
+czNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMy
+OTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OT
+I4NzU2MjksLTEzNjE5MzI1MzVdfQ==
 -->
