@@ -274,13 +274,13 @@ Afforestation is the process of planting trees in areas where there are none, pe
 
 The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
-At a local scale, Degraded Land Afforestation in Uruguay 
-
 [Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
 
 
 ### Agricultural practices
+Agricultural practices are also usedin conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than jsut CO~2~, 
 
+At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to  
 
 
 
@@ -298,11 +298,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMT
-EzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4
-MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNC
-wxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5
-MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzND
-csLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgy
-ODMyOTVdfQ==
+eyJoaXN0b3J5IjpbLTExMzk4NDE4MzYsLTUxNjE5MTA0NCwtMT
+Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
+MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NS
+wtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEy
+NTI0NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzND
+M0LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgy
+MDI2MTE5XX0=
 -->
