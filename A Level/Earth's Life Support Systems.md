@@ -211,8 +211,9 @@ Comparatively, water has several distinct stores and flows in the rainforest. As
 
 In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely **convectional**, with some **advection** from the Atlantic pushing air westwards towards the Andes, where **orographic lift** may occur, or pushes the air to the south-east. [Changes in rainforest management result in droughts occuring in Brazil's population centres](https://en.wikipedia.org/wiki/2014%E2%80%932017_Brazilian_drought) - the "worst drought in 100 years" from 2014-17.
 
-When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed into the soils. As a result, large amounts of water is available in the soils (pedosphere) and also in 
+When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed into the soils. As a result, large amounts of water is available in the soils (pedosphere) and also in aquifers (lithosphere). 
 
+https://en.wikipedia.org/wiki/Flying_river
 
 ### Carbon in the rainforest
 
@@ -276,7 +277,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxODAzMzE1NiwxMjI0NzE0ODY1LC0yMT
+eyJoaXN0b3J5IjpbMTI3NzQ3MDA5MSwxMjI0NzE0ODY1LC0yMT
 MxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3
 NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLT
 E3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYx
