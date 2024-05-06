@@ -268,7 +268,7 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 ## Management strategies for carbon
 
 ### Afforestation
-Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. As trees are 
+Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. As trees need to have a **permanance** of 100 years to be an effective sink, 
 
 
 
@@ -286,7 +286,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzI1NTkyNCwyMTEwMjQ4ODA4LC0yMD
+eyJoaXN0b3J5IjpbMTE1NjcxMDY0OSwyMTEwMjQ4ODA4LC0yMD
 QwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1
 MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5Nz
 I1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4
