@@ -187,7 +187,7 @@ Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a co
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 ### Vegetation
-
+	
 
 ### Sediments
 Sedimentary rocks include limestone, shale and sandstone. As sediment, from organic matter, builds up over time, the sediment at the base of an accumulation may be compressed and turned into rock, a process known as **lithification**.
@@ -253,8 +253,9 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNj
-QzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0z
-NzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MT
-g4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVdfQ==
+eyJoaXN0b3J5IjpbLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzOD
+UzNDM0LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0x
+NjgyMDI2MTE5LC0zNzgyODMyOTUsLTQ4MDUzODkxMyw2NTgyMD
+k1MiwtMTg0NDY4MTg4MCw4OTI4NzU2MjksLTEzNjE5MzI1MzVd
+fQ==
 -->
