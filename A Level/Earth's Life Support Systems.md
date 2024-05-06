@@ -257,7 +257,7 @@ Permafrost is estimate to contain 1,600 GtC in the tundra.
 As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
 
-## Management srategies
+## Management strategies
 > 4.b. The global implications of water and carbon management.
 
 Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/satellite-pictures
@@ -277,11 +277,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMj
-I0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5
-MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MS
-w2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTczNjU0
-ODAsLTE2ODIwMjYxMTksLTM3ODI4MzI5NSwtNDgwNTM4OTEzLD
-Y1ODIwOTUyLC0xODQ0NjgxODgwLDg5Mjg3NTYyOSwtMTM2MTkz
-MjUzNV19
+eyJoaXN0b3J5IjpbLTExOTA1NDg4LDIxMTAyNDg4MDgsLTIwND
+A3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2OTUy
+MTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0NTk3Mj
+UsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLTczNzg5
+NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMyOTUsLT
+Q4MDUzODkxMyw2NTgyMDk1MiwtMTg0NDY4MTg4MCw4OTI4NzU2
+MjldfQ==
 -->
