@@ -204,7 +204,9 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Water in the rainforest
 
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being in the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with over half of all 
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being in the equator, large amounts of photosynthesis can occur. The high air temperatures facilitate more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with over half of all precipitation being recycled - evaporated again before it having a chance to run off.
+
+
 
 
 
@@ -270,7 +272,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTU4Mjg5OCwtMjEzMTIxOTMwNCwxOT
+eyJoaXN0b3J5IjpbLTY1NDY0ODg3MCwtMjEzMTIxOTMwNCwxOT
 E2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5MzI0
 NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0xNzUxNjQzNDcsLT
 czNzg5NzY4LDU3MzY1NDgwLC0xNjgyMDI2MTE5LC0zNzgyODMy
