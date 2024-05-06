@@ -199,6 +199,12 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 
 
+
+
+
+### Management strategies
+
+
 ## Case study: the Arctic Tundra
 > 2b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area.
 
@@ -249,14 +255,13 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 
 
-[^1]: https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html
-
+[^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTE5MTU3NSwtMTI1MjQ3NjE1MywtMT
-kzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3NTE2NDM0
-NywtNzM3ODk3NjgsNTczNjU0ODAsLTE2ODIwMjYxMTksLTM3OD
-I4MzI5NSwtNDgwNTM4OTEzLDY1ODIwOTUyLC0xODQ0NjgxODgw
-LDg5Mjg3NTYyOSwtMTM2MTkzMjUzNV19
+eyJoaXN0b3J5IjpbLTgxODA1ODM0MywtODExMTkxNTc1LC0xMj
+UyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQz
+NCwtMTc1MTY0MzQ3LC03Mzc4OTc2OCw1NzM2NTQ4MCwtMTY4Mj
+AyNjExOSwtMzc4MjgzMjk1LC00ODA1Mzg5MTMsNjU4MjA5NTIs
+LTE4NDQ2ODE4ODAsODkyODc1NjI5LC0xMzYxOTMyNTM1XX0=
 -->
