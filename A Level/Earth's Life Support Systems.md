@@ -282,7 +282,7 @@ Of course, ensuring that the land does not become deforested in the first place,
 ### Agricultural practices
 Agricultural practices are also usedin conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than jsut CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
 
-At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. This allows 
+At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. 
 
 
 
@@ -300,11 +300,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
-Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
-MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NS
-wtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEy
-NTI0NzYxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzND
-M0LC0xNzUxNjQzNDcsLTczNzg5NzY4LDU3MzY1NDgwLC0xNjgy
-MDI2MTE5XX0=
+eyJoaXN0b3J5IjpbLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNT
+E2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4
+Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NC
+wxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgx
+MTE5MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4ND
+A5MSw2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTcz
+NjU0ODBdfQ==
 -->
