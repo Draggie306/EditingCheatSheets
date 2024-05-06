@@ -268,7 +268,7 @@ Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-ma
 ## Management strategies for carbon
 
 ### Afforestation
-Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store  
+Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
 
 
@@ -286,7 +286,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2MzM3MTIwNCwyMTEwMjQ4ODA4LC0yMD
+eyJoaXN0b3J5IjpbLTM2NjY4NjM3NCwyMTEwMjQ4ODA4LC0yMD
 QwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1
 MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyNDU5Nz
 I1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03Mzc4
