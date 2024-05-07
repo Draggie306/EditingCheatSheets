@@ -296,10 +296,15 @@ In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands hav
 
 
 ### Carbon capture and storage
-
+CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a sycline basin with impermeable rock where it remains hopefully for a long time.
 
 
 ### International carbon agreements
+The most effective way to protect the global carbon cycle may be international agreements. 
+
+#### 1997 Kyoto Protocol
+
+
 
 
 # Additional Skills
@@ -316,7 +321,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzgxNDE0MjQsMTgxOTc3MjMyMCwtNz
+eyJoaXN0b3J5IjpbLTE0MDAwNDkwNDIsMTgxOTc3MjMyMCwtNz
 c3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMz
 MTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NC
 wyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIx
