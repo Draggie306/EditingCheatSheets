@@ -37,9 +37,11 @@ Monetary remittances include money sent from economic migrants back to their hom
 
 Migration is significant, and worldwide! In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
 
-
-
 > Global migration involves dynamic flows of people between countries, regions and continents.
+
+### Intra-regional migration
+Intra-regional migration is concerned with migration occurring bet
+[S](https://www.inc.com/tom-popomaronis/science-says-you-shouldnt-work-more-than-this-number-of-hours-a-day.html)
 
 ## [tbd] Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
@@ -366,5 +368,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyMzk5NzkwLC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTU4ODgwODk3MCwtMTMwMzk5MjU1MV19
 -->
