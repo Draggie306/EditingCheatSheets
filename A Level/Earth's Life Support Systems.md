@@ -290,7 +290,9 @@ Globally, wetlands account for around 7% of the land. But also 35% of the terres
 
 The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
 
-However, where these regions are widespread such as the tropics, human activity has reduced the amount of mangroves and
+However, where these regions are widespread such as the tropics, human activity to sustain hgh population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
+
+In Canada, which is home to 25% of the world's wetlands 
 
 
 ### Carbon capture and storage
@@ -314,11 +316,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
-Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
-NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
-0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
-Njk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyND
-U5NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03
-Mzc4OTc2OF19
+eyJoaXN0b3J5IjpbLTE1ODcyMTMyNjcsMTgxOTc3MjMyMCwtNz
+c3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMz
+MTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NC
+wyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIx
+MzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyND
+c2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwt
+MTc1MTY0MzQ3XX0=
 -->
