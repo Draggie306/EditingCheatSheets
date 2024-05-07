@@ -17,25 +17,54 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 For the entire specification, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/all).
 For only the **physical geography (paper 1)**, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/physical).
 
-# [TBD] Global Migration
+# [TBD] Global2.2.2 Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
 A migrant, according tot he 
 
-Interdependence - interrelationships between ACs, EDCs ans LIDCs through trade, foreign aid and migration
+## Contemporary patterns of migration
 
-Globalisation - the growing integration and interdependence between peoples’ lives economically, politically and environmentally.
+A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
+
+**Interdependence -** is the interrelationships between ACs, EDCs ansd LIDCs through trade, foreign aid and migration
+
+**Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
+
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
+
+Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
+
+Migration is significant, and worldwide! In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
+
+
+
+> Global migration involves dynamic flows of people between countries, regions and continents.
+
+## [tbd] Consequences of migration
+When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
+
+### Positives of migration
+
+Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
+
+
+**Stability**
+
+
+### Intra-regional migration
+Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
 
-## What’s in a place?
+## What’'s in a place?
 
 **Key idea:**
-1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
 **Content:**
+
 Case studies of two contrasting place profiles at a local scale, including: 
 - their demographic, socio-economic, cultural, political, built and natural characteristics that shape their place identity. 
 - their past and present connections that shape the place identity and embed them in regional, national, international and global scales 
@@ -185,7 +214,7 @@ There has been a constant flow of students and academics in the area, fuelled by
 Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
 
 ### Shifting flows of people
-At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determine and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
+At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
 
 The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it thanks to globalisation leading to the replacement of local resources. Ocean going ships have grown significantly in size and can no longer fit up the River Yare so the riverside docklands fell into decline, much like the London Docklands.
 
@@ -194,13 +223,13 @@ The local availability of a resource or natural advantage can encourage the grow
 ## How do we understand place?
 
 **Key Ideas**
-a) People see, experience and understand place in different ways, this can also change over time. 
+> a) People see, experience and understand place in different ways, this can also change over time. 
 b) Places are represented through a variety of contrasting formal and informal agencies.
 
 **Content A:**
 - The complexities that exist when trying to define place, including the concept of space versus place. 
 - How and why people perceive places in different ways based on their identity, including age, gender, sexuality, religion and role. 
-- How level of emotional attachment to place can influence people’s behaviour and activities in a place.
+- How level of emotional attachment to place can influence people’'s behaviour and activities in a place.
 - How the processes of globalisation and time-space compression can influence our sense of place.
 
 **Content B:**
@@ -224,7 +253,10 @@ Specification content:
 
 
 
-3.a. **The distribution of resources, wealth and opportunities are not evenly spread within and between places.**
+
+> 3.a. **The distribution of resources, wealth and opportunities are not evenly spread within and between places.**
+3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
+3.c. Social inequality impacts people and places in different ways.
 - The concept of social inequality and how this can be measured through indices such as housing, healthcare, education, employment and access to services. 
 - How and why spatial patterns of social inequalities vary both within and between places.
 
@@ -237,8 +269,8 @@ Specification content:
 3.c. **Social inequality impacts people and places in different ways.**
 - Case studies of two contrasting places to illustrate: 
 	- the types of evidence of social inequality that can be found there such as housing, environmental quality, crime rates, digital divide 
-	- the range of factors that influence people’s social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
-	- how social inequality impacts upon people’s daily lives in different ways.
+	- the range of factors that influence people’'s social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
+	- how social inequality impacts upon people’'s daily lives in different ways.
 ---
 
 
@@ -253,7 +285,7 @@ The Gini coefficient is used to measure the  inequality of income and thereby de
 ## Players that impact on economic change
 
 Specification content:
-4. **Who are the players that influence economic change in places?**
+4. **> Who are the players that influence economic change in places?**
 4.a. **Places are influenced by a range of players operating at different scales.**
 
 
@@ -287,7 +319,7 @@ Specification content:
 	- why the place needed to rebrand
 	- strategy/strategies involved in the rebranding of the place
 	- the role and influence of a range of players involved in the placemaking 
-	- how the rebranding has altered people’s perception of that place 
+	- how the rebranding has altered people’'s perception of that place 
 	- the relative success of the rebranding.
 ---
 
@@ -320,8 +352,19 @@ This gets the spearman's correlation for the two sets of data
 ChatGPT or any other text-based generative transformer model was **not used** to directly write the content here. It's good for clarification of certain topics (and I've used it for that), but **don't get used to it** otherwise you'll lose your creativity. 
 
 
-## Extra Info
+## Extra Info## [tbd] Rebranding
+There are 5 main ways to rebrand an area:
+- Top-down investment
+- Market-let strategies
+- Flagship developments
+- Events
+- Legacy
+(Others include art events, historical exhibitions etc.)
+
+---
+
+end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbNDgyMzk5NzkwLC0xMzAzOTkyNTUxXX0=
 -->
