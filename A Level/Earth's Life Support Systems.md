@@ -270,7 +270,7 @@ At a local scale, an example of an all-round approach to management strategies c
 
 
 ### Afforestation
-Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sin; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
+Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sink; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
 The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
@@ -284,6 +284,20 @@ Agricultural practices are also usedin conjunction with afforestation, especiall
 
 At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. 
 
+
+### Restoration of wetlands
+Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
+
+The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
+
+However, where these regions are widespread such as the tropics, human activity has reduced the amount of mangroves and
+
+
+### Carbon capture and storage
+
+
+
+### International carbon agreements
 
 
 # Additional Skills
@@ -300,11 +314,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNT
-E2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4
-Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NC
-wxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgx
-MTE5MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwxMDM4ND
-A5MSw2MzM4NTM0MzQsLTE3NTE2NDM0NywtNzM3ODk3NjgsNTcz
-NjU0ODBdfQ==
+eyJoaXN0b3J5IjpbMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
+Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
+NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
+0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
+Njk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0xOTMyND
+U5NzI1LDEwMzg0MDkxLDYzMzg1MzQzNCwtMTc1MTY0MzQ3LC03
+Mzc4OTc2OF19
 -->
