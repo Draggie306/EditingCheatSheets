@@ -39,8 +39,16 @@ Migration is significant, and worldwide! In 2020, there were 291 million people 
 
 > Global migration involves dynamic flows of people between countries, regions and continents.
 
+
 ### Intra-regional migration
-Intra-regional migration is concerned with migration occurring bet
+Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
+
+
+
+
+### Inter-regional migration
+There is more and more inter-regional migration occurring globally, with the increasing 
+
 
 
 ## [tbd] Consequences of migration
@@ -51,11 +59,17 @@ When I say "consequences", this includes both positive and negative factors. For
 Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
 
 
-**Stability**
+#### Stability
 
 
-### Intra-regional migration
-Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
+#### Growth
+
+
+#### Investment
+
+
+
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -368,5 +382,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0ODY1MDg1LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTExNzAzODY4MjEsLTEzMDM5OTI1NTFdfQ
+==
 -->
