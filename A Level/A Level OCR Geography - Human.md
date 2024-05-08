@@ -324,9 +324,13 @@ The first factory in the world, the "**Soho Manufactory**", was created by Matth
 
 As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the **Bourneville factory and village**, introducing the new food processing industry and bucked the trend of terraced housing with the insistece of George Cadbury to have large homes with gardens and sizeable rooms to ensure the best working conditions for each employee and their families - encouraging social reforms whilst positively influencing industry and the local economy. Birmingham truly became "**a city of a thousand trades**". At this time the (long overdue) railway connection to London was made an was the hub of the Midlands, connecting the north to the south, and east to the west. *(And this is true even today!)*
 
-The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" acconting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements whislt the midde class drove the expansion of the metropolitan area
+The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" acconting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements whislt the midde class drove the expansion of the metropolitan area. The "largest social housing estates in the country" were also located in the city suburbs.
 
-#### 
+
+#### War and post-war decline
+Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
+
+The war also left its mark on the infrastructure. The Birmingham Blitz desroye over 12,000 homes
 
 
 
@@ -399,6 +403,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzc3Mjg3NjQsLTc3MDU3MDc2NiwtMT
-MwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTY1OTgxODA1OSwtNzcwNTcwNzY2LC0xMz
+AzOTkyNTUxXX0=
 -->
