@@ -308,10 +308,14 @@ Examples of players that influence an area include:
 - NGOs (charities with an interest in e.g. wildlife/nature conservation)
 
 
-A development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements,  
+A development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
 
 
 ### Case study: Structural economic change, Birmingham
+The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading and has continued to grow to the present day. 
+
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. 
+
 
 
 
@@ -384,5 +388,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MDExNTUxMCwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbMTQ2NTc0MTIwNSwtMTMwMzk5MjU1MV19
 -->
