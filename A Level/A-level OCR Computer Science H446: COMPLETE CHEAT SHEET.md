@@ -831,15 +831,15 @@ The DBMS (Database management system) needs to have a unique identifier for the 
 
 User ([customerID](), [orderNumber](), custName, custSurname, productID, subject, tier)
 
-Searches may also need to be made on other attributes of entities. In the table above, `subject`, `tier`, `productID`, `custName` and `custSurname` can be definded as the secondary key. These would then be indexed if specified by the user.
+Searches may also need to be made on other attributes of entities. In the table above, `subject`, `tier`, `productID`, `custName` and `custSurname` can be defined as the secondary key. These would then be indexed if specified by the user.
 
 ### Entity relationship modelling
 
 An entity relationship diagram is a way of representing the relationships between entities within a database. These can be:
 
-- One-to-one: husband to wife, country and prime minister. There is only one possiblility of a relationship between either entity
-- One-to-many: mother and child, customer and order, country and residents. One of these entities has many relationships between related entities
-- Many-to-many: actor and film, pupil and schools. Many of these entities have relationships between many other entities.
+- One-to-one: husband to wife, country to prime minister. There is **only one possibility** of a relationship between one entity and the other.
+- One-to-many: mother and child, customer and order, country and residents. **One** of these entities **has many relationships** between related entities
+- Many-to-many: actor and film, pupil and schools. **Many** of these entities have relationships between **many other** entities.
 
 
 Individual E-R diagrams may be joined up, to effectively say for the example above:
@@ -863,7 +863,7 @@ In a relational database, data is held in tables, or **relations**. Each row in 
 |--|--|--|--|--|
 | 12 | 120.CmpSc | 235 |4| Jake
 | 34 | 111.Geog | 243 |2| Kez
-| 54 | 120.CmpSc | 235 |3| Frankie
+| 53 | 120.CmpSc | 235 |3| Frankie
 | 54 | 121.French | 239 |5| Oli
 
 Normalisation is a process used to create the most efficient design possible for a database. The structure should be one so that complex queries from different relations can be made, with no unnecessary duplication and high consistency.
@@ -871,14 +871,14 @@ Normalisation is a process used to create the most efficient design possible for
 #### First normal form
 A table is in 1NF if it has **no repeating attributes, or groups of attributes.**
 
-All attributes must be atomic, so one atribute must only contain data about one thing, not two items of data such as firstname *and* surname - this would make the relation unable to be queried by surname or firstname alone.
+All attributes must be atomic, so one attribute must only contain data about one thing, not two items of data such as firstName *and* surname - this would make the relation unable to be queried by surname or firstName alone.
 
 #### Second normal form
 
 A table is in 2NF if it:
 
 - Is already in 1NF
-- Has no partial dependenies, which is only so if the primary key is also a composite key. 
+- Has no partial dependencies, which is only so if the primary key is also a composite key. 
 
 This means that if any non-key column is **only dependent on one primary key but not them all** (hence why it is only applicable to composite keys) it exhibits a partial key dependence.
 
@@ -1037,7 +1037,7 @@ This is undertaken by having a buffer, either in the disk or in memory, which re
 
 ### Problems with multi-user databases
 
-If user A wants to chnage user X address, this is fine. If two minutes later, user B changes user X's balance and saves the record, this is fine. However when user A saves the new record with just the updated address, user B's changes are lost. To prevent this, we can use:
+If user A wants to change user X address, this is fine. If two minutes later, user B changes user X's balance and saves the record, this is fine. However when user A saves the new record with just the updated address, user B's changes are lost. To prevent this, we can use:
 
 #### Record locking
 To uphold ACID, if two users are editing a database and want to edit each other's attributes, they may lock each other's records and result in deadlock. The DBMS will recognise this and try and use one of the below things to fix it:
@@ -1048,7 +1048,7 @@ Serialisation, in database management systems, is the principal that transaction
 #### Timestamp ordering
 Assigns every object in the database a read and write timestamp, so it can be worked out which transaction took place first and be applied first. Two users editing the same file at the same time could be asked to merge changes when they have finished by the other user, reducing the rick of problems
 
-#### Committment ordering
+#### Commitment ordering
 Transactions are ordered depending on how much they rely on each other, as well as time they were initiated. These subsequent modification requests can then be blocked until the initial transaction is committed.
 
 #### Redundancy
@@ -1064,7 +1064,7 @@ The Internet is a public interconnection of computer networks which allows data 
 
 The World Wide Web is a collection of websites and documents linked by hyperlinks made accessible via the Internet.
 
-The Internet is the largest network (what computers communicate with each other on). THis is known as a Wide Area Network, or WAN, as it spans over a large geographic area.
+The Internet is the largest network (what computers communicate with each other on). This is known as a Wide Area Network, or WAN, as it spans over a large geographic area.
 
 
 The Internet can also be used to transmit data without using the World Wide Web. However, this data must travel through the backbone.
@@ -1075,7 +1075,7 @@ By connecting all these cables together, these ISPs can create a single network 
 
 > Protocol - a set of rules or procedures for transmitting data between electronic devices, such as computers
 
-### IPv4 addressses 
+### IPv4 addresses 
 are a series of 4 octet values separated by a full stop (max 32 bits), ranging from 0 to 255. However, there are not enough addresses to support the growing population, so IPv6 is being used which uses 128 bits.
 
 ### Uniform Resource Locator (URL)
@@ -1206,7 +1206,7 @@ Network hardware devices include routers, switches, hubs, and access points, amo
 
 Protocols and standards establish guidelines and rules for communication between devices on a network. Common protocols include TCP/IP, HTTP, and FTP, while common standards include Ethernet and Wi-Fi.
     
-### [tbd] The TCP/IP Protocol Stack
+### The TCP/IP Protocol Stack
 
 The TCP/IP protocol stack consists of four main layers. From the top of the stack to the bottom, they are:
 
@@ -1224,7 +1224,7 @@ This specifies the rules of what should be sent, rather than the actual data/pay
 
 The transport layer uses the **Transmission Control Protocol** (TCP) as well as the **User Datagram Protocol** (UDP) to establish an end-to-end connection to the recipient. 
 
-Application data from the above application layer often has large filesizes, such as uploading a 10GB video file, and thus must be split into segments, or TCP packets, and then numbers these sequentially. 
+Application data from the above application layer often has large file sizes, such as uploading a 10GB video file, and thus must be split into segments, or TCP packets, and then numbers these sequentially. 
 
 The port number (a 16 bit number) is also added in this layer. Servers listen on specific well-known port numbers like 443  for  HTTPS  for oncoming connections. On the client end, ephemeral port numbers are assigned so received data can be passed up from the transport layer to the application layer to the correct, unique application.
 
@@ -1235,7 +1235,7 @@ Finally, sockets, or TCP endpoints, are also assigned on this layer. These are m
 > Sockets can be combined with DNS to go to a specific port on a website. For example, mc.ibaguette.com:8123 could initiate a HTTP connection to a server with a specific port of 8123 rather than the default HTTP port of 80.
 
 **Bonus Points for A***
-TCP ensures that no data is received erroneously or is lost during transport, so packets can be retransmitted and all must me acknowledged by the receiving device. This security adds delays and additional processing overhead. UDP does not add any of these error checks, but is more suited towards realtime applications such as Discord Voice Chats, whereas text chat it uses TCP.
+TCP ensures that no data is received erroneously or is lost during transport, so packets can be retransmitted and all must me acknowledged by the receiving device. This security adds delays and additional processing overhead. UDP does not add any of these error checks, but is more suited towards real-time applications such as Discord Voice Chats, whereas text chat it uses TCP.
 
 For this reason, UDP is deemed as the unreliable protocol as it is "send and forget", with packets arriving out of order or not at all. TCP is a sequential stream but is slower due to ACK packets (acknowledgement) and can cause packets to queue and ping spikes. TCP is susceptible to ping spikes, and UDP is susceptible to packet loss (hence why in online games you get packet loss and ping spikes - they use *both* depending on what's being requested!)
 
@@ -1256,7 +1256,7 @@ The link layer operates across a physical connection
 
 Adds the MAC address of the physical NIC that packets should be sent to based on the destination IP address
 
-MAC addresses change with each hoptasks in transmitting data over a network.
+MAC addresses change with each hop in transmitting data over a network.
 
 
 ### Transferring Files using FTP
@@ -2273,7 +2273,7 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjIxMTA1MzksMTU1MjQ5NjM3MywtND
-QyMDcwNDI0LC0xNTkyMTk1OTk2LDY1MDUwMzM3MCwtMTg0OTkw
-ODUxNiwtNzcyNTg5MDUzXX0=
+eyJoaXN0b3J5IjpbOTExNzU0NjQ2LDE1NTI0OTYzNzMsLTQ0Mj
+A3MDQyNCwtMTU5MjE5NTk5Niw2NTA1MDMzNzAsLTE4NDk5MDg1
+MTYsLTc3MjU4OTA1M119
 -->
