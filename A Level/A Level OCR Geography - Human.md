@@ -300,8 +300,12 @@ Players, or stakeholders, are individuals, groups of people or organisations who
 Governments or local authorities who may be interested in economic development, redevelopment or rebranding of an area typically have more (economic) power and influence over, for example, somebody whose house is in the path of a flagship development.
 
 Examples of players that influence an area include:
-- national government
-- the EU (through 
+- national government (planning, transport links like HS2, stimulating growth and development)
+- the EU (through grants for infrastructure and sustainable development projects)
+- local governments (investments in housing, building and improving of services)
+- TNCs (especially those with investments in an area, or looking to break in to a new market)
+- local communities (residents' associations to improve social, economic, environmental and political matters in their area)
+- 
 
 
 ### Case study: Structural economic change, Birmingham
@@ -377,5 +381,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMjM0Njk3NywtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTExNDk4NTc2ODAsLTEzMDM5OTI1NTFdfQ
+==
 -->
