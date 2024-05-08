@@ -316,7 +316,9 @@ The first sign of economic change in Birmingham, now England's second city with 
 
 Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During ths time, the demographic was principally white with the Church present throughout; this intensve labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time.
 
-The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A middle and a tertiary sector emerged duing this period, creating Lloyds and Midlands Bank - the former foudned in 1765. The main secondary sector manufacturing industries required the services of tertiary sec  
+The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A middle and a tertiary sector emerged duing this period, creating Lloyds and Midlands Bank - the former foudned in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town.
+
+The first factory in the world was created by Matthew Boulton in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines and    
 
 
 
@@ -390,5 +392,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMDI0MzgwLC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbMTc2Njc0ODY0OCwtMTMwMzk5MjU1MV19
 -->
