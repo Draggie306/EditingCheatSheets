@@ -314,7 +314,9 @@ A development of a bypass, such as the Norwich NDR, has so many players. Local b
 ### Case study: Structural economic change, Birmingham
 The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
 
-Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils".
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During ths time, the demographic was principally white with the Church present throughout; this intensve labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time.
+
+
 
 
 
@@ -388,6 +390,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTYzMTk0ODYsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbMTEwMjI1NTE1MywtMTMwMzk5MjU1MV19
 -->
