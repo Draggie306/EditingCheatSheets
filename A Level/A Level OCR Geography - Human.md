@@ -314,14 +314,19 @@ A development of a bypass, such as the Norwich NDR, has so many players. Local b
 ### Case study: Structural economic change, Birmingham
 The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
 
-Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During ths time, the demographic was principally white with the Church present throughout; this intensve labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time.
 
-The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A middle and a tertiary sector emerged duing this period, creating Lloyds and Midlands Bank - the former foudned in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town.
+#### The rise of Birmingham
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During ths time, the demographic was principally white with the Church present throughout; this intensve labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
 
-The first factory in the world was created by Matthew Boulton in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. Electroplating and the pneumatic tyre were just some of the new inventions that Bimingham produced. 
+The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A **middle class and tertiary sector** emerged duing this period, creating **Lloyds and Midlands Bank** - the former founded in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town. The canal system allowed more trade, with even more goods being imported and exported.
 
-As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the Bourneville factory and village, introducing the new food processing industry and bucked the trend of terraced housing with the insistece of the Cadburys to     
+The first factory in the world, the "**Soho Manufactory**", was created by Matthew **Boulton** in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. **Electroplating** and the **pneumatic tyre** were just some of the new inventions that Bimingham produced. 
 
+As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the **Bourneville factory and village**, introducing the new food processing industry and bucked the trend of terraced housing with the insistece of George Cadbury to have large homes with gardens and sizeable rooms to ensure the best working conditions for each employee and their families - encouraging social reforms whilst positively influencing industry and the local economy. Birmingham truly became "**a city of a thousand trades**". At this time the (long overdue) railway connection to London was made an was the hub of the Midlands, connecting the north to the south, and east to the west. *(And this is true even today!)*
+
+The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" acconting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements whislt the midde class drove the expansion of the metropolitan area
+
+####
 
 
 
@@ -394,6 +399,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTAyNDkzMjksLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
