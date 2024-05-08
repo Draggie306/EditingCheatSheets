@@ -305,7 +305,10 @@ Examples of players that influence an area include:
 - local governments (investments in housing, building and improving of services)
 - TNCs (especially those with investments in an area, or looking to break in to a new market)
 - local communities (residents' associations to improve social, economic, environmental and political matters in their area)
-- 
+- NGOs (charities with an interest in e.g. wildlife/nature conservation)
+
+
+A development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements,  
 
 
 ### Case study: Structural economic change, Birmingham
@@ -381,6 +384,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk4NTc2ODAsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbMTI3MDExNTUxMCwtMTMwMzk5MjU1MV19
 -->
