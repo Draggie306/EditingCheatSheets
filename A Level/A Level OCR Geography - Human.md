@@ -326,7 +326,7 @@ As this economic growth supported continuous population increases, there was mor
 
 The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" acconting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements whislt the midde class drove the expansion of the metropolitan area
 
-####
+#### 
 
 
 
@@ -399,5 +399,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTE1Nzc3Mjg3NjQsLTc3MDU3MDc2NiwtMT
+MwMzk5MjU1MV19
 -->
