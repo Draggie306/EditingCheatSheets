@@ -300,12 +300,21 @@ CCS is a technique used to stop carbon emissions from the source, such as in fac
 
 
 ### International carbon agreements
-The most effective way to protect the global carbon cycle may be international agreements.
+The most effective way to protect the global carbon cycle may be international agreements. These provide a legal framework for large-scale, mass carbon emissions reductions globally, when done correctly.
 
-#### 1997 Kyoto Protocol
+#### [1997 Kyoto Protocol](https://unfccc.int/kyoto_protocol)
+The Kyoto protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also  had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
+
+Kyoto introduced three major mechanisms to help reduce carbon (and emmision of other gases).
+
+- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long-term is cheaper. More details in the cap and trade section below.
+- [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): this incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This both gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
+- .
+
 
 
 #### 2015 Paris Climate Convention
+The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
 
 
 
@@ -323,11 +332,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM5MjA5Njk5LDE4MTk3NzIzMjAsLTc3Nz
-E0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0
-MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMj
-ExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMx
-MjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3Nj
-E1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3
-NTE2NDM0N119
+eyJoaXN0b3J5IjpbMTY4MzE1NTYwNCwxODE5NzcyMzIwLC03Nz
+cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
+NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
+IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
+MTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0Nz
+YxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0x
+NzUxNjQzNDddfQ==
 -->
