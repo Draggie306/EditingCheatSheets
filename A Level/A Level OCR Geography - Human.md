@@ -293,18 +293,13 @@ The Gini coefficient is used to measure the  inequality of income and thereby de
 
 
 ## Players that impact on economic change
+> 4.a. Places are influenced by a range of players operating at different scales.
 
-Specification content:
-4. **> Who are the players that influence economic change in places?**
-4.a. **Places are influenced by a range of players operating at different scales.**
+Players, or stakeh
 
 
-- The role of players in driving economic change, including at least one of local and national government, MNCs or international institutions. 
-- Case study of one country or region that has been impacted by structural economic change, including:
-	- socio-economic, demographic, cultural and environmental characteristics of the place before the economic change 
-	- the economic change/changes that took place and the role of players involved in driving the change 
-	- socio-economic, demographic, cultural and environmental impacts on people and place.
----
+### Case study: Structural economic change, Birmingham
+
 
 
 ## Placemaking processes
@@ -376,5 +371,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzczOTIwNiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTEzMzQ0MzE2NjgsLTEzMDM5OTI1NTFdfQ
+==
 -->
