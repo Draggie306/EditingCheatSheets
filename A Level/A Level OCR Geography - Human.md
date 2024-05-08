@@ -335,12 +335,24 @@ The war also left its mark on the infrastructure. The Birmingham Blitz desroyed 
 By 1970s:
 - British vehicle industry had been in decline for 20 years. Preference of Japanese models, cheaper costs w/global shift and globalisaion and demand for these cars favoured them vs British makes
 - SMEs that used to act as ancillary industries or make own resources demolished in **slum clearance schemes**. Many unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
-- Demographic changes: 
+- Demographic changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British peope had doubled to around 10%
+- **Unemployment rates hit 19.4%.**
 
-The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyle left lower disposable income for lower-skilled residents.
+The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyle left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
+
+The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (negative feedback?) 
+
+#### Modern-day Birmingham
+A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had incresed to 49%.
+
+EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
+
+The national government's 
+
+Over 50,000 students are present in the 5 city universities. They work, spend time and money in the area, kickstarting a postive multiplier effect.
 
 
-  
+Finaly, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
 
 ## Placemaking processes
 
@@ -411,6 +423,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MjI5ODA0LC02NTk4MTgwNTksLTc3MD
-U3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbMTY0MTkxMDE5MiwxMjUyMjk4MDQsLTY1OT
+gxODA1OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
 -->
