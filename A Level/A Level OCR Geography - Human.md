@@ -330,9 +330,11 @@ The 1900s saw yet more opportunities. The Austin car plant brought car and vehic
 #### War and post-war decline
 Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
-The war also left its mark on the infrastructure. The Birmingham Blitz desroye over 12,000 homes
+The war also left its mark on the infrastructure. The Birmingham Blitz desroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced with 400 modern tower blocks and 81,000 new homes. Increased QoL with more space and more modern.
 
-
+By 1970s:
+- British vehicle industry had been in decline for 20 years. Preference of Japanese models, cheaper costs w/global shift and globalisaion and demand for these cars favoured them vs British makes
+- SMEs that used to act as ancillary industries or make own resources demolished in slum clearance schemes. Many unable to find other suitable cheap businesses; areas that were supposed o encourage this pric 
 
 ## Placemaking processes
 
@@ -403,6 +405,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTgxODA1OSwtNzcwNTcwNzY2LC0xMz
-AzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbMTc0NzI5NzQwNSwtNjU5ODE4MDU5LC03Nz
+A1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
