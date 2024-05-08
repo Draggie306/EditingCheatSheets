@@ -334,7 +334,13 @@ The war also left its mark on the infrastructure. The Birmingham Blitz desroyed 
 
 By 1970s:
 - British vehicle industry had been in decline for 20 years. Preference of Japanese models, cheaper costs w/global shift and globalisaion and demand for these cars favoured them vs British makes
-- SMEs that used to act as ancillary industries or make own resources demolished in slum clearance schemes. Many unable to find other suitable cheap businesses; areas that were supposed o encourage this pric 
+- SMEs that used to act as ancillary industries or make own resources demolished in **slum clearance schemes**. Many unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
+- Demographic changes: 
+
+The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyle left lower disposable income for lower-skilled residents.
+
+
+  
 
 ## Placemaking processes
 
@@ -405,6 +411,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NzI5NzQwNSwtNjU5ODE4MDU5LC03Nz
-A1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMTI1MjI5ODA0LC02NTk4MTgwNTksLTc3MD
+U3MDc2NiwtMTMwMzk5MjU1MV19
 -->
