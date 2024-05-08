@@ -318,7 +318,9 @@ Birmingham before the industrial revolution was a place of hard work and manufac
 
 The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A middle and a tertiary sector emerged duing this period, creating Lloyds and Midlands Bank - the former foudned in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town.
 
-The first factory in the world was created by Matthew Boulton in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines and    
+The first factory in the world was created by Matthew Boulton in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. Electroplating and the pneumatic tyre were just some of the new inventions that Bimingham produced. 
+
+As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the Bourneville factory and village, introducing the new food processing industry and bucked the trend of terraced housing with the insistece of the Cadburys to     
 
 
 
@@ -392,5 +394,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2Njc0ODY0OCwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTE4MTAyNDkzMjksLTEzMDM5OTI1NTFdfQ
+==
 -->
