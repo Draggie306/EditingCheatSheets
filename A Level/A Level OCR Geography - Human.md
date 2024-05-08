@@ -25,7 +25,7 @@ A migrant, according tot he
 
 ## Contemporary patterns of migration
 
-A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
+A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year is .....
 
 **Interdependence -** is the interrelationships between ACs, EDCs ansd LIDCs through trade, foreign aid and migration
 
@@ -74,9 +74,7 @@ Broadly, the positives of migration can be split into three distinct characteris
 
 # [TBD] 2.1 – Changing Spaces; Making Places
 
-## What’'s in a place?
-
-**Key idea:**
+## What’s in a place?
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
 **Content:**
@@ -131,7 +129,7 @@ May 2022 Council Election Results. Turnout **35.3%**
 
 
 #### Built Environment
-Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise. The 
+Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise.
 
 The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
 
@@ -146,7 +144,7 @@ The ward itself is named after St Peter Mancroft alongside the parish church. Th
 -  84.4% white, 6.8% Asian, 3.3% black, mixed race 3.5%
 -  77% of the population originated the UK, 23% were foreign born residents, of which 9.9% are from EU countries.
 - The highest population in age distribution bracket is 20-29 years, which contains 2,740 people
-> Least religious city in the UK! with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third at 33.5% and 3.5% respectively.
+> Least religious city in the UK! with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third, with religions at 33.5% and 3.5% respectively.
 
 [Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
 
@@ -156,18 +154,16 @@ Mancroft is categorised as a built-up area alongside most of Norwich by the ONS.
 
 Furthermore, the average income is £32,000, showing that there are many professional jobs being occupied. This means that there is a reasonable amount of disposable income for residents to spend on facilities and more recreational activities, such as supporting local cafes which tend to be at a higher price. 
 
-The majority of homes have 3-4 rooms, (not just bedrooms), suggesting that the majority of people in the area are either single or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
+The majority of homes have 3-4 rooms (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
 
 These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
 
-
-**Summary:**
 Overall, Mancroft is a built-up area with a high population density, suggesting that it contains a large amount of flats and buildings in close proximity. The population is diverse, with 11.07% of the ward being retired, 866 students, 5,353 economically active people aged between 16 and 74, and 2,466 people economically inactive. The majority of homes have 3 or 4 rooms, with an average of 2.51 people per household, suggesting that the area is mainly occupied by single people or very small families. This data implies that Mancroft is a roughly working to lower middle-class area (also inferred by its political affiliation) with many workers living in smaller houses, and families would then go on to move away from this area in the city centre with increased affluency and more likely to be middle-class.
 
 ### Case study: Place Profile - Sheringham North Ward, North Norfolk
 
 #### Physical Geography
-Sheringham is situated on the North Norfolk coast. One of the highest points in Norfolk is located in western Sheringham, known as the "Beeston Bump" locally. It is 73 metres high and is made up of old glacial moraines dating from the end of the Pleistocene epoch eround 11 to 13,000 years ago, when northern advancing glaciers retreated. It is made out of sand, gravel and stones. 
+Sheringham is situated on the North Norfolk coast. One of the highest points in Norfolk is located in western Sheringham, known as the "Beeston Bump" locally. It is 73 metres high and is made up of old glacial [moraines](#moraines) dating from the end of the Pleistocene epoch eround 11 to 13,000 years ago, when northern advancing glaciers retreated. It is made out of sand, gravel and stones. 
 
 For this reason, and the proximity to the coast, it was used to protect the homes behind it, being less prone to erosion from the sea due to the increased mass to erode. There also used to be two villages behind this bump, which have now merged into one larger conurbation. (It used to be two roughly symmetrical hills that has now merged into one, just like the conurbation!). 
 
@@ -180,8 +176,8 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
-#### Built Env
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. It is also an iconic material for tourism, as well as typically costing more to use than bricks and also looking good on postcards!
+#### Built Environment
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.
 
 
 #### History
@@ -207,13 +203,13 @@ This shows that there may be an upcoming problem for the council and town planne
 Average costs for a terraced house are £223,500 to £312,500. For a semi-detached house, this is £250,000 to £364,500. A detached house costs typically over over £400,000.
 
 
-### Comparisons
+### Place Profile Comparisons
 Sheringham has a much older demographic with an average age of 51 years compared to 37 in Mancroft. This may result in more services like bingos and buses, with less schooling in Sheringham. Sheringham may also be less reluctant to change, not only because of the older population who are typically less accepting of new ideas and visions, but the people living there may spend more time retired compared to the lower, younger, more accepting population like students who may only spend 2-3 years in the area, who may be less inclined to travel further away to places such as Cromer to get their shopping done as they do not have as much time as the older, retired population.
 
 [Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
 
 
-### Shifting flows of money, investment and ideas on place identity
+### Shifting flows of money, investment and ideas
 
 Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
 
@@ -221,26 +217,24 @@ During the Industrial Revolution, there was a large amount of rural to urban mig
 
 It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
 
-> It was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
+> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
 
-Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. 
+Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. And definitely *not* Anglia Square. 
 
-There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a quaternary knowledge economy, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
+There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
 
 Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
 
 ### Shifting flows of people
 At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
 
-The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it thanks to globalisation leading to the replacement of local resources. Ocean going ships have grown significantly in size and can no longer fit up the River Yare so the riverside docklands fell into decline, much like the London Docklands.
+The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
 
 
 
 ## How do we understand place?
-
-**Key Ideas**
 > a) People see, experience and understand place in different ways, this can also change over time. 
-b) Places are represented through a variety of contrasting formal and informal agencies.
+> b) Places are represented through a variety of contrasting formal and informal agencies.
 
 **Content A:**
 - The complexities that exist when trying to define place, including the concept of space versus place. 
@@ -382,6 +376,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzAzODY4MjEsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbMjExNzczOTIwNiwtMTMwMzk5MjU1MV19
 -->
