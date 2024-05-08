@@ -295,7 +295,13 @@ The Gini coefficient is used to measure the  inequality of income and thereby de
 ## Players that impact on economic change
 > 4.a. Places are influenced by a range of players operating at different scales.
 
-Players, or stakeh
+Players, or stakeholders, are individuals, groups of people or organisations who can influence, or are influenced by, change occurring in an area. They have a common interest in a place.
+
+Governments or local authorities who may be interested in economic development, redevelopment or rebranding of an area typically have more (economic) power and influence over, for example, somebody whose house is in the path of a flagship development.
+
+Examples of players that influence an area include:
+- national government
+- the EU (through 
 
 
 ### Case study: Structural economic change, Birmingham
@@ -371,6 +377,5 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQ0MzE2NjgsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbMTczMjM0Njk3NywtMTMwMzk5MjU1MV19
 -->
