@@ -14,6 +14,8 @@ https://core.ac.uk/download/pdf/76353204.pdf
 # Human rights
 
 ## case study afghan
+
+
 https://www.amnesty.org/en/location/asia-and-the-pacific/south-asia/afghanistan/report-afghanistan/
 
 
@@ -48,5 +50,6 @@ https://www.care-international.org/our-work/where-we-work/democratic-republic-co
 CARE stats
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzYwOTg4NzYsMTY1MDQ4MTI5Ml19
+eyJoaXN0b3J5IjpbNjI3MzIxMzIwLC0xODM2MDk4ODc2LDE2NT
+A0ODEyOTJdfQ==
 -->
