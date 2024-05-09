@@ -79,7 +79,7 @@ In the global hydrological cycle, there are many interreated processes, stores, 
 ### Evapotranspiration
 Evapotranspiration is the term used to denote the transfer of water into the atmosphere, combining evaporation and transpiration. Energy, such as insolation, when added to a mass of water like an ocean, increases particles' energy and breaks the bonds between them, allowing for a state change to gas as water vapour, which then rises. This is evaporation. Transpiration on the other hand occurs only from the biosphere and mainly plants - this accompanies the process of respiration and photosynthesis. Leaves and plant surfaces lose water through their stomata via evaporation, and this water is replenished through effectively pulling more water and nutrients from the roots through the plant. On a local scale this may be insignificant but on a wider, perhaps national scale such as the Amazon Rainforest, the amount of water transpired through the plant, and evaporated by rivers and other stores, contribute significantly to changing global weather patterns. In total, transpiration accounts for around 10% of atmospheric water vapour.
 
-Water in the soil (pedosphere) is the most likely to be absorped by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into the atmosphere, perhaps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of the atmospheric store is transpired by plants** (biosphere)![^1]
+Water in the soil (pedosphere) is the most likely to be absorped by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into the atmosphere, perhaps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
 
 ### Precipitation
 One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then fall to the surface as precipitation. This process is known as the collision-coalescence theory. 
@@ -415,11 +415,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzOD
-c1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIw
-LC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
-Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
-MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NS
-wtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEy
-NTI0NzYxNTNdfQ==
+eyJoaXN0b3J5IjpbNjE1OTMwMjc1LC0xMTUxNTUyNjIzLDEwOT
+M5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgs
+MTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MT
+YxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2
+OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LD
+EyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODEx
+MTkxNTc1XX0=
 -->
