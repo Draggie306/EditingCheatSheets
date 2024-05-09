@@ -253,10 +253,12 @@ The tundra is in a negative heat balance for 8-9 months of the year, releasing m
 Temperatures are low, with a mean of -15C. Precipitation is also low, with annual totals between 50 and 350mm - most of which is snow. Combined with the low levels of moisture in the atmosphere (little evaporation) means that there is low absolute humidity and very low ground and soil moisture. When there is a positive heat balance, the insolation goes into melting the snow and, should there be extra goundwater, permafrost inhibits groundwater infiltration and percolation (and definitely not any groundwater flowing!). This may result in the formation of wetland ponds, lakes and other thermokarst features in the summer when the active layer melts, but the permafrost remains inpermeable below.  
 
 
-
 ### Carbon cycle
 
-Permafrost is estimate to contain 1,600 GtC in the tundra. 
+Permafrost is estimate to contain 1,600 GtC in the tundra. When ice melts in lakes methane and carbon dioxide are often released. 
+
+
+In the long-term, degradation of permafrost and 
 
 ## Human impacts on the water cycle
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
@@ -355,11 +357,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOT
-c3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEw
-NDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLD
-QyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3
-MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNT
-c1LC0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYz
-Mzg1MzQzNF19
+eyJoaXN0b3J5IjpbNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
+AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
+NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
+c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
+OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNz
+YsLTgxMTE5MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwx
+MDM4NDA5MV19
 -->
