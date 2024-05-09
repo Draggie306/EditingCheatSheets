@@ -202,13 +202,13 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 [You may have done this at GCSE](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#tropical-rainforests) -  might be good looking back for a more general understanding!
 
-Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by having high average temperatures (around **27degC**), little variation in temperatures seasonally, and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season.
+Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by having high average temperatures (around **27degC**), little variation in temperatures seasonally, and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. Net primary productivity (t
 
 70% of the Amazon is located in Brazil. 
 
 ### Water in the rainforest
 
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. The high air temperatures increases absolute humidity, allowing more moisture in the air too. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off, with a rapid transfer between stores. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off, with a rapid transfer between stores. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
@@ -219,7 +219,7 @@ When rainfall events do occur, the significant moisture availability and high te
 
 
 ### Carbon in the rainforest
-Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. 
+Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
 
 
 
@@ -420,7 +420,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjI2NTQ0NSwxMDkzOTQwNzQsNTM4Nz
+eyJoaXN0b3J5IjpbMTc2NzU4MDM4MywxMDkzOTQwNzQsNTM4Nz
 U0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3NzIzMjAs
 LTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNj
 UzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3Njkz
