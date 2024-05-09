@@ -403,17 +403,19 @@ Compare the number of items (degrees of freedom) given to the significance table
 
 > If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
 
-
+Confidence intervals can be obtained from the following formula:
+$\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \theta)^2} \leq \chi^2_{1, \alpha}\right\}$
+(no need to know this - unless you do maths?)
 
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTQ4MzI1OSw1Mzg3NTQ4MjcsNTM5OT
-gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
-LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
-ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
-ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMD
-QsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0x
-OTMyNDU5NzI1XX0=
+eyJoaXN0b3J5IjpbMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5OD
+AwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMs
+LTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMT
+EzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4
+MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNC
+wxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5
+MzI0NTk3MjVdfQ==
 -->
