@@ -1,6 +1,6 @@
 # 1.2 - Earth's Life Support Systems
-Wordcount: 3777
-Last modification: 06/05/2024
+Wordcount: 3777500
+Last modification: 069/054/2024
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -20,7 +20,7 @@ License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 The short answer to this is that the water and carbon cycles are **very important**.
 
-The long answer? Well...
+The long answer? Well...:
 
 ## Introduction to water
 > 1a. Water and carbon support life on Earth and move between the land, oceans and atmosphere.
@@ -84,6 +84,9 @@ Water in the soil (pedosphere) is the most likely to be absorped by trees and ve
 ### Precipitation
 One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then fall to the surface as precipitation. This process is known as the collision-coalescence theory. 
 
+Water produced by precipitation is then collected in a **drainage basin** and moves into rivers through **runoff** - a combination of processes including **overland flow**, in addition to **soil infiltration**, **ground percolation** and subsequent **throughflow** and **groundwater flow**. Most of this water will then enter the ocean again, ready for the cycle to repeat, or **percolate** further into **permeable** rocks and be part of an underground **aquifer**.
+
+Some key points:
 - Where precipitation occurs at high altitudes or in cold environments, snow is likely to form, and potentially remain on the ground for a long time, increasing the lag time visible on flood hydrographs.
 - Duration is the length of time a period of precipitation lasts. Climatic depressions or frontal weather systems may cause this; there may also be high rates of overland flow with flooding for long durations.
 - Intensity is how much precipitation falls over a given time period. This can also have an impact on reducing lag times with high intensity, causing more overland flow due to less time to infiltrate into the soil. The amount the soil can absorb is the infiltration capacity.
@@ -123,7 +126,7 @@ When the sun warms an area of land, it creates heat, which warms up the air arou
 
 
 #### Cloud formation
-Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
+Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the aircloud parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
 
 > Different areas at different times have different dew points. and rates of ELR 
 
@@ -222,6 +225,30 @@ https://en.wikipedia.org/wiki/Flying_river
 
 ### Management strategies
 
+## Inputs, outputs and processes of carbon
+
+### Precipitation
+I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may preciptate when the organisms die and lithfy on the ocean floor.
+
+
+### Photosynthesis 
+Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospheric store too.
+
+### Decomposition
+Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
+
+### Weathering
+Weatehring includes physical and chemical components. Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action. Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This is largely how phytoplankton and other cretacious aquatic organisms obtain their carbon
+
+
+
+
+
+
+
+
+## Case study: the Amazon Rainforest
+> 2a. It is possible to identify the physical and human factors that affect the water and carbon cycles in a tropical rainforest.
 
 ## Case study: the Arctic Tundra
 > 2b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area.
@@ -317,6 +344,11 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emmision of o
 The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
 
 
+## Interdependence
+As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
+
+
+
 
 # Additional Skills
 The OCR specification also lists some specific skills ou must also have to ensure you get full marks. These topic-specific skills are:
@@ -332,7 +364,7 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4MzE1NTYwNCwxODE5NzcyMzIwLC03Nz
+eyJoaXN0b3J5IjpbMTkzMjc4NjU1OSwxODE5NzcyMzIwLC03Nz
 cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
 NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
 IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
