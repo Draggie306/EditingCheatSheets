@@ -399,7 +399,9 @@ Tests the significance of a correlation between two variables.
 
 $\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
 
-Compare the number of items given to the significance table. The hypothesis can be rejected if the number in the table is below 
+Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, whch means there is a less than 1% chance of this being caused by chance!
+
+> If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
 
 
 
@@ -407,7 +409,7 @@ Compare the number of items given to the significance table. The hypothesis can 
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwOTcwODcxMSw1Mzg3NTQ4MjcsNTM5OT
+eyJoaXN0b3J5IjpbMTM4NTQ4MzI1OSw1Mzg3NTQ4MjcsNTM5OT
 gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
 LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
 ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
