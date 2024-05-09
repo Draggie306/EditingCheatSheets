@@ -239,7 +239,7 @@ An individual tree may have little influence on the cycle of water and carbon. T
 
 The effects of deforestation are wide-ranging. Converting trees into pasture increases runoff by 27x. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
-On the carbon cycle, human activity shrinks the 
+On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest. Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall, 
 
 
 ### Management strategies
@@ -415,7 +415,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDg2NDIwOTgsMTA5Mzk0MDc0LDUzOD
+eyJoaXN0b3J5IjpbLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzOD
 c1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIw
 LC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
 Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
