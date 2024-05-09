@@ -397,13 +397,17 @@ Rank the data, then identify the median. For all values below the overall median
 Tests the significance of a correlation between two variables.
 
 
-\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}
+$\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
+
+Compare the number of items given to the significance table. The hypothesis can be rejected if the number in the table is below 
+
+
 
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODc3NjMzMSw1Mzg3NTQ4MjcsNTM5OT
+eyJoaXN0b3J5IjpbMTIwOTcwODcxMSw1Mzg3NTQ4MjcsNTM5OT
 gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
 LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
 ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
