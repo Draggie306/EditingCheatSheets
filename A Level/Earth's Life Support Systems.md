@@ -216,10 +216,19 @@ In terms of the other stores aside from the biosphere, the atmosphere with high 
 
 When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
 
-https://en.wikipedia.org/wiki/Flying_river
+
 
 ### Carbon in the rainforest
  
+
+
+
+An individual tree may have little influence on the cycle of water and carbon. The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by t
+
+### Madiera drainage basin
+
+
+### Impact of human activity
 
 
 
@@ -411,11 +420,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5OD
-AwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMs
-LTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMT
-EzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4
-MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNC
-wxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5
-MzI0NTk3MjVdfQ==
+eyJoaXN0b3J5IjpbMzQxNTE1ODY0LDEwOTM5NDA3NCw1Mzg3NT
+Q4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwt
+Nzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NT
+MzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0
+NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLT
+IxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUy
+NDc2MTUzXX0=
 -->
