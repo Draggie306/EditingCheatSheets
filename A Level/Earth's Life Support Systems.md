@@ -126,7 +126,7 @@ When the sun warms an area of land, it creates heat, which warms up the air arou
 
 
 #### Cloud formation
-Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the aircloud parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
+Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
 
 > Different areas at different times have different dew points. and rates of ELR 
 
@@ -364,11 +364,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk0NzM4NTc3LDE4MTk3NzIzMjAsLTc3Nz
-E0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0
-MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMj
-ExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMx
-MjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3Nj
-E1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3
-NTE2NDM0N119
+eyJoaXN0b3J5IjpbLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03Nz
+cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
+NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
+IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
+MTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0Nz
+YxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0x
+NzUxNjQzNDddfQ==
 -->
