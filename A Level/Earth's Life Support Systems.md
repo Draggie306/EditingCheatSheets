@@ -358,13 +358,42 @@ Rank the data and work out the middle value. If it's between two points, then ta
 + easy to calculate
 + not affected by extreme, anomolous values
 - most of the values are ignored
-- less "sensitive" than the mean - significant changes   
+- less "sensitive" than the mean (a significant change on one side can be balanced by a small number on the other)
+
+### Mean
+Add all values in the series together and divide by the total number of values. This is the "average".
+
++ all values accounted for
++ gives fair representation for all values
+- affected by all values even if anomolous/very large or small.   
+
+### Mode
+The value that occurs in data the most.
+
++ can be used on qualitative data
++ useful for spotting patterns
+
+- may be multiple modes, or none at all
+- only useful for specific enquires
+
+### Range
+Subtract the lowest from the highest value in the data.
+
++ shows the full spectrum of all data
+
+- can be significantly affected by extreme values 
+- most data is ignored
+
+
+### Interquartile range
+Rank the data, then identi
+
 
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzM5MDE5Niw1Mzg3NTQ4MjcsNTM5OT
+eyJoaXN0b3J5IjpbLTUzODQ3OTU0MSw1Mzg3NTQ4MjcsNTM5OT
 gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
 LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
 ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
