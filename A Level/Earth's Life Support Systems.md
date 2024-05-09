@@ -393,18 +393,21 @@ Rank the data, then identify the median. For all values below the overall median
 
 - doesn't include all values
 
-### 
+### Spearman's Rank
+Tests the significance of a correlation between two variables.
 
+
+\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}
 
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMDI0OTk2LDUzODc1NDgyNyw1Mzk5OD
-AwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMs
-LTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMT
-EzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4
-MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNC
-wxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0NzYxNTMsLTE5
-MzI0NTk3MjVdfQ==
+eyJoaXN0b3J5IjpbMTE2ODc3NjMzMSw1Mzg3NTQ4MjcsNTM5OT
+gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
+LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
+ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
+ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMD
+QsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0x
+OTMyNDU5NzI1XX0=
 -->
