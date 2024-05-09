@@ -351,17 +351,24 @@ The OCR specification also lists some specific skills ou must also have to ensur
 - unit conversions
 - analysis and presentation of field data
 
+## Statistical tests
 
+### Median
+Rank the data and work out the middle value. If it's between two points, then take the mean value between them.
++ easy to calculate
++ not affected by extreme, anomolous values
+- most of the values are ignored
+- less "sensitive" than the mean - significant changes   
 
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
-AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
-NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
-c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
-OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNz
-YsLTgxMTE5MTU3NSwtMTI1MjQ3NjE1MywtMTkzMjQ1OTcyNSwx
-MDM4NDA5MV19
+eyJoaXN0b3J5IjpbMTAyNzM5MDE5Niw1Mzg3NTQ4MjcsNTM5OT
+gwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkz
+LC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLT
+ExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4
+ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMD
+QsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUyNDc2MTUzLC0x
+OTMyNDU5NzI1XX0=
 -->
