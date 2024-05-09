@@ -75,7 +75,9 @@ Broadly, the positives of migration can be split into three distinct characteris
 # [TBD] 2.1 – Changing Spaces; Making Places
 
 ## What’s in a place?
-> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+> 
+**Key idea:**
+1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
 **Content:**
 
@@ -129,7 +131,7 @@ May 2022 Council Election Results. Turnout **35.3%**
 
 
 #### Built Environment
-Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise.
+Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise. The 
 
 The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
 
@@ -154,10 +156,12 @@ Mancroft is categorised as a built-up area alongside most of Norwich by the ONS.
 
 Furthermore, the average income is £32,000, showing that there are many professional jobs being occupied. This means that there is a reasonable amount of disposable income for residents to spend on facilities and more recreational activities, such as supporting local cafes which tend to be at a higher price. 
 
-The majority of homes have 3-4 rooms (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
+The majority of homes have 3-4 rooms, (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
 
 These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
 
+
+**Summary:**
 Overall, Mancroft is a built-up area with a high population density, suggesting that it contains a large amount of flats and buildings in close proximity. The population is diverse, with 11.07% of the ward being retired, 866 students, 5,353 economically active people aged between 16 and 74, and 2,466 people economically inactive. The majority of homes have 3 or 4 rooms, with an average of 2.51 people per household, suggesting that the area is mainly occupied by single people or very small families. This data implies that Mancroft is a roughly working to lower middle-class area (also inferred by its political affiliation) with many workers living in smaller houses, and families would then go on to move away from this area in the city centre with increased affluency and more likely to be middle-class.
 
 ### Case study: Place Profile - Sheringham North Ward, North Norfolk
@@ -177,7 +181,7 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
 #### Built Environment
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. FlinIt is also an iconic material for attracting tourism, in addition totourism, as well as typically costing more to use than bricks. The built environment ressembles more of a and also looking good on postcard town.s!
 
 
 #### History
@@ -209,7 +213,7 @@ Sheringham has a much older demographic with an average age of 51 years compared
 [Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
 
 
-### Shifting flows of money, investment and ideas
+### Shifting flows of money, investment and ideas on place identity
 
 Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
 
@@ -217,7 +221,7 @@ During the Industrial Revolution, there was a large amount of rural to urban mig
 
 It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
 
-> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
+> NorwichIt was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
 
 Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. And definitely *not* Anglia Square. 
 
@@ -228,12 +232,14 @@ Norwich is a commuter town too, with people coming into work from surrounding vi
 ### Shifting flows of people
 At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
 
-The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
+The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, thanks to globalisation leading to the replacement of local resources. Ocean- going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
 
 
 
 ## How do we understand place?
-> a) People see, experience and understand place in different ways, this can also change over time. 
+> 
+**Key Ideas**
+a) People see, experience and understand place in different ways, this can also change over time. 
 > b) Places are represented through a variety of contrasting formal and informal agencies.
 
 **Content A:**
@@ -257,39 +263,15 @@ The local availability of a resource or natural advantage can encourage the grow
 ### Globalisation and our sense of place
 
 
-## Economic change and patterns of social inequality
-Specification content:
-3. **How does economic change influence patterns of social inequality in places?**
+## Economic change and patterns of social inequalityicchthe serv
 
-
-
-
-> 3.a. **The distribution of resources, wealth and opportunities are not evenly spread within and between places.**
-3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
+> 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
+3.b. Processes of economic change can create opportunities for some while creating and exacerbating social nequality for others.
 3.c. Social inequality impacts people and places in different ways.
-- The concept of social inequality and how this can be measured through indices such as housing, healthcare, education, employment and access to services. 
-- How and why spatial patterns of social inequalities vary both within and between places.
+ocial inequalit
+### Introduction to S
 
-3.b. **Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.**
-- The influence of global connections and globalisation in driving structural economic change in places, such as de-industrialisation and the rise of the service industry. 
-- How structural economic change impacts patterns of social opportunities and inequality for people and places. 
-- How cyclical economic change (booms and recessions) has varied impacts on social opportunities and inequality. 
-- The role of government in reducing, reinforcing and creating patterns of social inequality in places through spending or cuts in key services such as availability and accessibility of education, healthcare, infrastructure and community services.
-
-3.c. **Social inequality impacts people and places in different ways.**
-- Case studies of two contrasting places to illustrate: 
-	- the types of evidence of social inequality that can be found there such as housing, environmental quality, crime rates, digital divide 
-	- the range of factors that influence people’'s social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
-	- how social inequality impacts upon people’'s daily lives in different ways.
----
-
-
-### [TBD] Measuring Social Inequality
-Book reference: pages 158-162
-
-
-
-The Gini coefficient is used to measure the  inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
+The Gini coefficient is used to measure the  inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020)  the UK stats on the ONS website.
 
 
 ## Players that impact on economic change
@@ -304,7 +286,10 @@ Examples of players that influence an area include:
 - the EU (through grants for infrastructure and sustainable development projects)
 - local governments (investments in housing, building and improving of services)
 - TNCs (especially those with investments in an area, or looking to break in to a new market)
-- local communities (residents' associations to improve social, economic, environmental and political matters in their area)
+- local communiti
+Specification content:
+4. **Who are the players that influence economic change in places?**
+4.a. **Places (aresidents' associations to improve social, economic, environmental and political matters in their area)
 - NGOs (charities with an interest in e.g. wildlife/nature conservation)
 
 
@@ -328,14 +313,31 @@ The 1900s saw yet more opportunities. The Austin car plant brought car and vehic
 
 
 #### War and post-war decline
-Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
+Artillery, aircraft and weaponry were understandably prioritised during It is a measure from 0 to 1, where 0 is complete even distribution of wealth, and 1 is all wealth concentrated in 1 person. The UK’s Gini coefficient was 0.345 in 2022 - slightly higher than similar countries in Europe. 
+
+
+
+
+
+
+## Players that impact on economic change
+
+Specification content:
+4. **> Who are the players that influence economic change in places?**
+4.a. **Places are influenced by a range of players operating at different scales.**
+
+
+- The role of players in driving economic change, including at least one of local and national government, MNCs or international institutions. 
+- Case study of one country or region that has been impacted by structural economic change, including:
+	- socio-economic, demographic, cultural and environmental characteristics of the place before the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
 The war also left its mark on the infrastructure. The Birmingham Blitz desroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced with 400 modern tower blocks and 81,000 new homes. Increased QoL with more space and more modern.
 
 By 1970s:
 - British vehicle industry had been in decline for 20 years. Preference of Japanese models, cheaper costs w/global shift and globalisaion and demand for these cars favoured them vs British makes
 - SMEs that used to act as ancillary industries or make own resources demolished in **slum clearance schemes**. Many unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
-- Demographic changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British peope had doubled to around 10%
+- Demographic omic change 
+	- the economic change/changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British peope had doubled to around 10%
 - **Unemployment rates hit 19.4%.**
 
 The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyle left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
@@ -347,12 +349,15 @@ A large number of migrants from the Indian subcontinent was recorded in the 1991
 
 EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
 
-The national government's [tbd]
+The national government's [tbd
 
 Over 50,000 students are present in the 5 city universities. They work, spend time and money in the area, kickstarting a postive multiplier effect.
 
 
-Finaly, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
+Finaly, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.at took place and the role of players involved in driving the change 
+	- socio-economic, demographic, cultural and environmental impacts on people and place.
+---
+
 
 ## Placemaking processes
 
@@ -423,6 +428,6 @@ There are 5 main ways to rebrand an area:
 end of paper 2
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0MjkzOTIsMTI1MjI5ODA0LC02NT
+eyJoaXN0b3J5IjpbLTIwOTg0NTY1ODMsMTI1MjI5ODA0LC02NT
 k4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
