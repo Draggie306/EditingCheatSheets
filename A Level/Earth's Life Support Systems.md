@@ -237,25 +237,12 @@ An individual tree may have little influence on the cycle of water and carbon. T
 ### Impact of human activity
 70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
 
-The effects of deforestation are wide-ranging. 
+The effects of deforestation are wide-ranging. Converting trees into pasture increases runoff by 27x. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
+
+On the carbon cycle, human activity shrinks the 
 
 
 ### Management strategies
-
-## Inputs, outputs and processes of carbon
-
-### Precipitation
-I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may preciptate when the organisms die and lithfy on the ocean floor.
-
-
-### Photosynthesis 
-Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospheric store too.
-
-### Decomposition
-Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
-
-### Weathering
-Weatehring includes physical and chemical components. Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action. Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This is largely how phytoplankton and other cretacious aquatic organisms obtain their carbon
 
 
 ## Case study: the Arctic Tundra
@@ -428,11 +415,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MDU4OTIxLDEwOTM5NDA3NCw1Mzg3NT
-Q4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwt
-Nzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NT
-MzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0
-NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLT
-IxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUy
-NDc2MTUzXX0=
+eyJoaXN0b3J5IjpbLTEyNDg2NDIwOTgsMTA5Mzk0MDc0LDUzOD
+c1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIw
+LC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
+Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
+MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NS
+wtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEy
+NTI0NzYxNTNdfQ==
 -->
