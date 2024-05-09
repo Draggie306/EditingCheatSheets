@@ -1,6 +1,6 @@
 # 1.2 - Earth's Life Support Systems
-Wordcount: 3777500
-Last modification: 069/054/2024
+Wordcount: 5681
+Last modification: 06/05/2024
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -364,11 +364,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjc4NjU1OSwxODE5NzcyMzIwLC03Nz
-cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
-NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
-IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
-MTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0Nz
-YxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0x
-NzUxNjQzNDddfQ==
+eyJoaXN0b3J5IjpbMzk0NzM4NTc3LDE4MTk3NzIzMjAsLTc3Nz
+E0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0
+MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMj
+ExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMx
+MjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1MjQ3Nj
+E1MywtMTkzMjQ1OTcyNSwxMDM4NDA5MSw2MzM4NTM0MzQsLTE3
+NTE2NDM0N119
 -->
