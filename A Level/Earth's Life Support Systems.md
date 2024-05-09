@@ -241,15 +241,6 @@ Decomposers such as fungi and microbes break down dead organic matter, and in th
 Weatehring includes physical and chemical components. Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action. Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This is largely how phytoplankton and other cretacious aquatic organisms obtain their carbon
 
 
-
-
-
-
-
-
-## Case study: the Amazon Rainforest
-> 2a. It is possible to identify the physical and human factors that affect the water and carbon cycles in a tropical rainforest.
-
 ## Case study: the Arctic Tundra
 > 2b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area.
 
@@ -364,11 +355,11 @@ The OCR specification also lists some specific skills ou must also have to ensur
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03Nz
-cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
-NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
-IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
-MTIxOTMwNCwxOTE2OTUyMTc2LC04MTExOTE1NzUsLTEyNTI0Nz
-YxNTMsLTE5MzI0NTk3MjUsMTAzODQwOTEsNjMzODUzNDM0LC0x
-NzUxNjQzNDddfQ==
+eyJoaXN0b3J5IjpbNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOT
+c3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEw
+NDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLD
+QyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3
+MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNT
+c1LC0xMjUyNDc2MTUzLC0xOTMyNDU5NzI1LDEwMzg0MDkxLDYz
+Mzg1MzQzNF19
 -->
