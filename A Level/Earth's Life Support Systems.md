@@ -202,19 +202,25 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 
 [You may have done this at GCSE](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#tropical-rainforests) -  might be good looking back for a more general understanding!
 
-Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by having high average temperatures (around **27degC**), little variation in temperatures seasonally, and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. Net primary productivity (t
+Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by:
+- having high average temperatures (around **27degC**)
+- little variation in temperatures seasonally
+- and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. 
+- **Net primary productivity** (the net gain of carbon stored in an ecosystem) is about **2,500g/m^3^/yr**.
 
-70% of the Amazon is located in Brazil. 
+> 70% of the Amazon is located in Brazil. 
 
 ### Water in the rainforest
 
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. Temperatures also allow for evaporation to be much faster. All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off, with a rapid transfer between stores. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
+Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. Temperatures also allow for evaporation to be much faster. 
+All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off, with a rapid transfer between stores. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
 In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely **convectional**, with some **advection** from the Atlantic pushing air westwards towards the Andes, where **orographic lift** may occur, or pushes the air to the south-east. [Changes in rainforest management result in droughts occuring in Brazil's population centres](https://en.wikipedia.org/wiki/2014%E2%80%932017_Brazilian_drought) - the "worst drought in 100 years" from 2014-17.
 
-When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
+When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. 
+As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
 
 
 
@@ -229,7 +235,9 @@ An individual tree may have little influence on the cycle of water and carbon. T
 
 
 ### Impact of human activity
+70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
 
+The effects of deforestation are wide-ranging. 
 
 
 ### Management strategies
@@ -420,11 +428,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzU4MDM4MywxMDkzOTQwNzQsNTM4Nz
-U0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3NzIzMjAs
-LTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNj
-UzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3Njkz
-NDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC
-0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgxMTE5MTU3NSwtMTI1
-MjQ3NjE1M119
+eyJoaXN0b3J5IjpbMzg3MDU4OTIxLDEwOTM5NDA3NCw1Mzg3NT
+Q4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwt
+Nzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NT
+MzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0
+NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLT
+IxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODExMTkxNTc1LC0xMjUy
+NDc2MTUzXX0=
 -->
