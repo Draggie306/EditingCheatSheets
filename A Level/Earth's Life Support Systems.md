@@ -10,7 +10,7 @@ License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you 
 
 > Note! This is not quite finished, so please check back tomorrow for the completed version!
 
-> Note #2! A summary sheet is being created, with conde
+> Note #2! A summary sheet is being created, with condensed notes. Check back soon for updates!
 
 ---
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
@@ -422,7 +422,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA0NDM2MDAsLTExNTE1NTI2MjMsMT
+eyJoaXN0b3J5IjpbLTE3NzQxOTQ2OTUsLTExNTE1NTI2MjMsMT
 A5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgx
 OCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLT
 UxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3
