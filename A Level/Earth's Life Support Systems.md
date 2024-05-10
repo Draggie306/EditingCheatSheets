@@ -1,3 +1,7 @@
+
+[< Back to **geog.uk** Homepage](https://geog.uk)
+
+
 # 1.2 - Earth's Life Support Systems
 Wordcount: 5681
 Last modification: 06/05/2024
@@ -95,14 +99,16 @@ Some key points:
 Preciptiation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#Catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
 
 ### Ablation
-Ablation, whch you might remember from the Glaciated Landcapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra.
+Ablation, whch you might remember from the Glaciated Landcapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. 
+
+In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra.
 
 
 
 ### Condensation & cloud formation
 
 There are some fundamental principles of cloud formation you need to know:
-- **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gas)
+- **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gases)
 - As air rises, **it always cools**, at a rate of 0.6 degrees C per 100m or so.
 	- Due to gravity, there are fewer molecules of air above the original air pocket. Therefore the pressure is lower, and the air pocket expands. With this expansion there is greater room for the molecules to collide, reducing kinetic energy. A reduction in energy lowers temperatures. 
 - Air rises when it moves over a mountainous region, or wind from below moves over a mountain.
@@ -415,11 +421,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1OTMwMjc1LC0xMTUxNTUyNjIzLDEwOT
-M5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgs
-MTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MT
-YxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2
-OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LD
-EyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkxNjk1MjE3NiwtODEx
-MTkxNTc1XX0=
+eyJoaXN0b3J5IjpbLTgwMjk2MTk4NywtMTE1MTU1MjYyMywxMD
+kzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4
+LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNT
+E2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4
+Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NC
+wxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgx
+MTE5MTU3NV19
 -->
