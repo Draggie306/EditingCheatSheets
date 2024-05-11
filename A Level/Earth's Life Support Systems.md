@@ -104,7 +104,7 @@ Ablation, whch you might remember from the Glaciated Landcapes unit, is the resu
 
 In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra.
 
-
+[This video](https://cheatsheet-assets.ibaguette.com/alevel/geography/consequences_iceberg.mp4) is a great example of the risks to humans when there is too much ablation.
 
 ### Condensation & cloud formation
 
@@ -234,7 +234,6 @@ The relief also plays a role. The gentle relief of the basin today result in mos
 
 
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/consequences_iceberg.mp4)
 
 ### Physical factors of carbon.
 
@@ -432,7 +431,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDIzNTQ1NDUsLTg4NTc1MTc4MSwtMT
+eyJoaXN0b3J5IjpbLTE1NzU4MTIzNTgsLTg4NTc1MTc4MSwtMT
 E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
 NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
 M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
