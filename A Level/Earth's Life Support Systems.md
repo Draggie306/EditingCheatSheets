@@ -219,22 +219,16 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Physical factors of water
 
-Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, vegetation, organic matter in the soil and the mineral composition of rocks.
+Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, rock permeability and porosity, and relief.
 
-High temperatures allow the atmosphere to have high absolute and relative humidity. This allows large, cumulounimbus clouds to form with convectional rainfall from the heat, all year round.  
-
-
-### Water in the rainforest
-
-Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. Temperatures also allow for evaporation to be much faster. 
-All of this combined means that the rates of evapotranspiration are very high, with **half to three-quarters** of all precipitation being recycled - evaporated again before it having a chance to run off, with a rapid transfer between stores. This level of evapotranspiration is a result of high transpiration rates and high amounts of interception losses (water that is intercepted by trees and immediately evaporated).
+High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulounimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typially in the afternoons.
+In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, 1/2 to 3/4 all precipitation is recycled (evaporated without any runoff).
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
-In terms of the other stores aside from the biosphere, the atmosphere with high temperatures supports high absoltue and relative humidity, allowing for it to hold more water. The weather systems in the Amazon rainforest is largely **convectional**, with some **advection** from the Atlantic pushing air westwards towards the Andes, where **orographic lift** may occur, or pushes the air to the south-east. [Changes in rainforest management result in droughts occuring in Brazil's population centres](https://en.wikipedia.org/wiki/2014%E2%80%932017_Brazilian_drought) - the "worst drought in 100 years" from 2014-17.
+Rock permeability in the Amazon i
 
-When rainfall events do occur, the significant moisture availability and high temperatures result in a high dew point and thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and thus humidity (rainfall typicall occurring in the afternoon).  These clouds have huge amounts of moisture. Intense rainfall over a short period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. 
-As a result, large amounts of water is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
+
 
 
 
@@ -429,7 +423,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2MTcxOTgyMywtODg1NzUxNzgxLC0xMT
+eyJoaXN0b3J5IjpbMTYwODMzMjUyNiwtODg1NzUxNzgxLC0xMT
 UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
 LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
 Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
