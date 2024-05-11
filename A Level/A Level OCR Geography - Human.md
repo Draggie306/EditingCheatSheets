@@ -338,7 +338,10 @@ Placemaking is the process of transforming public spaces into places that work f
 Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
 
 #### Hulme Crescents
-Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and cfailures 
+Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished fully.
+
+They were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
+
 
 ### Case study: Dubai's transformation
 
@@ -356,7 +359,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkxMDczMjQ5LC0xNjIyMTkwMTkyLC0zOD
-c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
-OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
