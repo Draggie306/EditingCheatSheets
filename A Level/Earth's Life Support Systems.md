@@ -212,7 +212,7 @@ Sedimentary rocks include limestone, shale and sandstone. As sediment, from orga
 Topical rainforests are almost exclusively located between the two tropics, at 23.5degN and S from the equator. They are categorised by:
 - having high average temperatures (around **27degC**)
 - little variation in temperatures seasonally
-- and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. 
+- **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. 
 - **Net primary productivity** (the net gain of carbon stored in an ecosystem) is about **2,500g/m^3^/yr**.
 
 Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
@@ -235,7 +235,9 @@ Relief also plays a role. The gentle relief of the basin today results in most f
 
 ### Physical factors affecting carbon.
 
-Carbon sores and flows are influenced by termperatre, vegetation, organic matter in the soil and the mineral composition in rocks.
+Carbon sores and flows are influenced by temperature, vegetation, organic matter in the soil, and rocks' mineral composition. 
+
+Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. Annually 
 
 
 
@@ -429,11 +431,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MjAyODI5MCwtODg1NzUxNzgxLC0xMT
-UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
-LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
-Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
-NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
-0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
-Njk1MjE3Nl19
+eyJoaXN0b3J5IjpbNDUxNDAwNDI0LC04ODU3NTE3ODEsLTExNT
+E1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcs
+LTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzND
+gwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3
+NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLT
+IwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2
+OTUyMTc2XX0=
 -->
