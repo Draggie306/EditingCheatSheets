@@ -222,11 +222,11 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, rock permeability and porosity, and relief.
 
 High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulounimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typially in the afternoons.
-In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, 1/2 to 3/4 all precipitation is recycled (evaporated without any runoff).
+In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, **1//2 to 3/4 all precipitation is recycled** (evaporated without any runoff), demonstrating strong interdependence between the land, biosphere and atmosphere with evapotranspiration and precipitation.
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
-Rock permeability in the Amazon i
+Rock permeability in the Amazon is also a physical factor. The Amazon Basin is surrounded to the north and south by the Guiana and Brazil Shields, sections of ancient crystalline rock with high amounts of jointing, with the central Amazon River lying inbetween, in an area of weakness. This means that runoff rates are much higher for large portions of the Amazon, due to there being little potential to store and slow water movement during intense precipitation events. 
 
 
 
@@ -243,6 +243,8 @@ An individual tree may have little influence on the cycle of water and carbon. T
 
 
 ### Impact of human activity
+As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects.
+
 70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
 
 The effects of deforestation are wide-ranging. Converting trees into pasture increases runoff by 27x. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
@@ -423,7 +425,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwODMzMjUyNiwtODg1NzUxNzgxLC0xMT
+eyJoaXN0b3J5IjpbLTE4MzE5OTA1OCwtODg1NzUxNzgxLC0xMT
 UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
 LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
 Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
