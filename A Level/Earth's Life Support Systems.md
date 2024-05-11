@@ -192,12 +192,12 @@ Not part of the Paper 1, but a synoptic link can be made to volcanoes and how th
 ### Oceanic sequestration
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/e/e9/Oceanic_Food_Web.jpg)
 
-Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later.
+Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes denser, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later in warmer climates.
 
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
 ### Vegetation
-Vegetation, or the biosphere, takes in huge amounts of carbon and sequesters it for long periods of time. Rainforests, boreal forests and mangroves photosynthesise large quantities of carbon from the tmosphere. In general, for the first 100 years of a tree's life, it is a carbon sink, and even after this period ends, the carbon sequestered is visible in its huge trunk and biomass store, potentially several tonnes of it. Some vegetation can store carbon for centuries.
+Vegetation, or the biosphere, takes in huge amounts of carbon and sequesters it for long periods of time. Rainforests, boreal forests and mangroves photosynthesise large quantities of carbon from the atmosphere. In general, for the first 100 years of a tree's life, it is a carbon sink, and even after this period ends, the carbon sequestered is visible in its huge trunk and biomass store, potentially several tonnes of it. Some vegetation can store carbon for centuries.
 
 
 ### Sediments
@@ -219,25 +219,23 @@ Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 2
 
 > 70% of the Amazon is located in Brazil. 
 
-### Physical factors of water
+### Physical factors affecting water
 
 Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, rock permeability and porosity, and relief.
 
-High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulounimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typially in the afternoons.
-In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, **1//2 to 3/4 all precipitation is recycled** (evaporated without any runoff), demonstrating strong interdependence between the land, biosphere and atmosphere with evapotranspiration and precipitation.
+High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulonimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typially in the afternoons.
+In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, **1/2 to 3/4 all precipitation is recycled** (evaporated without any runoff), demonstrating strong interdependence between the land, biosphere and atmosphere with evapotranspiration and precipitation.
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
-Rock permeability in the Amazon is also a physical factor. The Amazon Basin is surrounded to the north and south by the Guiana and Brazil Shields, sections of ancient crystalline rock with high amounts of jointing, with the central Amazon River lying inbetween, in an area of weakness. This means that runoff rates are much higher for large portions of the Amazon, due to there being little potential to store and slow water movement during intense precipitation events, with short lag times. In the west, outcrops of limestone and other porous rocks can help to store water and reduce overland flows.
+Rock permeability in the Amazon is also a physical factor. The Amazon Basin is surrounded to the north and south by the Guiana and Brazil Shields, sections of ancient crystalline rock with high amounts of jointing, with the central Amazon River lying in between, in an area of weakness. This means that runoff rates are much higher for large portions of the Amazon, due to there being little potential to store and slow water movement during intense precipitation events, with short lag times. In the west, outcrops of limestone and other porous rocks can help to store water and reduce overland flows. In the long-term, huge water stores have built up in the underground aquifers and the soil, with a shallow water table of under 5m.
 
-The relief also plays a role. The gentle relief of the basin today result in most flows being horizontal, either overland or throughflow in the soil. However, the Andes to the west increase the relief significantly. Higher relief adds energy to water and thus there is less chance for infiltration to occur. Surface runoff is much higher and, combined with orographic lift likely occuring here, there is the potential for low-lying flood plains downstream to fill for several months. Therefore, relief can both increase and decrease levels of overland flows, whilst altering the stores of water in the soil or over the land. 
-
-
+Relief also plays a role. The gentle relief of the basin today results in most flows being horizontal, either overland or throughflow in the soil. However, the Andes to the west increases the relief significantly. Higher relief adds energy to water and thus there is less chance for infiltration to occur. Surface runoff is much higher and, combined with orographic lift likely occurring here, there is the potential for low-lying flood plains downstream to fill for several months. Therefore, relief can both increase and decrease levels of overland flows, whilst altering the stores of water in the soil or over the land. 
 
 
-### Physical factors of carbon.
+### Physical factors affecting carbon.
 
-
+Carbon sores and flows are influenced by termperatre, vegetation, organic matter in the soil and the mineral composition in rocks.
 
 
 
@@ -431,11 +429,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI3NTE3Nzk1LC04ODU3NTE3ODEsLTExNT
-E1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcs
-LTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzND
-gwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3
-NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLT
-IwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2
-OTUyMTc2XX0=
+eyJoaXN0b3J5IjpbMTc0MjAyODI5MCwtODg1NzUxNzgxLC0xMT
+UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
+LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
+Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
+NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
+0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
+Njk1MjE3Nl19
 -->
