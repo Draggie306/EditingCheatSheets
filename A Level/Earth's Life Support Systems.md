@@ -217,6 +217,11 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 > 70% of the Amazon is located in Brazil. 
 
+### Physical factors of water
+
+
+
+
 ### Water in the rainforest
 
 Comparatively, water has several distinct stores and flows in the rainforest. As temperatures are high, combined with the availability of sunlight being near to the equator, large amounts of plant growth can occur, which increases demand for water. Temperatures also allow for evaporation to be much faster. 
@@ -422,11 +427,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQxOTQ2OTUsLTExNTE1NTI2MjMsMT
-A5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgx
-OCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLT
-UxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3
-ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3NzkwNT
-QsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2OTUyMTc2LC04
-MTExOTE1NzVdfQ==
+eyJoaXN0b3J5IjpbLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMD
+kzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4
+LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNT
+E2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4
+Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NC
+wxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgx
+MTE5MTU3NV19
 -->
