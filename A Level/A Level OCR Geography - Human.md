@@ -319,9 +319,9 @@ The Government did not give any grants to the EU car companies such as VW to inc
 #### Modern-day Birmingham
 A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had increased to 49%.
 
-EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
+The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prospertity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
 
-The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustri
+EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
 
 Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
 
@@ -338,11 +338,23 @@ Placemaking is the process of transforming public spaces into places that work f
 Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
 
 
-end of paper 2
+### Case study: Dubai's transformation
+
+From fishing village to diverse economic powerhouse.
+
+After realising that oil would not be an unlimited resource, the Sheikh 
+
+
+
+
+
+
+
 
 ---
+end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE0MjYxMjYsLTE2MjIxOTAxOTIsLT
-M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
-MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMTkwNjIwODM5NCwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
