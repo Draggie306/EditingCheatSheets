@@ -110,7 +110,7 @@ In addition, permafrost melting can also contribute to the creation of extra pon
 
 There are some fundamental principles of cloud formation you need to know:
 - **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gases)
-- As air rises, **it always cools**, at a rate of 0.6 degrees C per 100m or so.
+- As air rises, **it always cools**, at a rate of 0.65 degrees C per 100m or so.
 	- Due to gravity, there are fewer molecules of air above the original air pocket. Therefore the pressure is lower, and the air pocket expands. With this expansion there is greater room for the molecules to collide, reducing kinetic energy. A reduction in energy lowers temperatures. 
 - Air rises when it moves over a mountainous region, or wind from below moves over a mountain.
 - The atmosphere has less pressure with altitude. Therefore, the same amount of air in a 'parcel' will occupy a greater area at higher altitudes.
@@ -122,7 +122,7 @@ Air moves in 'parcels' which have their own temperatures, humidity, etc.
 
 When air cools or expands adiabatically, this means that there is no heat exchange with the environment. The parcel of air purely changes based on the pressure being exerted on it by the atmosphere.
 
-- The **environmental lapse rate** (ELR) is the decrease in air temperature with altitude for a specific time and place. this is 6.5 degrees C per km
+- The **environmental lapse rate** (ELR) is the decrease in air temperature with altitude for a specific time and place. this is 6.5 degrees C per km on average
 - The **dry adiabatic lapse rate** (DALR) is the rate at which **unsaturated air** cools during ascent, or warms during descent. The DALR is 10 degrees C per km.
 - The **saturated adiabatic lapse rate** (SALR) is the rate at which air at its dew point (and therefore condensing) cools as it rises. Condensation releases latent heat, making this lower than the DALR at around 7 degrees C per km.
 
@@ -130,7 +130,7 @@ These are significant as the determine how "stable" the atmosphere is.
 
 When the sun warms an area of land, it creates heat, which warms up the air around it. As this air is unsaturated, it will decrease in temperature at the DALR. As it continues to inrcrease in altitude, the temperature reaches the dew point, and the air becomes saturated.[^1]
 
-
+![enter image description here](https://www.ux1.eiu.edu/~jpstimac/1400/FIG04_021.JPG)
 
 #### Cloud formation
 Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
@@ -192,7 +192,7 @@ Not part of the Paper 1, but a synoptic link can be made to volcanoes and how th
 ### Oceanic sequestration
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/e/e9/Oceanic_Food_Web.jpg)
 
-Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later 
+Oceans absorb large amounts of atmospheric CO2 through diffusion - there is a concentration gradient between the water and air. Currents move this carbon and the water too. In cool climates, water becomes more dense, and it sinks - bringing the dissolved carbon within it too. This is an example of **downwelling**. As this is a cycle, upwelling may occur many thousands of years later.
 
 In addition to this, phytoplankton and other marine life take in carbon from the atmosphere. This accounts for **half of all photosynthesis** worldwide, at over 50 GtC/yr! Phytoplankton are the basis for the marine food chain, with the locked carbon either falling into [sediment](#sediments) on the ocean floor, or being eaten by other organisms like shelly crustaceans that then decompose (releasing CO~2~ gas) or, again, falling and eventually lithifying into sedimentary rock, being part of the long-term carbon cycle.
 
@@ -431,11 +431,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDc1ODU3ODYsLTg4NTc1MTc4MSwtMT
-E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
-NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
-M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
-MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOC
-wtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5
-MTY5NTIxNzZdfQ==
+eyJoaXN0b3J5IjpbMzI3NTE3Nzk1LC04ODU3NTE3ODEsLTExNT
+E1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcs
+LTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzND
+gwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3
+NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLT
+IwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2
+OTUyMTc2XX0=
 -->
