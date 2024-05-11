@@ -215,6 +215,8 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 - and **very high annual precipitation (>2000mm)**. Although the precipitation can vary seasonally, with Manaus recording 6x more rainfall in winter/spring compared to summer, there is no dry season. 
 - **Net primary productivity** (the net gain of carbon stored in an ecosystem) is about **2,500g/m^3^/yr**.
 
+Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
+
 > 70% of the Amazon is located in Brazil. 
 
 ### Physical factors of water
@@ -234,8 +236,9 @@ The relief also plays a role. The gentle relief of the basin today result in mos
 
 
 
-### Carbon in the rainforest
-Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
+### Physical factors of carbon.
+
+
 
 
 
@@ -251,7 +254,9 @@ As already demonstrated, there is high interdependence between the land, biosphe
 
 The effects of deforestation are wide-ranging. Converting trees into pasture increases runoff by 27x. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
-On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest. Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall, 
+On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest. Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall.
+
+Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit simialr (but somewhat less severe) characteristics to deforested regions.
 
 
 ### Management strategies
@@ -427,7 +432,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjM0NzcwNywtODg1NzUxNzgxLC0xMT
+eyJoaXN0b3J5IjpbMTkyMjAyMjM5MSwtODg1NzUxNzgxLC0xMT
 UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
 LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
 Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
