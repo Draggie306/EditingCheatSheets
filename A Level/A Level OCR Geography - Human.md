@@ -327,14 +327,14 @@ Finally, the Birmingham Development Plan at the LA level is ensuring that a comb
 
 Placemaking is the process of transforming public spaces into places that work for people.
 
-Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, NGOs are just some of the 
+Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
 
 
 end of paper 2
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTgwMTgyMywtMzg3NDY4MzM2LDEwOT
-g0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2
-NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
+k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
+NjYsLTEzMDM5OTI1NTFdfQ==
 -->
