@@ -234,7 +234,7 @@ The relief also plays a role. The gentle relief of the basin today result in mos
 
 
 
-
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/consequences_iceberg.mp4)
 
 ### Physical factors of carbon.
 
@@ -432,11 +432,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMjAyMjM5MSwtODg1NzUxNzgxLC0xMT
-UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
-LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
-Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
-NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
-0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
-Njk1MjE3Nl19
+eyJoaXN0b3J5IjpbLTEyMDIzNTQ1NDUsLTg4NTc1MTc4MSwtMT
+E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
+NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
+M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
+MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOC
+wtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5
+MTY5NTIxNzZdfQ==
 -->
