@@ -270,17 +270,17 @@ The tundra is in a negative heat balance for 8-9 months of the year, releasing m
 
 ### Water cycle
 
-Temperatures are low, with a mean of -15C. Precipitation is also low, with annual totals between 50 and 350mm - most of which is snow. Combined with the low levels of moisture in the atmosphere (little evaporation) means that there is low absolute humidity and very low ground and soil moisture. When there is a positive heat balance, the insolation goes into melting the snow and, should there be extra goundwater, permafrost inhibits groundwater infiltration and percolation (and definitely not any groundwater flowing!). This may result in the formation of wetland ponds, lakes and other thermokarst features in the summer when the active layer melts, but the permafrost remains inpermeable below.  
+Temperatures are low, with a mean of -15C. Precipitation is also low, with annual totals between 50 and 350mm - most of which is snow. Combined with the low levels of moisture in the atmosphere (little evaporation) means that there is low absolute humidity and very low ground and soil moisture. When there is a positive heat balance, the insolation goes into melting the snow and, should there be extra goundwater, permafrost inhibits groundwater infiltration and percolation (and definitely not any groundwater flowing!). This may result in the formation of wetland ponds, lakes and other thermokarst features in the summer when the active layer melts, but the permafrost remains impermeable below.  
 
 
 ### Carbon cycle
 
-Permafrost is estimate to contain 1,600 GtC in the tundra. When ice melts in lakes methane and carbon dioxide are often released. 
+Permafrost is estimated to contain 1,600 GtC in the tundra. When ice melts in lakes methane and carbon dioxide are often released. 
 
 
-In the long-term, degradation of permafrost and 
+In the long-term, the degradation of permafrost and 
 
-## Human impacts on the water cycle
+## Human effects on the water cycle
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
 
@@ -300,7 +300,15 @@ As I've hinted at and I'm sure you've realised by now, the water and carbon cycl
 ## Management strategies for water
 > 4.b. The global implications of water and carbon management.
 
+### Forestry
 
+
+
+### Water allocations
+
+
+
+### Drainage basin planning
 
 Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/satellite-pictures
 
@@ -356,9 +364,6 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emmision of o
 #### 2015 Paris Climate Convention
 The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
 
-
-## Interdependence
-As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
 
 
@@ -431,11 +436,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxNDAwNDI0LC04ODU3NTE3ODEsLTExNT
-E1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcs
-LTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzND
-gwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3
-NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLT
-IwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEzMTIxOTMwNCwxOTE2
-OTUyMTc2XX0=
+eyJoaXN0b3J5IjpbLTE0ODM3OTA4NjAsLTg4NTc1MTc4MSwtMT
+E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
+NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
+M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
+MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOC
+wtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5
+MTY5NTIxNzZdfQ==
 -->
