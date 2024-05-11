@@ -274,7 +274,7 @@ Examples of players that influence an area include:
 - NGOs (charities with an interest in e.g. wildlife/nature conservation)
 
 
-The development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
+The development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change in an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
 
 
 ### Case study: Structural economic change, Birmingham
@@ -325,12 +325,16 @@ Finally, the Birmingham Development Plan at the LA level is ensuring that a comb
 5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
 5.c. Making a successful place requires planning and design.
 
+Placemaking is the process of transforming public spaces into places that work for people.
+
+Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, NGOs are just some of the 
+
 
 end of paper 2
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzcyNTg4NzQsLTM4NzQ2ODMzNiwxMD
-k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
-NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMTI3NTgwMTgyMywtMzg3NDY4MzM2LDEwOT
+g0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2
+NiwtMTMwMzk5MjU1MV19
 -->
