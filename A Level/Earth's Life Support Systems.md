@@ -219,7 +219,9 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 ### Physical factors of water
 
+Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, vegetation, organic matter in the soil and the mineral composition of rocks.
 
+High temperatures allow the atmosphere to have high absolute and relative humidity. This allows large, cumulounimbus clouds to form with convectional rainfall from the heat, all year round.  
 
 
 ### Water in the rainforest
@@ -427,11 +429,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMD
-kzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4
-LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNT
-E2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4
-Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NC
-wxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5MTY5NTIxNzYsLTgx
-MTE5MTU3NV19
+eyJoaXN0b3J5IjpbMTE2MTcxOTgyMywtODg1NzUxNzgxLC0xMT
+UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
+LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
+Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
+NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
+0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
+Njk1MjE3Nl19
 -->
