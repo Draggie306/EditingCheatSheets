@@ -228,7 +228,7 @@ In addition, these high temperatures and the geographical location (between the 
 
 Rock permeability in the Amazon is also a physical factor. The Amazon Basin is surrounded to the north and south by the Guiana and Brazil Shields, sections of ancient crystalline rock with high amounts of jointing, with the central Amazon River lying inbetween, in an area of weakness. This means that runoff rates are much higher for large portions of the Amazon, due to there being little potential to store and slow water movement during intense precipitation events, with short lag times. In the west, outcrops of limestone and other porous rocks can help to store water and reduce overland flows.
 
-The relief also plays a role. The gentle relief of the basin today result i
+The relief also plays a role. The gentle relief of the basin today result in most flows being horizontal, either overland or throughflow in the soil. However, the Andes to the west increase the relief significantly. Higher relief adds energy to water and thus there is less chance for infiltration to occur. Surface runoff is much higher and, combined with orographic lift likely occuring here, there is the potential for low-lying flood plains downstream to fill for several months. Therefore, relief can both increase and decrease levels of overland flows, whilst altering the stores of water in the soil or over the land. 
 
 
 
@@ -427,7 +427,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mjg0Nzc5OSwtODg1NzUxNzgxLC0xMT
+eyJoaXN0b3J5IjpbLTgyMjM0NzcwNywtODg1NzUxNzgxLC0xMT
 UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
 LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
 Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
