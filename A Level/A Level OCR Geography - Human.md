@@ -1,29 +1,30 @@
 
+  
 
-[< Back to A level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+[< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+
+
 # A Level HUMAN Geography (Paper 2)
 **⚠ This is a work in progress, unfinished document (more so than the other physical side). The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 11/05/2024 21:57. 
-Last content addition: 11/05/2023 21:57.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 11/05/2024 21:56. 
+Last content addition: 11/05/2024 21:56.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
-For the entire specification, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/all).
-For only the **physical geography (paper 1)**, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/physical).
-
 # [TBD] 2.2.2 Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
+
 ## Contemporary patterns of migration
 
-A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year is .....
+A migrant, according to the UN definition, is someone living outside their country of origin for at least a year.
 
-**Interdependence -** is the interrelationships between ACs, EDCs ansd LIDCs through trade, foreign aid and migration
+**Interdependence -** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
 
 **Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
 
@@ -31,7 +32,7 @@ A migrant, according to the UN definition, is someone living outside their count
 
 Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
 
-Migration is significant, and worldwide! In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
+Migration is significant, and worldwide! In 2020, 291 million people were living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
 
 > Global migration involves dynamic flows of people between countries, regions and continents.
 
@@ -232,16 +233,6 @@ The local availability of a resource or natural advantage can encourage the grow
 > a) People see, experience and understand place in different ways, this can also change over time. 
 > b) Places are represented through a variety of contrasting formal and informal agencies.
 
-**Content A:**
-- The complexities that exist when trying to define place, including the concept of space versus place. 
-- How and why people perceive places in different ways based on their identity, including age, gender, sexuality, religion and role. 
-- How level of emotional attachment to place can influence people’'s behaviour and activities in a place.
-- How the processes of globalisation and time-space compression can influence our sense of place.
-
-**Content B:**
-- How informal representations of a place differ through contrasting media such as TV, film, music, art, photography, literature, graffiti and blogs. 
-- Identify how formal and statistical representations of a place, such as census and geospatial data, contrasts with informal representations.
-
 ---
 
 
@@ -254,30 +245,9 @@ The local availability of a resource or natural advantage can encourage the grow
 
 
 ## Economic change and patterns of social inequality
-Specification content:
-3. **How does economic change influence patterns of social inequality in places?**
-
-
-
-
-> 3.a. **The distribution of resources, wealth and opportunities are not evenly spread within and between places.**
-3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
-3.c. Social inequality impacts people and places in different ways.
-- The concept of social inequality and how this can be measured through indices such as housing, healthcare, education, employment and access to services. 
-- How and why spatial patterns of social inequalities vary both within and between places.
-
-3.b. **Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.**
-- The influence of global connections and globalisation in driving structural economic change in places, such as de-industrialisation and the rise of the service industry. 
-- How structural economic change impacts patterns of social opportunities and inequality for people and places. 
-- How cyclical economic change (booms and recessions) has varied impacts on social opportunities and inequality. 
-- The role of government in reducing, reinforcing and creating patterns of social inequality in places through spending or cuts in key services such as availability and accessibility of education, healthcare, infrastructure and community services.
-
-3.c. **Social inequality impacts people and places in different ways.**
-- Case studies of two contrasting places to illustrate: 
-	- the types of evidence of social inequality that can be found there such as housing, environmental quality, crime rates, digital divide 
-	- the range of factors that influence people’'s social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
-	- how social inequality impacts upon people’'s daily lives in different ways.
----
+> 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
+> 3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
+> 3.c. Social inequality impacts people and places in different ways.
 
 
 ### [TBD] Measuring Social Inequality
@@ -285,26 +255,26 @@ Book reference: pages 158-162
 
 
 
-The Gini coefficient is used to measure the  inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
+The Gini coefficient is used to measure the inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
 
 
 ## Players that impact on economic change
 > 4.a. Places are influenced by a range of players operating at different scales.
 
-Players, or stakeholders, are individuals, groups of people or organisations who can influence, or are influenced by, change occurring in an area. They have a common interest in a place.
+Players, or stakeholders, are individuals, groups of people or organisations who can influence, or are influenced by, changes occurring in an area. They have a common interest in a place.
 
 Governments or local authorities who may be interested in economic development, redevelopment or rebranding of an area typically have more (economic) power and influence over, for example, somebody whose house is in the path of a flagship development.
 
 Examples of players that influence an area include:
 - national government (planning, transport links like HS2, stimulating growth and development)
 - the EU (through grants for infrastructure and sustainable development projects)
-- local governments (investments in housing, building and improving of services)
-- TNCs (especially those with investments in an area, or looking to break in to a new market)
+- local governments (investments in housing, building and improving services)
+- TNCs (especially those with investments in an area, or looking to break into a new market)
 - local communities (residents' associations to improve social, economic, environmental and political matters in their area)
 - NGOs (charities with an interest in e.g. wildlife/nature conservation)
 
 
-A development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
+The development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change of an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
 
 
 ### Case study: Structural economic change, Birmingham
@@ -312,73 +282,55 @@ The first sign of economic change in Birmingham, now England's second city with 
 
 
 #### The rise of Birmingham
-Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During ths time, the demographic was principally white with the Church present throughout; this intensve labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During this time, the demographic was principally white with the Church present throughout; this intensive labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
 
-The industrial revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A **middle class and tertiary sector** emerged duing this period, creating **Lloyds and Midlands Bank** - the former founded in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town. The canal system allowed more trade, with even more goods being imported and exported.
+The Industrial Revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A **middle class and tertiary sector** emerged during this period, creating **Lloyds and Midlands Bank** - the former founded in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town. The canal system allowed more trade, with even more goods being imported and exported.
 
-The first factory in the world, the "**Soho Manufactory**", was created by Matthew **Boulton** in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. **Electroplating** and the **pneumatic tyre** were just some of the new inventions that Bimingham produced. 
+The first factory in the world, the "**Soho Manufactory**", was created by Matthew **Boulton** in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. **Electroplating** and the **pneumatic tyre** were just some of the new inventions that Birmingham produced. 
 
-As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the **Bourneville factory and village**, introducing the new food processing industry and bucked the trend of terraced housing with the insistece of George Cadbury to have large homes with gardens and sizeable rooms to ensure the best working conditions for each employee and their families - encouraging social reforms whilst positively influencing industry and the local economy. Birmingham truly became "**a city of a thousand trades**". At this time the (long overdue) railway connection to London was made an was the hub of the Midlands, connecting the north to the south, and east to the west. *(And this is true even today!)*
+As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the **Bourneville factory and village**, introducing the new food processing industry and bucked the trend of terraced housing with the insistence of George Cadbury to have large homes with gardens and sizeable rooms to ensure the best working conditions for each employee and their families - encouraging social reforms whilst positively influencing industry and the local economy. Birmingham truly became "**a city of a thousand trades**". At this time the (long overdue) railway connection to London was made and was the hub of the Midlands, connecting the north to the south, and east to the west. *(And this is true even today!)*
 
-The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" acconting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements whislt the midde class drove the expansion of the metropolitan area. The "largest social housing estates in the country" were also located in the city suburbs.
+The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" accounting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements while the middle class drove the expansion of the metropolitan area. The "largest social housing estates in the country" were also located in the city suburbs.
 
 
 #### War and post-war decline
 Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
-The war also left its mark on the infrastructure. The Birmingham Blitz desroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced with 400 modern tower blocks and 81,000 new homes. Increased QoL with more space and more modern.
+The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more space and more modern.
 
 By 1970s:
-- British vehicle industry had been in decline for 20 years. Preference of Japanese models, cheaper costs w/global shift and globalisaion and demand for these cars favoured them vs British makes
-- SMEs that used to act as ancillary industries or make own resources demolished in **slum clearance schemes**. Many unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
-- Demographic changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British peope had doubled to around 10%
+- The British vehicle industry had been in decline for 20 years. Preference for Japanese models, cheaper costs w/global shift and globalisation and demand for these cars favoured them vs British makes
+- SMEs that used to act as ancillary industries or make their own resources demolished in **slum clearance schemes**. Many were unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
+- Demographic changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British people had doubled to around 10%
 - **Unemployment rates hit 19.4%.**
 
-The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyle left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
+The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyles left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
 
 The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (negative feedback?) 
 
 #### Modern-day Birmingham
-A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had incresed to 49%.
+A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had increased to 49%.
 
 EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
 
-The national government's [tbd]
+The national government's 
 
-Over 50,000 students are present in the 5 city universities. They work, spend time and money in the area, kickstarting a postive multiplier effect.
+Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
 
 
-Finaly, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
+Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
 
 ## Placemaking processes
+> 5.a. Place is produced in a variety of ways at different scales.
+5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
+5.c. Making a successful place requires planning and design.
 
-Specification content:
-5. **How are places created through placemaking processes?**
-5.a. **Place is produced in a variety of ways at different scales.**
-- The concept of placemaking and how governments and organisations attempt to present places to the wider world to attract inward investment and regeneration. 
-- How architects and planners attempt to create meaningful and authentic places through design, such as places that encourage mixed community use or the 24 hour city. 
-- How local community groups shape the place they live, such as residents associations, heritage associations and social media
-
-5.b. **The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.**
-- Why places rebrand through reimaging and regeneration to construct a different place meaning.
-- How a range of strategies can be used to rebrand places, such as sport, art, heritage, retail, architecture and food. These can be used singularly or in conjunction to change a place meaning. 
-- A range of players and their role in placemaking, including government/EU funding, corporate bodies, not for profit organisations and community groups. 
-- How and why some groups of people contest efforts to rebrand a place.
-
-
-5.c. **Making a successful place requires planning and design.**
-
-- Case study of one place that has undergone rebranding, including: 
-	- why the place needed to rebrand
-	- strategy/strategies involved in the rebranding of the place
-	- the role and influence of a range of players involved in the placemaking 
-	- how the rebranding has altered people’'s perception of that place 
-	- the relative success of the rebranding.
----
 
 end of paper 2
+
+---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MDU0MDcsLTM4NzQ2ODMzNiwxMDk4ND
-k0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3NjYs
-LTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbLTEzNzcyNTg4NzQsLTM4NzQ2ODMzNiwxMD
+k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
+NjYsLTEzMDM5OTI1NTFdfQ==
 -->
