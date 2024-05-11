@@ -257,6 +257,14 @@ Book reference: pages 158-162
 
 The Gini coefficient is used to measure the inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
 
+### Case study: MIDDLESBROUGH
+
+
+https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
+
+### Case study: HART, HAMPSHIRE
+
+
 
 ## Players that impact on economic change
 > 4.a. Places are influenced by a range of players operating at different scales.
@@ -313,7 +321,7 @@ A large number of migrants from the Indian subcontinent was recorded in the 1991
 
 EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
 
-The national government's 
+The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustri
 
 Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
 
@@ -334,7 +342,7 @@ end of paper 2
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
-k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
-NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzE0MjYxMjYsLTE2MjIxOTAxOTIsLT
+M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
+MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
