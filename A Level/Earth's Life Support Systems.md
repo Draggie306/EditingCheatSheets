@@ -318,12 +318,12 @@ The little energy due to poor insolation for most of the uear means that there i
 
 Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon rier reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
 
-Rocks remain largely impermeable, due to both the permafrost and solid water and the igneous geology with various interlocking crystals, reducing porosity. The relief is largely flat too, encouraging the waterlogging of the surface
+Rocks remain largely impermeable, due to both the permafrost and solid water and the igneous geology with various interlocking crystals, reducing porosity. The relief is largely flat too, encouraging the waterlogging and pooling of water on the surface. 
 
 
 ### Carbon cycle
 
-Permafrost is estimated to contain 1,600 GtC in the tundra. When ice melts in lakes methane and carbon dioxide are often released. 
+Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little deompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  
 
 
 In the long-term, the degradation of permafrost and 
@@ -484,7 +484,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4Mjk0NTQ0NywxNzIwNjYzMDcwLDMyMz
+eyJoaXN0b3J5IjpbLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMz
 g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
 MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
 gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
