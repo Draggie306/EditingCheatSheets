@@ -323,10 +323,19 @@ Rocks remain largely impermeable, due to both the permafrost and solid water and
 
 ### Carbon cycle
 
-Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little deompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  
+Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little deompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
+
+
+
 
 
 In the long-term, the degradation of permafrost and 
+
+
+### Oil Extraction
+
+
+
 
 ## Human effects on the water cycle
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
@@ -484,11 +493,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMz
-g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
-MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
-gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
-MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
-E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
-NzkwNTRdfQ==
+eyJoaXN0b3J5IjpbLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNz
+IwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3
+ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mz
+k5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5
+OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOC
+wtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAy
+NDg4MDhdfQ==
 -->
