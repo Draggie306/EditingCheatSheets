@@ -369,13 +369,12 @@ Helvellyn is a 950m tall pseudo-pyramidal peak with aretes named Striding Edge a
 
 Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). The varied geology also resulted in extending flow contributing to the ununiformity of the U-shaped valley.
 
-> This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
+> This glacier would have continued flowing northeastwards, taking eroded material with it, towards modern-day Penrith, which is in a flat area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
 Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk Island and Lingy Holm. The geology of roche moutonnées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines on the stoss, with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png =750x500)
 
-The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, easily proving that there was once glacial activity in the area.
 
 
 To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
@@ -383,8 +382,9 @@ To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spur
 ### Lake District Landforms
 
 Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
-**Langstrath Valley** has an example of lateral moraine on the valley north side.
+**Langstrath Valley** has an example of lateral moraine on the north side of it.
 
+The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, proving that there was once glacial activity in the area.
                    
 ### Essay snippet: inter-related valley landforms
 Using a case study, assess the extent to which landforms within a valley glacier are interrelated [16 marks]
@@ -393,7 +393,9 @@ Using a case study, assess the extent to which landforms within a valley glacier
 
 
 - Formation of corries, aretes and pyramidal peaks: Helvellyn, Red Tarn and Nethermost Cove. Overdeepening caused by nivation, plucking on the back wall, and rotational slip causing the armchair shape - only possible because each are interrelated.
-- Back to back erosion w/Nethermost Cove: striding edge arete Glenridding Valley 
+- Back to back erosion w/Nethermost Cove: striding edge arete
+- Ice flowing from Red Tarn into Glenridding valley creating Helvellyn Gill and joining with another larger glacier - Ullswater, geologies creating roche moutonnées and deepening of lake. Material from erosion upvalley deposited as sediment visible in the lake today
+- 
 
 
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
@@ -1555,11 +1557,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzOTQ5NDI2MywtMTc0MzE0OTI4OCwtNj
-k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
-NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
-E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
-NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
-UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
-OTk3NjVdfQ==
+eyJoaXN0b3J5IjpbLTEwNzUyNjIwMjIsLTE3NDMxNDkyODgsLT
+Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
+NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
+ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
+NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3Mj
+E1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5
+NDk5NzY1XX0=
 -->
