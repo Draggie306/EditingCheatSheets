@@ -275,7 +275,7 @@ After deglaciation, isostatic readjustment may occur, and these compressed, lowe
 Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as the theory of depositional drumlins.
 Ablation till is material deposited at the terminus by melting ice from stagnant, or retreating glaciers during a warm period or end of glaciation event. Most depositional landforms are this type.
 
-It can be known whether sediment was deposited by water or ice. Ice-transported sediment is angular, not curved, as it has not been subject to erosional forces by the meltwater. The order of size of sediments can indicate this too, as water deposits sediment progressively due to reducing energy levels, while glaciers deposit material unsorted and 'en masse'. Glaciers deposit till in mounds and ridges too, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvioglacial processes.
+It can be known whether sediment was deposited by water or ice. Ice-transported sediment is **angular**, not curved, as it has not been subject to more abrasive, erosional forces by the meltwater. The **order of size of sediments** can indicate this too, as water deposits sediment **progressively** due to reducing energy levels, while glaciers deposit material **unsorted**; 'en masse'. Glaciers also deposit till in **mounds and ridges**, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvial processes. Glaciofluvial processes involve an amount of stratification but not complete sorting.
 
 ![A photo of a valley glacier, with an erratic, eskers and more landforms](https://cheatsheet-assets.ibaguette.com/alevel/geography/ValleyGlacierLandscapeFormations.png =700x500)
 *There are a range of depositional landforms visible in this photograph. Can you identify them all?*
@@ -1560,7 +1560,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODgxNTQxMDAsLTE3NDMxNDkyODgsLT
+eyJoaXN0b3J5IjpbLTEyNzkyNzI0MTUsLTE3NDMxNDkyODgsLT
 Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
 NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
 ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
