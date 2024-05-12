@@ -365,9 +365,9 @@ The area has three main geologies:
 
 ### Helvellyn Range
 
-Helvellyn is a pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively.
+Helvellyn is a pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively. These corries are on the north-east side of Helvellyn.
 
-Ice from Red Tarn at Helvellyn flowed northeast into Glenridding Valley. Joining up with another larger glacier, a **glacial trough** was created in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
+Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
 
 > This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
@@ -1543,7 +1543,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODUzMjk2ODIsLTY5OTk2OTQ1NCw5OT
+eyJoaXN0b3J5IjpbLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OT
 A5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5
 NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLT
 EzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIw
