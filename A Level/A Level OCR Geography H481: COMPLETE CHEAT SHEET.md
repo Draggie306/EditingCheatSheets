@@ -620,6 +620,12 @@ When the soil freezes, the particles within the slope are lifted vertically at a
 
 ### Pingos
 ![Open vs closed-system pingo](https://cheatsheet-assets.ibaguette.com/alevel/geography/Diagram-formation-open-system-pingos.webp)
+
+Pingos are ice-cored hills in periglacial areas. Whilst they look the same and can be easily identified, there are two ways in which they form. They take several hundred years to form and only grow by a few cm/year. Large pingos visible in Canada and Greenland may be 600m wide and 50m tall, whilst collapsed pingos in Wales giving evidence for prior glacials are only 10m in diameter 
+
+During warmer climatic periods, the ice lens can melt, collapsing the dome of land above and leave a depression, typically a marshy area called an **ognip**, which is surrounded by "ramparts" of soil.
+
+
 #### Open system, hydraulic
 These are also known as East Greenland-type pingos as they commonly occur there.
 
@@ -629,9 +635,10 @@ Open system pingos form in areas of discontinuous permafrost, such as floors of 
 #### Closed system, hydrostatic
 These are also known as MacKensie-type pingos.
 
-These pingos develop below lakes, due to the immediate water supply. Lake water enters the talik as it is trapped between the frozen surface above and permafrost advancing during cooler periods. The talik becomes saturated quickly and hydrostatic pressure compresses this as much as possible, forcing out any warmer air bubbles. Due to the persistence of permafrost, it forces this saturated talik to freeze, becoming an ice lens, and expanding upwards into the familiar dome we know, love and recognise as a pingo. 
+Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is 
 
-> Bonus! The ice lens can collapse and leave a depression, typically a marshy area called an ognip, surrounded by ramparts.
+
+These pingos develop below lakes, due to the immediate water supply. Lake water enters the talik as it is trapped between the frozen surface above and permafrost advancing during cooler periods. The talik becomes saturated quickly and hydrostatic pressure compresses this as much as possible, forcing out any warmer air bubbles. Due to the persistence of permafrost, it forces this saturated talik to freeze, becoming an ice lens, and expanding upwards into the familiar dome we know, love and recognise as a pingo. 
 
 ### Ice-wedge polygons
 
@@ -1525,11 +1532,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQ5NDEzNDQsLTY5OTk2OTQ1NCw5OT
-A5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5
-NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLT
-EzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIw
-MTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MS
-wxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3
-MzEwMjBdfQ==
+eyJoaXN0b3J5IjpbMTA5NzMyNDYzNCwtNjk5OTY5NDU0LDk5MD
+k5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0
+NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMT
+M3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAx
+MTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLD
+EzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mjcz
+MTAyMF19
 -->
