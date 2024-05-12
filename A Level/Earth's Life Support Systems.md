@@ -262,7 +262,7 @@ The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 bil
 ### Madiera drainage basin
 This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occured in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
 
-Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. With 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne 
+Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Torrential rains, cased by orographic lift, combined with the reducton of interception, decreased lag times and increased the peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
 
 
 ### Impact of human activity
@@ -270,12 +270,13 @@ As already demonstrated, there is high interdependence between the land, biosphe
 
 70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
 
-The effects of deforestation are wide-ranging. Converting trees into pasture increases runoff by 27x. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
+The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
 On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest. Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall.
 
 Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit simialr (but somewhat less severe) characteristics to deforested regions.
 
+All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the So
 
 ### Management strategies
 
@@ -455,11 +456,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA1MTc0Njc4LDE3MjA2NjMwNzAsMzIzOD
-YxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYy
-MywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
-AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
-NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
-c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
-OTA1NF19
+eyJoaXN0b3J5IjpbLTEwOTg2NzQ2NTQsMTcyMDY2MzA3MCwzMj
+M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
+NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
+M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
+NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
+wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
+Nzc5MDU0XX0=
 -->
