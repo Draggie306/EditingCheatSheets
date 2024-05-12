@@ -288,6 +288,7 @@ All of these combined have resulted in severe droughts downstream for population
 ## Case study: the Arctic Tundra
 > 2b. It is possible to identify the physical and human factors that affect the water and carbon cycles in an Arctic tundra area.
 
+
 The Arctic Tundra is located between 60 and 75 degrees N and includes parts of Russia, Canada, Norway, Iceland and Alaska, among others. It occupies a combines 8m km^2^ and is defined by having a July isotherm of 10 degrees C. This means that t warmest month reaches a maximum temperature of 10 degrees (this is roughly equivalent to the tree line). The Arctic Circle is the southernmost point where the sun can remain below the horizon for 24 hours during certain seasons. 
 
 The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, tempreatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat comprensate for the short growing season.
@@ -460,11 +461,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODQyMjY5LDE3MjA2NjMwNzAsMzIzOD
-YxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYy
-MywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
-AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
-NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
-c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
-OTA1NF19
+eyJoaXN0b3J5IjpbLTE0OTUzNzIxNDksMTcyMDY2MzA3MCwzMj
+M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
+NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
+M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
+NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
+wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
+Nzc5MDU0XX0=
 -->
