@@ -251,13 +251,13 @@ An individual tree can take up around 50,000 litres of water every year from the
 The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of 
 
 
-The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. According toetween 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sect
+The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
 
 ### Madiera drainage basin
 
 
 ### Impact of human activity
-As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects.
+As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects. According to REDD, between 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sector!
 
 70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
 
@@ -446,11 +446,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2NTM4NTcsMzIzODYxNTUyLC01MDkzMT
-M1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQs
-NTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3Nz
-IzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0
-LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0Mj
-M3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0
-ODY1XX0=
+eyJoaXN0b3J5IjpbMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOT
+MxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3
+NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOT
+c3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEw
+NDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLD
+QyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3
+MTQ4NjVdfQ==
 -->
