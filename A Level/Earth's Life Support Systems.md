@@ -241,7 +241,12 @@ Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of 
 
 
 
-An individual tree may have little influence on the cycle of water and carbon. The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration.
+### Spatial scales
+An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers 
+
+
+
+The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration.
 
 ### Madiera drainage basin
 
@@ -436,11 +441,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODM3OTA4NjAsLTg4NTc1MTc4MSwtMT
-E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
-NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
-M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
-MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOC
-wtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMxMjE5MzA0LDE5
-MTY5NTIxNzZdfQ==
+eyJoaXN0b3J5IjpbLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMT
+UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
+LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
+Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
+NzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC
+0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIxMzEyMTkzMDQsMTkx
+Njk1MjE3Nl19
 -->
