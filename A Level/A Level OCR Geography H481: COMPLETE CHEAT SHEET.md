@@ -367,7 +367,7 @@ The area has three main geologies:
 
 Helvellyn is a 950m tall pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively. These corries are on the north-east side of the mountain. It's not quite an official pyramidal peak as it only has these two named corries (but for all intents and purposes...).
 
-Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
+Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). The varied geology also resulted in extending flow contributing to the ununiformity of the U-shaped valley.
 
 > This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
@@ -386,13 +386,15 @@ Drumlins made of boudler clay have been deposited south of Kendal. They are orie
 **Langstrath Valley** has an example of lateral moraine on the valley north side.
 
                    
-### Essay snippet: inter-related valley landforms [16 marks]
+### Essay snippet: inter-related valley landforms
+Using a case study, assess the extent to which landforms within a valley glacier are interrelated [16 marks]
 
 <!-- If have time, redo this to time and make it very analytica. include all landforms e.g. erratics -->
 
 
-- Formation of corries, aretes and pyramidal peaks: Helvellyn, Striding Edge, Red Tarn and Nethermost Cove. Overdeepening caused by nivation, plucking on the back wall, and rotational slip causing the armchair shape - only possible because each are interrelated.
-- Glacial trough visible as ice flowed down Glenridding Valley 
+- Formation of corries, aretes and pyramidal peaks: Helvellyn, Red Tarn and Nethermost Cove. Overdeepening caused by nivation, plucking on the back wall, and rotational slip causing the armchair shape - only possible because each are interrelated.
+- Back to back erosion w/Nethermost Cove: striding edge arete Glenridding Valley 
+
 
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
 
@@ -1553,7 +1555,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxODE1NDA0NSwtMTc0MzE0OTI4OCwtNj
+eyJoaXN0b3J5IjpbMTYzOTQ5NDI2MywtMTc0MzE0OTI4OCwtNj
 k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
 NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
 E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
