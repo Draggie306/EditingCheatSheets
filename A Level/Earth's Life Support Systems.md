@@ -248,13 +248,13 @@ An individual tree may have little influence on the cycle of water and carbon. T
 An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils throught their roots, which are a large subterranean carbon store too.
 
 
-The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of 
+The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 3 billion trees acting as pumps from the soil to the atmosphere.
 
 
 The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
 
 ### Madiera drainage basin
-
+This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the AmazonDeforestation has occured in the higher elevation catchment areas.
 
 ### Impact of human activity
 As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects. According to REDD, between 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sector!
@@ -446,11 +446,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOT
-MxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3
-NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOT
-c3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEw
-NDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLD
-QyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3
-MTQ4NjVdfQ==
+eyJoaXN0b3J5IjpbMTk0Nzg5OTI4OCwxNzIwNjYzMDcwLDMyMz
+g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
+MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
+gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
+MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
+E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
+NzkwNTRdfQ==
 -->
