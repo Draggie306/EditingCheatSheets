@@ -333,7 +333,7 @@ In the long-term, the degradation of permafrost and
 
 
 ### Oil Extraction
-
+Oil extraction was ince
 
 
 
@@ -493,11 +493,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNz
-IwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3
-ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mz
-k5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5
-OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOC
-wtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAy
-NDg4MDhdfQ==
+eyJoaXN0b3J5IjpbLTE4NTYwMTgyMTcsLTE3NTE4ODA1OTQsLT
+kzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEz
+NTc1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LD
+UzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5Nzcy
+MzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NC
+wtMTY1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIz
+NzY5MzQ0XX0=
 -->
