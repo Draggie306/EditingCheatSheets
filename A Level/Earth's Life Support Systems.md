@@ -235,9 +235,15 @@ Relief also plays a role. The gentle relief of the basin today results in most f
 
 ### Physical factors affecting carbon.
 
-Carbon sores and flows are influenced by temperature, vegetation, organic matter in the soil, and rocks' mineral composition. 
+Carbon stores and flows are influenced by temperature, vegetation, organic matter in the soil, and rocks' mineral composition. 
 
-Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues. The amount of organic matter in the soil accounts for 40% of the rainforest's total carbon store,  
+<!-- is this what influences carbon stores, or is it the store that is affected? -->
+
+Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues, with NPP at 2500g/m^3^/yr. The amount of organic matter in the soil accounts for 40% of the rainforest's total carbon store, showing there is significant storage and sequestration in the roots of trees. The growth is facilitated by high temperatures, which is strongly dependent on the interrelationship with the water cycle.
+
+The high temperatures and demand for nutrients also make the store of carbon in and on soil very low, due to the very fast deomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly. 
+
+The mineral comsition of rocks, as discussed, is largely igneous and metamorp
 
 
 
@@ -446,7 +452,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMTQyMDczMiwxNzIwNjYzMDcwLDMyMz
+eyJoaXN0b3J5IjpbLTkxMTI4NTMyOSwxNzIwNjYzMDcwLDMyMz
 g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
 MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
 gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
