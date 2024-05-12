@@ -182,7 +182,7 @@ This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) 
 When this ice melts or the area is deglaciated, a *tarn* (or corrie lake) is created, enclosed by the rock lip. Material may then continue to fall down from the back wall due to continued weathering, combined with aspect and steep relief, known as **scree**.
 
 
-[editor tbd note: add image of Easedale Tarn morainic lip here later]
+<!-- [editor tbd note: add image of Easedale Tarn morainic lip here later] -->
 
 
 
@@ -260,7 +260,7 @@ On top of the subglacial erosion which may have occurred, some of this large-sca
 
 After deglaciation, isostatic readjustment may occur, and these compressed, lowered areas may readjust and bounce back upwards, now being under no additional pressure.
 
-> [REVIEW] Editor tbd note: this must be fact checked and reviewed to ensure clarity and precision!
+<!--  [REVIEW] Editor tbd note: this must be fact checked and reviewed to ensure clarity and precision! -->
 
 
 ## Glacial depositional landforms
@@ -1560,11 +1560,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjY1NDI4MiwtMTc0MzE0OTI4OCwtNj
-k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
-NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
-E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
-NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
-UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
-OTk3NjVdfQ==
+eyJoaXN0b3J5IjpbLTIwODgxNTQxMDAsLTE3NDMxNDkyODgsLT
+Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
+NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
+ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
+NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3Mj
+E1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5
+NDk5NzY1XX0=
 -->
