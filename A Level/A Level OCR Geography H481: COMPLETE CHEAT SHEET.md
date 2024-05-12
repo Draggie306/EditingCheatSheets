@@ -748,6 +748,20 @@ That's the end for glaciation! I hope you found it useful.
 *What if I told you about Paraglaciation and Paraperiglaciation as well?*
 
 
+# [tbd] Earth's Life Support Systems
+
+> This information will be coming soon! Message me if you want it early
+
+Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
+
+## Water
+Water is a fundamental part of life on Earth. Without it, we may not exist. This is so much so that liquid water is believed to be one of the key ingredience for life, alongside chemistry and energy. Water allows elements to become more complex, sustaining multicellular organisms' growth and complexity. 
+
+Water makes up 70% of the human body, and up to 99% in some species of flora and fauna. Water vapour is also the most potent greenhouse gas, beating methane and CO~2~.  Long-wave solar radiation is absorbed by these water particles, increasing global mean temperatures by 15 degrees C. Oceans also contribute to this temperature modification: it takes about 4x more energy to warm water than it does to heat air. In this sense, oceans act as both a carbon and energy sink, with gradual releases of this over time. In addition to this, clouds reflect ~21% of all incoming solar radiation, and these are again made of water droplets and ice crystals. White land, such as the glacial ice sheets in Antarctica and Greenland also reflect back hige wuantities of solar energy.
+
+## The Hydrological Cycle
+
+
 # [TBD] Disease Dilemmas 
 
 Last update: 15/01/2024 22:38
@@ -1519,21 +1533,6 @@ Humans cannot stop volcanic hazards
 
 
 
-# [tbd] Earth's Life Support Systems
-
-> This information will be coming soon! Message me if you want it early
-
-Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
-
-## Water
-Water is a fundamental part of life on Earth. Without it, we may not exist. This is so much so that liquid water is believed to be one of the key ingredience for life, alongside chemistry and energy. Water allows elements to become more complex, sustaining multicellular organisms' growth and complexity. 
-
-Water makes up 70% of the human body, and up to 99% in some species of flora and fauna. Water vapour is also the most potent greenhouse gas, beating methane and CO~2~.  Long-wave solar radiation is absorbed by these water particles, increasing global mean temperatures by 15 degrees C. Oceans also contribute to this temperature modification: it takes about 4x more energy to warm water than it does to heat air. In this sense, oceans act as both a carbon and energy sink, with gradual releases of this over time. In addition to this, clouds reflect ~21% of all incoming solar radiation, and these are again made of water droplets and ice crystals. White land, such as the glacial ice sheets in Antarctica and Greenland also reflect back hige wuantities of solar energy.
-
-## The Hydrological Cycle
-
-
-
 
 # NEA stuff
 
@@ -1566,11 +1565,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNj
-k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
-NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
-E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
-NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
-UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
-OTk3NjVdfQ==
+eyJoaXN0b3J5IjpbLTE0MDQ4OTY5MjIsLTYzNzAzOTcwOCwtMT
+c0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2
+MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OS
+wtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMy
+MjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MD
+U2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0
+NDM2MTY3XX0=
 -->
