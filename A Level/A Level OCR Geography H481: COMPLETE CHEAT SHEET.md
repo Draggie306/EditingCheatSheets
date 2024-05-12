@@ -341,13 +341,19 @@ Drumlins are often found in conjunction with [morainic](#moraines) landforms and
 
 ## Case study: Lake District
 
-The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (GP) being responsible for the current appearance of the landforms.
+The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (GP) being responsible for the current appearance of the valley landscape.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
 *A beautiful view towards Helvellyn from Blencathra.*
 
 
+A range of physical factors have had an influence on the formation of landforms within the landscape.
 
+### Geology
+The area has three main geologies:
+- Skiddaw Slates (north; the oldest, sedimentary rocks formed 500mya by compaction and tectonic movement)
+- Borrwodale Volcanics 
+- Windermere Group
 
 
 
@@ -1535,7 +1541,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjk2ODU4LC02OTk5Njk0NTQsOTkwOT
+eyJoaXN0b3J5IjpbLTE3ODQ5NTM2LC02OTk5Njk0NTQsOTkwOT
 k1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3
 MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMz
 c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
