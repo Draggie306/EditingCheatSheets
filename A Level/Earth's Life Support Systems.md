@@ -272,11 +272,11 @@ As already demonstrated, there is high interdependence between the land, biosphe
 
 The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
-On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest. Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall.
+On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest, from hundreds of tonnes per hectare to  Soils are depleted with less decomposer activity, and have nutrients washed away quickly with rainfall.
 
 Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit simialr (but somewhat less severe) characteristics to deforested regions.
 
-All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the So
+All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the South American climatic system no longer being in equilibrium as a result of human activity is stressing aquifers and groundwater stores further, which is unsustainable. 
 
 ### Management strategies
 
@@ -456,11 +456,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTg2NzQ2NTQsMTcyMDY2MzA3MCwzMj
-M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
-NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
-M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
-NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
-wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
-Nzc5MDU0XX0=
+eyJoaXN0b3J5IjpbLTg2NjU5MTI4MCwxNzIwNjYzMDcwLDMyMz
+g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
+MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
+gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
+MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
+E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
+NzkwNTRdfQ==
 -->
