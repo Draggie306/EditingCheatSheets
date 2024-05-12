@@ -365,20 +365,20 @@ The area has three main geologies:
 
 ### Helvellyn Range
 
-Helvellyn is a pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively. These corries are on the north-east side of Helvellyn.
+Helvellyn is a 950m tall pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively. These corries are on the north-east side of the mountain. It's not quite a pyramidal peak as it only has these two name d
 
 Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
 
 > This glacier would have continued flowing downstream towards modern-day Penrith, which is in a flat plains area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
-Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk Island and Lingy Holm. The geology of roche moutonnées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
+Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk Island and Lingy Holm. The geology of roche moutonnées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines on the stoss, with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png =750x500)
 
 The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, easily proving that there was once glacial activity in the area.
 
 
-To the west of Helvellyn, the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
+To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
 
 
 
@@ -1543,11 +1543,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OT
-A5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5
-NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLT
-EzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIw
-MTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MS
-wxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3
-MzEwMjBdfQ==
+eyJoaXN0b3J5IjpbLTcxOTIwMDQzMywtMTc0MzE0OTI4OCwtNj
+k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
+NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
+E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
+NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
+UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
+OTk3NjVdfQ==
 -->
