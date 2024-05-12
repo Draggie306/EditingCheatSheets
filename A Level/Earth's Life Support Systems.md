@@ -295,9 +295,11 @@ NGOs also have a large role to play. The Parica project is in the 4th most defor
 The UK's FSC has sponsored projects across Amazonia and works with companies to support sustainable forestry. In 2020, this accounted for 220,000 hectares and has also acounted for over 350,000 tonnes of CO2 sequestered annually.
 
 #### Improved agricultural techniques
-Deforestation for cattle ranching and growing crops such as soya is unsustainable. The soil does not hold many nutrients as nitrogen, potassium and phosphorous are absorbed quickly by the large rainforest trees. After deforestation this is considerably reduced - rates seldom reach 1 cow per hectare. This encourages practices like "slash and burn" when areas of rainforest are just cleared and moved on to the next areas when the soil is no longer profitable, after only a few years.
+Deforestation for cattle ranching and growing crops such as soya is unsustainable. The soil is not very fertile - nitrogen, potassium and phosphorous are absorbed quickly by the large rainforest trees. After deforestation this is considerably reduced - rates seldom reach 100 cows per square km (that's 1 million square metres). This encourages practices like "slash and burn" when areas of rainforest are just cleared and moved on to the next areas when the soil is no longer profitable, after only a few years.
 
+Crop rotation and the integration of animals alongside crops may help increase fertility. Animals excrete the necessary substances for plant growth, which allows for 5x increase in land potential in already deforested areas.
 
+"Dark soils" are also being scientifcally engineered that can support high densities of permanent arable and animal farming. This may eliminate the need for deforestation into new areas, and return the water and carbon cycles to their former equilibrium glory if succesfully created.
 
 
 ## Case study: the Arctic Tundra
@@ -315,7 +317,7 @@ Temperatures are low, with a mean of -15C. Precipitation is also low, with annua
 
 The mean annual temperature is -15C, with precipitaiton between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
 
-The little energy due to poor insolation for most of the uear means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture
+The little energy due to poor insolation for most of the uear means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, the most significant water store is in the permafrost below
 
 ### Carbon cycle
 
@@ -480,11 +482,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NDk0OTE2NSwxNzIwNjYzMDcwLDMyMz
-g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
-MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
-gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
-MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
-E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
-NzkwNTRdfQ==
+eyJoaXN0b3J5IjpbLTE5ODMxMTUwMDEsMTcyMDY2MzA3MCwzMj
+M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
+NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
+M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
+NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
+wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
+Nzc5MDU0XX0=
 -->
