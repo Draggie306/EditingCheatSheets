@@ -242,13 +242,16 @@ Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of 
 
 
 ### Spatial scales
-An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixation through the stomata of each leaf, permanently until it is removed from 
+An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixation through the stomata of each leaf, permanently (well, until combustion or deforestation occurs).
 
 
-An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and  
+An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils throught their roots, which are a large subterranean carbon store too.
 
 
-The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration.
+The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of 
+
+
+The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. According toetween 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sect
 
 ### Madiera drainage basin
 
@@ -443,11 +446,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NT
-c1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3
-LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3Nz
-E0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0
-MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMj
-ExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMx
-MjE5MzA0XX0=
+eyJoaXN0b3J5IjpbMjQ2NTM4NTcsMzIzODYxNTUyLC01MDkzMT
+M1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQs
+NTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3Nz
+IzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0
+LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0Mj
+M3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0
+ODY1XX0=
 -->
