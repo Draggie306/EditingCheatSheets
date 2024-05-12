@@ -282,6 +282,16 @@ All of these combined have resulted in severe droughts downstream for population
 
 ### Management strategies
 
+####
+
+
+#### Afforestation
+Schemes such as REDD involve large TNCs exchanging carbon credits. The Surui people received payment from Natura which was used to finance the planting of trees in deforested and degraded areas. 
+
+
+
+
+#### Improved agricultural techniques
 
 
 
@@ -293,10 +303,14 @@ The Arctic Tundra is located between 60 and 75 degrees N and includes parts of R
 
 The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, tempreatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat comprensate for the short growing season.
 
-### Water cycle
+### Physical factors on water
 
 Temperatures are low, with a mean of -15C. Precipitation is also low, with annual totals between 50 and 350mm - most of which is snow. Combined with the low levels of moisture in the atmosphere (little evaporation) means that there is low absolute humidity and very low ground and soil moisture. When there is a positive heat balance, the insolation goes into melting the snow and, should there be extra goundwater, permafrost inhibits groundwater infiltration and percolation (and definitely not any groundwater flowing!). This may result in the formation of wetland ponds, lakes and other thermokarst features in the summer when the active layer melts, but the permafrost remains impermeable below.  
 
+
+The mean annual temperature is -15C, with precipitaiton between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
+
+The little energy due to poor insolation for most of the uear means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture
 
 ### Carbon cycle
 
@@ -461,7 +475,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTUzNzIxNDksMTcyMDY2MzA3MCwzMj
+eyJoaXN0b3J5IjpbLTE2MTE2NzA1MzUsMTcyMDY2MzA3MCwzMj
 M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
 NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
 M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
