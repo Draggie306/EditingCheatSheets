@@ -8,8 +8,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 28/04/2024 21:58
-Last content addition: 28/04/2024 21:58](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 12/05/2024 17:19
+Last content addition: 12/05/2024 17:19](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
@@ -564,9 +564,9 @@ They are formed by large blocks of ice breaking from the main glacier. As the ma
 ## Periglacial landforms
 Periglacial landforms exist as a result of climate changes before and/or after glacial periods.
 
-**Periglaciation** is concerned with the process and landforms attributed to the action of **permafrost**.
+**Periglaciation** is concerned with the process and landforms attributed to the action of **permafrost**. Typical processes include freeze-thaw.
 
-Being in a periglacial area means an area that is near to, or on the fringe of, glacial areas' ice mass. This means that there is no physical glacier system present in the area, but it is still cold, relative to surrounding environments. 
+Being in a periglacial area means an area that is near to, or on the fringe of, glacial areas' ice mass, such that permafrost is present. This means that there is no physical glacier system present in the area, but it is still cold, relative to surrounding environments. 
 
 ### Permafrost
 This is also part of the Earth's cryosphere, as well as glaciers, ice sheets, and more!
@@ -1526,11 +1526,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MT
-IwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1
-NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLD
-Y0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4
-NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMT
-cwOTQ5OTc2NSwtNjQyNzMxMDIwLDEyMzM3MTY5NjMsLTEwNjgz
-ODkwNTVdfQ==
+eyJoaXN0b3J5IjpbLTY5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1Nj
+I1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3
+NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLT
+EzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3Mzgy
+ODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLD
+MyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcx
+Njk2M119
 -->
