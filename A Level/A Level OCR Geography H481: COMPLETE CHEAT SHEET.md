@@ -341,7 +341,7 @@ Drumlins are often found in conjunction with [morainic](#moraines) landforms and
 
 ## Case study: Lake District
 
-The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (GP) being responsible for the current appearance of the valley landscape.
+The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (the Loch Lomond Stadial; 12kya) being responsible for the current appearance of the valley landscape.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
 *A beautiful view towards Helvellyn from Blencathra.*
@@ -351,9 +351,9 @@ A range of physical factors have had an influence on the formation of landforms 
 
 ### Geology
 The area has three main geologies:
-- Skiddaw Slates (north; the oldest, sedimentary rocks formed 500mya by compaction and tectonic movement)
-- Borrwodale Volcanics 
-- Windermere Group
+- **Skiddaw Group** (or Skiddaw Slates - north; the oldest, sedimentary rocks formed 500mya by compaction and tectonic movement)
+- **Borrwodale Volcanics** (central; hard igneous rocks formed 450mya including Helvellyn and Scafell Pike (978m) with the largest mountains: it is less prone to erosion)
+- **Windermere Group** (south; softer sedimentary rocks and limestone formed 420mya and have been eroded down)
 
 
 
@@ -363,7 +363,7 @@ The area has three main geologies:
 
 
 
-### Glenridding Valley & Ullswater
+### Helvelly Range
 
 Ice from Red Tarn at Helvellyn flowed northeast into Glenridding Valley. Joining up with another larger glacier, a **glacial trough** was created in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). 
 
@@ -1541,11 +1541,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODQ5NTM2LC02OTk5Njk0NTQsOTkwOT
-k1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3
-MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMz
-c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
-ODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMT
-M0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMx
-MDIwXX0=
+eyJoaXN0b3J5IjpbLTI1OTY2MjE1MSwtNjk5OTY5NDU0LDk5MD
+k5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0
+NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMT
+M3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAx
+MTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2MDQxLD
+EzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0OTk3NjUsLTY0Mjcz
+MTAyMF19
 -->
