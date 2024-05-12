@@ -629,13 +629,13 @@ During warmer climatic periods, the ice lens can melt, collapsing the dome of la
 #### Open system, hydraulic
 These are also known as East Greenland-type pingos as they commonly occur there.
 
-Open system pingos form in areas of discontinuous permafrost, such as floors of valleys. Groundwater moves through the permeable talik and, through artesian pressure, feeds the ice core between the active layer and permafrost above, making the ice grow in size. Over time, the active layer above is pushed up, creating a dome of land above. 
+Open system pingos form in areas of discontinuous permafrost, such as floors of valleys. Groundwater moves through the permeable talik and, through artesian pressure, moves upwards and cools. It feeds the ice core between the active layer and permafrost above, resulting in the ice core growing in size. Over time, the active layer above is pushed up, creating a dome of land visible on the surface. 
 
 
 #### Closed system, hydrostatic
 These are also known as MacKensie-type pingos.
 
-Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is saturated by the lake suppling it with water, and remains as talik due to the lake's relative warmth. Over time, the lake may become infilled with sediment, or the water drain out, reducing the insulating effect of the warmer water. 
+Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is saturated by the lake suppling it with water, and remains as talik due to the lake's relative warmth. Over time, the lake may become infilled with organic matter or sediment (or the water drains), reducing the insulating effect of the lake. 
 
 
 These pingos develop below lakes, due to the immediate water supply. Lake water enters the talik as it is trapped between the frozen surface above and permafrost advancing during cooler periods. The talik becomes saturated quickly and hydrostatic pressure compresses this as much as possible, forcing out any warmer air bubbles. Due to the persistence of permafrost, it forces this saturated talik to freeze, becoming an ice lens, and expanding upwards into the familiar dome we know, love and recognise as a pingo. 
@@ -1532,7 +1532,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzODE2OTYwMywtNjk5OTY5NDU0LDk5MD
+eyJoaXN0b3J5IjpbMTc4MTcxMzg1MiwtNjk5OTY5NDU0LDk5MD
 k5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0
 NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMT
 M3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAx
