@@ -243,7 +243,7 @@ Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of 
 
 The high temperatures and demand for nutrients also make the store of carbon in and on soil very low, due to the very fast deomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly. 
 
-The mineral comsition of rocks, as discussed, is largely igneous and metamorp
+The mineral comsition of rocks, is largely igneous and metamorphic, with granite being abundant. These are not carboniferous but store large amounts of carbon in the long-term.
 
 
 
@@ -260,7 +260,10 @@ The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wi
 The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
 
 ### Madiera drainage basin
-This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occured in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area 
+This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occured in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
+
+Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. With 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne 
+
 
 ### Impact of human activity
 As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects. According to REDD, between 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sector!
@@ -452,11 +455,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTI4NTMyOSwxNzIwNjYzMDcwLDMyMz
-g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
-MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
-gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
-MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
-E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
-NzkwNTRdfQ==
+eyJoaXN0b3J5IjpbODA1MTc0Njc4LDE3MjA2NjMwNzAsMzIzOD
+YxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYy
+MywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
+AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
+NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
+c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
+OTA1NF19
 -->
