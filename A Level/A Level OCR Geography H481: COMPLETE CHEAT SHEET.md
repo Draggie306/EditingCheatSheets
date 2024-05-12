@@ -293,7 +293,7 @@ Form in the **centre of a glacial channel** (typically when two glaciers merge -
 
 #### Lateral moraines
 
-Ridges which form **on the sides (margins) of a glacial channel**, and are the result of the accumulation of debris due to erosional processes.
+Ridges which form **on the sides (margins) of a glacial channel**, and are the result of the accumulation of debris due to erosional processes such as freeze-thaw.
 
 #### End moraines
 
@@ -383,10 +383,13 @@ To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spur
 ### Lake District Landforms
 
 Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
-**Langstrath Valley** has an example of lateral moraine on the north side. 
+**Langstrath Valley** has an example of lateral moraine on the valley north side.
 
                    
 ### Essay snippet: inter-related valley landforms [16 marks]
+
+<!-- If have time, redo this to time and make it very analytica. include all landforms e.g. erratics -->
+
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
 
 At the same time, under its own weight, the ice at the base begins to rotate, known as rotational slipping, deepening the base through abrasion, with this abrasive material being finer sub-glacial debris. At Helvellyn, the bedrock type is known as the Borrowdale Volcanics, having formed 450 million years ago and moved from tectonic forces. Despite this relative strength due to its more joined and bedded geology, several corries have formed, and their contained glaciers have melted throughout the Pleistocene period. After the most recent glaciation period known as the Loch Lomond Stadial around 12,000 years ago, there exists a corrie containing Red Tarn on Helvellyn's north-easterly side. These corries have eroded back to back, resulting in the formation of an arête, shaped like a knife, namely Striding Edge, and Swirrell Edge on the alternate side of this corrie. Furthermore, Red Tarn has a lip, helping to prevent water loss, as a result of rock and moraine deposits left by the glacier. 
@@ -1546,11 +1549,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg3MzA1MDMwLC0xNzQzMTQ5Mjg4LC02OT
-k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
-MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
-U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
-MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNS
-wzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5
-OTc2NV19
+eyJoaXN0b3J5IjpbLTE3MDI0OTAyOTksLTE3NDMxNDkyODgsLT
+Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
+NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
+ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
+NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3Mj
+E1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5
+NDk5NzY1XX0=
 -->
