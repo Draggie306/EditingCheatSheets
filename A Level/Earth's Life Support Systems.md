@@ -316,7 +316,10 @@ The mean annual temperature is -15C, with precipitaiton between 50 and 350mm, wi
 
 The little energy due to poor insolation for most of the uear means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, there is limited groundwater and soil moisture stores, with permafrost below stopping percolation and subsequent groundwater flow. 
 
-Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremel 
+Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon rier reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
+
+Rocks remain largely impermeable, due to both the permafrost and solid water and the igneous geology with various interlocking crystals, reducing porosity. The relief is largely flat too, encouraging the waterlogging of the surface
+
 
 ### Carbon cycle
 
@@ -481,11 +484,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzAwODQ3NzQsMTcyMDY2MzA3MCwzMj
-M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
-NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
-M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
-NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
-wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
-Nzc5MDU0XX0=
+eyJoaXN0b3J5IjpbLTc4Mjk0NTQ0NywxNzIwNjYzMDcwLDMyMz
+g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
+MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
+gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
+MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
+E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
+NzkwNTRdfQ==
 -->
