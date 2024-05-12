@@ -242,7 +242,7 @@ Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of 
 
 
 ### Spatial scales
-An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  
+An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixations. 
 
 
 An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation.
@@ -443,11 +443,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDk2NTI1NjYsLTUwOTMxMzU3NSwtOD
-g1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4
-MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNz
-c3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMz
-MTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2OTM0NC
-wyMTEwMjQ4ODA4LC0yMDQwNzc5MDU0LDEyMjQ3MTQ4NjUsLTIx
-MzEyMTkzMDRdfQ==
+eyJoaXN0b3J5IjpbMTI0Njc2ODA5NSwtNTA5MzEzNTc1LC04OD
+U3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgy
+Nyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03Nz
+cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
+NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
+IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
+MTIxOTMwNF19
 -->
