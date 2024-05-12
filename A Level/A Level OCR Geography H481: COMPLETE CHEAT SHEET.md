@@ -8,15 +8,21 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 12/05/2024 21:24
-Last content addition: 12/05/2024 21:24](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 12/05/2024 21:43
+Last content addition: 12/05/2024 21:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+
+--- 
+### Notice 12/05/2024
+Please note that if you have used this document before the most recent change, a variety of changes have been made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to be rewritten because of this.
+
+---
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
-> NEW! You can also follow [iBaguette on Instagram](https://instagram.com/ibaguettecom) for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
+> NEW! You can also **follow [iBaguette on Instagram](https://instagram.com/ibaguettecom)** for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png =500x300)
 *Top-notch graphic design by me*
@@ -1560,11 +1566,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkyNzI0MTUsLTE3NDMxNDkyODgsLT
-Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
-NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
-ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
-NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3Mj
-E1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5
-NDk5NzY1XX0=
+eyJoaXN0b3J5IjpbLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNj
+k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
+NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
+E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
+NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
+UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
+OTk3NjVdfQ==
 -->
