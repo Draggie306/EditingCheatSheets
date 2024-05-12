@@ -217,6 +217,8 @@ Topical rainforests are almost exclusively located between the two tropics, at 2
 
 Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
 
+- There are ~390 billion trees in the Amazon. (around the same number of stars in our Milky Way galaxy)
+
 > 70% of the Amazon is located in Brazil. 
 
 ### Physical factors affecting water
@@ -458,11 +460,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMTc4MDU0NiwxNzIwNjYzMDcwLDMyMz
-g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
-MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
-gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
-MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
-E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
-NzkwNTRdfQ==
+eyJoaXN0b3J5IjpbMTc5ODQyMjY5LDE3MjA2NjMwNzAsMzIzOD
+YxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYy
+MywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
+AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
+NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
+c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
+OTA1NF19
 -->
