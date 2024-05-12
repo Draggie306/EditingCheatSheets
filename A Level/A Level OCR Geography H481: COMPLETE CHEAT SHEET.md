@@ -621,9 +621,9 @@ When the soil freezes, the particles within the slope are lifted vertically at a
 ### Pingos
 ![Open vs closed-system pingo](https://cheatsheet-assets.ibaguette.com/alevel/geography/Diagram-formation-open-system-pingos.webp)
 
-Pingos are ice-cored hills in periglacial areas. Whilst they look the same and can be easily identified, there are two ways in which they form. They take several hundred years to form and only grow by a few cm/year. Large pingos visible in Canada and Greenland may be 600m wide and 50m tall, whilst collapsed pingos in Wales giving evidence for prior glacials are only 10m in diameter 
+Pingos are ice-cored hills in periglacial areas. Whilst they look the same and can be easily identified, there are two ways in which they form. They take several hundred years to form and only grow by a few cm/year. Large pingos visible in Canada and Greenland may be 600m wide and 50m tall.
 
-During warmer climatic periods, the ice lens can melt, collapsing the dome of land above and leave a depression, typically a marshy area called an **ognip**, which is surrounded by "ramparts" of soil.
+During warmer climatic periods, the ice lens can melt, collapsing the dome of land above and leave a depression, typically a marshy area called an **ognip**, which is surrounded by "ramparts" of soil. Collapsed pingos in Wales are evidence for prior glacials and may only be 10m in diameter.
 
 
 #### Open system, hydraulic
@@ -635,7 +635,7 @@ Open system pingos form in areas of discontinuous permafrost, such as floors of 
 #### Closed system, hydrostatic
 These are also known as MacKensie-type pingos.
 
-Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is saturated by the lake suppling it with water, and remains as talik due to the lake's relative warmth. Over time, the lake may become infilled with organic matter or sediment (or the water drains), reducing the insulating effect of the lake. 
+Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik (typically fine soil, sediment or sand) below the lake is saturated by the lake, and remains as talik due to the lake's relative warmth. Over time, the lake may become infilled with organic matter or sediment (or the water drains), reducing its insulating effect. Permafrost thus is able to advance, surrounding the area of saturated soil, even trapping it by advancing between the saturated area and lake. Over time, the permafrost continues to advance, resulting in the 
 
 
 These pingos develop below lakes, due to the immediate water supply. Lake water enters the talik as it is trapped between the frozen surface above and permafrost advancing during cooler periods. The talik becomes saturated quickly and hydrostatic pressure compresses this as much as possible, forcing out any warmer air bubbles. Due to the persistence of permafrost, it forces this saturated talik to freeze, becoming an ice lens, and expanding upwards into the familiar dome we know, love and recognise as a pingo. 
@@ -1532,7 +1532,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MTcxMzg1MiwtNjk5OTY5NDU0LDk5MD
+eyJoaXN0b3J5IjpbMTI1NjUwNzg1MiwtNjk5OTY5NDU0LDk5MD
 k5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0
 NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMT
 M3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAx
