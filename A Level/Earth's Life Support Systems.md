@@ -237,7 +237,7 @@ Relief also plays a role. The gentle relief of the basin today results in most f
 
 Carbon sores and flows are influenced by temperature, vegetation, organic matter in the soil, and rocks' mineral composition. 
 
-Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. Annually 
+Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues. The amount of organic matter in the soil accounts for 40% of the rainforest's total carbon store,  
 
 
 
@@ -446,11 +446,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjMyNTUwODYsMTcyMDY2MzA3MCwzMj
-M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
-NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
-M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
-NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
-wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
-Nzc5MDU0XX0=
+eyJoaXN0b3J5IjpbMTMzMTQyMDczMiwxNzIwNjYzMDcwLDMyMz
+g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
+MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
+gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
+MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
+E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
+NzkwNTRdfQ==
 -->
