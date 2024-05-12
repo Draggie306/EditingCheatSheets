@@ -242,10 +242,10 @@ Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of 
 
 
 ### Spatial scales
-An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixations. 
+An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixation through the stomata of each leaf, permanently until it is removed from 
 
 
-An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation.
+An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and  
 
 
 The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration.
@@ -443,11 +443,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Njc2ODA5NSwtNTA5MzEzNTc1LC04OD
-U3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgy
-Nyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03Nz
-cxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMx
-NDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5MzQ0LD
-IxMTAyNDg4MDgsLTIwNDA3NzkwNTQsMTIyNDcxNDg2NSwtMjEz
-MTIxOTMwNF19
+eyJoaXN0b3J5IjpbMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NT
+c1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3
+LDUzOTk4MDA4NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3Nz
+E0Mzk5MywtMTM0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0
+MDA4LC0xMTM4MTc1MDgsMTc4NDc4Njk3MCw0MjM3NjkzNDQsMj
+ExMDI0ODgwOCwtMjA0MDc3OTA1NCwxMjI0NzE0ODY1LC0yMTMx
+MjE5MzA0XX0=
 -->
