@@ -36,7 +36,7 @@ The Circumstellar Habitable Zone, or Goldilocks zone, is the habitable area arou
 It is described by astronomers as:
 > “The area around a stellar object which contains liquid water, making it habitable. The regulation of temperature and radiation facilitate respiration and photosynthesis”.
 
-Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping long-wave radiation from causing harm for the biosphere. It makes up 65-95% of all the biospheric mass, including in people, flora and fauna.
+Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping short-wave radiation from causing harm for the biosphere. The greenhouse effect by water vapour prevents some long-wave radiation reflected from the Earth from exiting. It makes up 65-95% of all the biospheric mass, including in people, flora and fauna.
 
 Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**.An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
 
@@ -45,11 +45,11 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | Ocean | 1.33b km^3^ |96.5%
 | Cryosphere | 24m km^3^ |1.76%
 | Aquifers | 23m km^3^ |1.69%
-| lakes | 176k km^3^ |0.013%
-| pedosphere | 17k km^3^ |0.0012%
-| atmosphere | 13k km^3^ |0.00093%
-| rivers | 2.1k km^3^ |0.00015%
-| biosphere | 1.1k km^3^ |0.000081%
+| Lakes | 176k km^3^ |0.013%
+| Pedosphere | 17k km^3^ |0.0012%
+| Atmosphere | 13k km^3^ |0.00093%
+| Rivers | 2.1k km^3^ |0.00015%
+| Biosphere | 1.1k km^3^ |0.000081%
 * Data updated to match latest scientific research.
 
 ## Introduction to carbon
@@ -493,11 +493,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTYyODksLTE3NTE4ODA1OTQsLTkzMT
-M0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1
-LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzOD
-c1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5NzcyMzIw
-LC03NzcxNDM5OTMsLTEzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMT
-Y1MzMxNDAwOCwtMTEzODE3NTA4LDE3ODQ3ODY5NzAsNDIzNzY5
-MzQ0XX0=
+eyJoaXN0b3J5IjpbOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05Mz
+EzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3
+NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mz
+g3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMy
+MCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLT
+E2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2
+OTM0NF19
 -->
