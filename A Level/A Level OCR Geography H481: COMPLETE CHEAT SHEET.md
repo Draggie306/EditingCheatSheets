@@ -285,7 +285,9 @@ It can be known whether sediment was deposited by water or ice. Ice-transported 
 
 ### Moraines
 
-Moraines are ridges of soil, rocks and till which have been deposited by a glacial system. Strictly speaking, only the main three are on the OCR specification, but there's no harm in being able to explain them all.
+Moraines are ridges of soil, rocks and till which have been deposited by a glacial system. They are added to the glacial system over time through weathering, rockfalls, freeze-thaw action, etc.
+
+> Strictly speaking, only the main three are on the OCR specification, but there's no harm in being able to explain them all.
 
 #### Medial moraines
 
@@ -293,7 +295,7 @@ Form in the **centre of a glacial channel** (typically when two glaciers merge -
 
 #### Lateral moraines
 
-Ridges which form **on the sides (margins) of a glacial channel**, and are the result of the accumulation of debris due to erosional processes such as freeze-thaw.
+Ridges which form **on the sides (margins) of a glacial channel**, and are the result of the accumulation of debris due to erosional processes on valley sides such as freeze-thaw.
 
 #### End moraines
 
@@ -385,7 +387,9 @@ Drumlins made of boudler clay have been deposited south of Kendal. They are orie
 **Langstrath Valley** has an example of lateral moraine on the north side of it.
 
 The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, proving that there was once glacial activity in the area.
-                   
+
+
+
 ### Essay snippet: inter-related valley landforms
 Using a case study, assess the extent to which landforms within a valley glacier are interrelated [16 marks]
 
@@ -395,7 +399,8 @@ Using a case study, assess the extent to which landforms within a valley glacier
 - Formation of corries, aretes and pyramidal peaks: Helvellyn, Red Tarn and Nethermost Cove. Overdeepening caused by nivation, plucking on the back wall, and rotational slip causing the armchair shape - only possible because each are interrelated.
 - Back to back erosion w/Nethermost Cove: striding edge arete
 - Ice flowing from Red Tarn into Glenridding valley creating Helvellyn Gill and joining with another larger glacier - Ullswater, geologies creating roche moutonnées and deepening of lake. Material from erosion upvalley deposited as sediment visible in the lake today
-- 
+- Erratics may appear to be not interrelated but from erosion - partly related. Longer distances. Till also forms drumlins typically in flatter areas further away - lodgement till
+- Overall, undeniable evidence that all landforms are interrelated through the linked processes of erosion and deposition - with erosion acting as the prerequisite for subsequent transport and deposition. 
 
 
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
@@ -1557,11 +1562,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzUyNjIwMjIsLTE3NDMxNDkyODgsLT
-Y5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAw
-NjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LD
-ExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2
-NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3Mj
-E1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5
-NDk5NzY1XX0=
+eyJoaXN0b3J5IjpbNzk3NTIyNzUwLC0xNzQzMTQ5Mjg4LC02OT
+k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
+MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
+U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
+MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNS
+wzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5
+OTc2NV19
 -->
