@@ -290,7 +290,9 @@ Almost half of the Amazon today is classified as a natural park or conservation 
 #### Afforestation & Reforestation
 Schemes such as REDD+ involve large TNCs exchanging carbon credits. The Surui people received payment from Natura which was used to finance the planting of trees in deforested and degraded areas. 
 
-NGOs also have a large role to play. The Parica project is 
+NGOs also have a large role to play. The Parica project is in the 4th most deforested state of the Amazon, and is planting 20 million trees over 100,000 hectares of land. Although a monoculture this still plays a role in carbon sequestration and reduces 
+
+The UK's FSC has sponsored projects across Amazonia and works with companies to support sustainable forestry. In 2020, this accounted for 
 
 #### Improved agricultural techniques
 
@@ -476,11 +478,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNTE2MjM1MywxNzIwNjYzMDcwLDMyMz
-g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
-MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
-gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
-MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
-E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
-NzkwNTRdfQ==
+eyJoaXN0b3J5IjpbNzk5MDE5Nzc2LDE3MjA2NjMwNzAsMzIzOD
+YxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYy
+MywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzOD
+AxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMTM0ODAxOTcx
+NywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4MTc1MDgsMT
+c4NDc4Njk3MCw0MjM3NjkzNDQsMjExMDI0ODgwOCwtMjA0MDc3
+OTA1NF19
 -->
