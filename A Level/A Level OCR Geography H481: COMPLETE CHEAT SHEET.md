@@ -623,8 +623,7 @@ When the soil freezes, the particles within the slope are lifted vertically at a
 #### Open system, hydraulic
 These are also known as East Greenland-type pingos as they commonly occur there.
 
-They form in areas of discontinuous permafrost, typically in the base of valleys. Groundwater collects in the bottom of the valley, and begins to freeze and expand under **artesian pressure**, creating an ice lens between the active layer and the discontinuous permafrost. This ice lens creates a dome, expanding the ground and active layer upwards.
-
+Open system pingos form in areas of discontinuous permafrost, such as floors of valleys. Groundwater moves through the permeable talik and, through artesian pressure, feeds the ice core between the active layer and permafrost above, making the ice grow in size. Over time, the active layer above is pushed up, creating a dome of land above. 
 
 
 #### Closed system, hydrostatic
@@ -1526,11 +1525,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1Nj
-I1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3
-NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLT
-EzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3Mzgy
-ODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLD
-MyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEwMjAsMTIzMzcx
-Njk2M119
+eyJoaXN0b3J5IjpbLTE3NDQ5NDEzNDQsLTY5OTk2OTQ1NCw5OT
+A5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5
+NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLT
+EzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIw
+MTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MS
+wxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3
+MzEwMjBdfQ==
 -->
