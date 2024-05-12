@@ -8,8 +8,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 12/05/2024 17:19
-Last content addition: 12/05/2024 17:19](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 12/05/2024 21:24
+Last content addition: 12/05/2024 21:24](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
@@ -101,12 +101,12 @@ Layers of snow within the ice give evidence of the way that it has formed.
 
 
 ### Types of glacier and movement
-(Date studied: ~29/09/2022)
+> (Date studied: ~29/09/2022)
 
 An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
 A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
 A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
-An **ice cap** - a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
+An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
 
 
 Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
@@ -373,15 +373,13 @@ Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the He
 
 > This glacier would have continued flowing northeastwards, taking eroded material with it, towards modern-day Penrith, which is in a flat area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
+### Lake District Landforms
+
 Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk Island and Lingy Holm. The geology of roche moutonnées is characterised by being more resistant than other local rock types, possibly with increased jointing and bedding, resulting in striation lines on the stoss, with the freeze-thaw weathering being visible on the lee side still today on these rock islands.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glacial%20Flow%20from%20Helvellyn.png =750x500)
 
-
-
 To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
-
-### Lake District Landforms
 
 Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
 **Langstrath Valley** has an example of lateral moraine on the north side of it.
@@ -395,14 +393,14 @@ Using a case study, assess the extent to which landforms within a valley glacier
 
 <!-- If have time, redo this to time and make it very analytica. include all landforms e.g. erratics -->
 
-
+**Plan**
 - Formation of corries, aretes and pyramidal peaks: Helvellyn, Red Tarn and Nethermost Cove. Overdeepening caused by nivation, plucking on the back wall, and rotational slip causing the armchair shape - only possible because each are interrelated.
 - Back to back erosion w/Nethermost Cove: striding edge arete
 - Ice flowing from Red Tarn into Glenridding valley creating Helvellyn Gill and joining with another larger glacier - Ullswater, geologies creating roche moutonnées and deepening of lake. Material from erosion upvalley deposited as sediment visible in the lake today
 - Erratics may appear to be not interrelated but from erosion - partly related. Longer distances. Till also forms drumlins typically in flatter areas further away - lodgement till
 - Overall, undeniable evidence that all landforms are interrelated through the linked processes of erosion and deposition - with erosion acting as the prerequisite for subsequent transport and deposition. 
 
-
+**Essay (note: to rewrite!)**
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
 
 At the same time, under its own weight, the ice at the base begins to rotate, known as rotational slipping, deepening the base through abrasion, with this abrasive material being finer sub-glacial debris. At Helvellyn, the bedrock type is known as the Borrowdale Volcanics, having formed 450 million years ago and moved from tectonic forces. Despite this relative strength due to its more joined and bedded geology, several corries have formed, and their contained glaciers have melted throughout the Pleistocene period. After the most recent glaciation period known as the Loch Lomond Stadial around 12,000 years ago, there exists a corrie containing Red Tarn on Helvellyn's north-easterly side. These corries have eroded back to back, resulting in the formation of an arête, shaped like a knife, namely Striding Edge, and Swirrell Edge on the alternate side of this corrie. Furthermore, Red Tarn has a lip, helping to prevent water loss, as a result of rock and moraine deposits left by the glacier. 
@@ -1562,11 +1560,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NTIyNzUwLC0xNzQzMTQ5Mjg4LC02OT
-k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
-MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
-U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
-MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNS
-wzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5
-OTc2NV19
+eyJoaXN0b3J5IjpbLTEwMjY1NDI4MiwtMTc0MzE0OTI4OCwtNj
+k5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2
+NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMT
+E1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3
+NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMT
+UsMzk3Nzc2MDQxLDEzNDM4ODI4MTEsMzI0NDM2MTY3LDE3MDk0
+OTk3NjVdfQ==
 -->
