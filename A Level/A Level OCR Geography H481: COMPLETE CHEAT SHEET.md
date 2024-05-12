@@ -318,7 +318,7 @@ The **Bowder Stone** is another example being a 2,000-ton andesite lava boulder 
 
 Drumlins are **unsorted mounds of streamlined till**, commonly elongated parallel to the former direction of ice flow, composed of glacial debris.
 
-It is not known exactly how drumlins are formed, but the most likely and agreed upon explanation for their formation is that the glacier becomes **overloaded with till** (loses competence), so begins to deposit this sediment due to the increased friction that the till brings (‘smearing' the landscape). This sediment accumulates and quickly compounds, and other till that flows over the initial bump can become stuck, growing this mound of unsorted till. Over time, this grows, and when the glacier retreats, the distinct hill is revealed.
+It is not known exactly how drumlins are formed, but the most likely and agreed upon explanation for their formation is that the glacier becomes **overloaded with till** (loses competence), so begins to deposit this sediment due to the increased friction that the till brings (‘smearing' the landscape). This sediment accumulates and quickly compounds, and other till that flows over the initial bump can become stuck, growing this mound of unsorted till. Over time, this grows, and when the glacier retreats, the distinct hill is revealed. [This video](https://www.youtube.com/watch?v=xKtUpWZ8RqQ) is a good example of the theory of depositional drumlin formation.
 
 This is an example of **lodgement till** (not ablation till) as it is formed as the glacier is still advancing.
 
@@ -332,26 +332,27 @@ Drumlins can be up to 1,000m in length but are typically around 300-500m. They a
 
 Drumlins are often found in conjunction with [morainic](#moraines) landforms and other depositional features like eskers, [kames](#kames-and-kame-terraces) and outwash plains.
 
-I'd love to be like a drumlin one day, they're just so chilled out and calming
-
 > Did you know that the ground between two drumlins is known as a **dungeon**?
 
-[Theory of depositional drumlin video](https://www.youtube.com/watch?v=xKtUpWZ8RqQ)
 
 
 
 
 
+## Case study: Lake District
 
-## [tbd] Case study: Lake District
+The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (GP) being responsible for the current appearance of the landforms.
+
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
 *A beautiful view towards Helvellyn from Blencathra.*
 
-[Dev Note] 02/02/2023: Just need to add examples from the essay as well as some research info.
 
 
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Lake%20District%20Landforms.png =1050x450)
+
+
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Lake%20District%20Landforms.png =1050x320)
 *Glacial features of the Lake District, including subglacial lineations, meltwater channels, eskers, drumlins, moraines, glacially streamlined bedrock and more.*
 
 
@@ -371,6 +372,9 @@ The Glenridding village has visible depositional till extending into Ullswater, 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png)
 *As you can see, there is material extending into Ullswater from the valley leading down from Helvellyn. This shows that there were substantial amounts of debris that were being deposited and moved along this glacial route.*
 
+
+
+                   
 ### Essay snippet: inter-related valley landforms [16 marks]
 A corrie, or cirque, is formed by snow falling and compacting in a hollow over many winters, typically on the northern side of mountains in the northern hemisphere due to the sheltered aspect, and cooler microclimate. Over time, snow accumulates, compacting the snow beneath it into ice due to the air inside being displaced. The back wall of the mountain, for example, Helvellyn in the Lake District, gets increasingly steep due to persistent freeze-thaw weathering and plucking of material, which then gets entered into the young glacier system as englacial material, or lands on the surface as supraglacial material. 
 
@@ -1531,11 +1535,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU4OTIyNjksLTY5OTk2OTQ1NCw5OTA5OT
-U2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDcz
-MiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNz
-gxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4
-NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMz
-QzODgyODExLDMyNDQzNjE2NywxNzA5NDk5NzY1LC02NDI3MzEw
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTI0Mjk2ODU4LC02OTk5Njk0NTQsOTkwOT
+k1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3
+MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMz
+c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
+ODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMT
+M0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5OTc2NSwtNjQyNzMx
+MDIwXX0=
 -->
