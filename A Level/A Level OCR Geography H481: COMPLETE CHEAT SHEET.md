@@ -382,7 +382,8 @@ To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spur
 
 ### Lake District Landforms
 
-Drumlins made of boufler clay have been deposited south of Kendal.
+Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
+**Langstrath Valley** has an example of lateral moraine on the north side. 
 
                    
 ### Essay snippet: inter-related valley landforms [16 marks]
@@ -1545,11 +1546,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ5Mzg5NzIsLTE3NDMxNDkyODgsLTY5OT
-k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
-NCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNT
-UzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2Nzcw
-NDIwLC05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LD
-M5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQzNjE2NywxNzA5NDk5
-NzY1XX0=
+eyJoaXN0b3J5IjpbNjg3MzA1MDMwLC0xNzQzMTQ5Mjg4LC02OT
+k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
+MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
+U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
+MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNS
+wzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0MzYxNjcsMTcwOTQ5
+OTc2NV19
 -->
