@@ -635,7 +635,7 @@ Open system pingos form in areas of discontinuous permafrost, such as floors of 
 #### Closed system, hydrostatic
 These are also known as MacKensie-type pingos.
 
-Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is 
+Closed sstem pingos are formed in areas of continuous permafrost. They develop in flat areas below lakes. The talik below the lake is saturated by the lake suppling it with water, and remains as talik due to the lake's relative warmth. Over time, the lake may become infilled with sediment, or the water drain out, reducing the insulating effect of the warmer water. 
 
 
 These pingos develop below lakes, due to the immediate water supply. Lake water enters the talik as it is trapped between the frozen surface above and permafrost advancing during cooler periods. The talik becomes saturated quickly and hydrostatic pressure compresses this as much as possible, forcing out any warmer air bubbles. Due to the persistence of permafrost, it forces this saturated talik to freeze, becoming an ice lens, and expanding upwards into the familiar dome we know, love and recognise as a pingo. 
@@ -1532,7 +1532,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NzMyNDYzNCwtNjk5OTY5NDU0LDk5MD
+eyJoaXN0b3J5IjpbLTIzODE2OTYwMywtNjk5OTY5NDU0LDk5MD
 k5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0
 NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMT
 M3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAx
