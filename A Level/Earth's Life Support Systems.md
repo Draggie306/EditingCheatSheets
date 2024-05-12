@@ -281,15 +281,16 @@ Deforestation also causes a degrading effect for other areas of land beyond the 
 All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the South American climatic system no longer being in equilibrium as a result of human activity is stressing aquifers and groundwater stores further, which is unsustainable. 
 
 ### Management strategies
-
-####
-
-
-#### Afforestation
-Schemes such as REDD involve large TNCs exchanging carbon credits. The Surui people received payment from Natura which was used to finance the planting of trees in deforested and degraded areas. 
+Several management strategies that preserve and have positive effects on the water and carbon cycles are in use today.
 
 
+#### Leglislature
+Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming is banned. Leglislation prioritises large swathes of primary forest and ensures it does not become commercialised. 
 
+#### Afforestation & Reforestation
+Schemes such as REDD+ involve large TNCs exchanging carbon credits. The Surui people received payment from Natura which was used to finance the planting of trees in deforested and degraded areas. 
+
+NGOs also have a large role to play. The Parica project is 
 
 #### Improved agricultural techniques
 
@@ -475,11 +476,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE2NzA1MzUsMTcyMDY2MzA3MCwzMj
-M4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUy
-NjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNj
-M4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5
-NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOC
-wxNzg0Nzg2OTcwLDQyMzc2OTM0NCwyMTEwMjQ4ODA4LC0yMDQw
-Nzc5MDU0XX0=
+eyJoaXN0b3J5IjpbMjExNTE2MjM1MywxNzIwNjYzMDcwLDMyMz
+g2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2
+MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2Mz
+gwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEzNDgwMTk3
+MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEzODE3NTA4LD
+E3ODQ3ODY5NzAsNDIzNzY5MzQ0LDIxMTAyNDg4MDgsLTIwNDA3
+NzkwNTRdfQ==
 -->
