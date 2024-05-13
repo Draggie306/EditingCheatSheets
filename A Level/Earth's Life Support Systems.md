@@ -350,17 +350,22 @@ A range of land use changes act as a catalyst for altering the flows and stores 
 
 #### Urban growth
 Urbanisation (change in land use from rural to urban). This:
-- replaces natural land with impermeable surfaces, such as tarmac
-- reduce percolation and subsequent infiltration, increasing runoff
-- encourage fast drainage of water after precipitation into sewage systems
+- replaces natural land with impermeable surfaces, such as tarmac;
+- reduce percolation and subsequent infiltration, increasing runoff;
+- encourage fast drainage of water after precipitation into sewage systems;
 - ultimately, decreasing the lag time and increasing peak flows.
 
-- decreases natural stores and sequestering of carbon, even releasing it from trees that may be burned
-- requires additional surrounding land to sustain development, reducing diversity and carbon stores
-- increases carbon emissions on a local scale from urban development and combustion
+- decreases natural stores and sequestering of carbon, even releasing it from trees that may be burned;
+- requires additional surrounding land to sustain development, reducing diversity and carbon stores;
+- increases carbon emissions on a local scale from urban development and combustion.
 
 #### Farming
-Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth.
+Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth. In the Colorado River basin, USA, agriculture accounts for 80% of all water that is used. 
+
+- irrigation systems are typially located closest to rivers; reducing river flow and storage in aquifers
+- irrigation increases water in the soil (pedosphere) temporarily, with an increase in evaporation and transpiration increasing relative humidity;
+- natural interception is reduced vs forest or grasslands
+- ploughing and 
 
 #### Forestry
 
@@ -539,11 +544,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NjU1OTgsLTE1MzY1MjY5MDIsOTUxND
-EyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3
-MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMT
-UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
-LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
-Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
-NzUwOF19
+eyJoaXN0b3J5IjpbNTk2NzE5NjA3LC0xNTM2NTI2OTAyLDk1MT
+QxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMw
+NzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMT
+E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
+NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
+M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
+MTc1MDhdfQ==
 -->
