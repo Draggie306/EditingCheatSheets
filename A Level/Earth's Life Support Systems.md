@@ -309,7 +309,7 @@ The Arctic Tundra is located between 60 and 75 degrees N and includes parts of R
 
 The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, temperatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat compensate for the short growing season.
 
-### Physical factors on water
+### Physical factors of water
 
 The mean annual temperature is -15C, with precipitation between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
 
@@ -532,7 +532,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzE2MTk4LC0xNTM2NTI2OTAyLDk1MT
+eyJoaXN0b3J5IjpbLTI4MDkyNDk4LC0xNTM2NTI2OTAyLDk1MT
 QxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMw
 NzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMT
 E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
