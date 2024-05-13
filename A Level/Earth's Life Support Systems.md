@@ -362,8 +362,10 @@ Positive feedback loops are a snowball effect. That is, the system, after a trig
 
 **In the water cycle:**
 1. Higher temperatures from greenhouse effect. This increases evaporation. With more atmospheric water, more clouds are likely to form. This increases the albedo effect, reducing the amount of sunlight that is reflected as long-wave radiaion. This lowers temperaturs and evaporation.
-2. A rainfall event may occur. This increases the amount of infiltration and percola
+2. A rainfall event may occur. This increases the amount of infiltration and percolation into groundwater stores. The water table rises with more water. This increases overland flow, until the water level lowers. This lowers the amount of water in aquifers.
 
+**In the water cycle:**
+1. Increased atm CO2 emissions. This increases the amount of CO2 in the atmosphere. The CO2 available to plants increases, causing **carbon fertilisation**. Plants thus absorb more carbon from the atm. This lowers the atm CO2 concentration.
 
 
 ## Human impacts on the carbon cycle 
@@ -515,7 +517,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI5NzA4ODEsLTE1MzY1MjY5MDIsOT
+eyJoaXN0b3J5IjpbLTEwNzExNzc3MDYsLTE1MzY1MjY5MDIsOT
 UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
 MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
 0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
