@@ -344,18 +344,23 @@ Oil was developed in the 1970s due to domestic demand and lesser reliance on oth
 The global carbon and hydrological cycles are typically in a state of dynamic equilibrim. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
 
 
+
+
+
+
+
+
 #### Positive feedback loops
 Positive feedback loops are a snowball effect. That is, the system, after a trigger occurs or threshold is reached, the system increasingly becomes out of balance.
 
 
 **In the water cycle:**
 1. A greater greenhouse effect increases global temperatures. This means the atmosphere can hold more moisture. The higher temperatures increase evaporation rates.  This increases the greenhouse effect. This means that temperatures are higher, and evaporation increases.
-2. 
+2. Temperature increases in atm. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow&ice cover. This increases sea surface temperatures...
 
 
 **In the carbon cycle:**
 1. A greater greenhouse effect increases temps. Permafrost in the tundra is able to melt more quicky. CO2 and CH4 are released. This increses temperatures
-2. Temperature increases in atm. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow&ice cover. This increases sea surface temperatures...
 
 
 #### Negative feedback loops
@@ -517,7 +522,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMDUyNzk3MiwtMTUzNjUyNjkwMiw5NT
+eyJoaXN0b3J5IjpbLTgwNjQwMzE1MCwtMTUzNjUyNjkwMiw5NT
 E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
 MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
 ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
