@@ -352,7 +352,7 @@ Oil is most optimally extracted at 80 degrees C. In tundra areas, this creates a
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
 
 ### Equilibrium and Feedback Loops
-The global carbon and hydrological cycles are typically in a state of dynamic equilibrium - **a balance between all stores and flows in a system**. This means that if there is an imbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
+The global carbon and hydrological cycles are typically in a state of dynamic equilibrium - **a balance between all stores and flows in a system**. This means that if there is an imbalance of one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
 
 
 
@@ -562,11 +562,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOT
-UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
-MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
-0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
-MDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC
-0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTEx
-MzgxNzUwOF19
+eyJoaXN0b3J5IjpbLTE5NjI1MDUxNDgsLTIwNTc0NDEzMDQsLT
+E1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEz
+NDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NS
+wtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3
+NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMC
+wtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2
+NTMzMTQwMDhdfQ==
 -->
