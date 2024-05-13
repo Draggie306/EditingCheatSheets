@@ -58,7 +58,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 
 Carbon is the building block of life on Earth. It is available for use in the natural world and by humans.
 
-It is found across the planet, in a wide variety of stores, and is measured in Petagrams of Carbon - PgC - which is the same 1 gigatonne. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
+It is found across the planet, in a wide variety of stores, and is measured in Petagrams of Carbon - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
 
 Similarly to water, carbon is a closed system on Earth, but on a more local scale such as a rainforest it becomes an open system.
 
@@ -79,12 +79,12 @@ Similarly to water, carbon is a closed system on Earth, but on a more local scal
 > 1b. The carbon and water cycles are systems with inputs, outputs and stores.
 > 1c. The carbon and water cycles have distinctive processes and pathways that operate within them.
 
-In the global hydrological cycle, there are many interreated processes, stores, inputs and outputs, similar to that of a glaciated system. Flux is a term used to measure the rate of flow between stores, through mass over unit time (e.g. 3m/s). In total, **around 505,000km^2^ of water is moved annually** around this system.
+In the global hydrological cycle, there are many interrelated processes, stores, inputs and outputs, similar to that of a glaciated system. Flux is a term used to measure the rate of flow between stores, through mass over unit time (e.g. 3m/s). In total, **around 505,000km^2^ of water is moved annually** around this system.
 
 ### Evapotranspiration
 Evapotranspiration is the term used to denote the transfer of water into the atmosphere, combining evaporation and transpiration. Energy, such as insolation, when added to a mass of water like an ocean, increases particles' energy and breaks the bonds between them, allowing for a state change to gas as water vapour, which then rises. This is evaporation. Transpiration on the other hand occurs only from the biosphere and mainly plants - this accompanies the process of respiration and photosynthesis. Leaves and plant surfaces lose water through their stomata via evaporation, and this water is replenished through effectively pulling more water and nutrients from the roots through the plant. On a local scale this may be insignificant but on a wider, perhaps national scale such as the Amazon Rainforest, the amount of water transpired through the plant, and evaporated by rivers and other stores, contribute significantly to changing global weather patterns. In total, transpiration accounts for around 10% of atmospheric water vapour.
 
-Water in the soil (pedosphere) is the most likely to be absorped by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into the atmosphere, perhaps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
+Water in the soil (pedosphere) is the most likely to be absorbed by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into the atmosphere, perhaps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
 
 ### Precipitation
 One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then fall to the surface as precipitation. This process is known as the collision-coalescence theory. 
@@ -97,10 +97,10 @@ Some key points:
 - Intensity is how much precipitation falls over a given time period. This can also have an impact on reducing lag times with high intensity, causing more overland flow due to less time to infiltrate into the soil. The amount the soil can absorb is the infiltration capacity.
 - Precipitation may also vary seasonally, with greater intensity in certain months. This variation can increase or decrease the amount of water in rivers and lakes. 
 
-Preciptiation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#Catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
+Precipitation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#Catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
 
 ### Ablation
-Ablation, whch you might know from the Glaciated Landcapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. And from retreating alpine glaciers.
+Ablation, which you might know from the Glaciated Landscapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. And from retreating alpine glaciers.
 
 In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra. This change occurs seasonally.
 
@@ -128,23 +128,23 @@ When air cools or expands adiabatically, this means that there is no heat exchan
 
 These are significant as the determine how "stable" the atmosphere is. 
 
-When the sun warms an area of land, it creates heat, which warms up the air around it. As this air is unsaturated, it will decrease in temperature at the DALR. As it continues to inrcrease in altitude, the temperature reaches the dew point, and the air becomes saturated.[^1]
+When the sun warms an area of land, it creates heat, which warms up the air around it. As this air is unsaturated, it will decrease in temperature at the DALR. As it continues to increase in altitude, the temperature reaches the dew point, and the air becomes saturated.[^1]
 
 ![enter image description here](https://www.ux1.eiu.edu/~jpstimac/1400/FIG04_021.JPG)
 
 #### Cloud formation
-Clouds mainy form through convection. As an area of ground warms, the local air "parcel" rises - this is amospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occuring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
+Clouds main form through convection. As an area of ground warms, the local air "parcel" rises - this is atmospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occurring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
 
 > Different areas at different times have different dew points. and rates of ELR 
 
 This may be hard to visualise as we cannot see individual clouds and water rising and falling. I like to resolve this by remembering that it's not one cloud that forms: it's a whole cloud system that can span 1000s of kilometres; the sun can cause this convection after heating whole continental areas of land.
 
-If the dry envronmental lapse rate is lower than the ELR, the air parcel that would typically rise is unable to do so as it is cooler than the surroundings and can only rise through force (e.g. topographic changes) as the atmosperic conditions here are stable.
+If the dry environmental lapse rate is lower than the ELR, the air parcel that would typically rise is unable to do so as it is cooler than the surroundings and can only rise through force (e.g. topographic changes) as the atmospheric conditions here are stable.
 
 #### Ways clouds form
 
-Air can be cooled, aside from just moving vertially upwards, in several ways, and they create different types of clouds.
-- Hot air rises through **convection**, cooling through adiabatic expension, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms common.
+Air can be cooled, aside from just moving vertically upwards, in several ways, and they create different types of clouds.
+- Hot air rises through **convection**, cooling through adiabatic expansion, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms common.
 - Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, condensation is more likely, with higher dew points)
 - Air can be forced through wind over an area of high topography (mountains) through **orographic lift**, cooling more rapidly and thus reaching the dew point more quickly, forming clouds on the windward side of the mountain. This creates orographic rainfall on one side and a rain shadow on the other.
 - When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. The hot air above is lifted by the cool air below, rapidly cooling it and, if this is enough to reach the dew point, the air becomes saturated and clouds form! 
@@ -152,35 +152,35 @@ Air can be cooled, aside from just moving vertially upwards, in several ways, an
 ### Catchment hydrology
 There are a range of processes in a drainage basin that affect the water cycle.
 
-When precipitaion occurs in an area above freezing point, is is able to move rapidly as water as opposed to slowly as snow. When this water lands on soil, it has a few options, ultimately with the goal of moving into rivers through **runoff** - a combination of processes, as defined below:
+When precipitation occurs in an area above freezing point, is is able to move rapidly as water as opposed to slowly as snow. When this water lands on soil, it has a few options, ultimately with the goal of moving into rivers through **runoff** - a combination of processes, as defined below:
 
 Overland flow is the term used for the flow of water over the ground. It is the same as surface runoff. When on the surface, water may infiltrate into the soil - provided that the ground is not saturated. If the ground is saturated, typically defined by the water table being at the surface, then the water running off on the surface is known as saturated overland flow.
 
-When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as ocean or lake, where it remains for long periods of time. Eventially, evaporation moves it into the atmospheric store.
+When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as ocean or lake, where it remains for long periods of time. Eventually, evaporation moves it into the atmospheric store.
 
 
 
 ## Inputs, outputs and processes of carbon
 
 ### Precipitation
-I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may preciptate when the organisms die and lithfy on the ocean floor. However, as carbon is acidic, too much of this can disturb marine life.
+I'm not sure why the specification specifically states this, as this is mostly to do with the water cycle. However, rainwater and other forms of precipitation can combine with gaseous carbon (CO~2~) to form carbonic acid, which is able to break down some sedimentary rocks in situ, such as limestone. In addition, in oceans, calcium carbonate is a store of carbon in plankton and shelled organisms, and this may precipitate when the organisms die and lithify on the ocean floor. However, as carbon is acidic, too much of this can disturb marine life.
 
 
 ### Photosynthesis 
-Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospheric store too. This is an example of the fast carbon cycle.
+Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biosphere store too. This is an example of the fast carbon cycle.
 
 ### Decomposition
-Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmospehre as carbon dioxide, and some into the soil too. This process occurs very quicly in environments where there is a lot of energy ususally given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
+Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmosphere as carbon dioxide, and some into the soil too. This process occurs very quickly in environments where there is a lot of energy usually given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
 
 ### Weathering
 Weathering includes physical, chemical and biological components, and refers to the in-situ breakdown of rock.
 
 Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action.
-Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretacious aquatic organisms obtain their carbon - and accounts for 300 million tonnes annually.
+Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretaceous aquatic organisms obtain their carbon - and accounts for 300 million tonnes annually.
 A combination of physical weathering, which increases the surface area susceptible to chemical weathering, and chemical weathering itself
 
 ### Combustion
-Combustion is simply the process of buning organic material with oxygen, releasing carbon and other gases. 
+Combustion is simply the process of boning organic material with oxygen, releasing carbon and other gases. 
 
 The biggest example of this (10 GtC/yr) is human activities, from fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
 
@@ -243,40 +243,38 @@ Carbon stores and flows are influenced by temperature, vegetation, organic matte
 
 Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues, with NPP at 2500g/m^3^/yr. The amount of organic matter in the soil accounts for 40% of the rainforest's total carbon store, showing there is significant storage and sequestration in the roots of trees. The growth is facilitated by high temperatures, which is strongly dependent on the interrelationship with the water cycle.
 
-The high temperatures and demand for nutrients also make the store of carbon in and on soil very low, due to the very fast deomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly. 
+The high temperatures and demand for nutrients also make the store of carbon in and on soil very low, due to the very fast decomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly. 
 
-The mineral comsition of rocks, is largely igneous and metamorphic, with granite being abundant. These are not carboniferous but store large amounts of carbon in the long-term.
+The mineral composition of rocks, is largely igneous and metamorphic, with granite being abundant. These are not carboniferous but store large amounts of carbon in the long-term.
 
 
 
 ### Spatial scales
-An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosnthesis fixation through the stomata of each leaf, permanently (well, until combustion or deforestation occurs).
+An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosynthesis fixation through the stomata of each leaf, permanently (well, until combustion or deforestation occurs).
 
 
-An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils throught their roots, which are a large subterranean carbon store too.
+An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils through their roots, which are a large subterranean carbon store too.
 
+The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 390 billion trees acting as pumps from the soil to the atmosphere.
 
-The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 3 billion trees acting as pumps from the soil to the atmosphere.
+The Amazon rainforest stores over 100 billion tones of carbon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
 
+### Madeira drainage basin
+This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occurred in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
 
-The Amazon rainforest stores over 100 billion tones of cabon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
-
-### Madiera drainage basin
-This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occured in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
-
-Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Torrential rains, cased by orographic lift, combined with the reducton of interception, decreased lag times and increased the peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
+Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Unexpectedly high rainfall (exacerbated by orographic lift) combined with the reduction of interception, decreased lag times and increased the peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
 
 
 ### Impact of human activity
 As already demonstrated, there is high interdependence between the land, biosphere and atmosphere. If just one of these are disturbed, there is a consequence on all the other aspects. According to REDD, between 10 and 20 per cent of global GHG emissions are caused by forest destruction and damage, which equates to more than the entire global transport sector!
 
-70% of deforestation in the area is cattle ranching. In total, deforestaton peaked at 20k km^2^/yr in around 2005.
+70% of deforestation in the area is cattle ranching. In total, deforestation peaked at 20k km^2^/yr in around 2005.
 
-The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degredation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
+The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degradation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
-On the carbon cycle, human activity shrinks the carbon store in biomass by betwen 90 and 99% with grass or croplands vesus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
+On the carbon cycle, human activity shrinks the carbon store in biomass by between 90 and 99% with grass or croplands versus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
 
-Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit simialr (but somewhat less severe) characteristics to deforested regions.
+Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit similar (but somewhat less severe) characteristics to deforested regions.
 
 All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the South American climatic system no longer being in equilibrium as a result of human activity is stressing aquifers and groundwater stores further, which is unsustainable. 
 
@@ -284,22 +282,23 @@ All of these combined have resulted in severe droughts downstream for population
 Several management strategies that preserve and have positive effects on the water and carbon cycles are in use today.
 
 
-#### Leglislature
-Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming is banned. Leglislation prioritises large swathes of primary forest and ensures it does not become commercialised. 
+#### Legislature
+Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming is banned. Legislation prioritises large swathes of primary forest and ensures it does not become commercialised.
+Legislation can also be legally binding, with severe consequences for those who are guilty of deforestation or entering these areas. However, continual investment in policing is required for it to be effective in the long-term.
 
 #### Afforestation & Reforestation
 Schemes such as REDD+ involve large TNCs exchanging carbon credits. The Surui people received payment from Natura which was used to finance the planting of trees in deforested and degraded areas. 
 
 NGOs also have a large role to play. The Parica project is in the 4th most deforested state of the Amazon, and is planting 20 million trees over 100,000 hectares of land. Although a monoculture this still plays a role in carbon sequestration and reduces surface runoff, allowing the degraded land to be restored and contribute to the rapid cycling of water and carbon again.
 
-The UK's FSC has sponsored projects across Amazonia and works with companies to support sustainable forestry. In 2020, this accounted for 220,000 hectares and has also acounted for over 350,000 tonnes of CO2 sequestered annually.
+The UK's FSC has sponsored projects across Amazonia and works with companies to support sustainable forestry. In 2020, this accounted for 220,000 hectares and has also accounted for over 350,000 tonnes of CO2 sequestered annually.
 
 #### Improved agricultural techniques
 Deforestation for cattle ranching and growing crops such as soya is unsustainable. The soil is not very fertile - nitrogen, potassium and phosphorous are absorbed quickly by the large rainforest trees. After deforestation this is considerably reduced - rates seldom reach 100 cows per square km (that's 1 million square metres). This encourages practices like "slash and burn" when areas of rainforest are just cleared and moved on to the next areas when the soil is no longer profitable, after only a few years.
 
 Crop rotation and the integration of animals alongside crops may help increase fertility. Animals excrete the necessary substances for plant growth, which allows for 5x increase in land potential in already deforested areas.
 
-"Dark soils" are also being scientifcally engineered that can support high densities of permanent arable and animal farming. This may eliminate the need for deforestation into new areas, and return the water and carbon cycles to their former equilibrium glory if succesfully created.
+"Dark soils" are also being scientifically engineered that can support high densities of permanent arable and animal farming. This may eliminate the need for deforestation into new areas, and return the water and carbon cycles to their former equilibrium glory if successfully created.
 
 
 ## Case study: the Arctic Tundra
@@ -308,22 +307,22 @@ Crop rotation and the integration of animals alongside crops may help increase f
 
 The Arctic Tundra is located between 60 and 75 degrees N and includes parts of Russia, Canada, Norway, Iceland and Alaska, among others. It occupies a combines 8m km^2^ and is defined by having a July isotherm of 10 degrees C. This means that t warmest month reaches a maximum temperature of 10 degrees (this is roughly equivalent to the tree line). The Arctic Circle is the southernmost point where the sun can remain below the horizon for 24 hours during certain seasons. 
 
-The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, tempreatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat comprensate for the short growing season.
+The tundra is in a negative heat balance for 8-9 months of the year, releasing more heat than it takes in. This is a combination of polar cells in the atmosphere, and the Earth's tilt meaning that areas remain below the horizon, thus being in complete darkness for 2 months of the year. During these times, temperatures may reach -40degC. The inverse is true in the summer, where the long daylight hours somewhat compensate for the short growing season.
 
 ### Physical factors on water
 
-The mean annual temperature is -15C, with precipitaiton between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
+The mean annual temperature is -15C, with precipitation between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
 
-The little energy due to poor insolation for most of the uear means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, there is limited groundwater and soil moisture stores, with permafrost below stopping percolation and subsequent groundwater flow. 
+The little energy due to poor insolation for most of the year means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, there is limited groundwater and soil moisture stores, with permafrost below stopping percolation and subsequent groundwater flow. 
 
-Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon rier reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
+Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon river reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
 
 Rocks remain largely impermeable, due to both the permafrost and solid water and the igneous geology with various interlocking crystals, reducing porosity. The relief is largely flat too, encouraging the waterlogging and pooling of water on the surface. 
 
 
 ### Carbon cycle
 
-Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little deompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
+Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
 
 
 
@@ -375,17 +374,17 @@ At a local scale, an example of an all-round approach to management strategies c
 
 
 ### Afforestation
-Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanance** of 100 years to be an effective sink; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
+Afforestation is the process of planting trees in areas where there are none, perhaps as a result of prior deforestation, or simply where trees do not traditionally grow. Trees need to have a **permanence** of 100 years to be an effective sink; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
 
-The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
+The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degradation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
 
-Of course, ensuring that the land does not become deforested in the first place, perhaps though leglislation or policing against farmers and miners can be argued to be a more effective management strategy as this preserves the natural ecosystem. Or, legal but managed logging of areas that ensure that monocultures are avoided whilst preserving the biodiversity through the replanting of diverse trees may also be a better strategy.
+Of course, ensuring that the land does not become deforested in the first place, perhaps though legislation or policing against farmers and miners can be argued to be a more effective management strategy as this preserves the natural ecosystem. Or, legal but managed logging of areas that ensure that monocultures are avoided whilst preserving the biodiversity through the replanting of diverse trees may also be a better strategy.
 
 [Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
 
 
 ### Agricultural practices
-Agricultural practices are also usedin conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than jsut CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
+Agricultural practices are also used in conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than just CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
 
 At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. 
 
@@ -395,13 +394,13 @@ Globally, wetlands account for around 7% of the land. But also 35% of the terres
 
 The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
 
-However, where these regions are widespread such as the tropics, human activity to sustain hgh population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
+However, where these regions are widespread such as the tropics, human activity to sustain high population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
 
 In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands have been lost. However, pledges have been made to restore 30 percent of the degraded land by 2030 and over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
 
 
 ### Carbon capture and storage
-CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a sycline basin with impermeable rock where it remains hopefully for a long time.
+CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a syncline basin with impermeable rock where it remains hopefully for a long time.
 
 
 ### International carbon agreements
@@ -410,7 +409,7 @@ The most effective way to protect the global carbon cycle may be international a
 #### [1997 Kyoto Protocol](https://unfccc.int/kyoto_protocol)
 The Kyoto protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also  had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
 
-Kyoto introduced three major mechanisms to help reduce carbon (and emmision of other gases).
+Kyoto introduced three major mechanisms to help reduce carbon (and emission of other gases).
 
 - Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long-term is cheaper. More details in the cap and trade section below.
 - [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): this incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This both gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
@@ -426,7 +425,7 @@ The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst
 
 
 # Additional Skills
-The OCR specification also lists some specific skills ou must also have to ensure you get full marks. These topic-specific skills are:
+The OCR specification also lists some specific skills you must also have to ensure you get full marks. These topic-specific skills are:
 - climate graphs
 - simple mass balance (*remember from glaciation?*)
 - rates of flow
@@ -493,11 +492,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05Mz
-EzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3
-NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mz
-g3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMy
-MCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLT
-E2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0Nzg2OTcwLDQyMzc2
-OTM0NF19
+eyJoaXN0b3J5IjpbLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNz
+UxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1
+NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLD
+EwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4
+MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC
+01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0
+Nzg2OTcwXX0=
 -->
