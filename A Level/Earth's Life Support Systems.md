@@ -336,9 +336,13 @@ Oil was developed in the 1970s due to domestic demand and lesser reliance on oth
 
 
 
-## Human effects on the water cycle
+## Changes over time
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
+
+### Equilibrium and Feedback Loops
+The global carbon and hydrological cycles are typically in a state of dynamic equilibrim. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. Negative feedback loops are examples of the system self-regulating
+
 
 
 
@@ -492,11 +496,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNz
-UxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1
-NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLD
-EwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4
-MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC
-01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgxNzUwOCwxNzg0
-Nzg2OTcwXX0=
+eyJoaXN0b3J5IjpbLTk4Mzk0MzI3NywtMTUzNjUyNjkwMiw5NT
+E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
+MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
+ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
+ODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLT
+EzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEz
+ODE3NTA4XX0=
 -->
