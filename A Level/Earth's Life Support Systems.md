@@ -341,10 +341,23 @@ Oil was developed in the 1970s due to domestic demand and lesser reliance on oth
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
 
 ### Equilibrium and Feedback Loops
-The global carbon and hydrological cycles are typically in a state of dynamic equilibrim. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. Negative feedback loops are examples of the system self-regulating
+The global carbon and hydrological cycles are typically in a state of dynamic equilibrim. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
+
+
+#### Positive feedback loops
+Positive feedback loops are a snowball effect. That is, the system, after a trigger occurs or threshold is reached, the system increasingly becomes out of balance.
+
+
+**In the water cycle:**
+1. 
 
 
 
+In the water cycle:
+
+
+
+#### Negative feedback loops
 
 
 ## Human impacts on the carbon cycle 
@@ -496,11 +509,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Mzk0MzI3NywtMTUzNjUyNjkwMiw5NT
-E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
-MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
-ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
-ODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLT
-EzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEz
-ODE3NTA4XX0=
+eyJoaXN0b3J5IjpbLTE1MjI2MTkxNDAsLTE1MzY1MjY5MDIsOT
+UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
+MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
+0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
+MDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC
+0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTEx
+MzgxNzUwOF19
 -->
