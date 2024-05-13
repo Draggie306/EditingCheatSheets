@@ -336,16 +336,26 @@ Oil was developed in the 1970s due to domestic demand and lesser reliance on oth
 
 
 
+
 ## Changes over time
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
 
 ### Equilibrium and Feedback Loops
-The global carbon and hydrological cycles are typically in a state of dynamic equilibrim. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
+The global carbon and hydrological cycles are typically in a state of dynamic equilibrium - **a balance between all stores and flows in a system**. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
 
 
 
+### Land use changes
+A range of land use changes act as a catalyst for altering the flows and stores in the carbon and water cycles.
 
+#### Urban growth
+Urbanisation (change in land use from 
+
+#### Farming
+
+
+#### Forestry
 
 
 
@@ -522,11 +532,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNjQwMzE1MCwtMTUzNjUyNjkwMiw5NT
-E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
-MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
-ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
-ODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLT
-EzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEz
-ODE3NTA4XX0=
+eyJoaXN0b3J5IjpbMTI2MzE2MTk4LC0xNTM2NTI2OTAyLDk1MT
+QxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMw
+NzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMT
+E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
+NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
+M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
+MTc1MDhdfQ==
 -->
