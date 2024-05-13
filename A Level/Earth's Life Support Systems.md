@@ -270,7 +270,7 @@ As already demonstrated, there is high interdependence between the land, biosphe
 
 70% of deforestation in the area is cattle ranching. In total, deforestation peaked at 20k km^2^/yr in around 2005.
 
-The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degradation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
+The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale - [studies](https://amazonaid.org/resources/about-the-amazon/the-hydrological-cycle/) have found that this moisture cycle regulates rainfall patterns in the western United States. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degradation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
 On the carbon cycle, human activity shrinks the carbon store in biomass by between 90 and 99% with grass or croplands versus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
 
@@ -280,7 +280,6 @@ All of these combined have resulted in severe droughts downstream for population
 
 ### Management strategies
 Several management strategies that preserve and have positive effects on the water and carbon cycles are in use today.
-
 
 #### Legislature
 Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming is banned. Legislation prioritises large swathes of primary forest and ensures it does not become commercialised.
@@ -350,10 +349,18 @@ The global carbon and hydrological cycles are typically in a state of dynamic eq
 A range of land use changes act as a catalyst for altering the flows and stores in the carbon and water cycles.
 
 #### Urban growth
-Urbanisation (change in land use from 
+Urbanisation (change in land use from rural to urban). This:
+- replaces natural land with impermeable surfaces, such as tarmac
+- reduce percolation and subsequent infiltration, increasing runoff
+- encourage fast drainage of water after precipitation into sewage systems
+- ultimately, decreasing the lag time and increasing peak flows.
+
+- decreases natural stores and sequestering of carbon, even releasing it from trees that may be burned
+- requires additional surrounding land to sustain development, reducing diversity and carbon stores
+- increases carbon emissions on a local scale from urban development and combustion
 
 #### Farming
-
+Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth.
 
 #### Forestry
 
@@ -532,11 +539,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDkyNDk4LC0xNTM2NTI2OTAyLDk1MT
-QxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMw
-NzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMT
-E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
-NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
-M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
-MTc1MDhdfQ==
+eyJoaXN0b3J5IjpbMTc0NjU1OTgsLTE1MzY1MjY5MDIsOTUxND
+EyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3
+MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMT
+UxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3
+LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMz
+Q4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTExMzgx
+NzUwOF19
 -->
