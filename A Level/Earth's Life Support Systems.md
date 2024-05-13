@@ -362,10 +362,12 @@ Urbanisation (change in land use from rural to urban). This:
 #### Farming
 Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth. In the Colorado River basin, USA, agriculture accounts for 80% of all water that is used. 
 
-- irrigation systems are typially located closest to rivers; reducing river flow and storage in aquifers
+- irrigation systems are typically located closest to rivers; reducing river flow and storage in aquifers
 - irrigation increases water in the soil (pedosphere) temporarily, with an increase in evaporation and transpiration increasing relative humidity;
-- natural interception is reduced vs forest or grasslands
-- ploughing and 
+- aquifers may dry up, decreasing the local water table, lowering the number of springs, and flow in rivers.*(could you link this to a negative feedback loop?)*;
+- natural interception is reduced vs forest or grasslands;
+- ploughing increases evaporation losses and decreases soil mositure;
+- ditches and [subsurface draining](https://www.trenchers.co.uk/products/agricultural-drainage-trenchers/types-of-agricultural-drainage) channel water rapidly away from being able to infiltrate and perco
 
 #### Forestry
 
@@ -544,11 +546,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk2NzE5NjA3LC0xNTM2NTI2OTAyLDk1MT
-QxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMw
-NzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMT
-E1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4
-NywtMjYzODAxODE4LDE4MTk3NzIzMjAsLTc3NzE0Mzk5MywtMT
-M0ODAxOTcxNywtNTE2MTkxMDQ0LC0xNjUzMzE0MDA4LC0xMTM4
-MTc1MDhdfQ==
+eyJoaXN0b3J5IjpbLTE0NTMyNjU0MjMsLTE1MzY1MjY5MDIsOT
+UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
+MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
+0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
+MDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC
+0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTEx
+MzgxNzUwOF19
 -->
