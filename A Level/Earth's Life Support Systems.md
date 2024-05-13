@@ -333,10 +333,14 @@ In the long-term, the degradation of permafrost and
 ### Oil Extraction
 Oil was developed in the 1970s due to domestic demand and lesser reliance on other countries for the USA.  
 
+Oil is most optimally extracted at 80 degrees C. In cold areas this creates a significant heat inbalance and 
+
 #### Management strategies in the tundra
 
-- snake drilling: from one site, lateral drilling underground can reach more areas. This reduces the need for there to be infrastructure and heat pipes between oil extraction sites, which can melt permafrost
-- building on pads and piles: 
+- snake drilling: from one site, lateral drilling underground can reach more areas. This reduces the need for there to be infrastructure and heat pipes between oil extraction sites, which can melt permafrost and remove vegetation
+- building on pads and piles: gravel pads absorb large amounts of heat, effectively replacing and complementing the active layer, reducing the heat the permafrost is exposed to. Spine Road, Prudhoe: 2m tall gravel pad. 
+	- Piles are like stilts: infrastructure can be built on them, meaning that they are not in contact with the ground, using the air as a buffer between warm buildings and the permafrost. 
+- 
 
 
 
@@ -555,7 +559,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MzU4NjYwMiwtMTUzNjUyNjkwMiw5NT
+eyJoaXN0b3J5IjpbLTU3MDYzNjc0MSwtMTUzNjUyNjkwMiw5NT
 E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
 MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
 ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
