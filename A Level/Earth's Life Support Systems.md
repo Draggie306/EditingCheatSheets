@@ -333,6 +333,10 @@ In the long-term, the degradation of permafrost and
 ### Oil Extraction
 Oil was developed in the 1970s due to domestic demand and lesser reliance on other countries for the USA.  
 
+#### Management strategies in the tundra
+
+- snake drilling: from one site, lateral drilling underground can reach more areas. This reduces the need for there to be infrastructure and heat pipes between oil extraction sites, which can melt permafrost
+- building on pads and piles: 
 
 
 
@@ -341,36 +345,7 @@ Oil was developed in the 1970s due to domestic demand and lesser reliance on oth
 > 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
 
 ### Equilibrium and Feedback Loops
-The global carbon and hydrological cycles are typically in a state of dynamic equilibrium - **a balance between all stores and flows in a system**. This means that if there is an inbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
-
-
-
-### Land use changes
-A range of land use changes act as a catalyst for altering the flows and stores in the carbon and water cycles.
-
-#### Urban growth
-Urbanisation (change in land use from rural to urban). This:
-- replaces natural land with impermeable surfaces, such as tarmac;
-- reduce percolation and subsequent infiltration, increasing runoff;
-- encourage fast drainage of water after precipitation into sewage systems;
-- ultimately, decreasing the lag time and increasing peak flows.
-
-- decreases natural stores and sequestering of carbon, even releasing it from trees that may be burned;
-- requires additional surrounding land to sustain development, reducing diversity and carbon stores;
-- increases carbon emissions on a local scale from urban development and combustion.
-
-#### Farming
-Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth. In the Colorado River basin, USA, agriculture accounts for 80% of all water that is used. 
-
-- irrigation systems are typically located closest to rivers; reducing river flow and storage in aquifers
-- irrigation increases water in the soil (pedosphere) temporarily, with an increase in evaporation and transpiration increasing relative humidity;
-- aquifers may dry up, decreasing the local water table, lowering the number of springs, and flow in rivers.*(could you link this to a negative feedback loop?)*;
-- natural interception is reduced vs forest or grasslands;
-- ploughing increases evaporation losses and decreases soil mositure;
-- ditches and [subsurface draining](https://www.trenchers.co.uk/products/agricultural-drainage-trenchers/types-of-agricultural-drainage) channel water rapidly away from being able to infiltrate and perco
-
-#### Forestry
-
+The global carbon and hydrological cycles are typically in a state of dynamic equilibrium - **a balance between all stores and flows in a system**. This means that if there is an imbalance to one aspect of the system, such as the inputs, then processes and outputs will adjust to ensure that the system remains stable. In the long-term, this may be true. In the short term, the inputs, outputs and flows may sway from net gain to net loss, or vice versa, in disequilibrium. Negative feedback loops are examples of the system self-regulating. Positive feedback loops are the opposite.
 
 
 
@@ -395,6 +370,40 @@ Positive feedback loops are a snowball effect. That is, the system, after a trig
 
 **In the water cycle:**
 1. Increased atm CO2 emissions. This increases the amount of CO2 in the atmosphere. The CO2 available to plants increases, causing **carbon fertilisation**. Plants thus absorb more carbon from the atm. This lowers the atm CO2 concentration.
+
+### Land use changes
+A range of land use changes act as a catalyst for altering the flows and stores in the carbon and water cycles.
+
+#### Urban growth
+Urbanisation (change in land use from rural to urban). This:
+- replaces natural land with impermeable surfaces, such as tarmac;
+- reduce percolation and subsequent infiltration, increasing runoff;
+- encourage fast drainage of water after precipitation into sewage systems;
+- ultimately, decreasing the lag time and increasing peak flows.
+
+- decreases natural stores and sequestering of carbon, even releasing it from trees that may be burned;
+- requires additional surrounding land to sustain development, reducing diversity and carbon stores;
+- increases carbon emissions on a local scale from urban development and combustion.
+
+#### Farming
+Modern agricultural techniques require huge amounts of change to natural environments and huge amounts of water to sustain crop growth. In the Colorado River basin, USA, agriculture accounts for 80% of all water that is used. 
+
+- irrigation systems are typically located closest to rivers; reducing river flow and storage in aquifers
+- irrigation increases water in the soil (pedosphere) temporarily, with an increase in evaporation and transpiration increasing relative humidity;
+- aquifers may dry up, decreasing the local water table, lowering the number of springs, and flow in rivers.*(could you link this to a negative feedback loop?)*;
+- natural interception is reduced vs forest or grasslands;
+- ploughing increases evaporation losses and decreases soil moisture;
+- ditches and [subsurface draining](https://www.trenchers.co.uk/products/agricultural-drainage-trenchers/types-of-agricultural-drainage) channel water rapidly away from being able to infiltrate and percolate, and into streams or gulleys, increasing peak flow.
+
+
+- 
+
+#### Forestry
+
+
+### Water Extraction
+Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others.
+
 
 
 ## Human impacts on the carbon cycle 
@@ -546,11 +555,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTMyNjU0MjMsLTE1MzY1MjY5MDIsOT
-UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
-MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
-0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
-MDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC
-0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2NTMzMTQwMDgsLTEx
-MzgxNzUwOF19
+eyJoaXN0b3J5IjpbLTM1MzU4NjYwMiwtMTUzNjUyNjkwMiw5NT
+E0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYz
+MDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLT
+ExNTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAw
+ODcsLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLT
+EzNDgwMTk3MTcsLTUxNjE5MTA0NCwtMTY1MzMxNDAwOCwtMTEz
+ODE3NTA4XX0=
 -->
