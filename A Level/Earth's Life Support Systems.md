@@ -349,15 +349,21 @@ Positive feedback loops are a snowball effect. That is, the system, after a trig
 
 
 **In the water cycle:**
-1. 
+1. A greater greenhouse effect increases global temperatures. This means the atmosphere can hold more moisture. The higher temperatures increase evaporation rates.  This increases the greenhouse effect. This means that temperatures are higher, and evaporation increases.
 
 
 
-In the water cycle:
-
+**In the carbon cycle:**
+1. A greater greenhouse effect increases temps. Permafrost in the tundra is able to melt more quicky. CO2 and CH4 are released. This increses temperatures
+2. 
 
 
 #### Negative feedback loops
+
+**In the water cycle:**
+1. Higher temperatures from greenhouse effect. This increases evaporation. With more atmospheric water, more clouds are likely to form. This increases the albedo effect, reducing the amount of sunlight that is reflected as long-wave radiaion. This lowers temperaturs and evaporation.
+2. A rainfall event may occur. This increases the amount of infiltration and percola
+
 
 
 ## Human impacts on the carbon cycle 
@@ -509,7 +515,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjI2MTkxNDAsLTE1MzY1MjY5MDIsOT
+eyJoaXN0b3J5IjpbLTE2OTI5NzA4ODEsLTE1MzY1MjY5MDIsOT
 UxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2
 MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC
 0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgw
