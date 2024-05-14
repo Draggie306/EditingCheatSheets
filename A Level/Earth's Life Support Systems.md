@@ -411,6 +411,11 @@ Modern agricultural techniques require huge amounts of change to natural environ
 ### Water Extraction
 Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others.
 
+## Human effects on the water cycle
+> 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
+> 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
+
+
 
 
 ## Human impacts on the carbon cycle 
@@ -430,7 +435,7 @@ As I've hinted at and I'm sure you've realised by now, the water and carbon cycl
 
 
 
-### Water allocations
+### Water allocation
 
 
 
@@ -462,7 +467,9 @@ At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing"
 ### Restoration of wetlands
 Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
 
-The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
+Globally, peatlands store 2x more carbon than all forests.
+
+> The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
 
 However, where these regions are widespread such as the tropics, human activity to sustain high population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
 
@@ -490,6 +497,12 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emission of o
 #### 2015 Paris Climate Convention
 The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
 
+
+## Management strategies for water
+There are global strategies that have the potential to protect the water cycle.
+
+### Forestry techniques
+The protection of forests ensures that areas on a local scale are protected from increased
 
 
 
@@ -562,11 +575,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjI1MDUxNDgsLTIwNTc0NDEzMDQsLT
-E1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05MzEz
-NDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMzU3NS
-wtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1Mzg3
-NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MTgsMTgxOTc3MjMyMC
-wtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01MTYxOTEwNDQsLTE2
-NTMzMTQwMDhdfQ==
+eyJoaXN0b3J5IjpbLTE4NTc2NTMzOTksLTE5NjI1MDUxNDgsLT
+IwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUx
+ODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NT
+IsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEw
+OTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MT
+gsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01
+MTYxOTEwNDRdfQ==
 -->
