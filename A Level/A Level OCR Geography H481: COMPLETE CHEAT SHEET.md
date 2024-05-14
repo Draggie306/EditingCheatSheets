@@ -8,15 +8,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 12/05/2024 21:43
-Last content addition: 12/05/2024 21:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
-
---- 
-### Notice 12/05/2024
-Please note that if you have used this document before the most recent change, a variety of changes have been made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to be rewritten because of this.
-
----
-
+[Latest update: 14/05/2024 22:03
+Last content addition: 14/05/2024 22:03](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
@@ -39,7 +32,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 
 ## Glaciers as Systems
 > 1.a. Glaciated landscapes can be viewed as systems.
-> 
+
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
 *Valley glacier photo by [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
 
@@ -121,7 +114,7 @@ Valley glaciers usually occur in high altitude locations, with high relief, have
 Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
 
 
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big cracks in ice visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
 
 Cold-based (polar) glaciers:
 - have a slow rate of movement (<5m/year);
@@ -143,7 +136,7 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
-### Physical factors
+### Physical factors affecting landscapes
 > 1.b. Glaciated landscapes are influenced by a range of physical factors.
 
 #### Regional climate
@@ -160,10 +153,13 @@ Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the 
 Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
 
 #### Geology
+Geology is more than just "weak" and "strong" rocks and resistance. It is a combination of properties that uniquely determine how rocks react to stress, mechanical and chemical forces, and the environnment.
 
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation.
+Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation. Weaker-bonded rocks also reduce their resistance to glacial erosion.
 
-Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
+Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. 
+
+Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
 > **Primary permeability** is when spaces (pores) absorb and retain water.
 
 #### Relief and aspect
@@ -1574,7 +1570,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg1NzkxOSwtNjM3MDM5NzA4LC0xNz
+eyJoaXN0b3J5IjpbLTYxMjMyOTYwNiwtNjM3MDM5NzA4LC0xNz
 QzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYx
 NTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC
 00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIy
