@@ -100,41 +100,6 @@ An equilibrium is reached between accumulation and ablation are equal. This poin
 Layers of snow within the ice give evidence of the way that it has formed.
 
 
-### Types of glacier and movement
-> (Date studied: ~29/09/2022)
-
-An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
-A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
-A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
-An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
-
-
-Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
-
-Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
-
-
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big cracks in ice visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
-
-Cold-based (polar) glaciers:
-- have a slow rate of movement (<5m/year);
-- are located in extreme latitude (polar) regions;
-- are generally flat;
-- have a low basal temperature, remaining stuck to the bedrock below the pressure melting point;
-- are formed in low precipitation areas, and the glacier remains below freezing point during all seasons.
-
-Warm-based (alpine) glaciers:
-- have rapid movement (20-200m/year);
-- are located in high-altitude (mountainous) regions;
-- have a basal temperature at or above the pressure melting point;
-- are in areas of steep(er) relief;
-- have water present throughout, with the ice acting as a lubricant.
-
-Cold-based glaciers are unable to move by basal sliding as the basal temperature is below the pressure melting point. Instead, they move through **internal deformation**.
-
-> Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and the cold temperatures inhibiting internal deformation to a very slow rate.
-
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
 ### Physical factors affecting landscapes
 > 1.b. Glaciated landscapes are influenced by a range of physical factors.
@@ -155,11 +120,11 @@ Altitude also has a direct impact on the temperatures and development of valley 
 #### Geology
 Geology is more than just "weak" and "strong" rocks and resistance. It is a combination of properties that uniquely determine how rocks react to stress, mechanical and chemical forces, and the environnment.
 
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation. Weaker-bonded rocks also reduce their resistance to glacial erosion.
+Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation. Weakly-bonded rocks also reduce their resistance to glacial erosion.
 
-Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. 
+Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks suh as igneous granite which do not have any of these structural weaknesses.
 
-Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
+Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'.
 > **Primary permeability** is when spaces (pores) absorb and retain water.
 
 #### Relief and aspect
@@ -168,7 +133,39 @@ These have an impact on the the **microclimate**. This is a small region with it
 Areas of high relief mean there is greater gravitational potential energy for faster glacial movement. 
 
 
+### Types of glacier and movement
+> 1.c. There are different types of glacier and glacier movement.
 
+An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
+A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
+A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
+An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
+
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big cracks in ice visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+
+Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
+
+Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
+
+**Cold-based (polar) glaciers:**
+- have a slow rate of movement (<5m/year);
+- are located in extreme latitude (polar) regions;
+- are generally flat;
+- have a low basal temperature, remaining stuck to the bedrock below the pressure melting point;
+- are formed in low precipitation areas, and the glacier remains below freezing point during all seasons.
+
+**Warm-based (alpine) glaciers:**
+- have rapid movement (20-200m/year);
+- are located in high-altitude (mountainous) regions;
+- have a basal temperature at or above the pressure melting point;
+- are in areas of steep(er) relief;
+- have water present throughout, with the ice acting as a lubricant.
+
+Cold-based glaciers are unable to move by basal sliding as the basal temperature is below the pressure melting point. Instead, they move through **internal deformation**.
+
+> Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and the cold temperatures inhibiting internal deformation to a very slow rate.
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
 
 ## How are glacial landscapes developed?
@@ -1570,11 +1567,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjMyOTYwNiwtNjM3MDM5NzA4LC0xNz
-QzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYx
-NTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC
-00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIy
-ODMwNDMwLDY0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNT
-YxLDM5ODQ4NzIxNSwzOTc3NzYwNDEsMTM0Mzg4MjgxMSwzMjQ0
-MzYxNjddfQ==
+eyJoaXN0b3J5IjpbNDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3ND
+MxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1
+MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLT
+QzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4
+MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3MzgyODA1Nj
+EsMzk4NDg3MjE1LDM5Nzc3NjA0MSwxMzQzODgyODExLDMyNDQz
+NjE2N119
 -->
