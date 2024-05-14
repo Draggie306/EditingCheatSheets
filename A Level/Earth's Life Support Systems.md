@@ -3,8 +3,8 @@
 
 
 # 1.2 - Earth's Life Support Systems
-Wordcount: 5681
-Last modification: 10/05/2024
+Wordcount: 8405
+Last modification: 14/05/2024
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
 
@@ -411,14 +411,6 @@ Modern agricultural techniques require huge amounts of change to natural environ
 ### Water Extraction
 Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others.
 
-## Human effects on the water cycle
-> 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
-> 3.b. The pathways and processes which control the cycling of water and carbon vary over time.
-
-
-
-
-## Human impacts on the carbon cycle 
 
 
 
@@ -498,13 +490,20 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emission of o
 The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
 
 
-## Management strategies for water
+## [tbd] Management strategies for water
+IF YOU HAVE ANY NOTES PLEASE I WOULD LIKE TO ADD THEM HERE :)
+
+
 There are global strategies that have the potential to protect the water cycle.
 
 ### Forestry techniques
-The protection of forests ensures that areas on a local scale are protected from increased
+The protection of forests ensures that areas on a local scale are protected from .....
 
 
+### Water allocations
+
+
+### Drainage basin planning
 
 
 # Additional Skills
@@ -575,11 +574,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc2NTMzOTksLTE5NjI1MDUxNDgsLT
-IwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUx
-ODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NT
-IsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEw
-OTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4MDE4MT
-gsMTgxOTc3MjMyMCwtNzc3MTQzOTkzLC0xMzQ4MDE5NzE3LC01
-MTYxOTEwNDRdfQ==
+eyJoaXN0b3J5IjpbLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMT
+k2MjUwNTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0
+MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMD
+cwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTEx
+NTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwOD
+csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
+NDgwMTk3MTddfQ==
 -->
