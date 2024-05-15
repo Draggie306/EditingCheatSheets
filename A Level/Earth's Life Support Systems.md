@@ -419,9 +419,9 @@ Water extraction includes surface extraction and also extraction of water from a
 
 Artesian aquifers are those under artesian pressure. This means that in a syncline area - one confined by strata of impermeable rock geologies - water is able to travel to the surface, depending on the potentiometric surface. Imagine that the water table in an area of porous chalk is at the surface. However, the chalk in this basin - a U-shape with various layers of rock above and below - is at the base of this "U". When drills are made into the bottom of this basin which may be above a population centre such as London, this water is able to rise to the surface, as a hole has been put into the impermeable rock. 
 
-In London, the water table fell by 90m due to industry. By 1990 it was recovering at 3m/yr. Underground infrastructure was threatened and Thames Water have permits to abstract water, maintaining the equilibrium.
+In London, the water table fell by 90m due to industry. By 1990 it was recovering at 3m/yr. Underground infrastructure was threatened and Thames Water now has permits to abstract water, maintaining the equilibrium.
 
-In the River Kennet, upstream from London, which drains 1,200km2 of land, water extraction from sources has decreased river flow by 14% consistently. This is worse in droughts when up to 40% of the flow is lost. This reduces overland flow in the river, and also the flux as percolation into aquifers, whose water tables are less likely to rise to the surface, affecting number of springs and water in surrounding areas. Water available for uptake by trees is lost. 
+In the River Kennet, upstream from London, which drains 1,200 km2 of land, water extraction from sources has decreased river flow by 14% consistently. This is worse in droughts when up to 40% of the flow is lost. This reduces overland flow in the river, and also the flux as percolation into aquifers, whose water tables are less likely to rise to the surface, affecting a number of springs and saturated overland flow and water in surrounding areas. Water available for uptake by trees is also lost. Downstrem, floodplains have seen a lowering in the water table and less time spent with the saturated ground. 
 
 
 ## How water and carbon are linked
@@ -584,11 +584,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDY5NjI1OCwxOTcyNjk5NTgsLTg2Nz
-c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
-MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
-wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
-ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
-YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
-ODAxODE4XX0=
+eyJoaXN0b3J5IjpbLTE3MzYyNDg0MDcsMTk3MjY5OTU4LC04Nj
+c3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUw
+NTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzND
+QsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMy
+Mzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NT
+I2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2
+MzgwMTgxOF19
 -->
