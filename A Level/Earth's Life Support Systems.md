@@ -535,7 +535,7 @@ The conditions of wetlands create low-oxygen soils, leading to anaerobic conditi
 
 However, where these regions are widespread such as the tropics, human activity to sustain hgh population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
 
-In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands have been lost. However, pledges have been made to restore 30 percent of the degraded land by 2030 and today over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
+In Canada, which is home to 25% of the world's wetlands, 70% of them have been lost or degraded. However, pledges have been made to restore 30 percent of the degraded land by 2030 and today over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
 
 
 ### Carbon capture and storage
@@ -651,11 +651,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2MTg0MDc2LC04Njc3NDI5MzMsLTI4Nz
-IzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OCwtMjA1NzQ0
-MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3NTE4ODA1OT
-QsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5
-MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MD
-c0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5
-NzcyMzIwXX0=
+eyJoaXN0b3J5IjpbLTE4Nzg0Mjc1NzIsLTg2Nzc0MjkzMywtMj
+g3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4LC0yMDU3
+NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMTc1MTg4MD
+U5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIzODYxNTUyLC01
+MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOT
+QwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4
+MTk3NzIzMjBdfQ==
 -->
