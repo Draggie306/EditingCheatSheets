@@ -429,6 +429,11 @@ In the River Kennet, upstream from London, which drains 1,200 km2 of land, water
 
 As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
+- **Oceans**
+- **Atmosphere**
+- **Cryosphere**
+- **Vegetation**
+
 
 
 ## Management strategies for carbon
@@ -584,11 +589,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzYyNDg0MDcsMTk3MjY5OTU4LC04Nj
-c3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUw
-NTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzND
-QsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMy
-Mzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NT
-I2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2
-MzgwMTgxOF19
+eyJoaXN0b3J5IjpbMTI3MjcxNzYxMiwtMTczNjI0ODQwNywxOT
+cyNjk5NTgsLTg2Nzc0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUz
+Mzk5LC0xOTYyNTA1MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OT
+AyLDk1MTQxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3
+MjA2NjMwNzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MT
+c4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUz
+OTk4MDA4N119
 -->
