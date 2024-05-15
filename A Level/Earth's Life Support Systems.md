@@ -417,7 +417,9 @@ Modifes the water cycle on a local scale, depending on the type of trees and are
 ### Water Extraction
 Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others. 
 
-Artesian aquifers are those under artesian pressure. This means that in a syncline area - one confined by strata of impermeable rock geologies - water is able to travel to the surface, depending on the potentiometric surface. Imagine that the water table in an area of porous chalk 
+Artesian aquifers are those under artesian pressure. This means that in a syncline area - one confined by strata of impermeable rock geologies - water is able to travel to the surface, depending on the potentiometric surface. Imagine that the water table in an area of porous chalk is at the surface. However, the chalk in this basin - a U-shape with various layers of rock above and below - is at the base of this "U". When drills are made into the bottom of this basin which may be above a population centre such as London, this water is able to rise to the surface, as a hole has been put into the impermeable rock. 
+
+In London, the water table fell by 90m due to industry. By 1990 it was recove
 
 
 
@@ -582,7 +584,7 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcyODY3ODAyLDE5NzI2OTk1OCwtODY3Nz
+eyJoaXN0b3J5IjpbNzcyMTk2NDk4LDE5NzI2OTk1OCwtODY3Nz
 QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
 NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
 0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
