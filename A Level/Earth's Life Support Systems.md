@@ -522,11 +522,6 @@ Of course, ensuring that the land does not become deforested in the first place,
 [Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
 
 
-### Agricultural practices
-Agricultural practices are also usedin conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than jsut CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
-
-At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. 
-
 
 ### Restoration of wetlands
 Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
@@ -571,6 +566,11 @@ The protection of forests ensures that areas on a local scale are protected from
 
 
 ### Water allocations
+In areas of water scarcity, water may be allocated by governments and rationed between different groups and stakeholders, such as businesses, farmers and individuals. 
+
+Agriculture, as seen in the Colorado river basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
+
+Management strategies, such as minimising water loss through evaporation with the use  
 
 
 ### Drainage basin planning
@@ -655,12 +655,18 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
+
+
+# Credits 
+
+- Renu's Level 3 responses
+- OCR A Level 3rd Edition Textbook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjQ2MjQ1NywxOTcyNjk5NTgsLTg2Nz
-c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
-MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
-wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
-ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
-YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
-ODAxODE4XX0=
+eyJoaXN0b3J5IjpbNTc4OTk3NjkwLDE5NzI2OTk1OCwtODY3Nz
+QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
+NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
+0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
+NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNj
+IzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4
+MDE4MThdfQ==
 -->
