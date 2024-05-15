@@ -4,8 +4,8 @@
 
 
 # 1.2 - Earth's Life Support Systems
-Wordcount: 8405
-Last modification: 14/05/2024
+Wordcount: 9098
+Last modification: 15/05/2024 23:28
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
 
@@ -497,7 +497,9 @@ There are global strategies that have the potential to protect the water cycle, 
 - **drainage basin planning**
 
 ### Forestry techniques
-The protection of forests ensures that areas on a local scale are protected from deforestation and 
+The protection of forests ensures that areas on a local scale are protected from deforestation in law. The UN, World Bank and governments all collaborate to ensure forests do not become degraded. The REDD+ programme funds projects in over 50 countries with direct investment, technology and carbon offsets.
+
+NGOs such as WWF and the ARPA program in Brazil ensure that over 128 million acres of land, targeting 150 million, are protected. 
 
 
 ### Water allocations
@@ -585,21 +587,13 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMT
-k2MjUwNTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0
-MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMD
-cwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTEx
-NTE1NTI2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwOD
-csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
-NDgwMTk3MTddfQ==
--->
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MjYyOTUxMCwtMzU1Nzc5MTg1LC0xNz
-M2MjQ4NDA3LDE5NzI2OTk1OCwtODY3NzQyOTMzLC0yODcyMzkz
-OTYsLTE4NTc2NTMzOTksLTE5NjI1MDUxNDgsLTIwNTc0NDEzMD
-QsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05
-MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMz
-U3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1
-Mzg3NTQ4MjddfQ==
+eyJoaXN0b3J5IjpbLTE5MDk3NTU3NTEsLTM1NTc3OTE4NSwtMT
+czNjI0ODQwNywxOTcyNjk5NTgsLTg2Nzc0MjkzMywtMjg3MjM5
+Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4LC0yMDU3NDQxMz
+A0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMTc1MTg4MDU5NCwt
+OTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIzODYxNTUyLC01MDkzMT
+M1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQs
+NTM4NzU0ODI3XX0=
 -->
