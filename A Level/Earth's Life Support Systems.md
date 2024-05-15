@@ -480,25 +480,25 @@ CCS is a technique used to stop carbon emissions from the source, such as in fac
 The most effective way to protect the global carbon cycle may be international agreements. These provide a legal framework for large-scale, mass carbon emissions reductions globally, when done correctly.
 
 #### [1997 Kyoto Protocol](https://unfccc.int/kyoto_protocol)
-The Kyoto protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also  had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
+The Kyoto Protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
 
 Kyoto introduced three major mechanisms to help reduce carbon (and emission of other gases).
 
-- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long-term is cheaper. More details in the cap and trade section below.
-- [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): this incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This both gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
+- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long term are cheaper. More details in the cap and trade section below.
+- [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): This incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
 - .
 
 
 
 #### 2015 Paris Climate Convention
-The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
+The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it.
 
 
-## [tbd] Management strategies for water
-IF YOU HAVE ANY NOTES PLEASE I WOULD LIKE TO ADD THEM HERE :)
-
-
-There are global strategies that have the potential to protect the water cycle.
+## Management strategies for water
+There are global strategies that have the potential to protect the water cycle, including:
+- **forestry**
+- **water allocations**
+- **drainage basin planning**
 
 ### Forestry techniques
 The protection of forests ensures that areas on a local scale are protected from .....
@@ -507,15 +507,18 @@ The protection of forests ensures that areas on a local scale are protected from
 ### Water allocations
 In areas of water scarcity, water may be allocated by governments and rationed between different groups and stakeholders, such as businesses, farmers and individuals. 
 
-Agriculture, as seen in the Colorado river basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
+Agriculture, as seen in the Colorado River basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
 
-Management strategies, such as minimising water loss through evaporation with the use  
+Management strategies
+- minimising water loss through evaporation with the use of **drip irrigation**, reducing usage by 70%.
+- terracing and vegetative strips encourage the pooling of water on the surface. This reduces runoff and allows more time for water to infiltrate, moving through the soil as throughflow.
+- capping usage for certain states (inth Colorado) 
 
 ### Drainage basin planning
 
 
 # Additional Skills
-The OCR specification also lists some specific skills you must also have to ensure you get full marks. These topic-specific skills are:
+The OCR specification also lists some specific skills you must have to ensure you get full marks. These topic-specific skills are:
 - climate graphs
 - simple mass balance (*remember from glaciation?*)
 - rates of flow
@@ -591,11 +594,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MjAzNzg3MCwxOTcyNjk5NTgsLTg2Nz
-c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
-MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
-wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
-ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
-YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
-ODAxODE4XX0=
+eyJoaXN0b3J5IjpbLTE2MDUyOTczMzAsMTk3MjY5OTU4LC04Nj
+c3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUw
+NTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzND
+QsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMy
+Mzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NT
+I2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2
+MzgwMTgxOF19
 -->
