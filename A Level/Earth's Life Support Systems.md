@@ -477,16 +477,16 @@ The most effective way to protect the global carbon cycle may be international a
 #### [1997 Kyoto Protocol](https://unfccc.int/kyoto_protocol)
 The Kyoto Protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
 
-Kyoto introduced three major mechanisms to help reduce carbon (and emission of other gases).
+Kyoto introduced three major mechanisms to help reduce carbon (and the emission of other gases).
 
 - Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long term are cheaper. More details in the cap and trade section below.
 - [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): This incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
-- .
-
 
 
 #### 2015 Paris Climate Convention
-The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it.
+The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it. It aims to limit CO2 emissions and temperature increase below 2 degrees C.
+
+- 
 
 
 ## Management strategies for water
@@ -510,9 +510,9 @@ Management strategies
 - capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
 
 ### Drainage basin planning
-This is a collaborative effort at the drainage-basin scale to encourage the sharing of demands and needs for everyone involved, including domesctic use, industury and agriculture.
+This is a collaborative effort at the drainage basin scale to encourage the sharing of demands and needs for everyone involved, including domestic use, industry and agriculture.
 
-Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, s
+Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, stating that aquifers should always remain 50% at capacity with a high water table. After these plans have been made, actions can be taken, such as reforestation to improve interception rates, slowing peak flow, and encouraging greater infiltration and percolation. Urban areas can be financially incentivised to reduce the amount of impermeable surfaces - such as in the EU Water Directive Framework pre-2020 where 10 catchment hydrologies had holistic plans established to improve the amount and availability of water at this scale.
 
 
 ---
@@ -594,11 +594,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIyODYzNzYsLTM1NTc3OTE4NSwtMTczNj
-I0ODQwNywxOTcyNjk5NTgsLTg2Nzc0MjkzMywtMjg3MjM5Mzk2
-LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4LC0yMDU3NDQxMzA0LC
-0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMTc1MTg4MDU5NCwtOTMx
-MzQyOTU1LDE3MjA2NjMwNzAsMzIzODYxNTUyLC01MDkzMTM1Nz
-UsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4
-NzU0ODI3XX0=
+eyJoaXN0b3J5IjpbLTQxOTgzMjk5LC0zNTU3NzkxODUsLTE3Mz
+YyNDg0MDcsMTk3MjY5OTU4LC04Njc3NDI5MzMsLTI4NzIzOTM5
+NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OCwtMjA1NzQ0MTMwNC
+wtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3NTE4ODA1OTQsLTkz
+MTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNT
+c1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUz
+ODc1NDgyN119
 -->
