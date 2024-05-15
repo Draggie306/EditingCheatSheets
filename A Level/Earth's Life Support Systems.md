@@ -36,9 +36,9 @@ The Circumstellar Habitable Zone, or Goldilocks zone, is the habitable area arou
 It is described by astronomers as:
 > “The area around a stellar object which contains liquid water, making it habitable. The regulation of temperature and radiation facilitate respiration and photosynthesis”.
 
-Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping o-wave radiation from causing harm for the biosphere. The greenhouse effect by water vapour prevents some long-wave radiation reflected from the Earth from exiting. It makes up 65-95% of all the biospheric mass, including in people, flora and fauna.
+Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping o-wave radiation from causing harm to the biosphere. The greenhouse effect by water vapour prevents some long-wave radiation reflected from the Earth from exiting. It makes up 65-95% of all the biospheric mass, including people, flora and fauna.
 
-Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**.An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
+Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**. An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
 
 |Store|Size|% of total|
 |--|--|---
@@ -50,7 +50,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | tmosphere | 13k km^3^ |0.00093%
 | ivers | 2.1k km^3^ |0.00015%
 | iosphere | 1.1k km^3^ |0.000081%
-* Data updated to match latest scientific research.
+* Data updated to match the latest scientific research.
 
 ## Introduction to carbon
 
@@ -60,7 +60,7 @@ Carbon is the building block of life on Earth. It is available for use in the na
 
 It is found across the planet, in a wide variety of stores, and is measured in Petagrams of Carbon - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
 
-Similarly to water, carbon is a closed system on Earth, but on a more local scale such as a rainforest it becomes an open system.
+Similarly to water, carbon is a closed system on Earth, but on a more local scale such as a rainforest, it becomes an open system.
 
 
 | Store | Amount | Format |
@@ -82,12 +82,12 @@ Similarly to water, carbon is a closed system on Earth, but on a more local scal
 In the global hydrological cycle, there are many interrelated processes, stores, inputs and outputs, similar to that of a glaciated system. Flux is a term used to measure the rate of flow between stores, through mass over unit time (e.g. 3m/s). In total, **around 505,000km^2^ of water is moved annually** around this system.
 
 ### Evapotranspiration
-Evapotranspiration is the term used to denote the transfer of water into the atmosphere, combining evaporation and transpiration. Energy, such as insolation, when added to a mass of water like an ocean, increases particles' energy and breaks the bonds between them, allowing for a state change to gas as water vapour, which then rises. This is evaporation. Transpiration on the other hand occurs only from the biosphere and mainly plants - this accompanies the process of respiration and photosynthesis. Leaves and plant surfaces lose water through their stomata via evaporation, and this water is replenished through effectively pulling more water and nutrients from the roots through the plant. On a local scale this may be insignificant but on a wider, perhaps national scale such as the Amazon Rainforest, the amount of water transpired through the plant, and evaporated by rivers and other stores, contribute significantly to changing global weather patterns. In total, transpiration accounts for around 10% of r wr vapour.
+Evapotranspiration is the term used to denote the transfer of water into the atmosphere, combining evaporation and transpiration. Energy, such as insolation, when added to a mass of water like an ocean, increases particles' energy and breaks the bonds between them, allowing for a state change to gas as water vapour, which then rises. This is evaporation. Transpiration on the other hand occurs only from the biosphere and mainly plants - this accompanies the process of respiration and photosynthesis. Leaves and plant surfaces lose water through their stomata via evaporation, and this water is replenished by effectively pulling more water and nutrients from the roots through the plant. On a local scale this may be insignificant but on a wider, perhaps national scale such as the Amazon Rainforest, the amount of water transpired through the planet, and evaporated by rivers and other stores, contributes significantly to changing global weather patterns. In total, transpiration accounts for around 10% of atmospheric water vapour.
 
-Water in the soil (pedosphere) is the most likely to be absored by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into te aopr, haps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
+Water in the soil (pedosphere) is the most likely to be absorbed by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere to the biosphere and then into the atmosphere, perhaps in under a day. <strong>An oak tree can transpire over 150,000 litres of water per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
 
 ### Precipitation
-One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then fall to the surface as precipitation. This process is known as the collision-coalescence theory. 
+One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (the temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then falling to the surface as precipitation. This process is known as the collision-coalescence theory. 
 
 Water produced by precipitation is then collected in a **drainage basin** and moves into rivers through **runoff** - a combination of processes including **overland flow**, in addition to **soil infiltration**, **ground percolation** and subsequent **throughflow** and **groundwater flow**. Most of this water will then enter the ocean again, ready for the cycle to repeat, or **percolate** further into **permeable** rocks and be part of an underground **aquifer**.
 
@@ -97,10 +97,10 @@ Some key points:
 - Intensity is how much precipitation falls over a given time period. This can also have an impact on reducing lag times with high intensity, causing more overland flow due to less time to infiltrate into the soil. The amount the soil can absorb is the infiltration capacity.
 - Precipitation may also vary seasonally, with greater intensity in certain months. This variation can increase or decrease the amount of water in rivers and lakes. 
 
-Precipitation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#Catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
+Precipitation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
 
 ### Ablation
-Ablation, which you might  from the Glaciated Landscapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. And from retreating alpine glaciers.
+Ablation, which you might remember from the Glaciated Landscapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second-highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. And from retreating alpine glaciers.
 
 In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra. This change occurs seasonally.
 
@@ -111,7 +111,7 @@ In addition, permafrost melting can also contribute to the creation of extra pon
 There are some fundamental principles of cloud formation you need to know:
 - **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gases)
 - As air rises, **it always cools**, at a rate of 0.65 degrees C per 100m or so.
-	- Due to gravity, there are fewer molecules of air above the original air pocket. Therefore the pressure is lower, and the air pocket expands. With this expansion there is greater room for the molecules to collide, reducing kinetic energy. A reduction in energy lowers temperatures. 
+	- Due to gravity, there are fewer molecules of air above the original air pocket. Therefore the pressure is lower, and the air pocket expands. With this expansion, there is greater room for the molecules to collide, reducing kinetic energy. A reduction in energy lowers temperatures. 
 - Air rises when it moves over a mountainous region, or wind from below moves over a mountain.
 - The atmosphere has less pressure with altitude. Therefore, the same amount of air in a 'parcel' will occupy a greater area at higher altitudes.
 - The dew point is the critical temperature at which air can contain purely water vapour at a given pressure. Beyond this point, cooling results in **condensation** as no more moisture can be held as vapour. 
@@ -133,7 +133,7 @@ When the sun warms an area of land, it creates heat, which warms up the air arou
 ![enter image description here](https://www.ux1.eiu.edu/~jpstimac/1400/FIG04_021.JPG)
 
 #### Cloud formation
-Clouds main form through convection. As an area of ground warms, the local air "parcel" rises - this is atmospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occurring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
+Clouds mainly form through convection. As an area of ground warms, the local air "parcel" rises - this is atmospheric instability. For this example, let's say that the dew point is 10 degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occurring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
 
 > Different areas at different times have different dew points. and rates of ELR 
 
@@ -144,7 +144,7 @@ If the dry environmental lapse rate is lower than the ELR, the air parcel that w
 #### Ways clouds form
 
 Air can be cooled, aside from just moving vertically upwards, in several ways, and they create different types of clouds.
-- Hot air rises through **convection**, cooling through adiabatic expnsion, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms common.
+- Hot air rises through **convection**, cooling through adiabatic expansion, in areas of atmospheric instability. This forms large, puffy cumulus and cumulonimbus clouds - rain and thunderstorms are common.
 - Air can move laterally over a cooler area, as **advection**.  This includes nimbostratus clouds. (Remember, as they move into a cooler area, condensation is more likely, with higher dew points)
 - Air can be forced through wind over an area of high topography (mountains) through **orographic lift**, cooling more rapidly and thus reaching the dew point more quickly, forming clouds on the windward side of the mountain. This creates orographic rainfall on one side and a rain shadow on the other.
 - When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. The hot air above is lifted by the cool air below, rapidly cooling it and, if this is enough to reach the dew point, the air becomes saturated and clouds form! 
@@ -156,7 +156,7 @@ When precipitation occurs in an area above freezing point, is is able to move ra
 
 Overland flow is the term used for the flow of water over the ground. It is the same as surface runoff. When on the surface, water may infiltrate into the soil - provided that the ground is not saturated. If the ground is saturated, typically defined by the water table being at the surface, then the water running off on the surface is known as saturated overland flow.
 
-When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as ocean or lake, where it remains for long periods of time. Eventally, evaporation moves it into the atmospheric store.
+When this water has **infiltrated** into the soil, it can move through it laterally through **throughflow**. Gravity still acts on it, and therefore it may **percolate** into permeable ground rocks, or **aquifers**. Water in these rocks are stored as **groundwater**, and move through **groundwater flow**. It may then move into a store such as an ocean or lake, where it remains for long periods of time. Eventually, evaporation moves it into the atmospheric store.
 
 
 
@@ -167,7 +167,7 @@ I'm not sure why the specification specifically states this, as this is mostly t
 
 
 ### Photosynthesis 
-Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biospher store too. This is an example of the fast carbon cycle.
+Photosynthesis is the process that transfers atmospheric carbon dioxide into the biosphere, accounting for 120 PgC per year. Plant stomata open and close and allow carbon to enter, combine with water, to create energy (glucose) for the plant, allowing it to grow and increase its transfer of carbon further. The respiration flux accounts for 118 PgC to be transferred back into the atmosphere from the biosphere store too. This is an example of the fast carbon cycle.
 
 ### Decomposition
 Decomposers such as fungi and microbes break down dead organic matter, and in the process releasing most of the stored carbon into the atmosphere as carbon dioxide, and some into the soil too. This process occurs very quickly in environments where there is a lot of energy usually given by heat along the equator in tropical rainforests and is slower in much colder locations like the tundra.
@@ -175,14 +175,14 @@ Decomposers such as fungi and microbes break down dead organic matter, and in th
 ### Weathering
 Weathering includes physical, chemical and biological components, and refers to the in-situ breakdown of rock.
 
-Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example roots cracking open rocks or freeze-thaw action.
-Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretacous aquatic organisms obtain their carbon - and accounts for 300 million tonnes annually.
+Physical weathering is the action of other factors such as water or biotic life mechanically breaking down rocks, for example, roots cracking open rocks or freeze-thaw action.
+Chemical weathering can also be significant, such as carbonation, which occurs when carbonic acid is produced (see above) which breaks down carbonates in rock strata, which then releases CO~2~ gas or dissolved in water streams. This contributes to how phytoplankton and other cretacious aquatic organisms obtain their carbon - and accounts for 300 million tonnes annually.
 A combination of physical weathering, which increases the surface area susceptible to chemical weathering, and chemical weathering itself
 
 ### Combustion
-Combustion is simply the process of bning organic material with oxygen, releasing carbon and other gases. 
+Combustion is simply the process of burning organic material with oxygen, releasing carbon and other gases. 
 
-The biggest example of this (10 GtC/yr) is human activities, from fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
+The biggest example of this (10 GtC/yr) is human activities, from extraction of fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
 
 In natural environments too this is essential lightning creating fires, removing forest floor litter and allowing new growth when spaces of the forest canopy are opened. This moves carbon from the biosphere, and sometimes soils and peat too, to the atmosphere.
 
@@ -621,7 +621,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 - Renu's Level 3 responses
 - OCR A Level 3rd Edition Textbook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzUxMjQzMCwxOTcyNjk5NTgsLTg2Nz
+eyJoaXN0b3J5IjpbLTI2Mjc3MTY2MywxOTcyNjk5NTgsLTg2Nz
 c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
 MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
 wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
