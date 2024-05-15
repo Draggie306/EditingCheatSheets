@@ -45,7 +45,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | Ocean | 1.33b km^3^ |96.5%
 | Cryosphere | 24m km^3^ |1.76%
 | Aquifers | 23m km^3^ |1.69%
-| akes | 176k km^3^ |0.013%
+| Lakes | 176k km^3^ |0.013%
 | edosphere | 17k km^3^ |0.0012%
 | tmosphere | 13k km^3^ |0.00093%
 | ivers | 2.1k km^3^ |0.00015%
@@ -239,22 +239,18 @@ Carbon stores and flows are influenced by temperature, vegetation, organic matte
 
 <!-- is this what influences carbon stores, or is it the store that is affected? -->
 
-Biomass, unexpectedly, is the greatest carbon store, with 100 billi ,t on tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues, with NPP at 2500g/m^3^/yr. The amount of organic matter in the soil accounts for 40% of the, or pushes the ai to te southeat hang in rinfores manaeen result in drouhts ocun  rais popuation centreshttseiedia.orgw1020raiiadroght  the orst droht in 0 yr ro 20.
+Biomass, unexpectedly, is the greatest carbon store, with 100 billion tonnes of it. The temperature sustains strong rates of photosynthesis, which creates more plant matter and a positive feedback loop ensues, with NPP at 2500g/m3/yr. The amount of organic matter in the soil accounts for 40% of the rainforest’s total carbon store, showing there is significant storage and sequestration in the roots of trees. The growth is facilitated by high temperatures, which is strongly dependent on the interrelationship with the water cycle.
 
-hen rainforest's total carbon store, showing there is significant storage and sequestration in the roots of trees. The growth is facilitated by high temperatures, which is strongly dependent on the interrelationship with the water cycle.
-
-The high temperatures and demand for nutrieall events do ocu the significant moisture ailili and high temeratres reult in a ih de oins so make the store of carbon in and on soil very low, due to the very fast decomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly. 
+The high temperatures and demand for nutrients also make the store of carbon in and on soil very low, due to the very fast decomposition of dead matter by decomposers. Organic carbon thus circulates very rapidly.
 
 The mineral composition of rocks, is largely igneous and metamorphic, with granite being abundant. These are not carboniferous but store large amounts of carbon in the long-term.
 
 
 
 ### Spatial scales
-An individual tree may have little influence on the cycle of water and carbon. Trees  are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposnd thus large, **cumulonimbus** clouds are likely to form, with **diurnal changes** to temperatures and hus huiit rainfall tial curing n the afternoon  hese o he  amount o moistreIntense rainfall overs are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosynthesis fixation through the stomata of each leaf, permanently (well, until combustion or deforestation occurs).
+An individual tree may have little influence on the cycle of water and carbon. Trees are the main factor in reducing the velocity of precipitation, shielding the soil and preventing runoff of nutrients. At the same time, detritivores and decomposers are sheltered from the sun under tree cover, allowing for rapid decomposition of nutrients and release of carbon on the forest floor.  A single tree sequesters over 22kg of carbon every year from the atmosphere through photosynthesis fixation through the stomata of each leaf, permanently (well, until combustion or deforestation occurs)
 
-
-An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amountort period increase amounts of surface **runoff**, but overland flow is likely to be **unsaturated**, so some will be absorbed (infiltrate) into the soils. 
-As a result, large amounts of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils through their roots, which are a large subterranean carbon store too.
+An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils through their roots, which are a large subterranean carbon store too.
 
 The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 390 billion trees acting as pumps from the soil to the atmosphere. *There is more water in flying rivers above ground than in the Amazon river itself.*
 
@@ -263,7 +259,7 @@ The Amazon rainforest stores over 100 billion tones of carbon and absorbs 2.4 bi
 ### Madeira drainage basin
 This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occurred in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
 
-Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Unexpectedly high rainfall (exacerbated by orographic lift) combined with the reduction of interception, decreased lag times and increased the peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
+Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Unexpectedly high rainfall (exacerbated by orographic lift) combined with the reduction of interception, decreased lag times and increased peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
 
 
 ### Impact of human activity
@@ -275,7 +271,7 @@ The effects of deforestation are wide-ranging. Converting trees into pasture **i
 
 On the carbon cycle, human activity shrinks the carbon store in biomass by between 90 and 99% with grass or croplands versus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
 
-Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit similar (but somewhat less severe) characteristics to deforested regions.
+Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of the remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit similar (but somewhat less severe) characteristics to deforested regions.
 
 All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the South American climatic system no longer being in equilibrium as a result of human activity is stressing aquifers and groundwater stores further, which is unsustainable. 
 
@@ -283,7 +279,7 @@ All of these combined have resulted in severe droughts downstream for population
 Several management strategies that preserve and have positive effects on the water and carbon cycles are in use today.
 
 #### Legislature
-Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming is banned. Legislation prioritises large swathes of primary forest and ensures it does not become commercialised.
+Almost half of the Amazon today is classified as a natural park or conservation areas. Here, deforestation and farming are banned. Legislation prioritises large swathes of primary forest and ensures it does not become commercialised.
 Legislation can also be legally binding, with severe consequences for those who are guilty of deforestation or entering these areas. However, continual investment in policing is required for it to be effective in the long-term.
 
 #### Afforestation & Reforestation
@@ -299,15 +295,6 @@ Deforestation for cattle ranching and growing crops such as soya is unsustainabl
 Crop rotation and the integration of animals alongside crops may help increase fertility. Animals excrete the necessary substances for plant growth, which allows for 5x increase in land potential in already deforested areas.
 
 "Dark soils" are also being scientifically engineered that can support high densities of permanent arable and animal farming. This may eliminate the need for deforestation into new areas, and return the water and carbon cycles to their former equilibrium glory if successfully created.is available in the soils (pedosphere) and percolates also into aquifers (lithosphere). The biosphere store can then uptake this water from the soils, supporting the feedback loop of precipitation. 
-
-
-
-### Carbon in the rainforest
-Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 24.5t C/ha/yr. The amount of total carbon stored in all rainforests is around 100 GtC, with 1-3GtC annually absorbed from the atmosphere.
-
-
-
-An individual tree may have little influence on the cycle of water and carbon. The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration.
 
 ### Madiera drainage basin
 
@@ -634,11 +621,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 - Renu's Level 3 responses
 - OCR A Level 3rd Edition Textbook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyODM3NywxOTcyNjk5NTgsLTg2Nzc0Mj
-kzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4
-LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMT
-c1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIzODYx
-NTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMy
-wxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAx
-ODE4XX0=
+eyJoaXN0b3J5IjpbMTI2MzUxMjQzMCwxOTcyNjk5NTgsLTg2Nz
+c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
+MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
+wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
+ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
+YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
+ODAxODE4XX0=
 -->
