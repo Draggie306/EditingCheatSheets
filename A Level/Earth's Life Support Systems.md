@@ -457,8 +457,9 @@ Of course, ensuring that the land does not become deforested in the first place,
 ### Agricultural practices
 Agricultural practices are also used in conjunction with afforestation, especially in areas previously subject to unsustainable practices or "slash and burn" techniques. Livestock farming, mostly cows, accounts for around 75% of deforestation in the Amazon, and emits over 100 million tonnes of methane, which is 28x more potent than just CO~2~, on top of the release of sequestered carbon in forest regions cleared for agriculture. 
 
-At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze on the lower areas. 
+At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing" (carbon credits), which may come from REDD+, to plant trees on more degraded land, whilst cattle graze in the lower areas. 
 
+Indirect measures can also be taken: animal feed can be improved, such as by giving seaweed to cows reducing methane burp emissions by 82%. Manure can also be recycled or added to anaerobic containers can also be a way to generate energy in rural areas, reducing the reliance on fossil fuels.
 
 ### Restoration of wetlands
 Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
@@ -501,7 +502,7 @@ There are global strategies that have the potential to protect the water cycle, 
 - **drainage basin planning**
 
 ### Forestry techniques
-The protection of forests ensures that areas on a local scale are protected from .....
+The protection of forests ensures that areas on a local scale are protected from 
 
 
 ### Water allocations
@@ -512,7 +513,7 @@ Agriculture, as seen in the Colorado River basin in the USA, accounts for over 8
 Management strategies
 - minimising water loss through evaporation with the use of **drip irrigation**, reducing usage by 70%.
 - terracing and vegetative strips encourage the pooling of water on the surface. This reduces runoff and allows more time for water to infiltrate, moving through the soil as throughflow.
-- capping usage for certain states (inth Colorado) 
+- capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
 
 ### Drainage basin planning
 
@@ -594,11 +595,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUyOTczMzAsMTk3MjY5OTU4LC04Nj
-c3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUw
-NTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzND
-QsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMy
-Mzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NT
-I2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2
-MzgwMTgxOF19
+eyJoaXN0b3J5IjpbMzc0MzMwMTMxLDE5NzI2OTk1OCwtODY3Nz
+QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
+NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
+0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
+NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNj
+IzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4
+MDE4MThdfQ==
 -->
