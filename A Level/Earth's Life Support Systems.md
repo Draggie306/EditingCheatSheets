@@ -419,9 +419,9 @@ Water extraction includes surface extraction and also extraction of water from a
 
 Artesian aquifers are those under artesian pressure. This means that in a syncline area - one confined by strata of impermeable rock geologies - water is able to travel to the surface, depending on the potentiometric surface. Imagine that the water table in an area of porous chalk is at the surface. However, the chalk in this basin - a U-shape with various layers of rock above and below - is at the base of this "U". When drills are made into the bottom of this basin which may be above a population centre such as London, this water is able to rise to the surface, as a hole has been put into the impermeable rock. 
 
-In London, the water table fell by 90m due to industry. By 1990 it was recove
+In London, the water table fell by 90m due to industry. By 1990 it was recovering at 3m/yr. Underground infrastructure was threatened and Thames Water have permits to abstract water, maintaining the equilibrium.
 
-
+In the River Kennet, upstream from London, which drains 1,200km2 of land, water extraction from sources has decreased river flow by 14% consistently. This is worse in droughts when up to 40% of the flow is lost. This reduces overland flow in the river, and also the flux as percolation into aquifers, whose water tables are less likely to rise to the surface, affecting number of springs and water in surrounding areas. Water available for uptake by trees is lost. 
 
 
 ## How water and carbon are linked
@@ -584,11 +584,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMTk2NDk4LDE5NzI2OTk1OCwtODY3Nz
-QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
-NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
-0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
-NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNj
-IzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4
-MDE4MThdfQ==
+eyJoaXN0b3J5IjpbMTA5MDY5NjI1OCwxOTcyNjk5NTgsLTg2Nz
+c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
+MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
+wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
+ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
+YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
+ODAxODE4XX0=
 -->
