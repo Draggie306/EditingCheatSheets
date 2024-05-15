@@ -445,7 +445,7 @@ Temperatures are low, with a mean of -15C. Precipitation is also low, with annua
 Permafrost is estimate to contain 1,600 GtC in the tundra. When ice melts in lakes methane and carbon dioxide are often released. 
 
 
-In the long-term, degradation of permafrost and 
+In the long-term, the degradation of permafrost and 
 
 ## Human impacts on the water cycle
 > 3.a. Human factors can disturb and enhance the natural processes and stores in the water and carbon cycles.
@@ -464,18 +464,6 @@ In the long-term, degradation of permafrost and
 As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
 
-## Management strategies for water
-> 4.b. The global implications of water and carbon management.
-
-### Forestry
-
-
-
-### Water allocation
-
-
-
-### Drainage basin planning
 
 Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/satellite-pictures
 
@@ -509,32 +497,17 @@ Globally, peatlands store 2x more carbon than all forests.
 
 However, where these regions are widespread such as the tropics, human activity to sustain high population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
 
-In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands have been lost. However, pledges have been made to restore 30 percent of the degraded land by 2030 and over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
+In Canada, which is home to 25% of the world's wetlands, 70% of them have been degraded. However, pledges have been made to restore 30% of the degraded land by 2030 and over 1000 sq km has been restored, aiming to sequester almost 400,000 tonnes of C per year!
 
 
 ### Carbon capture and storage
-CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a synance** of 100 years to be an effective sink; they take up carbon in this period in the medium to long term. Over time, trees can absorb large quantities of C0~2~ from the atmospheric store - around 1 tonne per tree.
-
-The Chinese Great Green Wall and the one in Africa with the same name are examples of large-scale afforestation projects. An estimated 100 billion trees is being targeted to be planted by 2050 over a land area the size of Spain in the Gobi Desert, sequestering carbon (you can do the maths here) and also reducing desertification and land degredation - China's biggest biological threat. *The broader implications of afforestation may be a good idea to place in essay conclusions for 16-markers.*
+CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a synance
 
 Of course, ensuring that the land does not become deforested in the first place, perhaps though leglislation or policing against farmers and miners can be argued to be a more effective management strategy as this preserves the natural ecosystem. Or, legal but managed logging of areas that ensure that monocultures are avoided whilst preserving the biodiversity through the replanting of diverse trees may also be a better strategy.
 
 [Sources and more examples](https://www.climateimpact.com/explore-projects/nature-based-solutions-projects/afforestation/)
 
 
-
-### Restoration of wetlands
-Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
-
-The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
-
-However, where these regions are widespread such as the tropics, human activity to sustain hgh population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
-
-In Canada, which is home to 25% of the world's wetlands, 70% of them have been lost or degraded. However, pledges have been made to restore 30 percent of the degraded land by 2030 and today over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
-
-
-### Carbon capture and storage
-CCS is a technique used to stop carbon emissions from the source, such as in factories or power stations, or through directly capturing it from the air. Carbon dioxide may be captured and compressed, transported into a pipeline, and used in offshore oil extraction where otherwise it may be uneconomical to do so. Or, it could just be pumped into a sycline basin with impermeable rock where it remains hopefully for a long time.
 
 
 ### International carbon agreements
@@ -548,7 +521,6 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emmission of 
 - Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell carbon quotas - but due to supply and demand, investing in long-term sustainable development is cheaper. More details in the cap and trade section below.
 - [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): this incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This both gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
 - .
-
 
 
 #### 2015 Paris Climate Convention
@@ -662,11 +634,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 - Renu's Level 3 responses
 - OCR A Level 3rd Edition Textbook
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc4OTk3NjkwLDE5NzI2OTk1OCwtODY3Nz
-QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
-NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
-0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
-NjE1NTIsLTUwOTMxMzU3NSwtODg1NzUxNzgxLC0xMTUxNTUyNj
-IzLDEwOTM5NDA3NCw1Mzg3NTQ4MjcsNTM5OTgwMDg3LC0yNjM4
-MDE4MThdfQ==
+eyJoaXN0b3J5IjpbMTgyODM3NywxOTcyNjk5NTgsLTg2Nzc0Mj
+kzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4
+LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMT
+c1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIzODYx
+NTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMy
+wxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAx
+ODE4XX0=
 -->
