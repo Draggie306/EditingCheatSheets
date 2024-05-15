@@ -181,7 +181,7 @@ Chemical weathering can also be significant, such as carbonation, which occurs w
 A combination of physical weathering, which increases the surface area susceptible to chemical weathering, and chemical weathering itself
 
 ### Combustion
-Combustion is simply the process of boning organic material with oxygen, releasing carbon and other gases. 
+Combustion is simply the process of burning organic material with oxygen, releasing carbon and other gases. 
 
 The biggest example of this (10 GtC/yr) is human activities, from fossil fuels for power stations. This moves carbon from the lithosphere to the atmosphere. 
 
@@ -224,10 +224,13 @@ Undisturbed tropical rainforests absorb over 30 tonnes of C/ha/yr, and respire 2
 
 ### Physical factors affecting water
 
-Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including temperatures, rock permeability and porosity, and relief.
+Water has many stores and flows in the rainforest. Water is affected by a variety of physical factors including:
+- **temperatures**
+- **rock permeability and porosity**
+- **relief**
 
-High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulonimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typially in the afternoons.
-In addition, these high temperatures and the geographical location (between the tropics) means that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, **1/2 to 3/4 all precipitation is recycled** (evaporated without any runoff), demonstrating strong interdependence between the land, biosphere and atmosphere with evapotranspiration and precipitation.
+High temperatures allow the atmosphere to have high absolute and relative humidity, with a higher dew point. This allows large, cumulonimbus clouds to form with convectional rainfall from the heat, all year round. Diurnal changes in temperatures mean that precipitation occurs typically in the afternoons.
+In addition, these high temperatures and the geographical location (between the tropics) mean that transpiration losses are high, but also the inputs into the plants are high, stimulating great plant growth, which in turn increase water uptake and evapotranspiration. Overall, **1/2 to 3/4 all precipitation is recycled** (evaporated without any runoff), demonstrating strong interdependence between the land, biosphere and atmosphere with evapotranspiration and precipitation.
 
 > This is an example of a **positive feedback loop**: greater vegetation, greater evapotranspiration, greater precipitation, greater vegetation... etc.
 
@@ -256,12 +259,12 @@ An individual tree may have little influence on the cycle of water and carbon. T
 
 An individual tree can take up around 50,000 litres of water every year from the soil. This is fuelled by uptake from the soil and groundwater stores, naturally reducing the amount of water there and adding it to the feedback loop of evapotranspiration and precipitation. They also play a part in intercepting precipitation, evapotranspiration and stabilising the soils through their roots, which are a large subterranean carbon store too.
 
-The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 390 billion trees acting as pumps from the soil to the atmosphere.
+The rainforest as a whole may create [flying rivers](https://en.wikipedia.org/wiki/Flying_river) due to the sheer amount of water being pumped by transpiration and the temperatures facilitating evapotranspiration. Huge amounts of water is transpired - 20 billion tonnes per day by the 390 billion trees acting as pumps from the soil to the atmosphere, so much so that there is more water in these flying rivers than there is in the Amazon River itself.
 
-The Amazon rainforest stores over 100 billion tones of carbon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
+The Amazon rainforest stores over 100 billion tonnes of carbon and absorbs 2.4 billion tonnes annually, with 1.7 billion tonnes released through decomposition and respiration. This has a global scale impact, with it accounting for 1/4 of all terrestrial carbon absorption. Small changes in the carbon cycle thus have wide-ranging consequences. 
 
 ### Madeira drainage basin
-This basin is located in the south-east of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's basin and is the largest tributary river. Deforestation has occurred in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
+This basin is located in the southeast of Amazonia and in Brazil, Peru and Bolivia. It accounts for about 20% of the Amazon's area and is the largest tributary river. Deforestation has occurred in the higher elevation catchment areas, reducing the immediate storage of carbon and water in the biosphere and eroded soils. The outcrops of permeable rocks in this area, due to the velocity of water increasing and therefore less time for absorption, decreased in their water storage.
 
 Downstream, flooding in 2014 caused the inundation of floodplains, and water levels at Porto Velho reached record levels at 19.68m above normal. There were 60 deaths, 68,000 evacuations and the longer-lasting effects of water-borne disease outbreaks including cholera. Unexpectedly high rainfall (exacerbated by orographic lift) combined with the reduction of interception, decreased lag times and increased the peak flow. Overland flows increased substantially, with water unable to infiltrate into the soil as much and percolate into aquifers, it was understandable that the overland flow in Porto Velho was too much, and the ground was full saturated by this point. 
 
@@ -273,9 +276,9 @@ As already demonstrated, there is high interdependence between the land, biosphe
 
 The effects of deforestation are wide-ranging. Converting trees into pasture **increases runoff by 27x**. Rainforests also have significantly greater humidity and convectional rainfall versus pastures, decreasing the likelihood of cloud formation downwind from them. This can cause droughts and greater aridity at a national or global scale - [studies](https://amazonaid.org/resources/about-the-amazon/the-hydrological-cycle/) have found that this moisture cycle regulates rainfall patterns in the western United States. Deforestation in one area makes other forests unexposed also more likely to be at risk through environmental degradation, potentially causing a snowballing effect of damages to not only the ecosystem but the carbon and water cycles at large. 
 
-On the carbon cycle, human activity shrinks the carbon store in biomass by between 90 and 99% with grass or croplands versus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
+On the carbon cycle, human activity shrinks the carbon stored in biomass by between 90 and 99% with grass or croplands versus the rainforest, from **hundreds of tonnes per hectare** to just two tonnes. Soils are depleted with less decomposer activity, and have nutrients, being washed away quickly with the precipitation not being slowed by throughfall or stem flow.
 
-Deforestation also causes a degrading effect for other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit similar (but somewhat less severe) characteristics to deforested regions.
+Deforestation also causes a degrading effect on other areas of land beyond the immediately deforested area. 38% of remaining Amazon forest already degraded - an area 10x the size of the UK and amounting to over 1 million km^2^; these areas exhibit similar (but somewhat less severe) characteristics to deforested regions.
 
 All of these combined have resulted in severe droughts downstream for population centres in Rio and Sao Paulo. The lack of water in reservoirs and extreme heatwaves due to the South American climatic system no longer being in equilibrium as a result of human activity is stressing aquifers and groundwater stores further, which is unsustainable. 
 
@@ -502,7 +505,11 @@ The protection of forests ensures that areas on a local scale are protected from
 
 
 ### Water allocations
+In areas of water scarcity, water may be allocated by governments and rationed between different groups and stakeholders, such as businesses, farmers and individuals. 
 
+Agriculture, as seen in the Colorado river basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
+
+Management strategies, such as minimising water loss through evaporation with the use  
 
 ### Drainage basin planning
 
@@ -584,11 +591,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDk2MzU2MjEsMTk3MjY5OTU4LC04Nj
-c3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUw
-NTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzND
-QsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMy
-Mzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NT
-I2MjMsMTA5Mzk0MDc0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2
-MzgwMTgxOF19
+eyJoaXN0b3J5IjpbLTc3MjAzNzg3MCwxOTcyNjk5NTgsLTg2Nz
+c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
+MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
+wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
+ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
+YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
+ODAxODE4XX0=
 -->
