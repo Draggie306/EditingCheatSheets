@@ -348,7 +348,7 @@ Some useful key terms which you should probably know:
 
 **Router**: directs and receives packets incoming/outgoing to/from the Internet to devices in a private network via IP addresses. It connects networks together - your home LAN to the Internet, or a WAN. Nodes connected to it are given private IP addresses (192.168.1.x). The router has a public IP address. (You can see your public IP [here](https://whatismyipaddress.com/).)
 
-**Switch**: A device which connects devices on a computer network by using packet switching to receive and forward data to the destination device. It uses MAC addresses to forward data at the data link layer. (MAC (Media Access Control) addresses are used to identify a device on the local network assigned by its Network Interface Card)
+**Switch**: A device which connects devices on a computer network by using packet switching to receive and forward data to the destination device. It uses MAC addresses to forward data at the data link layer. MAC (Media Access Control) addresses are used to identify a device on the local network assigned by its Network Interface Card)
 
 **WAP**: wireless access point. Usually built into the switch, or physically connected by wire to it. Unless there's a repeater which would mean WAPs are connected to other WAPs 
 
@@ -421,6 +421,7 @@ IPv6's adoption is increasing now. IPv6 uses 16 bits (hexadecimal represention) 
 > (no, you don't need to remember that)
 
 A MAC address is different to an IP address - it is assigned to devices within a network. It can't be changed by the user, as it's on the network card on the device.
+> They are 6 groups of two hexadecimal characyers, such as `00:1C:4F:84:37:DB`. They can be separated by colons, hyphens or nothing at all.
 
 Remember, a **protocol is a set of rules that governs the transmission of data**. For example, HTTPS.
 
@@ -1318,5 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTExMzc1ODgyOTUsLTEzMTY2ODYyNDFdfQ
+==
 -->
