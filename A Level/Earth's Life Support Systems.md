@@ -404,16 +404,20 @@ Modern agricultural techniques require huge amounts of change to natural environ
 - aquifers may dry up, decreasing the local water table, lowering the number of springs, and flow in rivers.*(could you link this to a negative feedback loop?)*;
 - natural interception is reduced vs forest or grasslands;
 - ploughing increases evaporation losses and decreases soil moisture;
-- ditches and [subsurface draining](https://www.trenchers.co.uk/products/agricultural-drainage-trenchers/types-of-agricultural-drainage) channel water rapidly away from being able to infiltrate and percolate, and into streams or gulleys, increasing peak flow.
+- ditches and [subsurface draining](https://www.trenchers.co.uk/products/agricultural-drainage-trenchers/types-of-agricultural-drainage) channel water rapidly away from being able to infiltrate and percolate, and into streams or gulleys, increasing peak flow;
+- heavy machinery compacts areas of soil that inhibit infiltration on a local-scale
 
 
-- 
 
 #### Forestry
+Modifes the water cycle on a local scale, depending on the type of trees and area of effect.
+
 
 
 ### Water Extraction
-Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others.
+Water extraction includes surface extraction and also extraction of water from aquifers and artesian basins - thus the removal from these stores and transfer to others. 
+
+Artesian aquifers are those under artesian pressure. This means that in a syncline area - one confined by strata of impermeable rock geologies - water is able to travel to the surface, depending on the potentiometric surface. Imagine that the water table in an area of porous chalk 
 
 
 
@@ -423,21 +427,6 @@ Water extraction includes surface extraction and also extraction of water from a
 
 As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
-
-## Management strategies for water
-> 4.b. The global implications of water and carbon management.
-
-### Forestry
-
-
-
-### Water allocation
-
-
-
-### Drainage basin planning
-
-Reference: https://www.metoffice.gov.uk/weather/learn-about/how-forecasts-are-made/observations/satellite-pictures
 
 
 ## Management strategies for carbon
@@ -462,9 +451,7 @@ At a local scale, Degraded Land Afforestation in Uruguay uses "carbon financing"
 Indirect measures can also be taken: animal feed can be improved, such as by giving seaweed to cows reducing methane burp emissions by 82%. Manure can also be recycled or added to anaerobic containers can also be a way to generate energy in rural areas, reducing the reliance on fossil fuels.
 
 ### Restoration of wetlands
-Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. 
-
-Globally, peatlands store 2x more carbon than all forests.
+Globally, wetlands account for around 7% of the land. But also 35% of the terrestrial carbon store - meaning that they are very effective carbon sinks. Compared to tropical rainforests, they can store up to 50x more carbon in the same area. Globally, peatlands store 2x more carbon than all forests.
 
 > The conditions of wetlands create low-oxygen soils, leading to anaerobic conditions. This inhibits the decomposition process and matter is thus unable to be broken down, accumulating as peat over time.
 
@@ -595,7 +582,7 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc0MzMwMTMxLDE5NzI2OTk1OCwtODY3Nz
+eyJoaXN0b3J5IjpbODcyODY3ODAyLDE5NzI2OTk1OCwtODY3Nz
 QyOTMzLC0yODcyMzkzOTYsLTE4NTc2NTMzOTksLTE5NjI1MDUx
 NDgsLTIwNTc0NDEzMDQsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC
 0xNzUxODgwNTk0LC05MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4
