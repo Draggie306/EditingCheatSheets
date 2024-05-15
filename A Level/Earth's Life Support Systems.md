@@ -430,7 +430,6 @@ In the River Kennet, upstream from London, which drains 1,200 km2 of land, water
 As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
 
 - **Oceans**
-	- 
 - **Atmosphere**
 - **Cryosphere**
 - **Vegetation**
@@ -511,7 +510,12 @@ Management strategies
 - capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
 
 ### Drainage basin planning
+This is a collaborative effort at the drainage-basin scale to encourage the sharing of demands and needs for everyone involved, including domesctic use, industury and agriculture.
 
+Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, s
+
+
+---
 
 # Additional Skills
 The OCR specification also lists some specific skills you must have to ensure you get full marks. These topic-specific skills are:
@@ -590,11 +594,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NTc3OTE4NSwtMTczNjI0ODQwNywxOT
-cyNjk5NTgsLTg2Nzc0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUz
-Mzk5LC0xOTYyNTA1MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OT
-AyLDk1MTQxMjM0NCwtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3
-MjA2NjMwNzAsMzIzODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MT
-c4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUz
-OTk4MDA4N119
+eyJoaXN0b3J5IjpbNTIyODYzNzYsLTM1NTc3OTE4NSwtMTczNj
+I0ODQwNywxOTcyNjk5NTgsLTg2Nzc0MjkzMywtMjg3MjM5Mzk2
+LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4LC0yMDU3NDQxMzA0LC
+0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMTc1MTg4MDU5NCwtOTMx
+MzQyOTU1LDE3MjA2NjMwNzAsMzIzODYxNTUyLC01MDkzMTM1Nz
+UsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOTQwNzQsNTM4
+NzU0ODI3XX0=
 -->
