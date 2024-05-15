@@ -335,9 +335,9 @@ The tundra is in a negative heat balance for 8-9 months of the year, releasing m
 
 The mean annual temperature is -15C, with precipitation between 50 and 350mm, with a mean of around 100mm annually - of which most is snow.
 
-The little energy due to poor insolation for most of the year means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, there is limited groundwater and soil moisture stores, with permafrost below stopping percolation and subsequent groundwater flow. 
+The little energy due to poor insolation for most of the year means that there is low absolute humidity. The freezing conditions mean there is low ground and soil moisture, with little rates of evaporation. As a result, there are limited groundwater and soil moisture stores, with permafrost below stopping percolation and subsequent groundwater flow. 
 
-Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon river reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
+Seasonal changes in summer occur, with a few months of a positive heat balance. Insolation melts the snow on the surface and the active layer thaws, creating surficial stores with lakes and ponds, whilst permafrost stops any further infiltration. Evaporation is somewhat heightened here too, but still extremely slow. Overland flow in rivers may be high, with the Yukon River reaching 24,600 cumecs in summer compared to 340 cumecs in the winter.
 
 Rocks remain largely impermeable, due to both the permafrost and solid water and the igneous geology with various interlocking crystals, reducing porosity. The relief is largely flat too, encouraging the waterlogging and pooling of water on the surface. 
 
@@ -557,7 +557,7 @@ Kyoto introduced three major mechanisms to help reduce carbon (and emmission of 
 
 
 #### 2015 Paris Climate Convention
-The PCC in 2015 attempted to build on the successes of the Kyoto protocol whilst also modernising it.
+The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it.
 
 
 ## [tbd] Management strategies for water
@@ -651,11 +651,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg0Mjc1NzIsLTg2Nzc0MjkzMywtMj
-g3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1MTQ4LC0yMDU3
-NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NCwtMTc1MTg4MD
-U5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIzODYxNTUyLC01
-MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1MjYyMywxMDkzOT
-QwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYzODAxODE4LDE4
-MTk3NzIzMjBdfQ==
+eyJoaXN0b3J5IjpbMTk3MjY5OTU4LC04Njc3NDI5MzMsLTI4Nz
+IzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OCwtMjA1NzQ0
+MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3NTE4ODA1OT
+QsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5
+MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MD
+c0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5
+NzcyMzIwXX0=
 -->
