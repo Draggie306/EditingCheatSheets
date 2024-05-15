@@ -461,10 +461,10 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some places, with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
-The geology of Minnesota is varied. ere are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometeres high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
+The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometeres high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were eroded; now Eagle Mountain, the highest, is only 701m high. Part of Lake Superior and other Arrowhead region lakes were deeply eroded thanks to their weaker geologies. 
- 
+
 
 As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred as the moraine was overtopped, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. With the water came deposition: large swathes of fertile silt and soil deposits have been left behind in the valley, likely from the Big Stone Moraine. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation! [simplified]
 
@@ -556,7 +556,7 @@ Delta kames can form in two main ways. Firstly, they can form due to the build-u
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
 #### Kame terraces
-Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor. 
+Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice-marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor. 
 
 
 > Watch out! Many people say 'kame' when they mean 'esker'! You need to know the differences between the two well. (main one is eskers are subglacial, kames are not)
@@ -576,7 +576,7 @@ A meltwater stream is visible south of it, as well as another esker to the east.
  
 Kames are mounds of sediment deposited by glacial meltwater or ice, found in areas where glacial ice melted and receded, leaving behind sediment deposits. The process of kame formation is complex and is a result of a variety of interrelated factors, including climate change and geomorphic processes.
 
-Climate change is one  eaost significant influences on the formation of kames. During the Pleistocene epoch, large areas of the northern hemisphere were covered in thick glaciers. As the climate warmed and the glaciers receded, large volumes of meltwater were released, carrying sediment with it. The sediment was deposited in stratified piles, forming these kames, visible in places in the UK such as the Scottish Highlands or the Lake District. This can be proven to be the result of a glacio-fluvial deposition as they are deposited in one go by melting ice, while previous meltwater surface streams moved the sediment into crevasses or glacial marginal lakes.
+Climate change is one of the most significant influences on the formation of kames. During the Pleistocene epoch, large areas of the northern hemisphere were covered in thick glaciers. As the climate warmed and the glaciers receded, large volumes of meltwater were released, carrying sediment with it. The sediment was deposited in stratified piles, forming these kames, visible in places in the UK such as the Scottish Highlands or the Lake District. This can be proven to be the result of a glacio-fluvial deposition as they are deposited in one go by melting ice, while previous meltwater surface streams moved the sediment into crevasses or glacial marginal lakes.
 
 Geomorphic processes also play a role in the formation of kames. As the glacier erodes the landscape, valley sides' sediment may fall onto the glacier, ranging from large boulders to sand grains. The size and shape of these kames vary depending on the type of sediment deposited, as well as the rate of erosion. In addition to erosion, other geomorphic processes can play a role in the formation of kames such as weathering. These processes such as frost-shattering and chemical weathering can break down sediment particles and form smaller particles that can be easily carried by wind or water. This can cause further accumulation of sediment in certain areas and contribute to the formation of kames. Lithification may also occur when the sediment is compacted and cemented together, forming a solid mass among the trapped sediment.
 
@@ -1609,7 +1609,7 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTY5Njc5MjgsMzgzMTA4MzE4LDQ4OT
+eyJoaXN0b3J5IjpbLTE2MDYzOTUyMDYsMzgzMTA4MzE4LDQ4OT
 gzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0
 NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLT
 EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
