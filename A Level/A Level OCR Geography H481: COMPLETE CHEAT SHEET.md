@@ -8,14 +8,11 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 1/5/2024 3
-Last content addition: 1/5/2024 3](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 15/05/2024 23:28
+Last content addition: 15/05/2024 23:28](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
---- 
-### Notice 12/05/2024
-Please note that if you have used this document before the most recent change, a variety of changes have been made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to be rewritten because of this.
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
 
----
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
@@ -29,6 +26,7 @@ You can use a PC/device with a wide screen to see the Table of Contents and quic
 
 Let's get right into the content!
 
+# Paper 1 - Physical Systems
 # 1.1 Option B – Glaciated Landscapes
 
 "Feeling a little like a **[drumlin](#drumlins)** today."
@@ -793,22 +791,14 @@ That's the end for glaciation! I hope you found it useful.
 
 
 
-
-  
-[< Back to **geog.uk** Homepage](https://geog.uk)
+---
 
 
 # 1.2 - Earth's Life Support Systems
 Wordcount: 9098
 Last modification: 15/05/2024 23:28
-Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
 
-> Note! This is not quite finished, so please check back tomorrow for the completed version!
 
-> Note #2! A summary sheet is being created, with condensed notes. Check back soon for updates!
-
----
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
 *giving earth life support - created with [dall-e 3](https://openai.com/dall-e-3)*
 
@@ -1375,7 +1365,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 
 
-
+# Paper 3 - Geographical Debates
 # [TBD] Disease Dilemmas 
 
 Last update: 15/01/2024 22:38
@@ -2179,11 +2169,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzg5NjE0MiwzODMxMDgzMTgsNDg5OD
-M0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1
-NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMT
-A1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1
-MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC
-05MTIwMTE4NTUsLTE3MzgyODA1NjEsMzk4NDg3MjE1LDM5Nzc3
-NjA0MV19
+eyJoaXN0b3J5IjpbLTIxMzU0MTY5OTAsMzgzMTA4MzE4LDQ4OT
+gzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0
+NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLT
+EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
+NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
+wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
+NzYwNDFdfQ==
 -->
