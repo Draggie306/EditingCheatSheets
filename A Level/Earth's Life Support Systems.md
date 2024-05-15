@@ -550,7 +550,7 @@ The Kyoto protocol was the first major climate change protocol. Whilst it was le
 
 Kyoto introduced three major mechanisms to help reduce carbon (and emmission of other gases).
 
-- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long-term is cheaper. More details in the cap and trade section below.
+- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell carbon quotas - but due to supply and demand, investing in long-term sustainable development is cheaper. More details in the cap and trade section below.
 - [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): this incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This both gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
 - .
 
@@ -574,17 +574,13 @@ The protection of forests ensures that areas on a local scale are protected from
 
 
 ### Drainage basin planning
-
-
-# Additional Skills
-The OCR specification also lists some specific skills yInterdependence
-As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
+This involves the prioritisation
 
 
 
 
 # Additional Skills
-The OCR specification also lists some specific skills ou must also have to ensure you get full marks. These topic-specific skills are:
+The OCR specification also lists some specific skills you must also have to ensure you get full marks. These topic-specific skills are:
 - climate graphs
 - simple mass balance (*remember from glaciation?*)
 - rates of flow
@@ -633,13 +629,22 @@ Rank the data, then identify the median. For all values below the overall median
 
 - doesn't include all values
 
+### Standard Deviation σ
+Calculate the mean for the data set. Then, for each value, calculate the difference between the mean and the value, and square it. Add these for each value in the data. Then, divide it by the total number of elements in the data, and find the square root of this.
+
++ measures how consistent data is around the mean
++ useful for determining reliablity
+
+- not appropriate for all types of data
+- may be more useful to plot a graph instead
+
 ### Spearman's Rank
 Tests the significance of a correlation between two variables.
 
 
 $\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
 
-Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, whch means there is a less than 1% chance of this being caused by chance!
+Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, which means there is a less than 1% chance of this being caused by chance!
 
 > If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
 
@@ -651,11 +656,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjY5OTU4LC04Njc3NDI5MzMsLTI4Nz
-IzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OCwtMjA1NzQ0
-MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3NTE4ODA1OT
-QsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5
-MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MD
-c0LDUzODc1NDgyNyw1Mzk5ODAwODcsLTI2MzgwMTgxOCwxODE5
-NzcyMzIwXX0=
+eyJoaXN0b3J5IjpbMTQyMjQ2MjQ1NywxOTcyNjk5NTgsLTg2Nz
+c0MjkzMywtMjg3MjM5Mzk2LC0xODU3NjUzMzk5LC0xOTYyNTA1
+MTQ4LC0yMDU3NDQxMzA0LC0xNTM2NTI2OTAyLDk1MTQxMjM0NC
+wtMTc1MTg4MDU5NCwtOTMxMzQyOTU1LDE3MjA2NjMwNzAsMzIz
+ODYxNTUyLC01MDkzMTM1NzUsLTg4NTc1MTc4MSwtMTE1MTU1Mj
+YyMywxMDkzOTQwNzQsNTM4NzU0ODI3LDUzOTk4MDA4NywtMjYz
+ODAxODE4XX0=
 -->
