@@ -486,7 +486,8 @@ Kyoto introduced three major mechanisms to help reduce carbon (and the emission 
 #### 2015 Paris Climate Convention
 The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it. It aims to limit CO2 emissions and temperature increase below 2 degrees C.
 
-- 
+- Countries publish their naturally determined contributions and there is pressure at the global scale to consistently outperform other countries;
+- Long-term strategies 
 
 
 ## Management strategies for water
@@ -496,7 +497,7 @@ There are global strategies that have the potential to protect the water cycle, 
 - **drainage basin planning**
 
 ### Forestry techniques
-The protection of forests ensures that areas on a local scale are protected from 
+The protection of forests ensures that areas on a local scale are protected from deforestation and 
 
 
 ### Water allocations
@@ -594,11 +595,11 @@ csLTI2MzgwMTgxOCwxODE5NzcyMzIwLC03NzcxNDM5OTMsLTEz
 NDgwMTk3MTddfQ==
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTgzMjk5LC0zNTU3NzkxODUsLTE3Mz
-YyNDg0MDcsMTk3MjY5OTU4LC04Njc3NDI5MzMsLTI4NzIzOTM5
-NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OCwtMjA1NzQ0MTMwNC
-wtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3NTE4ODA1OTQsLTkz
-MTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNT
-c1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMsMTA5Mzk0MDc0LDUz
-ODc1NDgyN119
+eyJoaXN0b3J5IjpbMjA5MjYyOTUxMCwtMzU1Nzc5MTg1LC0xNz
+M2MjQ4NDA3LDE5NzI2OTk1OCwtODY3NzQyOTMzLC0yODcyMzkz
+OTYsLTE4NTc2NTMzOTksLTE5NjI1MDUxNDgsLTIwNTc0NDEzMD
+QsLTE1MzY1MjY5MDIsOTUxNDEyMzQ0LC0xNzUxODgwNTk0LC05
+MzEzNDI5NTUsMTcyMDY2MzA3MCwzMjM4NjE1NTIsLTUwOTMxMz
+U3NSwtODg1NzUxNzgxLC0xMTUxNTUyNjIzLDEwOTM5NDA3NCw1
+Mzg3NTQ4MjddfQ==
 -->
