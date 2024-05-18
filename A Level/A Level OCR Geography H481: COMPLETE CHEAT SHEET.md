@@ -38,7 +38,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 > 1.a. Glaciated landscapes can be viewed as systems.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
-*Valley glacier photo  [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
+*Valley glacier photo by [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
 
 There are 3 main parts to any system: **inputs**, **processes** and **outputs**. 
 
@@ -2169,11 +2169,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU0MTY5OTAsMzgzMTA4MzE4LDQ4OT
-gzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0
-NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLT
-EwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3
-NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMC
-wtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4NzIxNSwzOTc3
-NzYwNDFdfQ==
+eyJoaXN0b3J5IjpbMzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4Mz
+QzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0
+LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMD
+U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
+NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
+kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
+MDQxXX0=
 -->
