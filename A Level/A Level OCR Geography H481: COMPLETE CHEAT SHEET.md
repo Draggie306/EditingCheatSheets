@@ -793,12 +793,10 @@ That's the end for glaciation! I hope you found it useful.
 
 ---
 
-
 # 1.2 - Earth's Life Support Systems
-Wordcount: 9098
-Last modification: 15/05/2024 23:28
+Section wordcount: 8796
 
-
+---
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
 *giving earth life support - created with [dall-e 3](https://openai.com/dall-e-3)*
 
@@ -1110,11 +1108,9 @@ Rocks remain largely impermeable, due to both the permafrost and solid water and
 
 ### Carbon cycle
 
-Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
+Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little due to the extreme temperatures.
 
-
-
-
+<!-- To finish this section: editor TBD -->
 
 In the long-term, the degradation of permafrost and 
 
@@ -1260,6 +1256,119 @@ CCS is a technique used to stop carbon emissions from the source, such as in fac
 The most effective way to protect the global carbon cycle may be international agreements. These provide a legal framework for large-scale, mass carbon emissions reductions globally, when done correctly.
 
 #### [1997 Kyoto Protocol](https://unfccc.int/kyoto_protocol)
+The Kyoto Protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
+
+Kyoto introduced three major mechanisms to help reduce carbon (and the emission of other gases).
+
+- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long term are cheaper. More details in the cap and trade section below.
+- [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): This incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
+
+
+#### 2015 Paris Climate Convention
+The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it. It aims to limit CO2 emissions and temperature increase below 2 degrees C.
+
+- Countries publish their naturally determined contributions and there is pressure at the global scale to consistently outperform other countries;
+- Long-term strategies 
+
+
+## Management strategies for water
+There are global strategies that have the potential to protect the water cycle, including:
+- **forestry**
+- **water allocations**
+- **drainage basin planning**
+
+### Forestry techniques
+The protection of forests ensures that areas on a local scale are protected from deforestation in law. The UN, World Bank and governments all collaborate to ensure forests do not become degraded. The REDD+ programme funds projects in over 50 countries with direct investment, technology and carbon offsets.
+
+NGOs such as WWF and the ARPA program in Brazil ensure that over 128 million acres of land, targeting 150 million, are protected. 
+
+
+### Water allocations
+In areas of water scarcity, water may be allocated by governments and rationed between different groups and stakeholders, such as businesses, farmers and individuals. 
+
+Agriculture, as seen in the Colorado River basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
+
+Management strategies
+- minimising water loss through evaporation with the use of **drip irrigation**, reducing usage by 70%.
+- terracing and vegetative strips encourage the pooling of water on the surface. This reduces runoff and allows more time for water to infiltrate, moving through the soil as throughflow.
+- capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
+
+### Drainage basin planning
+This is a collaborative effort at the drainage basin scale to encourage the sharing of demands and needs for everyone involved, including domestic use, industry and agriculture.
+
+Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, stating that aquifers should always remain 50% at capacity with a high water table. After these plans have been made, actions can be taken, such as reforestation to improve interception rates, slowing peak flow, and encouraging greater infiltration and percolation. Urban areas can be financially incentivised to reduce the amount of impermeable surfaces - such as in the EU Water Directive Framework pre-2020 where 10 catchment hydrologies had holistic plans established to improve the amount and availability of water at this scale.
+
+
+---
+
+# Additional Skills
+The OCR specification also lists some specific skills you must have to ensure you get full marks. These topic-specific skills are:
+- climate graphs
+- simple mass balance (*remember from glaciation?*)
+- rates of flow
+- unit conversions
+- analysis and presentation of field data
+
+## Statistical tests
+
+### Median
+Rank the data and work out the middle value. If it's between two points, then take the mean value between them.
++ easy to calculate
++ not affected by extreme, anomolous values
+- most of the values are ignored
+- less "sensitive" than the mean (a significant change on one side can be balanced by a small number on the other)
+
+### Mean
+Add all values in the series together and divide by the total number of values. This is the "average".
+
++ all values accounted for
++ gives fair representation for all values
+- affected by all values even if anomolous/very large or small.   
+
+### Mode
+The value that occurs in data the most.
+
++ can be used on qualitative data
++ useful for spotting patterns
+
+- may be multiple modes, or none at all
+- only useful for specific enquires
+
+### Range
+Subtract the lowest from the highest value in the data.
+
++ shows the full spectrum of all data
+
+- can be significantly affected by extreme values 
+- most data is ignored
+
+
+### Interquartile range
+Rank the data, then identify the median. For all values below the overall median, calculate the median. Repeat for the upper half. Then, subtract the lower half median from the upper half median.
+
++ measures dispersion of data
++ not easily affected by outliers
+
+- doesn't include all values
+
+### Spearman's Rank
+Tests the significance of a correlation between two variables.
+
+
+$\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
+
+Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, whch means there is a less than 1% chance of this being caused by chance!
+
+> If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
+
+Confidence intervals can be obtained from the following formula:
+$\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \theta)^2} \leq \chi^2_{1, \alpha}\right\}$
+(no need to know this - unless you do maths?)
+
+[^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
+
+[^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
+otocol)
 The Kyoto Protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
 
 Kyoto introduced three major mechanisms to help reduce carbon (and the emission of other gases).
@@ -2169,11 +2278,11 @@ To add later:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4Mz
-QzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0
-LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMD
-U4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUz
-NywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0MjAsLT
-kxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0ODcyMTUsMzk3Nzc2
-MDQxXX0=
+eyJoaXN0b3J5IjpbLTE3OTU4MTczNzEsMzg2ODc3ODAzLDM4Mz
+EwODMxOCw0ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4
+OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNj
+EyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUy
+NTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMC
+w2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0
+ODcyMTVdfQ==
 -->
