@@ -41,10 +41,13 @@ Migration is significant, and worldwide! In 2020, 291 million people were living
 Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
 
 
-
-
 ### Inter-regional migration
-There is more and more inter-regional migration occurring globally, with the increasing 
+Today, the amount of south-south migration has outpaced south-north or north-north.
+
+There is more and more inter-regional migration occurring globally, with increasing globalisation processes allowing for people to reach different places more quickly, cheaply and in increasing number. 
+
+A range of reasons are contributing to this growth. 
+- The communications revolution: more and more   
 
 
 
@@ -57,14 +60,23 @@ Broadly, the positives of migration can be split into three distinct characteris
 
 
 #### Stability
-
+Stability refers t
 
 #### Growth
 
 
 #### Investment
 
+### Negatives of Migration
 
+
+#### Inequalities
+- The process of brain-drain, at least in the short-term, exacerbates and amplifies issues such as women's rights: it is the men who emigrate from these countries and work in other countries.
+
+#### Injustices
+
+
+#### Conflicts
 
 
 
@@ -359,7 +371,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
-g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
-NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTE0MzkxNzc4MTgsMTcxNjQyMjg5MSwtMT
+YyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5
+ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV
+19
 -->
