@@ -4,7 +4,7 @@
 
 
 # 1.2 - Earth's Life Support Systems
-Wordcount: 9098
+Wordcount: 8796
 Last modification: 15/05/2024 23:28
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
@@ -585,11 +585,11 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1NTEwNzgwLC0xOTA5NzU1NzUxLC0zNT
-U3NzkxODUsLTE3MzYyNDg0MDcsMTk3MjY5OTU4LC04Njc3NDI5
-MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OSwtMTk2MjUwNTE0OC
-wtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5NTE0MTIzNDQsLTE3
-NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNjYzMDcwLDMyMzg2MT
-U1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEsLTExNTE1NTI2MjMs
-MTA5Mzk0MDc0XX0=
+eyJoaXN0b3J5IjpbLTE5MTc0MTQ4MTQsNjM1NTEwNzgwLC0xOT
+A5NzU1NzUxLC0zNTU3NzkxODUsLTE3MzYyNDg0MDcsMTk3MjY5
+OTU4LC04Njc3NDI5MzMsLTI4NzIzOTM5NiwtMTg1NzY1MzM5OS
+wtMTk2MjUwNTE0OCwtMjA1NzQ0MTMwNCwtMTUzNjUyNjkwMiw5
+NTE0MTIzNDQsLTE3NTE4ODA1OTQsLTkzMTM0Mjk1NSwxNzIwNj
+YzMDcwLDMyMzg2MTU1MiwtNTA5MzEzNTc1LC04ODU3NTE3ODEs
+LTExNTE1NTI2MjNdfQ==
 -->
