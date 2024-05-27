@@ -72,10 +72,17 @@ Broadly, the positives of migration can be split into three distinct characteris
 
 #### Stability
 Stability refers to a combination of economic, social and political stability. 
+
 In the short-term, migration allows countries of destination to receive greater income tax (the vast majority of migrants, approximately 73%, are economic migrants who pay both income tax and VAT on purchased goods). In the UK for example, this income tax equates to around £16 billion for the public purse - despite the accusations of "benefits tourism" and abuse of public services. 
-Social stability, though **social remittances** and the diffusion of ideas 
+
+Whilst not a problem currently, ageing populations will be supported by migratory flows. Ageing Western populations with low domestic birth rates - such as the UK's 1.6 - will require migrants to support the 2 working to 1 pensioner general requirement to ensure that countries do not run into significant debt and the collapse of the state. Migrants who decide to stay are very likely to build - or already have - families, thus contributing to population and tax-base growth.   
+
+Social stability, though **social remittances** and the diffusion of ideas inheritly promotes ideas between source and origin. For South-North migration, this is especially true for democratic, equalitarian ideas (Politics students - please correct my terminology here) whilst globally flows of people can encourage politicians to engage with peacebuilding and the resolution of conflicts.
+
+
 
 #### Growth
+Growth is largely economic. 
 
 
 #### Investment
@@ -384,9 +391,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNDAyNjcyLDIwMTExNTI0NTAsMzE4NT
-cxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2NDIyODkx
-LC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMwMCwxMj
-UyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcwNzY2LC0xMzAzOTky
-NTUxXX0=
+eyJoaXN0b3J5IjpbMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
+E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
+LDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
+k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
+NjYsLTEzMDM5OTI1NTFdfQ==
 -->
