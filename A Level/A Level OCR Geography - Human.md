@@ -38,7 +38,15 @@ Migration is significant, and worldwide! In 2020, 291 million people were living
 
 
 ### Intra-regional migration
-Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
+Intraregional migration is migration that occurs within a region, for example, the European Union. 
+
+
+#### The Poles are coming!!
+
+Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
+
+The accession of Poland, and other eastern European countries between 2003 and 2013 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour, coupled by 
+
 
 
 ### Inter-regional migration
@@ -372,8 +380,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
-IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
-NCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MT
+Y0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0
+MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLT
+EzMDM5OTI1NTFdfQ==
 -->
