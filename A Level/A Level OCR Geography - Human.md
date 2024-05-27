@@ -71,7 +71,9 @@ Broadly, the positives of migration can be split into three distinct characteris
 
 
 #### Stability
-Stability can be a combination of economic, social and political stability. In the short-term, migration allows countries of destination to receive greater income tax (the vast majority of migrants, approximately 7
+Stability refers to a combination of economic, social and political stability. 
+In the short-term, migration allows countries of destination to receive greater income tax (the vast majority of migrants, approximately 73%, are economic migrants who pay both income tax and VAT on purchased goods). In the UK for example, this income tax equates to around £16 billion for the public purse - despite the accusations of "benefits tourism" and abuse of public services. 
+Social stability is also allowed 
 
 #### Growth
 
@@ -382,8 +384,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MjM1MjU2LDMxODU3MTAzOCwtMTgzNj
-czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
-MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NT
-k4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4Mz
+Y3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAx
+OTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNj
+U5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
