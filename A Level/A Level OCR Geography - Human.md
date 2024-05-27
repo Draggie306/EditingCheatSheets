@@ -63,6 +63,8 @@ A range of reasons are contributing to this growth.
 ## [tbd] Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
 
+Flows of people through migration is intrinsically linked to flows of money, culture, knowledge and ideas. 
+
 ### Positives of migration
 
 Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
@@ -380,8 +382,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MT
-Y0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0
-MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLT
-EzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNz
+cwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
 -->
