@@ -71,7 +71,7 @@ Broadly, the positives of migration can be split into three distinct characteris
 
 
 #### Stability
-Stability refers t
+Stability can be a combination of economic, social and political stability. In the short-term, migration allows countries of destination to receive greater income tax (the vast majority of migrants, approximately 7
 
 #### Growth
 
@@ -382,8 +382,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
-g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
-MzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNz
-cwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTk3MjM1MjU2LDMxODU3MTAzOCwtMTgzNj
+czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
+MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NT
+k4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
