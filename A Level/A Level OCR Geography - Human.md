@@ -47,7 +47,8 @@ Today, the amount of south-south migration has outpaced south-north or north-nor
 There is more and more inter-regional migration occurring globally, with increasing globalisation processes allowing for people to reach different places more quickly, cheaply and in increasing number. 
 
 A range of reasons are contributing to this growth. 
-- The communications revolution: more and more   
+- The communications revolution: more people have increasing access to communications devices such as mobile phones - increasingly being "required" in countries in the global south, and the internet and social media allow potential migrants to see and get a feel for their destination, whilst migrants already living in new destinations can create increasing links with the origin country and encourage further growth. Thanks to this, there is less of a "culture shock" and it allows people to remain connected to their home lives
+- 
 
 
 
@@ -371,8 +372,8 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzkxNzc4MTgsMTcxNjQyMjg5MSwtMT
-YyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5
-ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV
-19
+eyJoaXN0b3J5IjpbNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
+IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
+NCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ
+==
 -->
