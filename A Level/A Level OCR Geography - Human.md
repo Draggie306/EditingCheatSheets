@@ -116,7 +116,15 @@ There have been waves and flows to and out of Brazil, enriching its culture and 
 - Many Europeans in the 20th Century were attracted by the agriculture demand and coffee growing, furthered by prior colonial relations.
 - During the 1980s and an increasing in the secondary sector textiles production attracted many South Koreans, but also illegal movement between other South American nations with cheaper labour costs.
 - Demand for the 2014 Football World cup and 2016 Olympics increased international labour demand
-- 
+- A steady stream of migrants from LIDC countries such as Haiti and Bolivia. Haiti saw devastating natural hazards in 2010 and 2012 with an earthquake and Hurricane Sandy.
+- Yo-yo migration from the USA during the 1990s during Brazil's instability resulted in hundreds of thousands of temporary visas being exchanged every few years - a regular, huge flow of people, money and capital. 
+
+
+#### Interdependence
+
+**The USA** 
+The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high skill labourers in the USA. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector gro
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -409,9 +417,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMDQxMDQxLDE5MDIxNTM5NjcsMzYwND
-AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
-LDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zOD
-c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
-OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbMTI3MjQzNTEzMSwxOTAyMTUzOTY3LDM2MD
+QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
+MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
