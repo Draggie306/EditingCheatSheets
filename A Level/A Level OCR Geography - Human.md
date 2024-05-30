@@ -88,10 +88,11 @@ Economic growth is largely an... economic factor.
 - Migrants open up new demands for goods and products in a destination area. Tesco in the UK has launched over 100 lines of Polish food, and "oriental shops on every corner" is commonly quoted in inner UK cities due to the amount of immigrants and those of immigrant heritage. 
 - Multiplier effects as a result of supplementary remittance income in areas of origin is common.
 
-> NEPAL has had a multipler effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic increasse 
+> NEPAL has had a multipler effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic increasses
 
-#### Investment
 
+#### Development
+- Sociopolitial development as a result of returning flows of people, skills
 
 Investment can be seen benefitting an LIDC as a result of remittances. Nepal has seen great 
 
@@ -451,9 +452,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MD
-QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
-MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
-g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
-NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbMzI0MjM0NzI3LC05Mjk0NTM0MDUsMTkwMj
+E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgs
+LTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
+IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
+NCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ
+==
 -->
