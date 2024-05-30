@@ -135,13 +135,12 @@ Portugal is well-known in Brazil for being the "gateway to the EU" for economic 
 #### Impact
 
 **Economic Development**
-The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread 
+The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread particularly into the mentality of Brazillians especially in Sao Paolo. Brazil today is a powerful member of the G20, has the 7th largest economy in the world, is the leader of the Mercosur group and is also part of the BRICS group - widely-regarded as the countries with the greatest potential for future development, incentividing further foreign investment. 
 
 
 
 **Political Stability**
-
-
+Brazil has a stable democracy, good education system and strong civil rights. Flows of people and capital have helped to reduce border and trade friction (there is free trade within Mercosur), promote integration and have contributed to very "western" anti-discrimination laws -b 
 
 
 **Social Inequality**
@@ -439,7 +438,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NDQ4ODQ1MywxOTAyMTUzOTY3LDM2MD
+eyJoaXN0b3J5IjpbMTkzMTE1NTA3NCwxOTAyMTUzOTY3LDM2MD
 QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
 MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
 g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
