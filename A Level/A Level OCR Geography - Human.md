@@ -87,6 +87,9 @@ Growth is largely economic.
 
 #### Investment
 
+
+Investment can be seen benefitting an LIDC as a result of remittances. Nepal has seen great 
+
 ### Negatives of Migration
 
 
@@ -391,9 +394,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
-E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
-LDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
-k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
-NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbLTEyMTA5OTg4NzIsMTkwMjE1Mzk2NywzNj
+A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
+NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
+M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
+MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
