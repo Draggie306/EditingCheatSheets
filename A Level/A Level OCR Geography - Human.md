@@ -102,6 +102,17 @@ Investment can be seen benefitting an LIDC as a result of remittances. Nepal has
 #### Conflicts
 
 
+### Case study: Brazil, an EDC
+
+Brazil is an ed
+
+
+#### Current patterns
+For the last 15 years Brazil has seen a significant immigration decline, whilst emigration is increasing. In total there are over 4 million Brazillians living overseas - with 1.9 million in its largest diaspora in the USA - but despite being a "country descended from immigrants" less thn 1% of its population is foreign born. Today, there are over 100,000 fewer immigrants than there were in 2000. However, there remains strong bilateral corridors between Brazil and other Mercosur nations - of which it leads - in South America, through demand by businesses and competition in the form of cheaper labour. 
+ 
+#### Changes over time
+There have been waves and flows to and out of Brazil, enriching its culture and forming the modern day society.
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -394,7 +405,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTA5OTg4NzIsMTkwMjE1Mzk2NywzNj
+eyJoaXN0b3J5IjpbLTExNDI1ODkyMTksMTkwMjE1Mzk2NywzNj
 A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
 NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
 M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
