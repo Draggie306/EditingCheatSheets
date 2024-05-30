@@ -92,9 +92,10 @@ Economic growth is largely an... economic factor.
 
 
 #### Development
-- Sociopolitial development as a result of returning flows of people, skills
+- Sociopolitial development as a result of returning flows of people, skills and capital is of great benefit to countries of origin.
+- Long-term development of an origin country can be facilitated by strong diaspora links that help to transfer skills, capital, knowledge and ideas through professional, social and religious networks. This has been furthered by the communications revolution.
+- NGO and supranational organisation 
 
-Investment can be seen benefitting an LIDC as a result of remittances. Nepal has seen great 
 
 ### Negatives of Migration
 
@@ -452,7 +453,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI0MjM0NzI3LC05Mjk0NTM0MDUsMTkwMj
+eyJoaXN0b3J5IjpbODI4NTk2NjQxLC05Mjk0NTM0MDUsMTkwMj
 E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgs
 LTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
 IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
