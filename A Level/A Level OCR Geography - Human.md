@@ -123,8 +123,11 @@ There have been waves and flows to and out of Brazil, enriching its culture and 
 #### Interdependence
 
 **The USA** 
-The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high skill labourers in the USA. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector gro
+The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high skill labourers in the USA enticed by significantly greater wages. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector growing among well-trained Brazillians. Many of these people may choose to remain in the US, with remittances being sent back until the family can afford to reunite with the US immigrant. This corridor is so large that the US have a "special agreement" with Brazil, with agriclture, teacher training, education and defense spending.
+Environmentally, USAID has a great interest in the Amazon Rainforest, and collaborates with Brazil's FUNAI to coordinate and plan environmental projects, preserve indiginous peoples and contribute to the gathering of scientific information - important on the global scale with the increasing importance of climate change on the world agenda.
 
+**Haiti**
+Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -417,7 +420,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MjQzNTEzMSwxOTAyMTUzOTY3LDM2MD
+eyJoaXN0b3J5IjpbMjA0NjY5Nzk3MSwxOTAyMTUzOTY3LDM2MD
 QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
 MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
 g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
