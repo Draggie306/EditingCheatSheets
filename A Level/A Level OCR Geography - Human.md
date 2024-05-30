@@ -81,8 +81,10 @@ Social stability, though **social remittances** and the diffusion of ideas inher
 
 
 
-#### Growth
-Growth is largely economic. 
+#### Economic Growth
+Economic growth is largely an... economic factor. 
+
+- The GDP and tax base of a country is significantly boosted by migration, especially in LIDCs and EDCs. Haiti's GDP is 
 
 
 #### Investment
@@ -94,13 +96,20 @@ Investment can be seen benefitting an LIDC as a result of remittances. Nepal has
 
 
 #### Inequalities
-Inequalities are the different treatment of peol
-- The process of brain-drain, at least in the short-term, exacerbates and amplifies issues such as women's rights: it is the men who emigrate from these countries and work in other countries.
+Inequalities are the uneven treatment of people.
+- The process of brain-drain, at least in the short-term, exacerbates and amplifies issues such as women's rights: it is the men who emigrate from these countries and work in other countries. Furthermore, the young and well-educated, possibly from state education system, are the most likely to move - at significant cost to the state who lose their young tax base.
+- Remittances can exacerbate inequalites between communites and families that receive them and those who do not, especially in LIDCs. (The theory for this is the Relative Deprivation Theory) -> families will compare themselves to others in the village/neighbourhood and, if they see themselves as less well-off, this may encourage further migration and a multipler effect of greater losses for the area of origin. This is a problem too within (advanced) countries - over the past hundred years, rural Italian towns and villages are becoming ghost towns as the youth are moving into larger towns and cities/abroad and leaving older people behind, resulting in a net decrease. 
 
 #### Injustices
-Injustices refer to the unfair treatment
+Injustices refer to the unfair treatment of people.
+- Migrants often have their human rights violated as a result of perhaps their lack of knowledge, language barrier or false promises.
+- Women and children may be targeted by human traffickers to be abused or even "sold" in the "maid trade"
+- Asylum seekers are often seen as burdens and many countries do their best to avoid processing of them. In Lampedusa, Italy, migrants from Tunisia and Libya are often held in prison-like conditions where MSF said that there is signifiant risk of disease outbreak. They may not be given adequate food, space or clothing.
+- Migrants may be viewed as second-class citizens and prone to abuse, even in ACs, by landlords who can leverage the language barrier and possible lack of understanding to support high amounts of people in inadequate housing spaces (Peterborough)
 
 #### Conflicts
+- High immigrant populations concentrated in one area can put significant pressure on public services and can promote feelings of being "a foreigner in your hometown" among resident populations. For example, in Peterborough UK, Polish migration was described as an "epidemic" between 2016, and GPs had over 1000 registrants in a period of 6 months. Pressure on the education system as well - one class had 24 languages spoken with no additional support, and class sizes rose above 30. 
+- Natives may think that the newcomers are "stealing jobs" which is typically true, if these jobs do not want to be performed by natives in the first place, typically in primary or secondary "3D" jobs. 
 
 
 ### Case study: Brazil, an EDC
@@ -439,9 +448,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTM5ODI1MzMsMTkwMjE1Mzk2NywzNj
-A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
-NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
-M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
-MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbNzkyNDg5NjY1LDE5MDIxNTM5NjcsMzYwND
+AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
+LDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zOD
+c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
+OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
 -->
