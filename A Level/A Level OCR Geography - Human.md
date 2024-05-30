@@ -384,7 +384,7 @@ The first sign of economic change in Birmingham, now England's second city with 
 
 
 #### The rise of Birmingham
-Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During this time, the demographic was principally white with the Church present throughout; this intensive labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian William Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During this time, the demographic was principally white with the Church present throughout; this intensive labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
 
 The Industrial Revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A **middle class and tertiary sector** emerged during this period, creating **Lloyds and Midlands Bank** - the former founded in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town. The canal system allowed more trade, with even more goods being imported and exported.
 
@@ -453,7 +453,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTU0MDkzMTIsLTkyOTQ1MzQwNSwxOT
+eyJoaXN0b3J5IjpbLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOT
 AyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAz
 OCwtMTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMT
 YyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5
