@@ -94,10 +94,11 @@ Investment can be seen benefitting an LIDC as a result of remittances. Nepal has
 
 
 #### Inequalities
+Inequalities are the different treatment of peol
 - The process of brain-drain, at least in the short-term, exacerbates and amplifies issues such as women's rights: it is the men who emigrate from these countries and work in other countries.
 
 #### Injustices
-
+Injustices refer to the unfair treatment
 
 #### Conflicts
 
@@ -127,7 +128,7 @@ The USA has high numbers of political, socioeconomic and environmental links wit
 Environmentally, USAID has a great interest in the Amazon Rainforest, and collaborates with Brazil's FUNAI to coordinate and plan environmental projects, preserve indiginous peoples and contribute to the gathering of scientific information - important on the global scale with the increasing importance of climate change on the world agenda.
 
 **Haiti**
-Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, especially after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
+Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, with 54,000 after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
 
 **Portugal**
 Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portugese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
@@ -140,11 +141,11 @@ The continued waves of immigrants to Brazil has undoubtedly kickstarted its tran
 
 
 **Political Stability**
-Brazil has a stable democracy, good education system and strong civil rights. Flows of people and capital have helped to reduce border and trade friction (there is free trade within Mercosur), promote integration and have contributed to very "western" anti-discrimination laws -b 
+Brazil has a stable democracy, good education system and strong civil rights. Flows of people and capital have helped to reduce border and trade friction (there is free trade within Mercosur), promote integration and have contributed to very "western" anti-discrimination laws - such as the ratification of CEDAW (which even the USA has not). Globally Brazil is known for being very open towards environmental and political refugees such as the Haitians but also from neighbouring countries including Bolivia. 
 
 
 **Social Inequality**
-Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities
+Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
 
 
 
@@ -438,9 +439,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMTE1NTA3NCwxOTAyMTUzOTY3LDM2MD
-QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
-MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
-g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
-NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTE4MTM5ODI1MzMsMTkwMjE1Mzk2NywzNj
+A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
+NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
+M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
+MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
