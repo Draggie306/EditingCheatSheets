@@ -84,8 +84,11 @@ Social stability, though **social remittances** and the diffusion of ideas inher
 #### Economic Growth
 Economic growth is largely an... economic factor. 
 
-- The GDP and tax base of a country is significantly boosted by migration, especially in LIDCs and EDCs. Haiti's GDP is 
+- The GDP and tax base of a country is significantly boosted by migration, especially in LIDCs and EDCs. 37% of Haiti's GDP is from remittances. 
+- Migrants open up new demands for goods and products in a destination area. Tesco in the UK has launched over 100 lines of Polish food, and "oriental shops on every corner" is commonly quoted in inner UK cities due to the amount of immigrants and those of immigrant heritage. 
+- Multiplier effects as a result of supplementary remittance income in areas of origin is common.
 
+> NEPAL has had a multipler effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 was 
 
 #### Investment
 
@@ -448,9 +451,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkyNDg5NjY1LDE5MDIxNTM5NjcsMzYwND
-AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
-LDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zOD
-c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
-OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTkyNDE1MjQ1NywxOTAyMTUzOTY3LDM2MD
+QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
+MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
