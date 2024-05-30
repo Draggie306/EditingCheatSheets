@@ -108,13 +108,14 @@ Brazil is an EDC with a GDP per capita of US $8,917. This has over doubled since
 
 
 #### Current patterns
-For the last 15 years Brazil has seen a significant immigration decline, whilst emigration is increasing. In total there are over 4 million Brazillians living overseas - with 1.9 million in its largest diaspora in the USA - but despite being a "country descended from immigrants" less thn 1% of its population is foreign born. Today, there are over 100,000 fewer immigrants than there were in 2000. However, there remains strong bilateral corridors between Brazil and other Mercosur nations - of which it leads - in South America, through demand by businesses and competition in the form of cheaper labour. 
-Emigrants offering low-skill labour is slowing due to the rapid development of the country. However, Brazil is increasingly losing many high-skill workers to the EU, USA and Japan 
+For the last 15 years Brazil has seen a significant immigration decline, whilst emigration is increasing. In total there are over 4 million Brazillians living overseas - with 1.9 million in its largest diaspora in the USA - but despite being a "country descended from immigrants" less thn 1% of its population is foreign born. Today, there are over 100,000 fewer immigrants than there were in 2000 - but emigration has increased by almost 1 million. However, there remains strong bilateral corridors between Brazil and other Mercosur nations - of which it leads - in South America, through demand by businesses and competition in the form of cheaper labour. 
+Emigrants offering low-skill labour is slowing due to the rapid development of the country. However, Brazil is increasingly losing many high-skill workers to the EU, USA and Japan. The tertiary sector today accounts for 69% of Brazil's economy - compared to the 25% of the secondary and just 6% for the primary.
  
 #### Changes over time
 There have been waves and flows to and out of Brazil, enriching its culture and forming the modern day society.
 - Many Europeans in the 20th Century were attracted by the agriculture demand and coffee growing, furthered by prior colonial relations.
 - During the 1980s and an increasing in the secondary sector textiles production attracted many South Koreans, but also illegal movement between other South American nations with cheaper labour costs.
+- Demand for the 2014 Football World cup and 2016 Olympics increased international labour demand
 - 
 
 
@@ -408,9 +409,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODg3MjY2ODQsMTkwMjE1Mzk2NywzNj
-A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
-NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
-M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
-MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
+eyJoaXN0b3J5IjpbMzMyMDQxMDQxLDE5MDIxNTM5NjcsMzYwND
+AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
+LDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zOD
+c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
+OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
 -->
