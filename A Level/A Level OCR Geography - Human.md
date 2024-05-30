@@ -130,7 +130,23 @@ Environmentally, USAID has a great interest in the Amazon Rainforest, and collab
 Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, especially after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
 
 **Portugal**
-Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portugese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). 
+Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portugese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
+
+#### Impact
+
+**Economic Development**
+The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread 
+
+
+
+**Political Stability**
+
+
+
+
+**Social Inequality**
+Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -423,9 +439,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3Njg3MDIyLDE5MDIxNTM5NjcsMzYwND
-AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
-LDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zOD
-c0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1
-OSwtNzcwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTg5NDQ4ODQ1MywxOTAyMTUzOTY3LDM2MD
+QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
+MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
 -->
