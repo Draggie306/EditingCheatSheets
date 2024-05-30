@@ -94,7 +94,7 @@ Economic growth is largely an... economic factor.
 #### Development
 - Sociopolitial development as a result of returning flows of people, skills and capital is of great benefit to countries of origin.
 - Long-term development of an origin country can be facilitated by strong diaspora links that help to transfer skills, capital, knowledge and ideas through professional, social and religious networks. This has been furthered by the communications revolution.
-- NGO and supranational organisation 
+- NGO and supranational organisations such as the UN "Migration and Development" scheme allows collaboration between countries, families, private and public organisations for a bottom-up but also large scale approach to development in a source region.
 
 
 ### Negatives of Migration
@@ -453,10 +453,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI4NTk2NjQxLC05Mjk0NTM0MDUsMTkwMj
-E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgs
-LTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
-IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
-NCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ
-==
+eyJoaXN0b3J5IjpbLTEyNTU0MDkzMTIsLTkyOTQ1MzQwNSwxOT
+AyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAz
+OCwtMTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMT
+YyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5
+ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV
+19
 -->
