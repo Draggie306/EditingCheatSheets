@@ -104,7 +104,7 @@ Investment can be seen benefitting an LIDC as a result of remittances. Nepal has
 
 ### Case study: Brazil, an EDC
 
-Brazil is an ed
+Brazil is an EDC with a GDP per capita of US $8,917. This has over doubled since the year 2000 - and is rapidly moving through the demographic transition.  
 
 
 #### Current patterns
@@ -112,7 +112,8 @@ For the last 15 years Brazil has seen a significant immigration decline, whilst 
  
 #### Changes over time
 There have been waves and flows to and out of Brazil, enriching its culture and forming the modern day society.
-
+- Many Europeans in the 20th Century were attracted by the agriculture demand and coffee growing, furthered by colonial relations.
+- 
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -405,7 +406,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDI1ODkyMTksMTkwMjE1Mzk2NywzNj
+eyJoaXN0b3J5IjpbLTE1Nzk1OTY0OTksMTkwMjE1Mzk2NywzNj
 A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
 NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
 M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
