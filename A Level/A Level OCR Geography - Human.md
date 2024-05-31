@@ -489,7 +489,7 @@ The 1900s saw yet more opportunities. The Austin car plant brought car and vehic
 #### War and post-war decline
 Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
-The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more space and more modern.
+The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contem
 
 By 1970s:
 - The British vehicle industry had been in decline for 20 years. Preference for Japanese models, cheaper costs w/global shift and globalisation and demand for these cars favoured them vs British makes
@@ -502,14 +502,13 @@ The clearance and resettlement schemes pushed out residents into more affluent o
 The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (negative feedback?) 
 
 #### Modern-day Birmingham
-A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had increased to 49%.
+A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this share had increased to 49%.
 
-The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prospertity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
+The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prosperity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
 
-EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
+It was the EU Social Investment fund that helped regenerate areas of the city, with £450m investment in changing social housing. Some of this has been matched post-Brexit but not all; it is essential for low-income families.
 
 Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
-
 
 Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
 
@@ -542,9 +541,9 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ## Overview
 Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
 
-The UDHR was written after WW2 to establish these rights. Whilst very morally strong it is not legally binding.
-
-States sign treaties to codify the set of human rights into compatible domestic leglislation. One of these is the UN Convention on the Rights of the Child - that outlines what a child must need to survivee, grow and reach full potential, and is the basis for Unicef's work. This is the most widely-ratified piece of leglislation. 
+The UDHR was written after WW2 to establish these rights. Whilst very morally strong and well-respected, it is not legally binding. 
+States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - that outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
+To encourage codification, states may place trade sanctions or embargoes on others that do not ratify or enforce rules against human rights violations. 
 
 
 Norms are 
@@ -580,11 +579,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNDQ3MDc5LC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
-MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
-MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
-MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
-k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
-XX0=
+eyJoaXN0b3J5IjpbMTc4NzAzNjYzMiwtNTk3MDI1NjQ1LDM4OD
+UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
+LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
+IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
+MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
+g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
+Nl19
 -->
