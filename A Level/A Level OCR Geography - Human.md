@@ -59,10 +59,9 @@ There is more and more inter-regional migration occurring globally, with increas
 
 A range of reasons are contributing to this growth. 
 - The communications revolution: more people have increasing access to communications devices such as mobile phones - increasingly being "required" in countries in the global south, and the internet and social media allow potential migrants to see and get a feel for their destination, whilst migrants already living in new destinations can create increasing links with the origin country and encourage further growth. Thanks to this, there is less of a "culture shock" and it allows people to remain connected to their home lives
+- New source and destination areas. Economies such as the UAE and Gulf nations have looked to diversify and build a new economy, requiring millions of workers and 
 
-
-
-Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - 
+Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - the lowest of all groups, natives included.
 
 ## Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
@@ -457,10 +456,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDMxNDI2NSwtMTE3MDcyMzM5NSwtOT
-I5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0
-NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNz
-E2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5
-NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcwNzY2LC
-0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbNDEzODE3MDkxLC0xMTcwNzIzMzk1LC05Mj
+k0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1
+MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MT
+Y0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0
+MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3NjYsLT
+EzMDM5OTI1NTFdfQ==
 -->
