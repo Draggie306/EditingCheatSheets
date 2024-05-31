@@ -166,6 +166,20 @@ Despite being a "country of immigrans" it is unfortunately those who are discimi
 ### Case study: AC USA
 The USA is an AC that influences and drives the global migration system through **economic, social and political factors**.
 
+#### Patterns, policies and interdependence
+The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
+
+Today, there are several key policies:
+- the f
+
+#### Opportunities
+
+
+#### Challenges
+
+
+
+
 
 ### Case study: LIDC Lao PDR
 Laos is an LIDC with very limited influence over the global migratory system.
@@ -486,7 +500,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzQ0NTE4LC01OTcwMjU2NDUsMzg4NT
+eyJoaXN0b3J5IjpbNzE4MjM1MjQyLC01OTcwMjU2NDUsMzg4NT
 IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
 MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
 MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
