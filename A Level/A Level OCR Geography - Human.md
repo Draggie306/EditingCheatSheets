@@ -190,10 +190,11 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 - Remittances over time should contribute to a multiplier effect as seen in other LIDCs
 - High-speed rail will allow more development internally and greater movement of people between China, Vietnam, and Thailand. As Laos is very central it has a special relationship over this
 - Political stability is increasingly good in this area
-- The ASEAN migration corridor stimulates economic activities with trade and development. Political sec
+- The ASEAN migration corridor stimulates economic activities with trade and development.
 
 #### Challenges
-
+- Low education, low skill labour still predominant
+- Most migration remains illegal and 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
 
@@ -485,7 +486,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMxNTE4MzEsMzg4NTIxMzksMjM0OD
+eyJoaXN0b3J5IjpbLTE1MjM3NjM4OTMsMzg4NTIxMzksMjM0OD
 YyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYw
 LDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOT
 Q1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUw
