@@ -561,11 +561,14 @@ Bonded labour is today most common in caste societies, especially in India, but 
 Capital punishment and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
 In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
 
-Maternal mortalty is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is rate of these deaths per 100,000 births.
+Maternal mortalty is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is rate of these deaths per 100,000 births. Trends that influence MMR include:
 - Fewer doctors to guide through childbirth/perform legal abortions
 - Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
 - Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
-- Dowries and the 
+- Countries may be patriarchal and the dowry may incentivise the selling of young girls aged 14 or lower to be married (e.g. Iraq), substantially increasing complications as bodies may not be fully developed 
+- Lower levels of education regarding contraceptives, hygiene or how to support a baby
+- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into a pregnancy and as early after delivery without letting their body recover (stress)
+- Lack of nationalised or free healthcare may discourage people with hypertension or hemmhorages f
 
 
 ### Influences
@@ -605,11 +608,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkwNTkyMzIwLC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
-MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
-MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
-MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
-k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
-XX0=
+eyJoaXN0b3J5IjpbLTE5NTkyNTg4NzksLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
