@@ -542,15 +542,23 @@ After realising that oil would not be an unlimited resource, the Sheikh
 Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
 
 The UDHR was written after WW2 as a framework to establish these rights. Whilst very morally strong and well-respected, it is not legally binding. 
-States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - that outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
+States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - which outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
 To encourage codification, states may place trade sanctions or embargoes on others that do not ratify or enforce rules against human rights violations. 
 
 According to UNICEF, social norms are the perceived "unwritten rules" that define acceptable and appropriate actions and behaviours within a group or community.
 
 Intervention refers to activity taken by a nation to manipulate the economy, society or the political structure of another nation. This can be done through:
 - geopolitical intervention: by placing strategic trade embargoes, aid or military action
-- military intervention: by using its and allies' military forces forcefully take control of another country, or areas of it 
+- military intervention: by using its and allies' military forces to forcefully take control of another country, or areas of it 
 
+
+Forced labour is not literally being forced to work. It refers to when people are trapped or have no other choice. For example:
+- the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer.
+- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported
+
+
+### Influences
+A range of factors can influence global patterns of human rights violations. 
 
 
 ## Women's rights
@@ -584,11 +592,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0NjU4NTU0LC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
-MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
-MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
-MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
-k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
-XX0=
+eyJoaXN0b3J5IjpbLTE5MDM2MTY3NjYsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
