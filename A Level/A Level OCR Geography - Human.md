@@ -177,8 +177,21 @@ Today, there are several key policies. However the **Immigation and Nationality 
 - Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
 	- Histroically amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
 - Refugees and humanitarian visas: the USA has historically taken in more refugees than the entire world, combined. This number changes annually but stays at around 45,000 per annum
-- 
+- General temporary visas sch as the H-1B system
 
+**Key Policies**
+- Immigration and Nationality Act, 1965.
+	- Established quotas
+	- Laid the foundations for the reunification system and overall structure for today's policies
+- Immigration Act 1990
+	- Added several, well-known employment visas used today
+	- Increased legal migration by ~40%
+	- Allowed families to remain "in-tact"
+- Illegal Immigration Reform & Immigrant Responsibility Act 1996
+	- Increased spending on the border with walls and fences to $5B/yr
+	- Mexican immigrants became "trapped" in the US
+	- Overall immigration levels remained slightly unchanged
+	- Followed up by Secure Fence 2006 
 
 #### Opportunities
 
@@ -508,7 +521,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODMzMjk5ODAsLTU5NzAyNTY0NSwzOD
+eyJoaXN0b3J5IjpbLTE0NzgxMjgwMjAsLTU5NzAyNTY0NSwzOD
 g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
 NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
 cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
