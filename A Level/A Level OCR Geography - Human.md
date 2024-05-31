@@ -194,7 +194,10 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 
 #### Challenges
 - Low education, low skill labour still predominant
-- Most migration remains illegal and 
+- Most migration remains illegal and many are exploited
+- Greater political freedoms and free movement in ASEAN countries may exacerbate losses especially with wage differentials
+- Lao's garment industry companies may fail to keep up with demand due to being outpriced by competition
+- People with high-skill labour including carpenters are - for the moment - are simply more likely to migrate out and seldom return, suppressing wages and creating relative inequalities.
 
 # [TBD] 2.1 – Changing Spaces; Making Places
 
@@ -486,11 +489,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjM3NjM4OTMsMzg4NTIxMzksMjM0OD
-YyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYw
-LDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOT
-Q1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUw
-LDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNj
-QyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQz
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4Nj
+I1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAs
+ODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5ND
+UzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAs
+MzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2ND
+IyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMw
+MF19
 -->
