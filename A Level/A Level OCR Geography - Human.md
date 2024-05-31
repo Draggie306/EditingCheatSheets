@@ -172,7 +172,7 @@ Laos is an LIDC with very limited influence over the global migratory system.
 
 Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
 
-72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day. Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
+72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day - and young people are "lucky to get a few years' education". Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
@@ -180,8 +180,7 @@ Migration policies in Laos are ineffective. Human trafficking is very common - *
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
 
-Laos and Thailand also jointly manage the Mekong river, inheritly improving political relations.  
-
+Laos and Thailand also jointly manage the Mekong river, inheritly improving political relations. 
 
 #### Opportunities
 - Laos has received FDI from Vietnam in over 400 investment projects
@@ -487,11 +486,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2Mzc2NjI2OCwtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbLTg4MzQ0NTE4LC01OTcwMjU2NDUsMzg4NT
+IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
+MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
+MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
+MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
+k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
+XX0=
 -->
