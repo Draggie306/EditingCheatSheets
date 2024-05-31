@@ -178,7 +178,7 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
-Migration policies in Laos are ineffective. Human trafficking is very common - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. To combat this and    
+Migration policies in Laos are ineffective. Human trafficking is very common - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Lautian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution.   
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers 
 
@@ -479,11 +479,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjExODI3LDIzNDg2MjU5MiwtMTMyND
-c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQs
-NDEzODE3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMj
-E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgs
-LTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
-IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
-NF19
+eyJoaXN0b3J5IjpbMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nz
+c5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0
+MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMT
+UzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwt
+MTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMj
+E5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0
+XX0=
 -->
