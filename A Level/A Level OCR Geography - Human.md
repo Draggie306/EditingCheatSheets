@@ -176,7 +176,7 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day. Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
 
-The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the river - which is well-connected with friendship bridges. This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
+The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao friendship bridges. This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
 
 
@@ -470,7 +470,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAzODI4MDQzLC0xMzI0Nzc5ODQ0LC03Mz
+eyJoaXN0b3J5IjpbMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03Mz
 cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEs
 LTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MD
 QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
