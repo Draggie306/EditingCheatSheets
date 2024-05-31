@@ -13,7 +13,7 @@ Last content addition: 31/06/2024 16:41.](https://gist.github.com/Draggie306/107
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
-# [TBD] 2.2.2 Global Systems – Migration
+# 2.2.2 Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
@@ -164,7 +164,7 @@ Brazil has a stable democracy, good education system and strong civil rights. Fl
 Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
 
 ### Case study: AC USA
-The USA is an AC that influences and drives the global migration system through **economic, social and political factors**. It is the #1 biggest economy of $25tn with some of its companies valued greater than other countries.
+The USA is an AC that influences and drives the global migration system through **economic, social and political factors**. It is the #1 biggest economy of $25tn with some of its companies valued greater than other entire countries.
 
 #### Patterns and policies
 The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
@@ -541,11 +541,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4ODc4MzM4LC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
-MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
-MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
-MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
-k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
-XX0=
+eyJoaXN0b3J5IjpbLTE3NTEwMjg0OTMsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
