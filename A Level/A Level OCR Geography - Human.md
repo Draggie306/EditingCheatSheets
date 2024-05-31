@@ -537,18 +537,40 @@ After realising that oil would not be an unlimited resource, the Sheikh
 
 
 
-# 2.2.3 Global Governance: Option C – Human Rights
+# [tbd] 2.2.3 Global Governance: Option C – Human Rights
 
+## Overview
+
+
+
+## Women's rights
+
+
+### Case study: INDIA
+
+
+
+## Strategies for global governance
+
+
+### Case study: AFGHANISTAN, an area of conflict
+
+
+## Intervention and development
+
+
+### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
+The DRC is a central African LIDC with a HDI of 0.482. Its capital is Kinshasa, and it is bordered by 10 countries: Cameroon, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, Zambia and Angola.
 
 
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MjM0NDIxNywtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbLTE5NTU1NjIzNzcsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
