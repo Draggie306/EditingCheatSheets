@@ -178,7 +178,7 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
-Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas - and those . To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but 
+Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but 
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
 
@@ -186,7 +186,11 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 
 
 #### Opportunities
-
+- Laos has received FDI from Vietnam in over 400 investment projects
+- Remittances over time should contribute to a multiplier effect as seen in other LIDCs
+- High-speed rail will allow more development internally and greater movement of people between China, Vietnam, and Thailand. As Laos is very central it has a special relationship over this
+- Political stability is increasingly good in this area
+- The ASEAN migration corridor stimulates economic activities with trade and development. Political sec
 
 #### Challenges
 
@@ -481,7 +485,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA5NTI2ODgsMzg4NTIxMzksMjM0OD
+eyJoaXN0b3J5IjpbLTE3NjMxNTE4MzEsMzg4NTIxMzksMjM0OD
 YyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYw
 LDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOT
 Q1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUw
