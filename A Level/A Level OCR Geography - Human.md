@@ -47,7 +47,9 @@ Prior to Brexit, there was a large bilateral corridor between the UK and Poland;
 
 The accession of Poland, and other A8 eastern European countries in 2004 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour.
 
-There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by 
+There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
+
+Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members.
 
 
 ### Inter-regional migration
@@ -57,9 +59,10 @@ There is more and more inter-regional migration occurring globally, with increas
 
 A range of reasons are contributing to this growth. 
 - The communications revolution: more people have increasing access to communications devices such as mobile phones - increasingly being "required" in countries in the global south, and the internet and social media allow potential migrants to see and get a feel for their destination, whilst migrants already living in new destinations can create increasing links with the origin country and encourage further growth. Thanks to this, there is less of a "culture shock" and it allows people to remain connected to their home lives
-- 
 
 
+
+Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - 
 
 ## Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
@@ -454,7 +457,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTc4OTcwOSwtMTE3MDcyMzM5NSwtOT
+eyJoaXN0b3J5IjpbMTQ4MDMxNDI2NSwtMTE3MDcyMzM5NSwtOT
 I5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0
 NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNz
 E2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5
