@@ -210,10 +210,12 @@ There is increasing environmental political cooperation and interdependence with
 #### Opportunities
 - 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
 - Most immigrants are young and of working age. The largest age bracket of Indians is 30-34 and for Mexicans this is 40-44, boosting the tax base, allowing for gaps in the labour market to be filled and sustains natives' demand to be in higher paying, tertiary sector jobs. Over 45% of Mexicans were in primary or secondary-sector jobs (just think about how many people that is!!)
-- Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the regeneration of old, industrial inner cities now 
+- Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the occupation of old, industrial inner cities now occupied by migrants who redevelop the area.
 
 #### Challenges
-
+- Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexcian "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
+- There are still, despite amnesties, high amounts of unauthorised, illegal immigrants, an estimated 10.9 million, as a result of the "American dream" ideology throughout central and southern American countries using Mexico as a way in.
+- 
 
 
 
@@ -537,7 +539,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMDc3OTMzOSwtNTk3MDI1NjQ1LDM4OD
+eyJoaXN0b3J5IjpbMTY2NjU2NzE3NywtNTk3MDI1NjQ1LDM4OD
 UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
 LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
 IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
