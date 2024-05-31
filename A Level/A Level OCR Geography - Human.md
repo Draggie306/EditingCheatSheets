@@ -45,8 +45,9 @@ Intraregional migration is migration that occurs within a region, for example, t
 
 Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
 
-The accession of Poland, and other eastern European countries between 2003 and 2013 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour, coupled by 
+The accession of Poland, and other A8 eastern European countries in 2004 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour.
 
+There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by 
 
 
 ### Inter-regional migration
@@ -60,7 +61,7 @@ A range of reasons are contributing to this growth.
 
 
 
-## [tbd] Consequences of migration
+## Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
 
 Flows of people through migration is intrinsically linked to flows of money, culture, knowledge and ideas. 
@@ -453,10 +454,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOT
-AyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAz
-OCwtMTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMT
-YyMjE5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5
-ODA0LC02NTk4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV
-19
+eyJoaXN0b3J5IjpbLTU3MTc4OTcwOSwtMTE3MDcyMzM5NSwtOT
+I5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0
+NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNz
+E2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5
+NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcwNzY2LC
+0xMzAzOTkyNTUxXX0=
 -->
