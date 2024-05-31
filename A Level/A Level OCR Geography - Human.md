@@ -164,7 +164,7 @@ Brazil has a stable democracy, good education system and strong civil rights. Fl
 Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
 
 ### Case study: AC USA
-The USA is an AC that influences and drives the global migration system through **economic, social and political factors**.
+The USA is an AC that influences and drives the global migration system through **economic, social and political factors**. It is the #1 biggest economy of $25tn with some of its companies valued greater than other countries.
 
 #### Patterns and policies
 The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
@@ -215,9 +215,11 @@ There is increasing environmental political cooperation and interdependence with
 #### Challenges
 - Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexcian "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
 - There are still, despite amnesties, high amounts of unauthorised, illegal immigrants, an estimated 10.9 million, as a result of the "American dream" ideology throughout central and southern American countries using Mexico as a way in.
-- 
+- The tightening of border laws, deployment of border control agents and ever increasing "bureaucracy" to process migrants has beome a deterrent - and a burden for the taxpayer.
+- The size of the illegal population who do not wish to declare themselves out of fear is a barrier to social, economic and political integration. It may be burdeensome on the demand of resources in scarce regions with high migrant stock - such as southern California (a desert).
 
-
+#### Profound Statement
+> **Politics play on the fears of people in the west who want to protect their own culture, wealth and lifestyle without consideration for the cultural, social and economic benefits that migration has on countries and regions within.** 
 
 
 ### Case study: LIDC Lao PDR
@@ -539,11 +541,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjU2NzE3NywtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbNzc4ODc4MzM4LC01OTcwMjU2NDUsMzg4NT
+IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
+MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
+MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
+MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
+k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
+XX0=
 -->
