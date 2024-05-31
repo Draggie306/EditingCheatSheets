@@ -165,10 +165,13 @@ Brazil has a stable democracy, good education system and strong civil rights. Fl
 **Social Inequality**
 Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
 
-### Case study: AC the USA
+### Case study: AC USA
 The USA is an AC that influences and drives the global migration system through **economic, social and political factors**.
 
+
 ### Case study: LIDC Lao PDR
+Laos is and LIDC with very limited control of 
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -461,7 +464,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1MjgyNzUzLDgzNzM0NTg5NCw0MTM4MT
+eyJoaXN0b3J5IjpbMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MT
 cwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3
 LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNj
 czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
