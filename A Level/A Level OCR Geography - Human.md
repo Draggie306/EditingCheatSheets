@@ -166,7 +166,7 @@ Despite being a "country of immigrans" it is unfortunately those who are discimi
 ### Case study: AC USA
 The USA is an AC that influences and drives the global migration system through **economic, social and political factors**.
 
-#### Patterns, policies and interdependence
+#### Patterns and policies
 The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
 
 The USA had an open border system for "any free white person" could become a citizen. Many Irish and European immigrants came during the Californian Gold Rush and opportunites in the "new world", amounting to an average of 250,000 a year between 1820 and when this policy was changed in the 1882 Immigration Act. 
@@ -176,7 +176,7 @@ Mexico though is by far the greatest contributor to the US migrant population wi
 
 Today, there are several key policies. However the **Immigation and Nationality Acts attempts to keep this number capped at 675,000 annually**.
 - Green Card: open-door policy that allocates 50,000 visas anually at random to anyone that applies. It is a lottery system that promotes diversity. This gives a permanent residency card
-- Skills-based visas such as the H-1B and H-1A allow migants with 
+- Skills-based visas such as the H-1B, H-1A and O-1 allow 140,000 migants with skills deemed "valuable" and who are sponsored by a company every year to arrive. These are "aliens of extraordinary ability" and are highly educated, skillful, graduates and entrepreneurs who fuel innovation.  
 - Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
 	- Histroically amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
 - Refugees and humanitarian visas: the USA has historically taken in more refugees than the entire world, combined. This number changes annually but stays at around 45,000 per annum
@@ -195,6 +195,14 @@ Today, there are several key policies. However the **Immigation and Nationality 
 	- Overall immigration levels remained slightly unchanged
 	- Followed up by Secure Fence 2006 that made the border even more dangerous
 *and more!*
+
+
+#### Interdependence
+
+**Mexico**
+The USA's southern neighbour Mexico has over 37 million Mexicans, and each country had each other's largest diaspora. This beings social and cultural diversity, with Spanish being the second most common language and also being "protected" under US treaty.
+Mexico also provides southern states such as Texas and southern California with low-skill, frequently illegal populations driven by the higher wages (though unfortunately many are still exploited by low-paying employers) and demand for agriculture and construction in the rapidly growing southern cities. Remittances constitute 4% of Mexico's GDP (or 63bn $US), largely from the USA. 
+
 
 #### Opportunities
 
@@ -524,11 +532,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5NTY0NDIyOCwtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbLTEwMjc2Mzg0MTEsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
