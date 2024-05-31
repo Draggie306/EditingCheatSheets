@@ -49,7 +49,7 @@ The accession of Poland, and other A8 eastern European countries in 2004 allowed
 
 There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
 
-Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to 
+Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
 
 According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons.
 
@@ -457,10 +457,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjE0NzY5NCw0MTM4MTcwOTEsLTExNz
-A3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3
-MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0Nz
-Q4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4
-MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgwNTksLT
-c3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNz
+cwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
 -->
