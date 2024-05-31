@@ -208,7 +208,8 @@ U.S. Companies are expected to invst 40bn in Mexico throughout 2024. This create
 There is increasing environmental political cooperation and interdependence with Mexico through the joint management of the Colorado river basin (that supports 40m people) and increasing collaboration regarding the fighting of illegal crossings, and drug and people trafficking at the border. USAID also invest in governmental projects to reduce deforestation by 2030 and promote natural climate solutions and energy efficiency.
 
 #### Opportunities
-- 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to establish co
+- 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
+- Most immigrants are young and of working age. The largest age bracket of Indians is 30-34 and for Mexicans this is 40-44, boosting the tax base, allowing for gaps in the labour market to be filled and sustains   
 
 #### Challenges
 
@@ -535,7 +536,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODkzNjU5NzgsLTU5NzAyNTY0NSwzOD
+eyJoaXN0b3J5IjpbLTE4NjcwNzMxMTksLTU5NzAyNTY0NSwzOD
 g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
 NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
 cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
