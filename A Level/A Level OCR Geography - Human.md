@@ -180,7 +180,7 @@ The only solution to this for residents it to migrate. The border with Thailand 
 
 Migration policies in Laos are ineffective. Human trafficking is very common - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Lautian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution.   
 
-Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers 
+Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy. 
 
 
 #### Opportunities
@@ -479,11 +479,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nz
-c5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0
-MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMT
-UzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwt
-MTgzNjczNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMj
-E5MDE5MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0
-XX0=
+eyJoaXN0b3J5IjpbMTAzMDAyMzQxMSwzODg1MjEzOSwyMzQ4Nj
+I1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAs
+ODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5ND
+UzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAs
+MzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2ND
+IyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMw
+MF19
 -->
