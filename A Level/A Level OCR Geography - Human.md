@@ -540,7 +540,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 # [tbd] 2.2.3 Global Governance: Option C – Human Rights
 
 ## Overview
-
+Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
 
 
 ## Women's rights
@@ -574,11 +574,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3Nzg5Njg4NCwtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbLTEzOTcwNDY2OTEsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
+g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
+MzZdfQ==
 -->
