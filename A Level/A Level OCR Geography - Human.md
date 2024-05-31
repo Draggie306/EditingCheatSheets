@@ -178,6 +178,13 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao Nfriendship bridges. This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
+Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers 
+
+
+#### Opportunities
+
+
+#### Challenges
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -470,11 +477,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY4MDQ3MDM4LDIzNDg2MjU5MiwtMTMyND
-c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQs
-NDEzODE3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMj
-E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgs
-LTE4MzY3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2Mj
-IxOTAxOTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgw
-NF19
+eyJoaXN0b3J5IjpbMTQxMjMwNjI2OCwyMzQ4NjI1OTIsLTEzMj
+Q3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0
+LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1LDE5MD
+IxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4
+LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2NDIyODkxLC0xNj
+IyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMwMCwxMjUyMjk4
+MDRdfQ==
 -->
