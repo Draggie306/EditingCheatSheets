@@ -172,6 +172,14 @@ The USA is an AC that influences and drives the global migration system through 
 ### Case study: LIDC Lao PDR
 Laos is and LIDC with very limited influence and control over the global migration system.
 
+#### Laos Facts
+- Population 6.8 million
+- Is landlocked
+- Widespread poverty and a lack of opportunity makes the border with Thailand very porous
+- 1 in 3 are below 15 years old
+- 72% work in agriculture
+- 22% live below the poverty linen
+
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -464,11 +472,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3Mz
-Q1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1
-LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAsMzE4NT
-cxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2NDIyODkx
-LC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMwMCwxMj
-UyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcwNzY2LC0xMzAzOTky
-NTUxXX0=
+eyJoaXN0b3J5IjpbMjE0NTM3NDY1MywtNzM3MjMwNjk0LDE2OD
+k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
+LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
+E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
+LDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
+k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
+NjZdfQ==
 -->
