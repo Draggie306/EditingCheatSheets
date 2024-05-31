@@ -51,7 +51,7 @@ There is some evidence that the bottom 10% of the pay scale in the UK has had wa
 
 Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
 
-According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons.
+According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons. The average European migrant who arrived in 2016 will make a total lifetime contribution to the UK public finances of £78,000
 
 ### Inter-regional migration
 Today, the amount of south-south migration has outpaced south-north or north-north.
@@ -165,6 +165,7 @@ Brazil has a stable democracy, good education system and strong civil rights. Fl
 **Social Inequality**
 Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
 
+### 
 
 
 # [TBD] 2.1 – Changing Spaces; Making Places
@@ -457,10 +458,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
-cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
-LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
-g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
-MzYsMTA5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNz
-cwNTcwNzY2LC0xMzAzOTkyNTUxXX0=
+eyJoaXN0b3J5IjpbLTc2NTUwNzkwMiw4MzczNDU4OTQsNDEzOD
+E3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2
+NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4Mz
+Y3MzQxNTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAx
+OTIsLTM4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNj
+U5ODE4MDU5LC03NzA1NzA3NjYsLTEzMDM5OTI1NTFdfQ==
 -->
