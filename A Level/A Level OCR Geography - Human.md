@@ -542,7 +542,10 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ## Overview
 Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
 
+The UDHR was written after WW2 to establish these rights. Whilst very morally strong it is not legally binding.
+
 States sign treaties to codify the set of human rights into compatible domestic leglislation. One of these is the UN Convention on the Rights of the Child - that outlines what a child must need to survivee, grow and reach full potential, and is the basis for Unicef's work. This is the most widely-ratified piece of leglislation. 
+
 
 Norms are 
 
@@ -577,7 +580,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkzOTk4ODY2LC01OTcwMjU2NDUsMzg4NT
+eyJoaXN0b3J5IjpbMjcwNDQ3MDc5LC01OTcwMjU2NDUsMzg4NT
 IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
 MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
 MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
