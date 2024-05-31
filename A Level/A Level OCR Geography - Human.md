@@ -178,7 +178,7 @@ Laos is and LIDC with very limited influence and control over the global migrati
 - Widespread poverty and a lack of opportunity makes the border with Thailand very porous
 - 1 in 3 are below 15 years old
 - 72% work in agriculture
-- 22% live below the poverty linen	
+- 22% live below the poverty 
 
 
 
@@ -472,7 +472,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3OTY4NzEyNSwtNzM3MjMwNjk0LDE2OD
+eyJoaXN0b3J5IjpbMTgxMTU4MDIxMSwtNzM3MjMwNjk0LDE2OD
 k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
 LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
 E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
