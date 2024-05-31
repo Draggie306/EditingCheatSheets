@@ -385,7 +385,9 @@ Average costs for a terraced house are £223,500 to £312,500. For a semi-detach
 ### Place Profile Comparisons
 Sheringham has a much older demographic with an average age of 51 years compared to 37 in Mancroft. This may result in more services like bingos and buses, with less schooling in Sheringham. Sheringham may also be less reluctant to change, not only because of the older population who are typically less accepting of new ideas and visions, but the people living there may spend more time retired compared to the lower, younger, more accepting population like students who may only spend 2-3 years in the area, who may be less inclined to travel further away to places such as Cromer to get their shopping done as they do not have as much time as the older, retired population.
 
-[Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
+<!-- [Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here. 
+[31/5/24] Nah it looks good I reckon 
+-->
 
 
 ### Shifting flows of money, investment and ideas
@@ -408,7 +410,6 @@ Norwich is a commuter town too, with people coming into work from surrounding vi
 At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
 
 The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
-
 
 
 ## How do we understand place?
@@ -468,6 +469,8 @@ The development of a bypass, such as the Norwich NDR, has so many players. Local
 
 
 ### Case study: Structural economic change, Birmingham
+> This case study can also be used in Placemaking (5.c) 
+
 The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
 
 
@@ -534,18 +537,18 @@ After realising that oil would not be an unlimited resource, the Sheikh
 
 
 
-
+# 2.2.3 Global Governance: Option C – Human Rights
 
 
 
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTEwMjg0OTMsLTU5NzAyNTY0NSwzOD
-g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
-NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
-cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
-LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
-g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
-MzZdfQ==
+eyJoaXN0b3J5IjpbMTg4MjM0NDIxNywtNTk3MDI1NjQ1LDM4OD
+UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
+LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
+IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
+MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
+g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
+Nl19
 -->
