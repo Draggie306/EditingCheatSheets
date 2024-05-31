@@ -169,11 +169,13 @@ The USA is an AC that influences and drives the global migration system through 
 #### Patterns, policies and interdependence
 The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
 
-Currently, there are 90.8 million migrants in the USA. 5% come from India and China, many are "persons of extraordinary ability" and are high-skill Silicon Valley wokers. 
+Currently, there are 90.8 million migrants in the USA. 5% come from India and China, many are "persons of extraordinary ability" and are high-skill (Silicon Valley) wokers or have student visas from wealthy Asian families looking to be educated. 
+Mexico though is by far the greatest contributor to the US migrant population with an over 28% share.  
 
-Today, there are several key policies:
+Today, there are several key policies. However the **Immigation and Nationality Acts attempts to keep this number capped at 675,000 annually**.
 - Green Card: open-door policy that allocates 50,000 visas anually at random to anyone that applies. It is a lottery system that promotes diversity. This gives a permanent residency card
-- Family reunification: /
+- Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
+	- Histroically amnesty has been 
 
 
 #### Opportunities
@@ -504,7 +506,7 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTY5ODA0OSwtNTk3MDI1NjQ1LDM4OD
+eyJoaXN0b3J5IjpbLTE1OTg0NTE2MywtNTk3MDI1NjQ1LDM4OD
 UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
 LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
 IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
