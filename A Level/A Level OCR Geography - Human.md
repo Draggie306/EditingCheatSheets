@@ -573,14 +573,22 @@ In some countries it is still lawful, however, many seldom use it or reserve it 
 The vast majority of maternal deaths can be avoided, therefore, it is not just a question of development but also of human rights.
 
 ## Women's rights and gender inequality
-Women's rights are measured through the GGGI - the Global Gender Gap Index by the World Economic Forum. It is measured through:
-- economic partic
+Women's rights are measured through the **GGGI** - the Global Gender Gap Index by the World Economic Forum. It is a percentage score that calculates the relative equality of women compared to men. It's measured through:
+- economic participation and equal opportunities;
+- educational attainment;
+- health and survival;
+- political empowerment.
+
+As of 2023, no country has closed this gap.
+
+Social norms are a barrier to gender equality. 
+
 
 
 ### Case study: INDIA
 
 
-> "dalits" - lowest form of caste
+> "Dalits" - lowest form of caste
 
 
 ## Strategies for global governance
@@ -607,7 +615,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjczNzI3MSwtNTk3MDI1NjQ1LDM4OD
+eyJoaXN0b3J5IjpbMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4OD
 UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
 LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
 IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
