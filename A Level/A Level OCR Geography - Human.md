@@ -8,8 +8,8 @@
 **⚠ This is a work in progress, unfinished document (more so than the other physical side). The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 31/06/2024 16:41. 
-Last content addition: 31/06/2024 16:41.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 31/06/2024 20:41. 
+Last content addition: 31/06/2024 20:41.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
@@ -615,11 +615,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbLTczODMwODAzNSwyMDAxNTQwNzY1LC01OT
+cwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0
+LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MT
+cwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3
+LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNj
+czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
+Ml19
 -->
