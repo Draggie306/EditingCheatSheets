@@ -170,7 +170,7 @@ The USA is an AC that influences and drives the global migration system through 
 
 
 ### Case study: LIDC Lao PDR
-Laos is and LIDC with very limited control of 
+Laos is and LIDC with very limited influence and control over the global migration system.
 
 
 
@@ -464,10 +464,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MT
-cwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3
-LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNj
-czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
-MiwtMzg3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NT
-k4MTgwNTksLTc3MDU3MDc2NiwtMTMwMzk5MjU1MV19
+eyJoaXN0b3J5IjpbLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3Mz
+Q1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1
+LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAsMzE4NT
+cxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2NDIyODkx
+LC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMwMCwxMj
+UyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcwNzY2LC0xMzAzOTky
+NTUxXX0=
 -->
