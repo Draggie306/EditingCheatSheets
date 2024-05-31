@@ -8,10 +8,8 @@
 **⚠ This is a work in progress, unfinished document (more so than the other physical side). The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 11/05/2024 21:56. 
-Last content addition: 11/05/2024 21:56.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
-
-Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
+[Latest update: 31/06/2024 16:41. 
+Last content addition: 31/06/2024 16:41.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
@@ -19,16 +17,17 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
-
-## Contemporary patterns of migration
-
+### Definitions
 A migrant, according to the UN definition, is someone living outside their country of origin for at least a year.
 
 **Interdependence -** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
 
 **Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
 
-**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons. They may send money back. They may also bring dependents.
+
+
+## Contemporary patterns of migration
 
 Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
 
@@ -39,7 +38,6 @@ Migration is significant, and worldwide! In 2020, 291 million people were living
 
 ### Intra-regional migration
 Intraregional migration is migration that occurs within a region, for example, the European Union. 
-
 
 #### The Poles are coming!!
 
@@ -489,11 +487,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4Nj
-I1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAs
-ODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5ND
-UzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAs
-MzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2ND
-IyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMTA5ODQ5NDMw
-MF19
+eyJoaXN0b3J5IjpbLTI2Mzc2NjI2OCwtNTk3MDI1NjQ1LDM4OD
+UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
+LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
+IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
+MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
+g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
+Nl19
 -->
