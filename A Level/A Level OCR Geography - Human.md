@@ -489,7 +489,7 @@ The 1900s saw yet more opportunities. The Austin car plant brought car and vehic
 #### War and post-war decline
 Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
-The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contem
+The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contemporary living spaces.
 
 By 1970s:
 - The British vehicle industry had been in decline for 20 years. Preference for Japanese models, cheaper costs w/global shift and globalisation and demand for these cars favoured them vs British makes
@@ -522,9 +522,9 @@ Placemaking is the process of transforming public spaces into places that work f
 Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
 
 #### Hulme Crescents
-Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished fully.
+Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin-infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
 
-They were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
+hey were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
 
 
 ### Case study: Dubai's transformation
@@ -545,8 +545,11 @@ The UDHR was written after WW2 to establish these rights. Whilst very morally st
 States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - that outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
 To encourage codification, states may place trade sanctions or embargoes on others that do not ratify or enforce rules against human rights violations. 
 
+Social norms, according to UNICEF, are the perceived "unwritten rules" that define acceptable and appropriate actions and behaviours within a group or community.
 
-Norms are 
+Intervention refers to the  
+
+
 
 ## Women's rights
 
@@ -565,7 +568,7 @@ Norms are
 
 
 ### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
-The DRC is a central African LIDC with a HDI of 0.482. Its capital is Kinshasa. 
+The DRC is a central African LIDC with an HDI of 0.482. Its capital is Kinshasa. The country 
 
 
 
@@ -579,7 +582,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NzAzNjYzMiwtNTk3MDI1NjQ1LDM4OD
+eyJoaXN0b3J5IjpbLTE0NjIwNjU2OSwtNTk3MDI1NjQ1LDM4OD
 UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
 LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
 IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
