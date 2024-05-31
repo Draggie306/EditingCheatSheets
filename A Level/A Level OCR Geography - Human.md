@@ -558,7 +558,8 @@ Intervention refers to activity taken by a nation to manipulate the economy, soc
 - bonded labour - when a person's work is used as a form of repayment of prior debt or loan. Especially in positions of authority, with no formal contracts, or where the liberties of the person depend on the repayment, the person to whom the debt is owed can effectively demand the services indefinitely. 
 Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
 
-Capital punishment and the death penalty have been elimin
+Capital punishment and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
+In some countries it is still lawful, however, many seldom use it or reserve it for the 
 
 
 ### Influences
@@ -598,11 +599,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg1OTEyMTM4LC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
-MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
-MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
-MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
-k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
-XX0=
+eyJoaXN0b3J5IjpbLTI2ODM0Mzk4MiwtNTk3MDI1NjQ1LDM4OD
+UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
+LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
+IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
+MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
+g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
+Nl19
 -->
