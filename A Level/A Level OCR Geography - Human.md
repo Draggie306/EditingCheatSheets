@@ -559,7 +559,13 @@ Intervention refers to activity taken by a nation to manipulate the economy, soc
 Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
 
 Capital punishment and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
-In some countries it is still lawful, however, many seldom use it or reserve it for the 
+In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
+
+Maternal mortalty is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is rate of these deaths per 100,000 births.
+- Fewer doctors to guide through childbirth/perform legal abortions
+- Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
+- Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
+- Dowries and the 
 
 
 ### Influences
@@ -599,11 +605,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2ODM0Mzk4MiwtNTk3MDI1NjQ1LDM4OD
-UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
-LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
-IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
-MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
-g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
-Nl19
+eyJoaXN0b3J5IjpbNjkwNTkyMzIwLC01OTcwMjU2NDUsMzg4NT
+IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQs
+MTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3Mj
+MzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3Miwy
+MDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4OD
+k3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMzg3NDY4MzM2
+XX0=
 -->
