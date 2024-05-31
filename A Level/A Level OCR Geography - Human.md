@@ -170,15 +170,12 @@ The USA is an AC that influences and drives the global migration system through 
 
 
 ### Case study: LIDC Lao PDR
-Laos is and LIDC with very limited influence and control over the global migration system.
-
-#### Laos Facts
-
+Laos is and LIDC with very limited influence over the global migratory st
 Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
 
 72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day. Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
 
-The only solution to this for residents it to migrate. The border is 
+The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the river - which is well-connected with friendship bridges. This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
 
 
@@ -472,11 +469,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNj
-g5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5
-NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMT
-ExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1
-MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMT
-A5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcw
-NzY2XX0=
+eyJoaXN0b3J5IjpbLTQwNTc4MDM1MSwtMTMyNDc3OTg0NCwtNz
+M3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkx
+LC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNj
+A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
+NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
+M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
+MDU5XX0=
 -->
