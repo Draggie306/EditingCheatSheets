@@ -173,12 +173,12 @@ The USA is an AC that influences and drives the global migration system through 
 Laos is and LIDC with very limited influence and control over the global migration system.
 
 #### Laos Facts
-- Population 6.8 million
-- Is landlocked
-- Widespread poverty and a lack of opportunity makes the border with Thailand very porous
-- 1 in 3 are below 15 years old
-- 72% work in agriculture
-- 22% live below the poverty 
+
+Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
+
+72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day. Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
+
+The only solution to this for residents it to migrate. The border is 
 
 
 
@@ -472,11 +472,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMTU4MDIxMSwtNzM3MjMwNjk0LDE2OD
-k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
-LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
-E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
-LDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMzNiwxMD
-k4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4MDU5LC03NzA1NzA3
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNj
+g5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5
+NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMT
+ExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1
+MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0NjgzMzYsMT
+A5ODQ5NDMwMCwxMjUyMjk4MDQsLTY1OTgxODA1OSwtNzcwNTcw
+NzY2XX0=
 -->
