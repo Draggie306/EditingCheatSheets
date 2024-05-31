@@ -552,30 +552,29 @@ Intervention refers to activity taken by a nation to manipulate the economy, soc
 - military intervention: by using its and allies' military forces to forcefully take control of another country, or areas of it 
 
 
-**Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. THe ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
+**Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. The ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
 - the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer. Employers have been known to go bankrupt and migrants are effectively trapped in their destination country.
 - debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and can only be transported back home if they pay this back.
 - bonded labour - when a person's work is used as a form of repayment of prior debt or loan. Especially in positions of authority, with no formal contracts, or where the liberties of the person depend on the repayment, the person to whom the debt is owed can effectively demand the services indefinitely. 
 Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
 
-Capital punishment and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
+**Capital punishment** and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
 In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
 
-Maternal mortalty is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is rate of these deaths per 100,000 births. Trends that influence MMR include:
+**Maternal mortality** is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is the rate of these deaths per 100,000 births. Trends that influence MMR include:
 - Fewer doctors to guide through childbirth/perform legal abortions
 - Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
 - Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
 - Countries may be patriarchal and the dowry may incentivise the selling of young girls aged 14 or lower to be married (e.g. Iraq), substantially increasing complications as bodies may not be fully developed 
-- Lower levels of education regarding contraceptives, hygiene or how to support a baby
-- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into a pregnancy and as early after delivery without letting their body recover (stress)
-- Lack of nationalised or free healthcare may discourage people with hypertension or hemmhorages f
+- Lower levels of education regarding contraceptives, hygiene or how to deliver a baby (vs prenatal classes or education programs)
+- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into pregnancy and as early after delivery without letting their body recover (stress)
+- Lack of nationalised or free healthcare may discourage people with hypertension or haemorrhages from seeking help until it becomes fatal.
 
+The vast majority of maternal deaths can be avoided, therefore, it is not just a question of development but also of human rights.
 
-### Influences
-A range of factors can influence global patterns of human rights violations. 
-
-
-## Women's rights
+## Women's rights and gender inequality
+Women's rights are measured through the GGGI - the Global Gender Gap Index by the World Economic Forum. It is measured through:
+- economic partic
 
 
 ### Case study: INDIA
@@ -608,11 +607,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTkyNTg4NzksLTU5NzAyNTY0NSwzOD
-g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
-NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
-cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
-LDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3ND
-g4OTc1MCwxNzE2NDIyODkxLC0xNjIyMTkwMTkyLC0zODc0Njgz
-MzZdfQ==
+eyJoaXN0b3J5IjpbLTE3NjczNzI3MSwtNTk3MDI1NjQ1LDM4OD
+UyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0
+LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNz
+IzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIs
+MjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0OD
+g5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLTM4NzQ2ODMz
+Nl19
 -->
