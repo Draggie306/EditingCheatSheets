@@ -170,7 +170,8 @@ The USA is an AC that influences and drives the global migration system through 
 
 
 ### Case study: LIDC Lao PDR
-Laos is and LIDC with very limited influence over the global migratory st
+Laos is an LIDC with very limited influence over the global migratory system.
+
 Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
 
 72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day. Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
@@ -469,11 +470,11 @@ After realising that oil would not be an unlimited resource, the Sheikh
 ---
 end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNTc4MDM1MSwtMTMyNDc3OTg0NCwtNz
-M3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkx
-LC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNj
-A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
-NTAsNDc0ODg5NzUwLDE3MTY0MjI4OTEsLTE2MjIxOTAxOTIsLT
-M4NzQ2ODMzNiwxMDk4NDk0MzAwLDEyNTIyOTgwNCwtNjU5ODE4
-MDU5XX0=
+eyJoaXN0b3J5IjpbNTAzODI4MDQzLC0xMzI0Nzc5ODQ0LC03Mz
+cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEs
+LTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MD
+QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
+MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5MiwtMz
+g3NDY4MzM2LDEwOTg0OTQzMDAsMTI1MjI5ODA0LC02NTk4MTgw
+NTldfQ==
 -->
