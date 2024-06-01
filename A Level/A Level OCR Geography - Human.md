@@ -614,6 +614,18 @@ Human rights violations can be a cause and consequence of conflict. Conflict can
 - oppressive or corrput governments that do not respect all groups
 - genocide, ethnic cleansing and torture
 
+Confict itself may cause futher human rights violations.
+- deaths and injuries in men, women and children both combattants and civilians in zones of conflict
+- lack of access to food, water and basic resources through damaged infrastructure
+- provocation of internal and intenational migration and conditions of refugees and asylum seekers
+- abuse of power by militants on women and children
+- more genocide, ethnic cleansing and torture 
+
+
+### Flows of people and geopolitical intervention
+
+
+
 ### Case study: AFGHANISTAN, an area of conflict
 Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
 
@@ -649,11 +661,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDg2ODc5MjQsMTcwNjgwNDQ2Miw1OT
-c4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDky
-MjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMz
-g4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2
-OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNz
-A3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3
-Ml19
+eyJoaXN0b3J5IjpbMjExNTA3MTMxNCwxNzA2ODA0NDYyLDU5Nz
+g3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIy
+NywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+XX0=
 -->
