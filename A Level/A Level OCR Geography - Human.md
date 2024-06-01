@@ -612,6 +612,11 @@ Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*ver
 
 There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). 
 
+87% of women even during intervention in 2018 were still subject to any type of violene
+
+
+The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs ^[source](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos)^
+
 
 
 ## Intervention and development
@@ -632,7 +637,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4Mjc5MDc5MiwtMTk3NjE3NzAwLC01Mz
+eyJoaXN0b3J5IjpbLTUyMTk4MTg2MCwtMTk3NjE3NzAwLC01Mz
 g1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2
 NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03Mz
 cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEs
