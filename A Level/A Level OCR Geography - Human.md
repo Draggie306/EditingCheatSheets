@@ -585,11 +585,16 @@ Social norms are a barrier to gender equality.
 
 Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of housework on the daughters, and likewise, those being married through dowry systems are expected to take care of the husband's family.
 
+In Rwanda, the genocide in 1994 resulted in over 1 million men being killed, and the effective requirement of women to fill the gaps left by the male workforce. This completely upheld the social norms present and, even today, the central African country has a female:male workforce participation ratio of 100:85, and ranks 5th in the world on the GGGI.
+
 
 
 ### Case study: INDIA
 India is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
 
+The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and was updatd in 2008. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
+
+India has ratified CEDAW and 
 
 > "Dalits" - lowest form of caste
 
@@ -618,11 +623,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNzY3NDk3NiwtNTM4NTQ5MjI3LC03Mz
-gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
-LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0LDE2OD
-k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
-LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
-E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
-XX0=
+eyJoaXN0b3J5IjpbLTE0NjAzNjgyNDAsLTUzODU0OTIyNywtNz
+M4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEz
+OSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNj
+g5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5
+NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMT
+ExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1
+MF19
 -->
