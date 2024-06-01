@@ -624,8 +624,10 @@ Confict itself may cause futher human rights violations.
 
 
 
-### Flows of people and geopolitical intervention
+### Flows and geopolitical intervention
+People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
 
+Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and cea    
 
 
 ### Case study: AFGHANISTAN, an area of conflict
@@ -663,11 +665,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDMwNTAyOTMsMTcwNjgwNDQ2Miw1OT
-c4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDky
-MjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMz
-g4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2
-OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNz
-A3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3
-Ml19
+eyJoaXN0b3J5IjpbMjAzNjk4MTIxNywxNzA2ODA0NDYyLDU5Nz
+g3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIy
+NywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
+cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
+XX0=
 -->
