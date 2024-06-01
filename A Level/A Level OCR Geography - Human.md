@@ -583,7 +583,7 @@ As of 2023, no country has closed this gap.
 
 Social norms are a barrier to gender equality. 
 
-Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of house
+Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of housework on the daughters, and likewise, those being married through dowry systems are expected to take care of the husband's family.
 
 
 
@@ -618,7 +618,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MTcyMjQ1OCwtNTM4NTQ5MjI3LC03Mz
+eyJoaXN0b3J5IjpbLTUyNzY3NDk3NiwtNTM4NTQ5MjI3LC03Mz
 gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
 LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0LDE2OD
 k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
