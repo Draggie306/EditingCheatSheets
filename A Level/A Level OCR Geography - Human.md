@@ -586,7 +586,7 @@ Social norms are a barrier to gender equality.
 
 
 ### Case study: INDIA
-India is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. 
+India is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
 
 
 > "Dalits" - lowest form of caste
@@ -616,11 +616,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDg4MzEwMCwtNTM4NTQ5MjI3LC03Mz
-gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
-LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0LDE2OD
-k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
-LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
-E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
-XX0=
+eyJoaXN0b3J5IjpbNjk1NTkwNTYzLC01Mzg1NDkyMjcsLTczOD
+MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzks
+MjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OT
+gxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUs
+LTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMT
+UyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4ODk3NTBd
+fQ==
 -->
