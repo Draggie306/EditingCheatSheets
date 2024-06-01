@@ -610,10 +610,15 @@ However, despite this, social norms undoubtedly play a great role in the halting
 ### Case study: AFGHANISTAN, an area of conflict
 Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
 
-There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). 
+There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). Food insecurity was also widespread: 
 
-87% of women even during intervention in 2018 were still subject to any type of violene
+87% of women even during intervention in 2018 were still subject to any type of violence.
 
+
+#### Consequences
+War and conflict is the most obvious direct result of intervention. 
+
+#### Withdrawal?
 
 The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
 
@@ -637,11 +642,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mz
-g1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2
-NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03Mz
-cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEs
-LTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MD
-QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
-MF19
+eyJoaXN0b3J5IjpbODYzNDQwNDQyLDIxMTE5MTk4NTIsLTE5Nz
+YxNzcwMCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2
+NSwtNTk3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyND
+c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQs
+NDEzODE3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMj
+E1Mzk2NywzNjA0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzhd
+fQ==
 -->
