@@ -598,15 +598,18 @@ India has ratified CEDAW - that aims for the "full advancement of women as equal
 
 However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
 
-
+- 52% women believe that it is acceptable for men to beat their wife
+- 63% of Delhi's women fear of going out at night
+- Only 1% of Delhi's residents say they never worry if a female member of the household at any time
 
 > "Dalits" - lowest form of caste
-
 
 ## Strategies for global governance
 
 
 ### Case study: AFGHANISTAN, an area of conflict
+
+
 
 
 ## Intervention and development
@@ -627,11 +630,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzYxNzcwMCwtNTM4NTQ5MjI3LC03Mz
-gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
-LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0LDE2OD
-k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
-LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
-E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
+eyJoaXN0b3J5IjpbODYxMzAxMDg2LC0xOTc2MTc3MDAsLTUzOD
+U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
+NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
+IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwt
+MTE3MDcyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwND
+AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
 XX0=
 -->
