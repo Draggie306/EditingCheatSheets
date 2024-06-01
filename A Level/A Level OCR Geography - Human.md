@@ -629,11 +629,11 @@ Technology has a very important role today. Media can be uploaded instantly in a
 
 Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
 
-Since invasion, NATO has spent over US$ 2.13tn on 
+Since invasion, NATO has spent over US $2.13tn on Afghanistan (see below), most of which has gone to military expenses. 
 
-### 
+### Promotion and protection
 
-
+- The United Nations has various obligations in its charter. 
 
 ### Case study: AFGHANISTAN, an area of conflict
 Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
@@ -641,6 +641,7 @@ Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*ver
 There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). Food insecurity was also widespread: 
 
 87% of women even during intervention in 2018 were still subject to any type of violence.
+
 
 
 > Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
@@ -672,11 +673,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MD
-Y4MDQ0NjIsNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcw
-MCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNT
-k3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0
-NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzOD
-E3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2
-N119
+eyJoaXN0b3J5IjpbMTA1NzIwNDkyMSwxMDY0NTEwNzQ3LC05NT
+E5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1
+MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczODMwODAzNSwyMD
+AxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTky
+LC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNz
+M0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQw
+NV19
 -->
