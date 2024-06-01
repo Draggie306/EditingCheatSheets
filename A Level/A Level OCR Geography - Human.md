@@ -596,7 +596,9 @@ The government has recently introduced various means of combatting the arguably 
 
 India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives.
 
-However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, there remains high rates of 
+However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
+
+
 
 > "Dalits" - lowest form of caste
 
@@ -625,11 +627,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5MjgwMzg5LC01Mzg1NDkyMjcsLTczOD
-MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzks
-MjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OT
-gxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUs
-LTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMT
-UyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4ODk3NTBd
-fQ==
+eyJoaXN0b3J5IjpbLTE5NzYxNzcwMCwtNTM4NTQ5MjI3LC03Mz
+gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
+LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3MjMwNjk0LDE2OD
+k4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxLC0xMTcwNzIzMzk1
+LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNjA0MDI2NzIsMjAxMT
+E1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQxNTAsNDc0ODg5NzUw
+XX0=
 -->
