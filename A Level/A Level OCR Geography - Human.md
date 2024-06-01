@@ -622,14 +622,17 @@ Confict itself may cause futher human rights violations.
 - more genocide, ethnic cleansing and torture 
 
 
-
-
 ### Flows and geopolitical intervention
 People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
 
 Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and futher abuses.
 
-Aid workers and funding from supranational organisations also demonstrate 
+Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
+
+Since invasion, NATO has spent over US$ 2.13tn on 
+
+### 
+
 
 
 ### Case study: AFGHANISTAN, an area of conflict
@@ -639,6 +642,8 @@ There were a range of human rights violations. Gender rights were by far the low
 
 87% of women even during intervention in 2018 were still subject to any type of violence.
 
+
+> Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
 
 #### Consequences
 War and conflict is the most obvious direct result of intervention. 
@@ -667,11 +672,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3ODA2MTIxLC05NTE5NTk4MTQsMTcwNj
-gwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAw
-LC01Mzg1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OT
-cwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0
-LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MT
-cwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3
-XX0=
+eyJoaXN0b3J5IjpbMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MD
+Y4MDQ0NjIsNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcw
+MCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNT
+k3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0
+NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzOD
+E3MDkxLC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2
+N119
 -->
