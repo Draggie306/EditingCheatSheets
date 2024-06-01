@@ -608,7 +608,9 @@ However, despite this, social norms undoubtedly play a great role in the halting
 
 
 ### Case study: AFGHANISTAN, an area of conflict
-Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists attacked reg
+Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
+
+There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). 
 
 
 
@@ -630,11 +632,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTIwNjIzNDgsLTE5NzYxNzcwMCwtNT
-M4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1
-NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNz
-M3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkx
-LC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNj
-A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
-NTBdfQ==
+eyJoaXN0b3J5IjpbMTM4Mjc5MDc5MiwtMTk3NjE3NzAwLC01Mz
+g1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2
+NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03Mz
+cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEs
+LTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MD
+QwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1
+MF19
 -->
