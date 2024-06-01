@@ -598,6 +598,8 @@ India has ratified CEDAW - that aims for the "full advancement of women as equal
 
 However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
 
+Due to legislation changes, there are some changes.
+
 - 52% women believe that it is acceptable for men to beat their wife
 - 63% of Delhi's women fear of going out at night
 - Only 1% of Delhi's residents say they never worry if a female member of the household at any time
@@ -642,7 +644,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYzNDQwNDQyLDIxMTE5MTk4NTIsLTE5Nz
+eyJoaXN0b3J5IjpbNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5Nz
 YxNzcwMCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2
 NSwtNTk3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyND
 c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQs
