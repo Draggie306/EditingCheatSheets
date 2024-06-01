@@ -594,7 +594,9 @@ India, aside from having th largest population with some amazing people, is a ra
 
 The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
 
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence  
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives.
+
+However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, there remains high rates of 
 
 > "Dalits" - lowest form of caste
 
@@ -623,11 +625,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTU4MjYyMDcsLTUzODU0OTIyNywtNz
-M4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEz
-OSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNj
-g5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5
-NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMT
-ExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1
-MF19
+eyJoaXN0b3J5IjpbNjA5MjgwMzg5LC01Mzg1NDkyMjcsLTczOD
+MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzks
+MjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OT
+gxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUs
+LTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMT
+UyNDUwLDMxODU3MTAzOCwtMTgzNjczNDE1MCw0NzQ4ODk3NTBd
+fQ==
 -->
