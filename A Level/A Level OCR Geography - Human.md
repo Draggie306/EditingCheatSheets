@@ -140,19 +140,19 @@ There have been waves and flows to and out of Brazil, enriching its culture and 
 #### Interdependence
 
 **The USA** 
-The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high skill labourers in the USA enticed by significantly greater wages. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector growing among well-trained Brazillians. Many of these people may choose to remain in the US, with remittances being sent back until the family can afford to reunite with the US immigrant. This corridor is so large that the US have a "special agreement" with Brazil, with agriclture, teacher training, education and defense spending.
+The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high-skill labourers in the USA enticed by significantly greater wages. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector growing among well-trained Brazillians. Many of these people may choose to remain in the US, with remittances being sent back until the family can afford to reunite with the US immigrant. This corridor is so large that the US have a "special agreement" with Brazil, with agriculture, teacher training, education and defence spending.
 Environmentally, USAID has a great interest in the Amazon Rainforest, and collaborates with Brazil's FUNAI to coordinate and plan environmental projects, preserve indiginous peoples and contribute to the gathering of scientific information - important on the global scale with the increasing importance of climate change on the world agenda.
 
 **Haiti**
 Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, with 54,000 after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
 
 **Portugal**
-Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portugese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
+Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portuguese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
 
 #### Impact
 
 **Economic Development**
-The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread particularly into the mentality of Brazillians especially in Sao Paolo. Brazil today is a powerful member of the G20, has the 7th largest economy in the world, is the leader of the Mercosur group and is also part of the BRICS group - widely-regarded as the countries with the greatest potential for future development, incentividing further foreign investment. 
+The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread particularly into the mentality of Brazillians especially in Sao Paolo. Brazil today is a powerful member of the G20, has the 7th largest economy in the world, is the leader of the Mercosur group and is also part of the BRICS group - widely-regarded as the countries with the greatest potential for future development, incentivising further foreign investment. 
 
 
 
@@ -229,7 +229,7 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day - and young people are "lucky to get a few years' education". Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
 
-The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong river - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
+The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong River - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
 Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but 
 
@@ -615,11 +615,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODMwODAzNSwyMDAxNTQwNzY1LC01OT
-cwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0
-LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MT
-cwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3
-LDM2MDQwMjY3MiwyMDExMTUyNDUwLDMxODU3MTAzOCwtMTgzNj
-czNDE1MCw0NzQ4ODk3NTAsMTcxNjQyMjg5MSwtMTYyMjE5MDE5
-Ml19
+eyJoaXN0b3J5IjpbLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMD
+E1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTIs
+LTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3Mz
+Q1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1
+LDE5MDIxNTM5NjcsMzYwNDAyNjcyLDIwMTExNTI0NTAsMzE4NT
+cxMDM4LC0xODM2NzM0MTUwLDQ3NDg4OTc1MCwxNzE2NDIyODkx
+XX0=
 -->
