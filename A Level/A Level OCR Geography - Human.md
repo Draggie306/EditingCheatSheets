@@ -594,11 +594,11 @@ India, aside from having th largest population with some amazing people, is a ra
 
 The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
 
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives.
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
 
 However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
 
-Due to legislation changes, there is some societal change being made in the country
+Due to legislation changes, there is some societal change being made in the country. Companies which arguably have great influence on societal changes are forced to abide by the laws, and through corporate responsibility, these ideas may trickle down over time from the legislature to civilians. 
 
 - 52% women believe that it is acceptable for men to beat their wife
 - 63% of Delhi's women fear of going out at night
@@ -620,6 +620,8 @@ Confict itself may cause futher human rights violations.
 - provocation of internal and intenational migration and conditions of refugees and asylum seekers
 - abuse of power by militants on women and children
 - more genocide, ethnic cleansing and torture 
+
+
 
 
 ### Flows of people and geopolitical intervention
@@ -661,11 +663,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODgzOTYwNywxNzA2ODA0NDYyLDU5Nz
-g3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIy
-NywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzOD
-g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
-NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwtMTE3MD
-cyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwNDAyNjcy
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDMwNTAyOTMsMTcwNjgwNDQ2Miw1OT
+c4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDky
+MjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMz
+g4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2
+OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNz
+A3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3
+Ml19
 -->
