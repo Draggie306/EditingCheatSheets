@@ -607,7 +607,12 @@ Due to legislation changes, there is some societal change being made in the coun
 > "Dalits" - lowest form of caste
 
 ## Strategies for global governance
-
+Human rights violations can be a cause and consequence of conflict. Conflict can be caused by:
+- the denial of basic needs including food, water, housing, education and employment (over long time scales)
+- discrimination - within a society, through political exclusion and injustices
+- lack of free and fair democratic systems
+- oppressive or corrput governments that do not respect all groups
+- genocide, ethnic cleansing and torture
 
 ### Case study: AFGHANISTAN, an area of conflict
 Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
@@ -644,11 +649,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNjgwNDQ2Miw1OTc4NzcyODAsMjExMT
-kxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczODMwODAz
-NSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzksMjM0OD
-YyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYw
-LDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOT
-Q1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3MiwyMDExMTUyNDUw
-XX0=
+eyJoaXN0b3J5IjpbLTE1MDg2ODc5MjQsMTcwNjgwNDQ2Miw1OT
+c4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDky
+MjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMz
+g4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2
+OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNz
+A3MjMzOTUsLTkyOTQ1MzQwNSwxOTAyMTUzOTY3LDM2MDQwMjY3
+Ml19
 -->
