@@ -604,6 +604,8 @@ Due to legislation changes, there is some societal change being made in the coun
 - 63% of Delhi's women fear of going out at night
 - Only 1% of Delhi's residents say they never worry if a female member of the household at any time
 
+[Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
+
 > "Dalits" - lowest form of caste
 
 ## Strategies for global governance
@@ -673,11 +675,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzIwNDkyMSwxMDY0NTEwNzQ3LC05NT
-E5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1
-MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczODMwODAzNSwyMD
-AxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTky
-LC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNz
-M0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTUsLTkyOTQ1MzQw
-NV19
+eyJoaXN0b3J5IjpbNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MT
+k1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUy
+LC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMD
+E1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTIs
+LTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3Mz
+Q1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1
+XX0=
 -->
