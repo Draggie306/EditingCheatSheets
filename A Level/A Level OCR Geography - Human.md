@@ -608,7 +608,7 @@ However, despite this, social norms undoubtedly play a great role in the halting
 
 
 ### Case study: AFGHANISTAN, an area of conflict
-
+Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists attacked reg
 
 
 
@@ -630,11 +630,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYxMzAxMDg2LC0xOTc2MTc3MDAsLTUzOD
-U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
-NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
-IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MSwt
-MTE3MDcyMzM5NSwtOTI5NDUzNDA1LDE5MDIxNTM5NjcsMzYwND
-AyNjcyLDIwMTExNTI0NTAsMzE4NTcxMDM4LC0xODM2NzM0MTUw
-XX0=
+eyJoaXN0b3J5IjpbLTExOTIwNjIzNDgsLTE5NzYxNzcwMCwtNT
+M4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1
+NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNz
+M3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkx
+LC0xMTcwNzIzMzk1LC05Mjk0NTM0MDUsMTkwMjE1Mzk2NywzNj
+A0MDI2NzIsMjAxMTE1MjQ1MCwzMTg1NzEwMzgsLTE4MzY3MzQx
+NTBdfQ==
 -->
