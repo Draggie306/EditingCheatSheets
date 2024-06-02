@@ -450,7 +450,8 @@ The Gini coefficient is used to measure the inequality of income and thereby dep
 ### Case study: MIDDLESBROUGH
 Middlesborough is a region in north-east England. 
 
-A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. Furthermore,  
+A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived
+
 
 
 https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
@@ -685,11 +686,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTAyNzQ0MzAsLTk3NDg3NDg4Nyw3Mz
-g4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgx
-NCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOT
-c2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3
-NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMj
-Q3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0
-XX0=
+eyJoaXN0b3J5IjpbMTc4MzQ4ODQ4NCwtOTc0ODc0ODg3LDczOD
+g5ODMyMiw0OTM1OTA1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0
+LDE3MDY4MDQ0NjIsNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5Nz
+YxNzcwMCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2
+NSwtNTk3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyND
+c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTRd
+fQ==
 -->
