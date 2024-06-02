@@ -8,8 +8,8 @@
 **⚠ This is a work in progress, unfinished document (more so than the other physical side). The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 31/06/2024 20:41. 
-Last content addition: 31/06/2024 20:41.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 01/06/2024 17:44. 
+Last content addition: 01/06/2024 17:44.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
@@ -49,7 +49,7 @@ There is some evidence that the bottom 10% of the pay scale in the UK has had wa
 
 Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
 
-According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons. The average European migrant who arrived in 2016 will make a total lifetime contribution to the UK public finances of £78,000
+According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons. The average European migrant who arrived in 2016 will make a total lifetime contribution to the UK public finances of £78,000 - more so than any UK native, or non-EEA migrant.
 
 ### Inter-regional migration
 Today, the amount of south-south migration has outpaced south-north or north-north.
@@ -153,7 +153,6 @@ Portugal is well-known in Brazil for being the "gateway to the EU" for economic 
 
 **Economic Development**
 The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread particularly into the mentality of Brazillians especially in Sao Paolo. Brazil today is a powerful member of the G20, has the 7th largest economy in the world, is the leader of the Mercosur group and is also part of the BRICS group - widely-regarded as the countries with the greatest potential for future development, incentivising further foreign investment. 
-
 
 
 **Political Stability**
@@ -538,9 +537,9 @@ Placemaking is the process of transforming public spaces into places that work f
 Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
 
 #### Hulme Crescents
-Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin-infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
+Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
 
-hey were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
+Through the CIty Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
 
 
 ### Case study: Dubai's transformation
@@ -691,7 +690,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjE5NDcyMyw0OTkxODMwNzgsLTk3ND
+eyJoaXN0b3J5IjpbLTU4Mzg2NjEyNiw0OTkxODMwNzgsLTk3ND
 g3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcs
 LTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOT
 E5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1
