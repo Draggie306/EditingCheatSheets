@@ -417,7 +417,8 @@ Places are represented differently through formal and informal factors.
 ### How and why people perceive places differently
 
 #### Place Perception: Uluru and Jerusalem
-- Religious and emotional attachment
+- Religious and emotional attachment.
+- 
 
 #### Emotional attachment: The Kurds and Kurdistan
 
@@ -684,11 +685,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNT
-kwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYy
-LDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzOD
-U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
-NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
-IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MV19
-
+eyJoaXN0b3J5IjpbLTEyNTAyNzQ0MzAsLTk3NDg3NDg4Nyw3Mz
+g4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgx
+NCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOT
+c2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3
+NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMj
+Q3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0
+XX0=
 -->
