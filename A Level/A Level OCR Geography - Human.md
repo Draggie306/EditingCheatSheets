@@ -547,7 +547,7 @@ Successful placemaking requires efforts from all scales of players. Community in
 #### Hulme Crescents
 Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
 
-Through the CIty Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
+Through the CIty Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise and - critically, much was social housing. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior crescents.
 
 
 ### Case study: Dubai's transformation
@@ -556,7 +556,7 @@ From fishing village to diverse economic powerhouse.
 
 After realising that oil would not be an unlimited resource, the Sheikh diversfied from 1970.
 
-The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the 
+The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the Burj Khalifa (828m in 2008) the real estate sector has grown to US$25bn.  
 
 
 
@@ -700,11 +700,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ4NjgxMzUwLC01ODM4NjYxMjYsNDk5MT
-gzMDc4LC05NzQ4NzQ4ODcsNzM4ODk4MzIyLDQ5MzU5MDU4Mywx
-MDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4Nz
-cyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcs
-LTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NT
-IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTRd
-fQ==
+eyJoaXN0b3J5IjpbLTExODk0NjIxMzAsLTU4Mzg2NjEyNiw0OT
+kxODMwNzgsLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgz
+LDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nz
+g3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIy
+NywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzOD
+g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+NF19
 -->
