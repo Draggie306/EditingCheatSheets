@@ -514,14 +514,14 @@ By 1970s:
 
 The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyles left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
 
-The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback) 
+The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback). 
 
 #### Modern-day Birmingham
 A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this share had increased to 49%.
 
 The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prosperity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
 
-It was the EU Social Investment fund that helped regenerate areas of the city, with £450m investment in changing social housing. Some of this has been matched post-Brexit but not all; it is essential for low-income families.
+It was the EU Social Investment fund that helped regenerate areas of the city, with £450m investment in changing social housing. Some of this has been matched post-Brexit from the UK Shared Prosperity fund but not all; it is essential for low-income families. 
 
 Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
 
@@ -700,11 +700,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODk0NjIxMzAsLTU4Mzg2NjEyNiw0OT
-kxODMwNzgsLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgz
-LDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nz
-g3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIy
-NywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzOD
-g1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5
+eyJoaXN0b3J5IjpbMTQxMTU0MTE5NiwtMTE4OTQ2MjEzMCwtNT
+gzODY2MTI2LDQ5OTE4MzA3OCwtOTc0ODc0ODg3LDczODg5ODMy
+Miw0OTM1OTA1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MD
+Y4MDQ0NjIsNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcw
+MCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNT
+k3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0
 NF19
 -->
