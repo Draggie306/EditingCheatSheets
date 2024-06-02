@@ -5,11 +5,11 @@
 
 
 # A Level HUMAN Geography (Paper 2)
-**⚠ This is a work in progress, unfinished document (more so than the other physical side). The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
+
 please let me know if there are any errors :)
 
-[Latest update: 01/06/2024 17:44. 
-Last content addition: 01/06/2024 17:44.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 01/06/2024 22:31. 
+Last content addition: 01/06/2024 22:31.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
@@ -708,12 +708,13 @@ The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa.
 
 Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
 
-Currently MONUSCO - a UN peacekeeping force - are present and there are around 18,000 
+Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fagile DRC.
 
 - Becoming more stable: first electons in 2019 were peaceful
+-  CARE International, Action Aid and the World Bank are working to improve access across the country to education and healthcare services (half of young women are illiterate). 
 
 
-
+<!-- Editor To do: More here! -->
 
 Congolese
 
@@ -724,11 +725,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxOTMyMDAzOSwtNzQ4NTYyMTIwLDEyMT
-Y5NDUwNiwtMTE4OTQ2MjEzMCwtNTgzODY2MTI2LDQ5OTE4MzA3
-OCwtOTc0ODc0ODg3LDczODg5ODMyMiw0OTM1OTA1ODMsMTA2ND
-UxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIsNTk3ODc3Mjgw
-LDIxMTE5MTk4NTIsLTE5NzYxNzcwMCwtNTM4NTQ5MjI3LC03Mz
-gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
-XX0=
+eyJoaXN0b3J5IjpbLTE3MTkxOTgzNTgsLTc0ODU2MjEyMCwxMj
+E2OTQ1MDYsLTExODk0NjIxMzAsLTU4Mzg2NjEyNiw0OTkxODMw
+NzgsLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNj
+Q1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4
+MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNz
+M4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEz
+OV19
 -->
