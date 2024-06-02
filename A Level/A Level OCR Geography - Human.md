@@ -436,11 +436,13 @@ The local availability of a resource or natural advantage can encourage the grow
 ### [TBD] Measuring Social Inequality
 Book reference: pages 158-162
 
+Social inequality can be measured through various means. In the UK, the IMD is a composite statistic that comprises 7 domains with varying weightings: income and employment account for 50%, followed by education and health at 13.5%, and finally (barriers to) housing and services, crime and the living environment at 9.3%.
 
 
 The Gini coefficient is used to measure the inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
 
 ### Case study: MIDDLESBROUGH
+Middlesborough is 
 
 
 https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
@@ -675,11 +677,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM4ODk4MzIyLDQ5MzU5MDU4MywxMDY0NT
-EwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAs
-MjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczOD
-MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzks
-MjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OT
-gxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTVd
-fQ==
+eyJoaXN0b3J5IjpbMTYyMDIzNTU4Niw3Mzg4OTgzMjIsNDkzNT
+kwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYy
+LDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzOD
+U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
+NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
+IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MV19
+
 -->
