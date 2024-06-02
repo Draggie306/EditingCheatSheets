@@ -527,6 +527,14 @@ Over 50,000 students are present in the 5 city universities. They work, and spen
 
 Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
 
+
+#### Overall roles of players
+
+- de Bermingham family: 1166, royal charter. Immediately changed the industry from 
+
+
+
+
 ## Placemaking processes
 > 5.a. Place is produced in a variety of ways at different scales.
 5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
@@ -546,7 +554,9 @@ Through the CIty Challenge redevelopment, they were replaced by more traditional
 
 From fishing village to diverse economic powerhouse.
 
-After realising that oil would not be an unlimited resource, the Sheikh 
+After realising that oil would not be an unlimited resource, the Sheikh diversfied from 1970.
+
+The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the 
 
 
 
@@ -690,11 +700,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4Mzg2NjEyNiw0OTkxODMwNzgsLTk3ND
-g3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcs
-LTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOT
-E5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1
-LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4Nj
-I1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjBd
+eyJoaXN0b3J5IjpbNzQ4NjgxMzUwLC01ODM4NjYxMjYsNDk5MT
+gzMDc4LC05NzQ4NzQ4ODcsNzM4ODk4MzIyLDQ5MzU5MDU4Mywx
+MDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4Nz
+cyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcs
+LTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NT
+IxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTRd
 fQ==
 -->
