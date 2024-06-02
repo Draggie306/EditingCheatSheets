@@ -669,11 +669,17 @@ There were a range of human rights violations. Gender rights were by far the low
 87% of women even during intervention in 2018 were still subject to any type of violence.
 
 
-
 > Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
 
 #### Consequences
 War and conflict is the most obvious direct result of intervention. 
+
+- 45k Nato-trained Afghan security forces dead
+- 38k civilian casualties
+
+However, there have been changes made in rural and urban neighbourhoods: 
+
+- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domesti abuse, child mar
 
 #### Withdrawal?
 
@@ -699,11 +705,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0ODU2MjEyMCwxMjE2OTQ1MDYsLTExOD
-k0NjIxMzAsLTU4Mzg2NjEyNiw0OTkxODMwNzgsLTk3NDg3NDg4
-Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MT
-k1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUy
-LC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMD
-E1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTJd
+eyJoaXN0b3J5IjpbMzY5NTM0MzIyLC03NDg1NjIxMjAsMTIxNj
+k0NTA2LC0xMTg5NDYyMTMwLC01ODM4NjYxMjYsNDk5MTgzMDc4
+LC05NzQ4NzQ4ODcsNzM4ODk4MzIyLDQ5MzU5MDU4MywxMDY0NT
+EwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAs
+MjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczOD
+MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzld
 fQ==
 -->
