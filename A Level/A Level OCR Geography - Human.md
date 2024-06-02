@@ -231,7 +231,7 @@ Laos has a population of 6.8 million and is a landlocked, south-east Asian count
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong River - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
-Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but 
+Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but there is little evidenceof its success.
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
 
@@ -675,11 +675,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MT
-k1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUy
-LC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMD
-E1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTIs
-LTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjAsODM3Mz
-Q1ODk0LDQxMzgxNzA5MSwtMTE3MDcyMzM5NSwtOTI5NDUzNDA1
-XX0=
+eyJoaXN0b3J5IjpbNzM4ODk4MzIyLDQ5MzU5MDU4MywxMDY0NT
+EwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAs
+MjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczOD
+MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzks
+MjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03MzcyMzA2OTQsMTY4OT
+gxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTEsLTExNzA3MjMzOTVd
+fQ==
 -->
