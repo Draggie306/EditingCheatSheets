@@ -679,7 +679,20 @@ War and conflict is the most obvious direct result of intervention.
 
 However, there have been changes made in rural and urban neighbourhoods: 
 
-- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domesti abuse, child mar
+**Rural**
+- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
+- UNDP: rural uphold of local demoracy and developments in regional councils to request funding
+- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teeaching about agriculture, increasing resilience, employment and incomes
+
+**Urban**
+UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
+- These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
+- This has resulted in
+
+
+
+
+ 
 
 #### Withdrawal?
 
@@ -705,11 +718,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5NTM0MzIyLC03NDg1NjIxMjAsMTIxNj
-k0NTA2LC0xMTg5NDYyMTMwLC01ODM4NjYxMjYsNDk5MTgzMDc4
-LC05NzQ4NzQ4ODcsNzM4ODk4MzIyLDQ5MzU5MDU4MywxMDY0NT
-EwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAs
-MjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczOD
-MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzld
-fQ==
+eyJoaXN0b3J5IjpbMTY3NTk1NTU1OCwtNzQ4NTYyMTIwLDEyMT
+Y5NDUwNiwtMTE4OTQ2MjEzMCwtNTgzODY2MTI2LDQ5OTE4MzA3
+OCwtOTc0ODc0ODg3LDczODg5ODMyMiw0OTM1OTA1ODMsMTA2ND
+UxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIsNTk3ODc3Mjgw
+LDIxMTE5MTk4NTIsLTE5NzYxNzcwMCwtNTM4NTQ5MjI3LC03Mz
+gzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1LDM4ODUyMTM5
+XX0=
 -->
