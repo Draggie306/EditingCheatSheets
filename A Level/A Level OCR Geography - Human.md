@@ -459,7 +459,7 @@ North Ormesby Ward was the 3rd most deprived out of the 7,180 in the UK.
 https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
 
 ### Case study: HART, HAMPSHIRE
-Hart and the town of Fleet within are the least deprived LA and LSOA in England, ranking in 317 of the 317 least deprived LAs. The positioning - 45km SW of London and 50km N of ports like Portsmouth give it a commuter settlement status, allowing for the benefits of high salaries without burden of higher living costs. These high salaries allow for greater disposable income - avg house is worth over £462,000, and over 80% being detached and either owned outright or on a mortgage. This may be facilitated by the 37.5% of adults with a degree (10% higher than the national avera
+Hart and the town of Fleet within are the least deprived LA and LSOA in England, ranking in 317 of the 317 least deprived LAs. The positioning - 45km SW of London and 50km N of ports like Portsmouth give it a commuter settlement status, allowing for the benefits of high salaries without burden of higher living costs. These high salaries allow for greater disposable income - avg house is worth over £462,000, and over 80% being detached and either owned outright or on a mortgage. This may be facilitated by the 37.5% of adults with a degree (10% higher than the national average) 
 
  - Average life expectancies are 2-4 years higher than the national avg.  
 - Fleet's average household income is £52,000 - over double that of Middlesbrough.
@@ -691,11 +691,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjYzNjMwMywtOTc0ODc0ODg3LDczOD
-g5ODMyMiw0OTM1OTA1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0
-LDE3MDY4MDQ0NjIsNTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5Nz
-YxNzcwMCwtNTM4NTQ5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2
-NSwtNTk3MDI1NjQ1LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyND
-c3OTg0NCwtNzM3MjMwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTRd
-fQ==
+eyJoaXN0b3J5IjpbNDk5MTgzMDc4LC05NzQ4NzQ4ODcsNzM4OD
+k4MzIyLDQ5MzU5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQs
+MTcwNjgwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3Nj
+E3NzAwLC01Mzg1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1
+LC01OTcwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nz
+c5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NF19
+
 -->
