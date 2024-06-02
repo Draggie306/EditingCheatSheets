@@ -547,7 +547,7 @@ Successful placemaking requires efforts from all scales of players. Community in
 #### Hulme Crescents
 Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
 
-Through the CIty Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise and - critically, much was social housing. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior crescents.
+Through the City Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise and - critically, much was social housing. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior crescents.
 
 
 ### Case study: Dubai's transformation
@@ -575,7 +575,6 @@ According to UNICEF, social norms are the perceived "unwritten rules" that defin
 Intervention refers to activity taken by a nation to manipulate the economy, society or the political structure of another nation. This can be done through:
 - geopolitical intervention: by placing strategic trade embargoes, aid or military action
 - military intervention: by using its and allies' military forces to forcefully take control of another country, or areas of it 
-
 
 **Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. The ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
 - the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer. Employers have been known to go bankrupt and migrants are effectively trapped in their destination country.
@@ -700,11 +699,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjk0NTA2LC0xMTg5NDYyMTMwLC01OD
-M4NjYxMjYsNDk5MTgzMDc4LC05NzQ4NzQ4ODcsNzM4ODk4MzIy
-LDQ5MzU5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNj
-gwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAw
-LC01Mzg1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OT
-cwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0
-XX0=
+eyJoaXN0b3J5IjpbLTc0ODU2MjEyMCwxMjE2OTQ1MDYsLTExOD
+k0NjIxMzAsLTU4Mzg2NjEyNiw0OTkxODMwNzgsLTk3NDg3NDg4
+Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcsLTk1MT
+k1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOTE5ODUy
+LC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1LDIwMD
+E1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4NjI1OTJd
+fQ==
 -->
