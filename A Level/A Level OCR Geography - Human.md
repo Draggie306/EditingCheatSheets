@@ -251,25 +251,19 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 - Lao's garment industry companies may fail to keep up with demand due to being outpriced by competition
 - People with high-skill labour including carpenters are - for the moment - are simply more likely to migrate out and seldom return, suppressing wages and creating relative inequalities.
 
-# [TBD] 2.1 – Changing Spaces; Making Places
+# 2.1 – Changing Spaces; Making Places
 
 ## What’s in a place?
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
-**Content:**
-
-Case studies of two contrasting place profiles at a local scale, including: 
-- their demographic, socio-economic, cultural, political, built and natural characteristics that shape their place identity. 
-- their past and present connections that shape the place identity and embed them in regional, national, international and global scales 
-- how shifting flows of people (such as commuter, migration), resources (such as natural, technology), money and investment (such as EU funding, TNCs) and ideas (such as knowledge economy) have helped shape the demographic, socio-economic and cultural profile of these places over time.
----
-
-A place can be described as a location created by human experiences. 
-A space, on the other hand, has no added social connections or added perceived values. 
+A **place** can be described as a location created by human experiences. 
+A **space**, on the other hand, has no added social connections or added perceived values. 
 
 For example, a car parking space at a shopping market has no value to you. It's just a one time location which you leave your car at. However, a parking place at your work may have your name on it, it may be valued by yourself and there may be some memories associated with it, such as tripping over or talking to someone there.
 
 > One person's place may be another's space.
+
+---
 
 Places can have different connections and perceptions. These are also likely to change over time. For example, 10 Downing Street may be perceived by characteristics, such as being a centre for political power, socioeconomic decisions or even for Larry the Cat who's there. It also has many factors which determine how people perceive it, such as the current political affiliation or recent decisions made by the people inside.
 
@@ -420,10 +414,12 @@ The local availability of a resource or natural advantage can encourage the grow
 Places are represented differently through formal and informal factors. 
 
 
-### Place Perception: Uluru and Jerusalem
+### How and why people perceive places differently
+
+#### Place Perception: Uluru and Jerusalem
 - Religious and emotional attachment
 
-### Emotional attachment: The Kurds and Kurdistan
+#### Emotional attachment: The Kurds and Kurdistan
 
 
 ### Globalisation and our sense of place
@@ -434,7 +430,7 @@ The "global village" means that there are now global communties where people can
 
 Places in ACs may be characterised by less pollution, fewer unskilled labour with the decline of industry. However, large factories may remain, increasing crime and leaching from contaminated factories may give places a unique identity. Theses previously exotic countries - most likely LIDCs - may receive the other end, with increased contamination, rapid rural-urban migration fuelling slum settlements, and exploitative employers leaving a negative perception of the place amongst its own residents.
 
-Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations wanting to make their presence known on ev
+Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.
 
 ## Economic change and patterns of social inequality
 > 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
@@ -688,11 +684,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc4NTIzMDkzLDczODg5ODMyMiw0OTM1OT
-A1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIs
-NTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcwMCwtNTM4NT
-Q5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1
-LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3Mj
-MwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxXX0=
+eyJoaXN0b3J5IjpbLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNT
+kwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYy
+LDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzOD
+U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
+NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
+IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MV19
 
 -->
