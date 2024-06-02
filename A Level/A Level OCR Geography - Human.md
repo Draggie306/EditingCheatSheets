@@ -427,7 +427,10 @@ Places are represented differently through formal and informal factors.
 
 
 ### Globalisation and our sense of place
-Globalisation and time-space compression 
+Globalisation and time-space compression contribute to the feelings of a "shrinking world". There is increasing interconnectedness due to massevely increased trade and cultural links; containerisation popularised in 1956 by McLean has resulted in goods being traded faster, cheaper and in greater quantity. The communications revolution has promoted the sharing and flows of ideas, knowledge and technology, now measured in milliseconds with the internet.
+
+Exotic and far-away nations that were once perceived to be luxurious and out-of-reach can be reached in hours, not weeks. 
+The "global village" means that there are now global communties where people can meet, share ideas and have common interests; our sense of "place" now may be not just in the real world but also in p 
 
 
 ## Economic change and patterns of social inequality
@@ -682,11 +685,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2MjcyNTU1LDczODg5ODMyMiw0OTM1OT
-A1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIs
-NTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcwMCwtNTM4NT
-Q5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1
-LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3Mj
-MwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxXX0=
-
+eyJoaXN0b3J5IjpbLTExNDIyMjkyMTMsNzM4ODk4MzIyLDQ5Mz
+U5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2
+Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mz
+g1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2
+NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nzc5ODQ0LC03Mz
+cyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NCw0MTM4MTcwOTFd
+fQ==
 -->
