@@ -515,7 +515,7 @@ By 1970s:
 
 The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyles left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
 
-The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (negative feedback?) 
+The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback) 
 
 #### Modern-day Birmingham
 A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this share had increased to 49%.
@@ -691,11 +691,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5MTgzMDc4LC05NzQ4NzQ4ODcsNzM4OD
-k4MzIyLDQ5MzU5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQs
-MTcwNjgwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3Nj
-E3NzAwLC01Mzg1NDkyMjcsLTczODMwODAzNSwyMDAxNTQwNzY1
-LC01OTcwMjU2NDUsMzg4NTIxMzksMjM0ODYyNTkyLC0xMzI0Nz
-c5ODQ0LC03MzcyMzA2OTQsMTY4OTgxMjYwLDgzNzM0NTg5NF19
-
+eyJoaXN0b3J5IjpbMTkzMjE5NDcyMyw0OTkxODMwNzgsLTk3ND
+g3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNjQ1MTA3NDcs
+LTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4MCwyMTExOT
+E5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNzM4MzA4MDM1
+LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEzOSwyMzQ4Nj
+I1OTIsLTEzMjQ3Nzk4NDQsLTczNzIzMDY5NCwxNjg5ODEyNjBd
+fQ==
 -->
