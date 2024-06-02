@@ -514,7 +514,7 @@ By 1970s:
 
 The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyles left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
 
-The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to their prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback). The Single Regeneration Budget in the 20th Century that tackled deep-rooted social inequalities was criticised due to its administrative and bureaucratic costs but has shown success in the reduction of deprived regions with gentrification, but without forcing low-income residents out. Labour's 1997 New Deal for Communities also saw to tackle the most deprived regions with improvements in crime, education an employment, and even saw new broadband internet access installed in city centre homes, helping to reduce the digital divide and allow people to see job opportunities and education online.  
+The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to its prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback). The Single Regeneration Budget in the 20th Century that tackled deep-rooted social inequalities was criticised due to its administrative and bureaucratic costs but has shown success in the reduction of deprived regions with gentrification, but without forcing low-income residents out. Labour's 1997 New Deal for Communities also saw to tackle the most deprived regions with improvements in crime, education an employment, and even saw new broadband internet access installed in city centre homes, helping to reduce the digital divide and allow people to see job opportunities and education online.  
 
 #### Modern-day Birmingham
 A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this share had increased to 49%.
@@ -700,7 +700,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwMDAyMDM0LC0xMTg5NDYyMTMwLC01OD
+eyJoaXN0b3J5IjpbNjcwNTEyMjkyLC0xMTg5NDYyMTMwLC01OD
 M4NjYxMjYsNDk5MTgzMDc4LC05NzQ4NzQ4ODcsNzM4ODk4MzIy
 LDQ5MzU5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNj
 gwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAw
