@@ -8,8 +8,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 15/05/2024 23:28
-Last content addition: 15/05/2024 23:28](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 02/06/2024 22:33
+Last content addition: 02/06/2024 22:33](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
 
@@ -1474,6 +1474,721 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 
 
+# Paper 2
+
+# 2.2.2 Global Systems – Migration
+
+Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
+
+### Definitions
+A migrant, according to the UN definition, is someone living outside their country of origin for at least a year.
+
+**Interdependence -** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
+
+**Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
+
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons. They may send money back. They may also bring dependents.
+
+
+## Contemporary patterns of migration
+
+Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
+
+Migration is significant, and worldwide! In 2020, 291 million people were living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
+
+> Global migration involves dynamic flows of people between countries, regions and continents.
+
+
+### Intra-regional migration
+Intraregional migration is migration that occurs within a region, for example, the European Union. 
+
+#### The Poles are coming!!
+
+Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
+
+The accession of Poland, and other A8 eastern European countries in 2004 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour.
+
+There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
+
+Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
+
+According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons. The average European migrant who arrived in 2016 will make a total lifetime contribution to the UK public finances of £78,000 - more so than any UK native, or non-EEA migrant.
+
+### Inter-regional migration
+Today, the amount of south-south migration has outpaced south-north or north-north.
+
+There is more and more inter-regional migration occurring globally, with increasing globalisation processes allowing for people to reach different places more quickly, cheaply and in increasing number. 
+
+A range of reasons are contributing to this growth. 
+- The communications revolution: more people have increasing access to communications devices such as mobile phones - increasingly being "required" in countries in the global south, and the internet and social media allow potential migrants to see and get a feel for their destination, whilst migrants already living in new destinations can create increasing links with the origin country and encourage further growth. Thanks to this, there is less of a "culture shock" and it allows people to remain connected to their home lives
+- New source and destination areas. Economies such as the UAE and Gulf nations have looked to diversify and build a new economy, requiring millions of workers and 
+
+Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - the lowest of all groups, natives included.
+
+## Consequences of migration
+When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
+
+Flows of people through migration is intrinsically linked to flows of money, culture, knowledge and ideas. 
+
+### Positives of migration
+
+Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
+
+
+#### Stability
+Stability refers to a combination of economic, social and political stability. 
+
+In the short-term, migration allows countries of destination to receive greater income tax (the vast majority of migrants, approximately 73%, are economic migrants who pay both income tax and VAT on purchased goods). In the UK for example, this income tax equates to around £16 billion for the public purse - despite the accusations of "benefits tourism" and abuse of public services. 
+
+Whilst not a problem currently, ageing populations will be supported by migratory flows. Ageing Western populations with low domestic birth rates - such as the UK's 1.6 - will require migrants to support the 2 working to 1 pensioner general requirement to ensure that countries do not run into significant debt and the collapse of the state. Migrants who decide to stay are very likely to build - or already have - families, thus contributing to population and tax-base growth.   
+
+Social stability, though **social remittances** and the diffusion of ideas inheritly promotes ideas between source and origin. For South-North migration, this is especially true for democratic, equalitarian ideas (Politics students - please correct my terminology here) whilst globally flows of people can encourage politicians to engage with peacebuilding and the resolution of conflicts.
+
+
+
+#### Economic Growth
+Economic growth is largely an... economic factor. 
+
+- The GDP and tax base of a country is significantly boosted by migration, especially in LIDCs and EDCs. 37% of Haiti's GDP is from remittances. 
+- Migrants open up new demands for goods and products in a destination area. Tesco in the UK has launched over 100 lines of Polish food, and "oriental shops on every corner" is commonly quoted in inner UK cities due to the amount of immigrants and those of immigrant heritage. 
+- Multiplier effects as a result of supplementary remittance income in areas of origin is common.
+
+> NEPAL has had a multipler effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic increasses
+
+
+#### Development
+- Sociopolitial development as a result of returning flows of people, skills and capital is of great benefit to countries of origin.
+- Long-term development of an origin country can be facilitated by strong diaspora links that help to transfer skills, capital, knowledge and ideas through professional, social and religious networks. This has been furthered by the communications revolution.
+- NGO and supranational organisations such as the UN "Migration and Development" scheme allows collaboration between countries, families, private and public organisations for a bottom-up but also large scale approach to development in a source region.
+
+
+### Negatives of Migration
+
+
+#### Inequalities
+Inequalities are the uneven treatment of people.
+- The process of brain-drain, at least in the short-term, exacerbates and amplifies issues such as women's rights: it is the men who emigrate from these countries and work in other countries. Furthermore, the young and well-educated, possibly from state education system, are the most likely to move - at significant cost to the state who lose their young tax base.
+- Remittances can exacerbate inequalites between communites and families that receive them and those who do not, especially in LIDCs. (The theory for this is the Relative Deprivation Theory) -> families will compare themselves to others in the village/neighbourhood and, if they see themselves as less well-off, this may encourage further migration and a multipler effect of greater losses for the area of origin. This is a problem too within (advanced) countries - over the past hundred years, rural Italian towns and villages are becoming ghost towns as the youth are moving into larger towns and cities/abroad and leaving older people behind, resulting in a net decrease. 
+
+#### Injustices
+Injustices refer to the unfair treatment of people.
+- Migrants often have their human rights violated as a result of perhaps their lack of knowledge, language barrier or false promises.
+- Women and children may be targeted by human traffickers to be abused or even "sold" in the "maid trade"
+- Asylum seekers are often seen as burdens and many countries do their best to avoid processing of them. In Lampedusa, Italy, migrants from Tunisia and Libya are often held in prison-like conditions where MSF said that there is signifiant risk of disease outbreak. They may not be given adequate food, space or clothing.
+- Migrants may be viewed as second-class citizens and prone to abuse, even in ACs, by landlords who can leverage the language barrier and possible lack of understanding to support high amounts of people in inadequate housing spaces (Peterborough)
+
+#### Conflicts
+- High immigrant populations concentrated in one area can put significant pressure on public services and can promote feelings of being "a foreigner in your hometown" among resident populations. For example, in Peterborough UK, Polish migration was described as an "epidemic" between 2016, and GPs had over 1000 registrants in a period of 6 months. Pressure on the education system as well - one class had 24 languages spoken with no additional support, and class sizes rose above 30. 
+- Natives may think that the newcomers are "stealing jobs" which is typically true, if these jobs do not want to be performed by natives in the first place, typically in primary or secondary "3D" jobs. 
+
+
+### Case study: Brazil, an EDC
+
+Brazil is an EDC with a GDP per capita of US $8,917. This has over doubled since the year 2000 - and is rapidly moving through the demographic transition.  
+
+
+#### Current patterns
+For the last 15 years Brazil has seen a significant immigration decline, whilst emigration is increasing. In total there are over 4 million Brazillians living overseas - with 1.9 million in its largest diaspora in the USA - but despite being a "country descended from immigrants" less thn 1% of its population is foreign born. Today, there are over 100,000 fewer immigrants than there were in 2000 - but emigration has increased by almost 1 million. However, there remains strong bilateral corridors between Brazil and other Mercosur nations - of which it leads - in South America, through demand by businesses and competition in the form of cheaper labour. 
+Emigrants offering low-skill labour is slowing due to the rapid development of the country. However, Brazil is increasingly losing many high-skill workers to the EU, USA and Japan. The tertiary sector today accounts for 69% of Brazil's economy - compared to the 25% of the secondary and just 6% for the primary.
+ 
+#### Changes over time
+There have been waves and flows to and out of Brazil, enriching its culture and forming the modern day society.
+- Many Europeans in the 20th Century were attracted by the agriculture demand and coffee growing, furthered by prior colonial relations.
+- During the 1980s and an increasing in the secondary sector textiles production attracted many South Koreans, but also illegal movement between other South American nations with cheaper labour costs.
+- Demand for the 2014 Football World cup and 2016 Olympics increased international labour demand
+- A steady stream of migrants from LIDC countries such as Haiti and Bolivia. Haiti saw devastating natural hazards in 2010 and 2012 with an earthquake and Hurricane Sandy.
+- Yo-yo migration from the USA during the 1990s during Brazil's instability resulted in hundreds of thousands of temporary visas being exchanged every few years - a regular, huge flow of people, money and capital. 
+
+
+#### Interdependence
+
+**The USA** 
+The USA has high numbers of political, socioeconomic and environmental links with Brazil. The majority of Brazil's over 4 billion in remittances come from low and high-skill labourers in the USA enticed by significantly greater wages. Development through social remittances must also not be underestimated. The Brazillian diaspora in the US is now 1.9million, with the service sector growing among well-trained Brazillians. Many of these people may choose to remain in the US, with remittances being sent back until the family can afford to reunite with the US immigrant. This corridor is so large that the US have a "special agreement" with Brazil, with agriculture, teacher training, education and defence spending.
+Environmentally, USAID has a great interest in the Amazon Rainforest, and collaborates with Brazil's FUNAI to coordinate and plan environmental projects, preserve indiginous peoples and contribute to the gathering of scientific information - important on the global scale with the increasing importance of climate change on the world agenda.
+
+**Haiti**
+Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, with 54,000 after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
+
+**Portugal**
+Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portuguese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
+
+#### Impact
+
+**Economic Development**
+The continued waves of immigrants to Brazil has undoubtedly kickstarted its transition from LIDC to EDC to AC. The impact of the 50,000 Japanese living in Brazil today - with 2 million with Japanese heritage - is that the Japanese are hard working and reliable - something that has spread particularly into the mentality of Brazillians especially in Sao Paolo. Brazil today is a powerful member of the G20, has the 7th largest economy in the world, is the leader of the Mercosur group and is also part of the BRICS group - widely-regarded as the countries with the greatest potential for future development, incentivising further foreign investment. 
+
+
+**Political Stability**
+Brazil has a stable democracy, good education system and strong civil rights. Flows of people and capital have helped to reduce border and trade friction (there is free trade within Mercosur), promote integration and have contributed to very "western" anti-discrimination laws - such as the ratification of CEDAW (which even the USA has not). Globally Brazil is known for being very open towards environmental and political refugees such as the Haitians but also from neighbouring countries including Bolivia. 
+
+
+**Social Inequality**
+Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
+
+### Case study: AC USA
+The USA is an AC that influences and drives the global migration system through **economic, social and political factors**. It is the #1 biggest economy of $25tn with some of its companies valued greater than other entire countries.
+
+#### Patterns and policies
+The USA has always had a strong influence on the global migratory system, attracting large numbers of immigrants. Despite the threats of recent politicians its immigration policies are fairly liberal. 
+
+The USA had an open border system for "any free white person" could become a citizen. Many Irish and European immigrants came during the Californian Gold Rush and opportunites in the "new world", amounting to an average of 250,000 a year between 1820 and when this policy was changed in the 1882 Immigration Act. 
+
+Currently, there are 90.8 million migrants in the USA. 5% come from India and China, many are "persons of extraordinary ability" and are high-skill (Silicon Valley) wokers or have student visas from wealthy Asian families looking to be educated. 
+Mexico though is by far the greatest contributor to the US migrant population with an over 28% share.  
+
+Today, there are several key policies. However the **Immigation and Nationality Acts attempts to keep this number capped at 675,000 annually**.
+- Green Card: open-door policy that allocates 50,000 visas anually at random to anyone that applies. It is a lottery system that promotes diversity. This gives a permanent residency card
+- Skills-based visas such as the H-1B, H-1A and O-1 allow 140,000 migants with skills deemed "valuable" and who are sponsored by a company every year to arrive. These are "aliens of extraordinary ability" and are highly educated, skillful, graduates and entrepreneurs who fuel innovation.  
+- Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
+	- Histroically amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
+- Refugees and humanitarian visas: the USA has historically taken in more refugees than the entire world, combined. This number changes annually but stays at around 45,000 per annum
+
+**Key Policies**
+- Immigration and Nationality Act, 1965.
+	- Established quotas
+	- Laid the foundations for the reunification system and overall structure for today's policies
+- Immigration Act 1990
+	- Added several, well-known employment visas used today including H-1B visa
+	- Increased legal migration by ~40%
+	- Allowed families to remain "in-tact"
+- Illegal Immigration Reform & Immigrant Responsibility Act 1996
+	- Increased spending on the border with walls and fences to $5B/yr
+	- Mexican immigrants became "trapped" in the US
+	- Overall immigration levels remained slightly unchanged
+	- Followed up by Secure Fence 2006 that made the border even more dangerous
+*and more!*
+
+
+#### Interdependence (Mexico)
+
+The USA's southern neighbour Mexico has over 37 million Mexicans, and each country had each other's largest diaspora. This beings social and cultural diversity, with Spanish being the second most common language and also being "protected" under US treaty.
+
+Mexico also provides southern states such as Texas and southern California with low-skill, frequently illegal populations driven by the higher wages (though unfortunately many are still exploited by low-paying employers) and demand for agriculture and construction in the rapidly growing southern cities. Remittances constitute 4% of Mexico's GDP (or 63bn $US), largely from the USA. 
+
+U.S. Companies are expected to invst 40bn in Mexico throughout 2024. This creates a mutual demand for politicians to treat the interdependence between the countries seriously, with the companies benefitting from growth whilst Mexico benefits from greater availaibility of jobs and resources.
+
+There is increasing environmental political cooperation and interdependence with Mexico through the joint management of the Colorado river basin (that supports 40m people) and increasing collaboration regarding the fighting of illegal crossings, and drug and people trafficking at the border. USAID also invest in governmental projects to reduce deforestation by 2030 and promote natural climate solutions and energy efficiency.
+
+#### Opportunities
+- 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
+- Most immigrants are young and of working age. The largest age bracket of Indians is 30-34 and for Mexicans this is 40-44, boosting the tax base, allowing for gaps in the labour market to be filled and sustains natives' demand to be in higher paying, tertiary sector jobs. Over 45% of Mexicans were in primary or secondary-sector jobs (just think about how many people that is!!)
+- Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the occupation of old, industrial inner cities now occupied by migrants who redevelop the area.
+
+#### Challenges
+- Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexcian "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
+- There are still, despite amnesties, high amounts of unauthorised, illegal immigrants, an estimated 10.9 million, as a result of the "American dream" ideology throughout central and southern American countries using Mexico as a way in.
+- The tightening of border laws, deployment of border control agents and ever increasing "bureaucracy" to process migrants has beome a deterrent - and a burden for the taxpayer.
+- The size of the illegal population who do not wish to declare themselves out of fear is a barrier to social, economic and political integration. It may be burdeensome on the demand of resources in scarce regions with high migrant stock - such as southern California (a desert).
+
+#### Profound Statement
+> **Politics play on the fears of people in the west who want to protect their own culture, wealth and lifestyle without consideration for the cultural, social and economic benefits that migration has on countries and regions within.** 
+
+
+### Case study: LIDC Lao PDR
+Laos is an LIDC with very limited influence over the global migratory system.
+
+Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
+
+72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day - and young people are "lucky to get a few years' education". Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
+
+The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong River - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
+
+Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but there is little evidenceof its success.
+
+Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
+
+Laos and Thailand also jointly manage the Mekong river, inheritly improving political relations. 
+
+#### Opportunities
+- Laos has received FDI from Vietnam in over 400 investment projects
+- Remittances over time should contribute to a multiplier effect as seen in other LIDCs
+- High-speed rail will allow more development internally and greater movement of people between China, Vietnam, and Thailand. As Laos is very central it has a special relationship over this
+- Political stability is increasingly good in this area
+- The ASEAN migration corridor stimulates economic activities with trade and development.
+
+#### Challenges
+- Low education, low skill labour still predominant
+- Most migration remains illegal and many are exploited
+- Greater political freedoms and free movement in ASEAN countries may exacerbate losses especially with wage differentials
+- Lao's garment industry companies may fail to keep up with demand due to being outpriced by competition
+- People with high-skill labour including carpenters are - for the moment - are simply more likely to migrate out and seldom return, suppressing wages and creating relative inequalities.
+
+# 2.1 – Changing Spaces; Making Places
+
+## What’s in a place?
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+
+A **place** can be described as a location created by human experiences. 
+A **space**, on the other hand, has no added social connections or added perceived values. 
+
+For example, a car parking space at a shopping market has no value to you. It's just a one time location which you leave your car at. However, a parking place at your work may have your name on it, it may be valued by yourself and there may be some memories associated with it, such as tripping over or talking to someone there.
+
+> One person's place may be another's space.
+
+---
+
+Places can have different connections and perceptions. These are also likely to change over time. For example, 10 Downing Street may be perceived by characteristics, such as being a centre for political power, socioeconomic decisions or even for Larry the Cat who's there. It also has many factors which determine how people perceive it, such as the current political affiliation or recent decisions made by the people inside.
+
+Place Identity is a combination of many characteristics that comprise a place. These factors include: 
+- socioeconomic (housing tenure, employment, income)
+- political (national and regional government)
+- cultural (religion, traditions, societies)
+- physical (altitude, geology, proximity to natural features like rivers)
+- demographic (ethnicity, age, gender)
+- the built environment (building materials, ages, density)
+
+Places are multi-faceted, shaped by shifting flows and connections which change over time. This can be seen with Canary Wharf, which is now a hub for businesses, bing banks, trade and commerce. It was part of the London Docklands, which became gentrified after the decline of the shipment industry. Flats were demolished and rebranded from old, contaminated stockhouses to new entrepreneurial small businesses and now high-rise, technologically advanced buildings coupled with bars, cafés and waterside views, giving it a sense of identity. To the people who work there or go there regularly, this is a place, not just a space.
+
+
+### Case study: Place Profile - Mancroft Ward, Norwich
+A ward is an administrative region of a city or borough, electing its own councillor. 
+
+#### Physical Geography
+Norwich is located on the River Wensum, flowing through the city. It is surrounded by many rivers and tributaries like the Yare and Waverley. These rivers have played an important role in the development of the region and city, both for industry and for transport. The geology is mostly composed of sandstone and chalk, used historically in the buildings, being durable. This style has been seen in the castle, while flints are used in many of the churches.
+
+#### Political
+Norwich is governed by Norwich City Council. The city has 39 city councillors, with 13 electoral wards, each having three councillors who undertake casework for constituents, making council policies, budgeting and service delivery. The county council runs education services as well as social care and transport.  
+
+> Bonus info: the **Russell Street Community Area Residents Association** is a group of people within the Mancroft Ward who discuss local issues such as litter, tackling homelessness and lonliness, meeting monthly, and using platforms like Facebook to communicate to make the area more pleasant to live in.
+
+May 2022 Council Election Results. Turnout **35.3%**
+| Candidate Name                | Political Party                    | Votes | Elected |
+|-------------------------------|------------------------------------|-------|---------|
+| **Carrington** Jess               | Labour and Co-operative Party       | 691   |         |
+| **Dean** Gordon Richard           | Liberal Democrats                  | 55    |         |
+| **Gwynn** Iain Michael Morgan     | The Conservative Party Candidate   | 243   |         |
+| **Osborn** Jamie                  | The Green Party                    | 1,606 |   X     |
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/EastofEnglandResults2019.png)
+*Mancroft is part of Norwich South for general elections. In 2019, it was one of two districts to vote Labour in the East*
+
+
+#### Built Environment
+Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise.
+
+The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
+
+#### History
+The ward itself is named after St Peter Mancroft alongside the parish church. There are two cathedrals and a castle in the city, one of which is in the ward, which itself is very rare across the UK. The name originated from the Latin term "Magna Crofta", or "Great Field". It used to be the second largest and most important city in England before industrialisation occurred. There was a strong trade bond with the Netherlands through the River Wensum, which extends out into the North Sea that allowed for easy boat transport. To this day, some of the city's walls which surround this area are still in good shape thanks to their listed status such as Cow Tower and Black Tower.
+
+#### Demography
+2021 population:
+- 10,618 people. 2.012km^2^ with 5,252 people per km^2^.
+- Annual population change is 3.2%, from 2011 to 2021.
+- There are 10 more males than females at 5,313 men, showing a very even distribution.
+-  84.4% white, 6.8% Asian, 3.3% black, mixed race 3.5%
+-  77% of the population originated the UK, 23% were foreign born residents, of which 9.9% are from EU countries.
+- The highest population in age distribution bracket is 20-29 years, which contains 2,740 people
+> Least religious city in the UK! with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third, with religions at 33.5% and 3.5% respectively.
+
+[Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
+
+#### Socio-economic
+Mancroft is categorised as a built-up area alongside most of Norwich by the ONS. Large amounts of flats, apartments in a close proximity suggests that there are many employers and jobs available within the region and city, so employees can easily access these facilities. 
+11% of the ward are retired and therefore less economically active. There are also 866 students and the most will be paying rent and working, contributing to local economy. There are 5353 economically active people, while there are 2466 economically inactive residents. 
+
+Furthermore, the average income is £32,000, showing that there are many professional jobs being occupied. This means that there is a reasonable amount of disposable income for residents to spend on facilities and more recreational activities, such as supporting local cafes which tend to be at a higher price. 
+
+The majority of homes have 3-4 rooms (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
+
+These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
+
+Overall, Mancroft is a built-up area with a high population density, suggesting that it contains a large amount of flats and buildings in close proximity. The population is diverse, with 11.07% of the ward being retired, 866 students, 5,353 economically active people aged between 16 and 74, and 2,466 people economically inactive. The majority of homes have 3 or 4 rooms, with an average of 2.51 people per household, suggesting that the area is mainly occupied by single people or very small families. This data implies that Mancroft is a roughly working to lower middle-class area (also inferred by its political affiliation) with many workers living in smaller houses, and families would then go on to move away from this area in the city centre with increased affluency and more likely to be middle-class.
+
+### Case study: Place Profile - Sheringham North Ward, North Norfolk
+
+#### Physical Geography
+Sheringham is situated on the North Norfolk coast. One of the highest points in Norfolk is located in western Sheringham, known as the "Beeston Bump" locally. It is 73 metres high and is made up of old glacial [moraines](#moraines) dating from the end of the Pleistocene epoch eround 11 to 13,000 years ago, when northern advancing glaciers retreated. It is made out of sand, gravel and stones. 
+
+For this reason, and the proximity to the coast, it was used to protect the homes behind it, being less prone to erosion from the sea due to the increased mass to erode. There also used to be two villages behind this bump, which have now merged into one larger conurbation. (It used to be two roughly symmetrical hills that has now merged into one, just like the conurbation!). 
+
+The coastal cliffs in the area are made of sedimentary rocks such as chalk, clay and flint, which have provided the region with building materials and is why there are many small cottages or other buildings in the area made of flint. 
+
+There's also a lot of prominent erosional processes and westwards longshore drift, resulting in sandy beaches and the necessity of groynes on the beach to maintain this sand.
+
+#### Political
+Sheringham is part of North Norfolk in general elections. In the 2019 general election, 58.6% of the vote was Conservative (up from the UK average of 43.6%) , which was a gain of 16.9% of the vote since the previous year's election.
+
+The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
+
+#### Built Environment
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.
+
+
+#### History
+It was 'created' in 1086. The land was owned by William d'Ecouis. The Domesday entry lists public land, slaves, farm animals, churches and more in modern-day Sheringham. 
+
+In the late 1800s it was a major crab and lobster fishing centre and supplied London markets using new railway routes brought about from industrialisation from the 200+ fishing boats and companies which regularly went out from the port at this time. Many large business owners who had lots of money to spend, especially during the industrialisation period, bought large mansions or constructed their own buildings in the area, which created a snowball effect with other businessmen 
+
+It continued to be popular for particularly more wealthy and affluent people as holidays throughout the 20th century. From the 1950s and up onwards it has continued to attract elderly people for retirement due to its peaceful and serene atmosphere as well as having good coastal views and sufficient amenities.
+
+#### Demography
+In Sheringham North, the population in 2021 during the last census was 2,470. 98.1% of the population were white British. There were only four black residents.
+
+ The highest population age distribution bracket was between the 70 and 79 years age range with 464 people. Furthermore, 39.4% of the entire population are aged above 65. Just over half, at 50.8%, are between 15 and 64 years old. Of this total, 95% come from the UK. 
+
+The population has actually decreased from 3002 in 2011.
+
+
+#### Socio-economic
+In Sheringham North, there are 622 households with one person with a serious health condition, meaning that they cannot work. There are 64.7% of men who are economically active, compared to 59.6% of women economically active, meaning that 35 and 40% of them are inactive in the economy, respectively. 29.66% of people are managers, directors or senior officials and in professional occupations. 
+
+This shows that there may be an upcoming problem for the council and town planners as these older people continue to age, more accessible features will have to be put in place to support them.
+
+Average costs for a terraced house are £223,500 to £312,500. For a semi-detached house, this is £250,000 to £364,500. A detached house costs typically over over £400,000.
+
+
+### Place Profile Comparisons
+Sheringham has a much older demographic with an average age of 51 years compared to 37 in Mancroft. This may result in more services like bingos and buses, with less schooling in Sheringham. Sheringham may also be less reluctant to change, not only because of the older population who are typically less accepting of new ideas and visions, but the people living there may spend more time retired compared to the lower, younger, more accepting population like students who may only spend 2-3 years in the area, who may be less inclined to travel further away to places such as Cromer to get their shopping done as they do not have as much time as the older, retired population.
+
+<!-- [Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here. 
+[31/5/24] Nah it looks good I reckon 
+-->
+
+
+### Shifting flows of money, investment and ideas
+
+Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
+
+During the Industrial Revolution, there was a large amount of rural to urban migration who powered new industries such as the mustard and chocolate factories. 
+
+It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
+
+> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
+
+Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. And definitely *not* Anglia Square. 
+
+There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
+
+Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
+
+### Shifting flows of people
+At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
+
+The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
+
+
+## How do we understand place?
+> 2.a) People see, experience and understand place in different ways, this can also change over time. 
+> 2.b) Places are represented through a variety of contrasting formal and informal agencies.
+
+---
+Places are represented differently through formal and informal factors. 
+
+
+### How and why people perceive places differently
+
+#### Place Perception: Uluru and Jerusalem
+- Religious and emotional attachment.
+- 
+
+#### Emotional attachment: The Kurds and Kurdistan
+
+
+### Globalisation and our sense of place
+Globalisation and time-space compression contribute to the feelings of a "shrinking world". There is increasing interconnectedness due to massevely increased trade and cultural links; containerisation popularised in 1956 by McLean has resulted in goods being traded faster, cheaper and in greater quantity. The communications revolution has promoted the sharing and flows of ideas, knowledge and technology, now measured in milliseconds with the internet.
+
+Exotic and far-away nations that were once perceived to be luxurious and out-of-reach can be reached in hours, not weeks. 
+The "global village" means that there are now global communties where people can meet, share ideas and have common interests; our sense of "place" now may be not just in the real world but also in platforms online and "places" to hang out in messaging boards and group chats. 
+
+Places in ACs may be characterised by less pollution, fewer unskilled labour with the decline of industry. However, large factories may remain, increasing crime and leaching from contaminated factories may give places a unique identity. Theses previously exotic countries - most likely LIDCs - may receive the other end, with increased contamination, rapid rural-urban migration fuelling slum settlements, and exploitative employers leaving a negative perception of the place amongst its own residents.
+
+Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.
+
+## Economic change and patterns of social inequality
+> 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
+> 3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
+> 3.c. Social inequality impacts people and places in different ways.
+
+
+### [TBD] Measuring Social Inequality
+Book reference: pages 158-162
+
+Social inequality can be measured through various means. In the UK, the IMD is a composite statistic that comprises 7 domains with varying weightings: income and employment account for 50%, followed by education and health at 13.5%, and finally (barriers to) housing and services, crime and the living environment at 9.3%.
+
+
+The Gini coefficient is used to measure the inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
+
+### Case study: MIDDLESBROUGH
+Middlesborough is a region in north-east England. 
+
+A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks16th of the UK's 317 LAs. 
+North Ormesby Ward was the 3rd most deprived out of the 7,180 in the UK. 
+
+- Middlesbrough's average household income is £24,900
+- Life expectancies up to 11 years lower than the national average,
+
+https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
+
+### Case study: HART, HAMPSHIRE
+Hart and the town of Fleet within are the least deprived LA and LSOA in England, ranking in 317 of the 317 least deprived LAs. The positioning - 45km SW of London and 50km N of ports like Portsmouth give it a commuter settlement status, allowing for the benefits of high salaries without burden of higher living costs. These high salaries allow for greater disposable income - avg house is worth over £462,000, and over 80% being detached and either owned outright or on a mortgage. This may be facilitated by the 37.5% of adults with a degree (10% higher than the national average) 
+
+ - Average life expectancies are 2-4 years higher than the national avg.  
+- Fleet's average household income is £52,000 - over double that of Middlesbrough.
+
+
+## Players that impact on economic change
+> 4.a. Places are influenced by a range of players operating at different scales.
+
+Players, or stakeholders, are individuals, groups of people or organisations who can influence, or are influenced by, changes occurring in an area. They have a common interest in a place.
+
+Governments or local authorities who may be interested in economic development, redevelopment or rebranding of an area typically have more (economic) power and influence over, for example, somebody whose house is in the path of a flagship development.
+
+Examples of players that influence an area include:
+- national government (planning, transport links like HS2, stimulating growth and development)
+- the EU (through grants for infrastructure and sustainable development projects)
+- local governments (investments in housing, building and improving services)
+- TNCs (especially those with investments in an area, or looking to break into a new market)
+- local communities (residents' associations to improve social, economic, environmental and political matters in their area)
+- NGOs (charities with an interest in e.g. wildlife/nature conservation)
+
+
+The development of a bypass, such as the Norwich NDR, has so many players. Local businesses may be in favour, with greater infrastructure allowing for faster goods movement and greater flows of goods. Farmers may benefit from national government payouts to sell land to build this road. Environmental groups may be unhappy with the noise and reduction of habitat for endangered species. There is a general trend of (supra)national government and large TNCs being in favour of developments and economic change in an area, whilst smaller, local groups may be typically against such changes, from shopping centres such as Anglia Square in cities, to rural settlements. 
+
+
+### Case study: Structural economic change, Birmingham
+> This case study can also be used in Placemaking (5.c) 
+
+The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
+
+
+#### The rise of Birmingham
+Birmingham before the industrial revolution was a place of hard work and manufacturing, especially metalworking. The geology of the surrounding region and Black Country supplied Birmingham with adequate metals and coal to smelt the metals. By 1563, the historian William Camden stated that the area was "swarming" with people and "echoing with the noise of anvils". The good supply of water thanks to the topography allowed more and more resource-intensive products to be made. During this time, the demographic was principally white with the Church present throughout; this intensive labour required young male labourers and did not change much. Smiths and the market were selling goods across England by this time. Produce included gun cartridges, horseshoes and brass.
+
+The Industrial Revolution kicked economic changes into overdrive. The population by 1710 was 15,000 fuelled by continued urban-rural migration. A **middle class and tertiary sector** emerged during this period, creating **Lloyds and Midlands Bank** - the former founded in 1765. The main secondary sector manufacturing industries required the services of tertiary sector companies and thus created demand between differing sectors and these relationships increased confidence and investment in the town. The canal system allowed more trade, with even more goods being imported and exported.
+
+The first factory in the world, the "**Soho Manufactory**", was created by Matthew **Boulton** in 1761 which streamlined the industrial manufacturing process with one single production line with 700 employees all in the same area, producing more goods in a faster time. Boulton and Watt would also partner to produce steam engines that would be sold across the country. **Electroplating** and the **pneumatic tyre** were just some of the new inventions that Birmingham produced. 
+
+As this economic growth supported continuous population increases, there was more demand to house these people. The Cadbury chocolate family in the early-mid 1800s set up the **Bourneville factory and village**, introducing the new food processing industry and bucked the trend of terraced housing with the insistence of George Cadbury to have large homes with gardens and sizeable rooms to ensure the best working conditions for each employee and their families - encouraging social reforms whilst positively influencing industry and the local economy. Birmingham truly became "**a city of a thousand trades**". At this time the (long overdue) railway connection to London was made and was the hub of the Midlands, connecting the north to the south, and east to the west. *(And this is true even today!)*
+
+The 1900s saw yet more opportunities. The Austin car plant brought car and vehicle manufacturing; the Dunlop tyre company brought... well... tyres. Companies were established to supply larger companies with goods - contributing to the very low unemployment rate of under 1% as there was effectively money to be made everywhere through these **ancillary industries**. This demand also made its way into other sectors - with metalworking "only" accounting for half of the employment in Birmingham by 1950. Squeezing even more people into poor-quality terraces drove transport improvements while the middle class drove the expansion of the metropolitan area. The "largest social housing estates in the country" were also located in the city suburbs.
+
+
+#### War and post-war decline
+Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
+
+The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contemporary living spaces.
+
+By 1970s:
+- The British vehicle industry had been in decline for 20 years. Preference for Japanese models, cheaper costs w/global shift and globalisation and demand for these cars favoured them vs British makes
+- SMEs that used to act as ancillary industries or make their own resources demolished in **slum clearance schemes**. Many were unable to find other suitable cheap businesses; areas that were supposed to encourage this priced out smaller, family-run businesses.
+- Demographic changes: the Windrush generation had arrived by this time, and combined with higher immigration, the amount of non-white British people had doubled to around 10%
+- **Unemployment rates hit 19.4%.**
+
+The clearance and resettlement schemes pushed out residents into more affluent outer-city areas: increased commuting costs and more affluent expectations and lifestyles left lower disposable income for lower-skilled residents. A green belt was later created, shifting land values. 
+
+The Government did not give any grants to the EU car companies such as VW to incentivise (re)development in the East Midlands thanks to its prior growth and prosperity - other areas that needed this even more were prioritised. (positive feedback). The Single Regeneration Budget in the 20th Century that tackled deep-rooted social inequalities was criticised due to its administrative and bureaucratic costs but has shown success in the reduction of deprived regions with gentrification, but without forcing low-income residents out. Labour's 1997 New Deal for Communities also saw to tackle the most deprived regions with improvements in crime, education an employment, and even saw new broadband internet access installed in city centre homes, helping to reduce the digital divide and allow people to see job opportunities and education online.  
+
+#### Modern-day Birmingham
+A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this share had increased to 49%.
+
+The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prosperity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
+
+It was the EU Social Investment fund that helped regenerate areas of the city, with £450m investment in changing social housing. Some of this has been matched post-Brexit from the UK Shared Prosperity fund but not all; it is essential for low-income families. 
+
+Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
+
+Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
+
+
+#### Overall roles of players
+
+- de Bermingham family: 1166, royal charter. Immediately changed the industry from 
+
+
+
+
+## Placemaking processes
+> 5.a. Place is produced in a variety of ways at different scales.
+5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
+5.c. Making a successful place requires planning and design.
+
+Placemaking is the process of transforming public spaces into places that work for people.
+
+Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
+
+#### Hulme Crescents
+Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished.
+
+Through the City Challenge redevelopment, they were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise and - critically, much was social housing. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior crescents.
+
+
+### Case study: Dubai's transformation
+
+From fishing village to diverse economic powerhouse.
+
+After realising that oil would not be an unlimited resource, the Sheikh diversfied from 1970.
+
+The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the Burj Khalifa (828m in 2008) the real estate sector has grown to US$25bn.  
+
+
+
+
+# [tbd] 2.2.3 Global Governance: Option C – Human Rights
+
+## Overview
+Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
+
+The UDHR was written after WW2 as a framework to establish these rights. Whilst very morally strong and well-respected, it is not legally binding. 
+States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - which outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
+To encourage codification, states may place trade sanctions or embargoes on others that do not ratify or enforce rules against human rights violations. 
+
+According to UNICEF, social norms are the perceived "unwritten rules" that define acceptable and appropriate actions and behaviours within a group or community.
+
+Intervention refers to activity taken by a nation to manipulate the economy, society or the political structure of another nation. This can be done through:
+- geopolitical intervention: by placing strategic trade embargoes, aid or military action
+- military intervention: by using its and allies' military forces to forcefully take control of another country, or areas of it 
+
+**Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. The ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
+- the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer. Employers have been known to go bankrupt and migrants are effectively trapped in their destination country.
+- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and can only be transported back home if they pay this back.
+- bonded labour - when a person's work is used as a form of repayment of prior debt or loan. Especially in positions of authority, with no formal contracts, or where the liberties of the person depend on the repayment, the person to whom the debt is owed can effectively demand the services indefinitely. 
+Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
+
+**Capital punishment** and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
+In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
+
+**Maternal mortality** is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is the rate of these deaths per 100,000 births. Trends that influence MMR include:
+- Fewer doctors to guide through childbirth/perform legal abortions
+- Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
+- Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
+- Countries may be patriarchal and the dowry may incentivise the selling of young girls aged 14 or lower to be married (e.g. Iraq), substantially increasing complications as bodies may not be fully developed 
+- Lower levels of education regarding contraceptives, hygiene or how to deliver a baby (vs prenatal classes or education programs)
+- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into pregnancy and as early after delivery without letting their body recover (stress)
+- Lack of nationalised or free healthcare may discourage people with hypertension or haemorrhages from seeking help until it becomes fatal.
+
+The vast majority of maternal deaths can be avoided, therefore, it is not just a question of development but also of human rights.
+
+## Gender inequality
+Women's rights are measured through the **GGGI** - the Global Gender Gap Index by the World Economic Forum. It is a percentage score that calculates the relative equality of women compared to men. It's measured through:
+- economic participation and equal opportunities;
+- educational attainment;
+- health and survival;
+- political empowerment.
+
+As of 2023, no country has closed this gap.
+
+Social norms are a barrier to gender equality. 
+
+Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of housework on the daughters, and likewise, those being married through dowry systems are expected to take care of the husband's family.
+
+In Rwanda, the genocide in 1994 resulted in over 1 million men being killed, and the effective requirement of women to fill the gaps left by the male workforce. This completely upheld the social norms present and, even today, the central African country has a female:male workforce participation ratio of 100:85, and ranks 5th in the world on the GGGI.
+
+
+
+### Case study: INDIA
+India, aside from having th largest population with some amazing people, is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
+
+The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
+
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
+
+However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
+
+Due to legislation changes, there is some societal change being made in the country. Companies which arguably have great influence on societal changes are forced to abide by the laws, and through corporate responsibility, these ideas may trickle down over time from the legislature to civilians. 
+
+- 52% women believe that it is acceptable for men to beat their wife
+- 63% of Delhi's women fear of going out at night
+- Only 1% of Delhi's residents say they never worry if a female member of the household at any time
+
+[Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
+
+> "Dalits" - lowest form of caste
+
+## Strategies for global governance
+Human rights violations can be a cause and consequence of conflict. Conflict can be caused by:
+- the denial of basic needs including food, water, housing, education and employment (over long time scales)
+- discrimination - within a society, through political exclusion and injustices
+- lack of free and fair democratic systems
+- oppressive or corrput governments that do not respect all groups
+- genocide, ethnic cleansing and torture
+
+Confict itself may cause futher human rights violations.
+- deaths and injuries in men, women and children both combattants and civilians in zones of conflict
+- lack of access to food, water and basic resources through damaged infrastructure
+- provocation of internal and intenational migration and conditions of refugees and asylum seekers
+- abuse of power by militants on women and children
+- more genocide, ethnic cleansing and torture 
+
+
+### Flows and geopolitical intervention
+People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
+
+Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and futher abuses.
+
+Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
+
+Since invasion, NATO has spent over US $2.13tn on Afghanistan (see below), most of which has gone to military expenses. 
+
+### Promotion and protection
+
+- The United Nations has various obligations in its charter. 
+
+### Case study: AFGHANISTAN, an area of conflict
+Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
+
+There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). Food insecurity was also widespread: 
+
+87% of women even during intervention in 2018 were still subject to any type of violence.
+
+
+> Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
+
+#### Consequences
+War and conflict is the most obvious direct result of intervention. 
+
+- 45k Nato-trained Afghan security forces dead
+- 38k civilian casualties
+
+However, there have been changes made in rural and urban neighbourhoods: 
+
+**Rural**
+- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
+- UNDP: rural uphold of local demoracy and developments in regional councils to request funding
+- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teeaching about agriculture, increasing resilience, employment and incomes
+
+**Urban**
+UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
+- These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
+- This has resulted in there being 1.1 million new grid connections during the intervention.
+
+
+
+
+ 
+
+#### Withdrawal?
+
+The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
+
+
+
+## Intervention and development
+
+
+### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
+The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa. The country has male life expectancies of 59 and female life expectancy of 63. The GDP per capita is just $785 across a country with 101m inhabitants.
+
+Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
+
+Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fagile DRC.
+
+- Becoming more stable: first electons in 2019 were peaceful
+-  CARE International, Action Aid and the World Bank are working to improve access across the country to education and healthcare services (half of young women are illiterate). 
+
+
+<!-- Editor To do: More here! -->
+
+Congolese
+
+---
+
+---
+end of paper 2
+
+good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
+
+
 # Paper 3 - Geographical Debates
 # [TBD] Disease Dilemmas 
 
@@ -1498,7 +2213,7 @@ For example:
 - Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
 - Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
-In addition, diseases can diffuse in different ways
+In addition, diseases can diffuse in different ways:
 
 - expansion diffusion: increasing in geographical area, typically decreasing in severity
 - relocation diffusion: move from one area to another
@@ -1729,308 +2444,6 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 
-# [TBD] 2.2.2 Global Systems – Migration
-
-Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
-
-
-A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
-
-**Interdependence** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
-
-**Globalisation** is the growing integration and interdependence between peoples' lives economically, politically and environmentally.
-
-**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
-
-Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
-
-Migration on a global scale is significant. In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
-
-> Global migration involves dynamic flows of people between countries, regions and continents
-
-## [tbd] Consequences of migration
-When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
-
-### Positives of migration
-
-Broadly, the positives of migration can be split into three distinct characteristics. This includes stability, growth and investment.
-
-
-**Stability**
-
-
-### Intra-regional migration
-Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
-
-
-# [TBD] 2.1 – Changing Spaces; Making Places
-
-## What's in a place?
-> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
-
-**Content:**
-
-Case studies of two contrasting place profiles at a local scale, including: 
-- their demographic, socio-economic, cultural, political, built and natural characteristics that shape their place identity. 
-- their past and present connections that shape the place identity and embed them in regional, national, international and global scales 
-- how shifting flows of people (such as commuter, migration), resources (such as natural, technology), money and investment (such as EU funding, TNCs) and ideas (such as knowledge economy) have helped shape the demographic, socio-economic and cultural profile of these places over time.
----
-
-A place can be described as a location created by human experiences. 
-A space, on the other hand, has no added social connections or added perceived values. 
-
-For example, a car parking space at a shopping market has no value to you. It's just a one time location which you leave your car at. However, a parking place at your work may have your name on it, it may be valued by yourself and there may be some memories associated with it, such as tripping over or talking to someone there.
-
-> One person's place may be another's space.
-
-Places can have different connections and perceptions. These are also likely to change over time. For example, 10 Downing Street may be perceived by characteristics, such as being a centre for political power, socioeconomic decisions or even for Larry the Cat who's there. It also has many factors which determine how people perceive it, such as the current political affiliation or recent decisions made by the people inside.
-
-Place Identity is a combination of many characteristics that comprise a place. These factors include: 
-- socioeconomic (housing tenure, employment, income)
-- political (national and regional government)
-- cultural (religion, traditions, societies)
-- physical (altitude, geology, proximity to natural features like rivers)
-- demographic (ethnicity, age, gender)
-- the built environment (building materials, ages, density)
-
-Places are multi-faceted, shaped by shifting flows and connections which change over time. This can be seen with Canary Wharf, which is now a hub for businesses, bing banks, trade and commerce. It was part of the London Docklands, which became gentrified after the decline of the shipment industry. Flats were demolished and rebranded from old, contaminated stockhouses to new entrepreneurial small businesses and now high-rise, technologically advanced buildings coupled with bars, cafés and waterside views, giving it a sense of identity. To the people who work there or go there regularly, this is a place, not just a space.
-
-
-### Case study: Place Profile - Mancroft Ward, Norwich
-A ward is an administrative region of a city or borough, electing its own councillor. 
-
-#### Physical Geography
-Norwich is located on the River Wensum, flowing through the city. It is surrounded by many rivers and tributaries like the Yare and Waverley. These rivers have played an important role in the development of the region and city, both for industry and for transport. The geology is mostly composed of sandstone and chalk, used historically in the buildings, being durable. This style has been seen in the castle, while flints are used in many of the churches.
-
-#### Political
-Norwich is governed by Norwich City Council. The city has 39 city councillors, with 13 electoral wards, each having three councillors who undertake casework for constituents, making council policies, budgeting and service delivery. The county council runs education services as well as social care and transport.
-
-> Bonus info: the **Russell Street Community Area Residents Association** is a group of people within the Mancroft Ward who discuss local issues such as litter, tackling homelessness and lonliness, meeting monthly, and using platforms like Facebook to communicate to make the area more pleasant to live in.
-
-May 2022 Council Election Results. Turnout **35.3%**
-| Candidate Name                | Political Party                    | Votes | Elected |
-|-------------------------------|------------------------------------|-------|---------|
-| **Carrington** Jess               | Labour and Co-operative Party       | 691   |         |
-| **Dean** Gordon Richard           | Liberal Democrats                  | 55    |         |
-| **Gwynn** Iain Michael Morgan     | The Conservative Party Candidate   | 243   |         |
-| **Osborn** Jamie                  | The Green Party                    | 1,606 |   X     |
-
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/EastofEnglandResults2019.png)
-*Mancroft is part of Norwich South for general elections. In 2019, it was one of two districts to vote Labour in the East*
-
-
-#### Built Environment
-Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise. The 
-
-The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
-
-#### History
-The ward itself is named after St Peter Mancroft alongside the parish church. There are two cathedrals and a castle in the city, one of which is in the ward, which itself is very rare across the UK. The name originated from the Latin term "Magna Crofta", or "Great Field". It used to be the second largest and most important city in England before industrialisation occurred. There was a strong trade bond with the Netherlands through the River Wensum, which extends out into the North Sea that allowed for easy boat transport. To this day, some of the city's walls which surround this area are still in good shape thanks to their listed status such as Cow Tower and Black Tower.
-
-#### Demography
-2021 population:
-- 10,618 people. 2.012km^2^ with 5,252 people per km^2^.
-- Annual population change is 3.2%, from 2011 to 2021.
-- There are 10 more males than females at 5,313 men, showing a very even distribution.
--  84.4% white, 6.8% Asian, 3.3% black, mixed race 3.5%
--  77% of the population originated the UK, 23% were foreign born residents, of which 9.9% are from EU countries.
-- The highest population in age distribution bracket is 20-29 years, which contains 2,740 people
-> Least religious city in the UK! with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third at 33.5% and 3.5% respectively.
-
-[Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
-
-#### Socio-economic
-Mancroft is categorised as a built-up area alongside most of Norwich by the ONS. Large amounts of flats, apartments in a close proximity suggests that there are many employers and jobs available within the region and city, so employees can easily access these facilities. 
-11% of the ward are retired and therefore less economically active. There are also 866 students and the most will be paying rent and working, contributing to local economy. There are 5353 economically active people, while there are 2466 economically inactive residents. 
-
-Furthermore, the average income is £32,000, showing that there are many professional jobs being occupied. This means that there is a reasonable amount of disposable income for residents to spend on facilities and more recreational activities, such as supporting local cafes which tend to be at a higher price. 
-
-The majority of homes have 3-4 rooms, (not just bedrooms), suggesting that the majority of people in the area are either single or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
-
-These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
-
-
-**Summary:**
-Overall, Mancroft is a built-up area with a high population density, suggesting that it contains a large amount of flats and buildings in close proximity. The population is diverse, with 11.07% of the ward being retired, 866 students, 5,353 economically active people aged between 16 and 74, and 2,466 people economically inactive. The majority of homes have 3 or 4 rooms, with an average of 2.51 people per household, suggesting that the area is mainly occupied by single people or very small families. This data implies that Mancroft is a roughly working to lower middle-class area (also inferred by its political affiliation) with many workers living in smaller houses, and families would then go on to move away from this area in the city centre with increased affluency and more likely to be middle-class.
-
-### Case study: Place Profile - Sheringham North Ward, North Norfolk
-
-#### Physical Geography
-Sheringham is situated on the North Norfolk coast. One of the highest points in Norfolk is located in western Sheringham, known as the "Beeston Bump" locally. It is 73 metres high and is made up of old glacial moraines dating from the end of the Pleistocene epoch eround 11 to 13,000 years ago, when northern advancing glaciers retreated. It is made out of sand, gravel and stones. 
-
-For this reason, and the proximity to the coast, it was used to protect the homes behind it, being less prone to erosion from the sea due to the increased mass to erode. There also used to be two villages behind this bump, which have now merged into one larger conurbation. (It used to be two roughly symmetrical hills that has now merged into one, just like the conurbation!). 
-
-The coastal cliffs in the area are made of sedimentary rocks such as chalk, clay and flint, which have provided the region with building materials and is why there are many small cottages or other buildings in the area made of flint. 
-
-There's also a lot of prominent erosional processes and westwards longshore drift, resulting in sandy beaches and the necessity of groynes on the beach to maintain this sand.
-
-#### Political
-Sheringham is part of North Norfolk in general elections. In the 2019 general election, 58.6% of the vote was Conservative (up from the UK average of 43.6%) , which was a gain of 16.9% of the vote since the previous year's election.
-
-The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
-
-#### Built Env
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. It is also an iconic material for tourism, as well as typically costing more to use than bricks and also looking good on postcards!
-
-
-#### History
-It was 'created' in 1086. The land was owned by William d'Ecouis. The Domesday entry lists public land, slaves, farm animals, churches and more in modern-day Sheringham. 
-
-In the late 1800s it was a major crab and lobster fishing centre and supplied London markets using new railway routes brought about from industrialisation from the 200+ fishing boats and companies which regularly went out from the port at this time. Many large business owners who had lots of money to spend, especially during the industrialisation period, bought large mansions or constructed their own buildings in the area, which created a snowball effect with other businessmen 
-
-It continued to be popular for particularly more wealthy and affluent people as holidays throughout the 20th century. From the 1950s and up onwards it has continued to attract elderly people for retirement due to its peaceful and serene atmosphere as well as having good coastal views and sufficient amenities.
-
-#### Demography
-In Sheringham North, the population in 2021 during the last census was 2,470. 98.1% of the population were white British. There were only four black residents.
-
- The highest population age distribution bracket was between the 70 and 79 years age range with 464 people. Furthermore, 39.4% of the entire population are aged above 65. Just over half, at 50.8%, are between 15 and 64 years old. Of this total, 95% come from the UK. 
-
-The population has actually decreased from 3002 in 2011.
-
-
-#### Socio-economic
-In Sheringham North, there are 622 households with one person with a serious health condition, meaning that they cannot work. There are 64.7% of men who are economically active, compared to 59.6% of women economically active, meaning that 35 and 40% of them are inactive in the economy, respectively. 29.66% of people are managers, directors or senior officials and in professional occupations. 
-
-This shows that there may be an upcoming problem for the council and town planners as these older people continue to age, more accessible features will have to be put in place to support them.
-
-Average costs for a terraced house are £223,500 to £312,500. For a semi-detached house, this is £250,000 to £364,500. A detached house costs typically over over £400,000.
-
-
-### Comparisons
-Sheringham has a much older demographic with an average age of 51 years compared to 37 in Mancroft. This may result in more services like bingos and buses, with less schooling in Sheringham. Sheringham may also be less reluctant to change, not only because of the older population who are typically less accepting of new ideas and visions, but the people living there may spend more time retired compared to the lower, younger, more accepting population like students who may only spend 2-3 years in the area, who may be less inclined to travel further away to places such as Cromer to get their shopping done as they do not have as much time as the older, retired population.
-
-[Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
-
-
-### Shifting flows of money, investment and ideas on place identity
-
-Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
-
-During the Industrial Revolution, there was a large amount of rural to urban migration who powered new industries such as the mustard and chocolate factories. 
-
-It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
-
-> It was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
-
-Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. 
-
-There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a quaternary knowledge economy, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
-
-Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
-
-### Shifting flows of people
-At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
-
-The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it thanks to globalisation leading to the replacement of local resources. Ocean going ships have grown significantly in size and can no longer fit up the River Yare so the riverside docklands fell into decline, much like the London Docklands.
-
-
-
-## How do we understand place?
-
-> a) People see, experience and understand place in different ways, this can also change over time. 
-b) Places are represented through a variety of contrasting formal and informal agencies.
-
-**Content A:**
-- The complexities that exist when trying to define place, including the concept of space versus place. 
-- How and why people perceive places in different ways based on their identity, including age, gender, sexuality, religion and role. 
-- How level of emotional attachment to place can influence people's behaviour and activities in a place.
-- How the processes of globalisation and time-space compression can influence our sense of place.
-
-**Content B:**
-- How informal representations of a place differ through contrasting media such as TV, film, music, art, photography, literature, graffiti and blogs. 
-- Identify how formal and statistical representations of a place, such as census and geospatial data, contrasts with informal representations.
-
----
-
-
-### Place Perception: Uluru and Jerusalem
-
-
-### Emotional attachment: The Kurds and Kurdistan
-
-### Globalisation and our sense of place
-
-
-## Economic change and patterns of social inequality
-
-> 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
-3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
-3.c. Social inequality impacts people and places in different ways.
-- The concept of social inequality and how this can be measured through indices such as housing, healthcare, education, employment and access to services. 
-- How and why spatial patterns of social inequalities vary both within and between places.
-- The influence of global connections and globalisation in driving structural economic change in places, such as de-industrialisation and the rise of the service industry. 
-- How structural economic change impacts patterns of social opportunities and inequality for people and places. 
-- How cyclical economic change (booms and recessions) has varied impacts on social opportunities and inequality. 
-- The role of government in reducing, reinforcing and creating patterns of social inequality in places through spending or cuts in key services such as availability and accessibility of education, healthcare, infrastructure and community services.
-- Case studies of two contrasting places to illustrate: 
-	- the types of evidence of social inequality that can be found there such as housing, environmental quality, crime rates, digital divide 
-	- the range of factors that influence people's social inequality such as income, gender, age, health, personal mobility, ethnicity and education 
-	- how social inequality impacts upon people's daily lives in different ways.
----
-
-
-### [TBD] Measuring Social Inequality
-Book reference: pages 158-162
-
-
-
-The Gini coefficient is used to measure the  inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
-
-
-## Players that impact on economic change
-> Who are the players that influence economic change in places?
-4.a. Places are influenced by a range of players operating at different scales.
-
-
-- The role of players in driving economic change, including at least one of local and national government, MNCs or international institutions. 
-- Case study of one country or region that has been impacted by structural economic change, including:
-	- socio-economic, demographic, cultural and environmental characteristics of the place before the economic change 
-	- the economic change/changes that took place and the role of players involved in driving the change 
-	- socio-economic, demographic, cultural and environmental impacts on people and place.
----
-
-
-## Placemaking processes
-
-Specification content:
-5. **How are places created through placemaking processes?**
-5.a. **Place is produced in a variety of ways at different scales.**
-- The concept of placemaking and how governments and organisations attempt to present places to the wider world to attract inward investment and regeneration. 
-- How architects and planners attempt to create meaningful and authentic places through design, such as places that encourage mixed community use or the 24 hour city. 
-- How local community groups shape the place they live, such as residents associations, heritage associations and social media
-
-5.b. **The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.**
-- Why places rebrand through reimaging and regeneration to construct a different place meaning.
-- How a range of strategies can be used to rebrand places, such as sport, art, heritage, retail, architecture and food. These can be used singularly or in conjunction to change a place meaning. 
-- A range of players and their role in placemaking, including government/EU funding, corporate bodies, not for profit organisations and community groups. 
-- How and why some groups of people contest efforts to rebrand a place.
-
-
-5.c. **Making a successful place requires planning and design.**
-
-- Case study of one place that has undergone rebranding, including: 
-	- why the place needed to rebrand
-	- strategy/strategies involved in the rebranding of the place
-	- the role and influence of a range of players involved in the placemaking 
-	- how the rebranding has altered people's perception of that place 
-	- the relative success of the rebranding.
----
-
-## [tbd] Rebranding
-There are 5 main ways to rebrand an area:
-- Top-down investment
-- Market-let strategies
-- Flagship developments
-- Events
-- Legacy
-(Others include art events, historical exhibitions etc.)
-
----
-
-end of paper 2
-
----
-
 # [tbd] Hazardous Earth
 
 ## 3-marker limitation questions
@@ -2056,233 +2469,13 @@ The theory of plate tectonics is closely linked with Alfred Wegener's theory of 
 ## Reasons for plate movement
 
 ### Paleomagnetism
-Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. When oceanographers mapped seabeds during WW2, magnetic flips were observed on either side of divergent boundaries and seafloor spreading centres. This is because when magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
-
-
-### Glacial deposits
-Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest.  
-
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Roche_moutonée_with_striations.jpg)
-*Striations and spherical laval bombs visible in a roche moutonnée near Easedale Tarn, Lake District. Credit: me* 
-
-
-### Apparent fit of the continents
-*He noticed that the continents looked just like pieces of a broken puzzle...*
-
-### Geologic sequences
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
-*A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
-
-### Fossil evidence
-
-
-
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
-
----
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/wegener-yeeha-original.gif)
-
----
-
-
-## Plate Boundaries
-A plate boundary is where two plates meet. This is not the same as there being two plate boundaries! There is only one boundary and two plates.
-
-## Divergent plate boundaries
-At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
- 
-### Oceanic-oceanic boundary
-At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
-At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
-
-Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to the releasing of kinetic energy. (There is little volcanic activity along transform faults.)
-
-> A transform fault is **only the lateral** part of the zig-zag, between ocean ridge crests.
-
-### Continental-continental
-
-In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land at the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
-
-Rift valleys can also be found where spreading is occurring at a slower rate, such as the Mid-Atlantic Ridge (North American <--> Eurasian) on land such as Iceland.
-
-
-
- 
-## Convergent plate boundaries
-
-- upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental. Big, shallow focus earthquakes
-- responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
-- oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
-- oceanic-oceanic also forms island arcs. Antilles and Aleutian
-(explain from memory)
-
-## Conservative plate boundaries
-Typically continental plates move past in a strike-slip shearing motion. 
-
-No crust destroyed, no magma created, no volcanoes
-However there are very big earthquake potenial
-(explain from memory)
-> Conservative boundaries are also referred to as transform plate boundaries (wording in the USA only)
-
-
-## Volcanoes
-
-## The chemistry of an eruption
-The nature of a volcanic eruption is shaped by a range of factors. For example, the viscosity, or the ‘stickiness’ of magma. The viscosity measures the resistance to flow an, in the case of volcanic activity, the more viscous it is, the more explosively the eruption may be. 
-
-Additionally, the gas inside the magma chamber drives the flow of the magma through the mantle and crust. Gas can build up within the magma chamber, forcing the magma to be quickly discharged and causing a more explosive eruption. Other factors can include the pipe’s shape. The length and diameter of it can cause differing explosion types, with typically short, narrow pipes creating greater explosions. 
-
-Magma is made of molten rock crystals which grow as the liquid inside cools down. Gas bubbles can make this more porous, viscosity and chemistry of the melt and temperature can change the characteristics of magma. The chemistry of magma refers to the polymerisation state of the liquid. Remember GCSE chemistry? Polymers are long chains of molecules; if these contain silica and oxygen inside, it become more viscous. Acidic, rhyolitic lava is characteristic of this chemistry, from typically converging boundaries. 
-
-> Alkaline and H~2~O molecules break up these polymers into smaller, simple molecules which flow more easily and are typically basaltic. 
-
-To simplify the remembrance of the formation and type of magma, have a look at this table and see if you notice a pattern.
-
-| Explosive eruptions | Effusive eruptions |
-|--|--|
-| Typically forms at converging boundaries | Typically forms at diverging boundaries or hotspots |
- | Formed as a result of subduction | Formed from a deep mantle plume, or from ridge pull |
-| Temperatures cooler, at around 750 | Hot temperatures at 1000+ degrees |
-| Sticky, viscous magma | Runny, low viscosity magma |
-| Acidic | Less acidic |
-| Cannot travel far, builds up a distinctive cone around a volcano | Travels far and fairly flat, a ‘shield’ shape. You may not know it is a volcano at all. |
-| Rhyolitic magma | Basaltic magma |
-| Distinct central vent and perhaps several side vents | Fissure eruptions common |
-| Less unpredictable but infrequent | More unpredictable, but more frequent |
-| Recurrence intervals can range from several years to several thousand+ years | Recurrence intervals are very frequent, even once per day |
-| Examples include Mt Pinatubo, Mt. St. Helens,  | Examples include Iceland, Hawaii |
-
-### Intrusive volcanicity
-
-### Hotspot volcanoes
-
-### Yellowstone supervolcano
-
-### Stratovolcanoes
-Cone-shaped formed by explosive extrusive volcanicity. Due to high viscosity, typically near a converging boundary, caused by long-length silica-rich acidic polymers due to the mixture of hot asthenospheric material and subducted plate debris which contains H~2~O, gases and other material from the ocean floor. This results in more gases developing, rising upwards and mixed in viscous, relatively cool (~600-800 degrees C) rhyolitic magma chambers. The explosive eruptions occur when the magma pushed by gases reaches the surface. The high viscosity causes the lava to not travel long distances. Over time, ash and lava will solidify in strata, building up around the central volcanic funnel causing the characteristic dome shape. 
-
-### Shield Volcanoes
-Effusive, basaltic eruption causes these as low-length polymerisation of the lava allows for higher temperatures (>1000degrees) and less viscosity, enabling long-distance transport after the initial extrusion.
-
-### East African Rift Valley
-The African Plate is splitting in two! Land is dropping down due to ridge push and convection. There are also volcanic mountains
-
-# Volcano Case Studies
-- Mitigating the event is a costly method of reducing the effects of an eruption as it is occurring - e.g. ash wall construction and lowering concrete barriers from helicopters in Etna, spraying water on lava to cool and slow it down in Iceland
-- Mitigating against vulnerability is preparing the community and planning for hazards to occur. Indonesia's Centre for Volcanology and Geological Hazard Mitigation is... [tbd]
-- Managing losses is how the event is responded to. Well-trained search and rescue teams and temporary shelter provisioning are perhaps key to reducing the impact of an eruption. EDCs such as Indonesia may be the most adept to dealing with these.
-
-## Case study: Eyjafjallajökull, Iceland
-Iceland, in 2010, had a HDI of 0.92 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
-
-Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with characteristic basaltic andesitic lava. This attracted some tourists to the area, and ash reached no more than 4km in the atmosphere - a VEI 2 eruption.
-
-In April 2010, the second, most significant explosive eruption occurred, peaking at a VEI of 4. This was particularly damaging for many reasons. It was directly below the very stable jet stream, pushing wind towards the UK and Europe. The eruption took place under 200m of glacial ice, with much of the meltwater flowing back into the caldera increasing the explosivity with high gases and increased pressure. This also caused glass-rich ash to be formed quickly which was injected into the troposphere at above 10km in altitude, which moved its way along Western and Central Europe.
-
-![enter image description here](https://upload.wikimedia.org/wikipedia/commons/b/b1/Eyjafjallaj%C3%B6kull_volcanic_ash_composite.png)
-
-### Impacts on people
-Many farm crops and roads were washed away from glacial *jökulhlaups*, and fish exports from the Icelandic offshore fishing industry were halted due to the ash. Around 800 nearby residents were evacuated from large trucks and members of the fire brigade. Because of good infrastructure, warning systems and education, there were no direct deaths from the eruption.
-
-On the continent, over 100,000 flights were cancelled, affecting 7 million passengers exacerbated by the Easter school holiday season. It is estimated that the GDP loss of the entire EU from this was $2.6bn with airlines losing $1.7bn. This had a knock-on effect for those reliant on the tourism industry, which is highly volatile and depends on revenue during these periods. London lost over £102mn and some companies were never able to recover from this. On top of 400,000 Britons stranded globally due to the three major London airports being closed - almost 1% of the population - this was particularly damaging.
-
-Just-in-time manufacturing and trade as a result of globalisation such as the transport of Kenyan flowers cost the horticultural industry around $3mn per day, with 5 thousand flower and vegetable farmers who rely on a source of stable income in LIDCs being temporarily laid off. (97% of flowers are delivered to Europe, which is difficult when the whole airspace is closed!)
-
-"Volcano tourism" has increased sharply since the eruption, with people going to visit the geological landforms and effusive activity like lava streams across the country. Tourist levels were 43% above forecast levels, with almost 80,000 additional visits. These people spend an average of ~$2000 each, generating significant revenue for the country.
-
-"**The increase in Icelandic tourism was far greater than the previous decline caused by the natural disaster and greatly exceeded forecasts.**" [[1](https://hospitalityinsights.ehl.edu/iceland-tourism-boom)]. This clearly shows how it can be a benefit to countries which can successfully mitigate against vulnerability, losses and the event itself.
-
- 
-
-> How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
-
-
-## Case study: Volcan del Fuego, Guatemala
-
-Guatemala is an LIDC in Central America with an HDI of 0.627 and GNI/capital of $8,500 PPP.
-
-The eruption in 2018 was Guatemala’s deadliest event since 1902. It **killed over 200 people** with a VEI 3-4 plume reaching 15.2km. There was **no hazard plan**, and despite being one of the most active volcanoes along the Pacific Ring of Fire, it seems that people did not fully understand the risks. Bodies in 6 destroyed villages were found not far from homes, corroborating with video footage of people simply staring at the ash cloud and oncoming pyroclastic flows. Coupled with the fact that there was no evacuation alert issued, this shows that the infrastructure and investment were simply inadequate in the region. 
-
-Efforts to evacuate the area were rendered difficult due to inaccurate data involving road access, population size and population locations in proximity to the volcano's flanks prone to pyroclastic flows. **The Guatemalan Mountain Rescue Brigade** were already searching for a missing person when explosive activity increased, and were able to help a significant but unknown number of people in surrounding villages to evacuate, emphasising the **need for well-trained and experienced individuals** for mitigation of vulnerability. Mitigation of losses could have been better but was not totally inadequate: firefighters were immediately deployed to the area with the aim of recovering trapped people and bodies, however, the heat and nature of the pyroclastics simply incinerated many buildings. **6,000 people were eventually evacuated** as lava flows continued into the night and temporary shelters were provisioned with priority given to women and children, showing that there was at least some emergency provisioning.
-
-## Case study: Mount Nyiragongo, DRC, May 2021
-
-Mountain Nyiragongo is situated on a continental divergent plate boundary, resulting in effusive eruptions. The world's largest lava lake is situated in the volcano, which is a **cinter cone**, and it began to grow and show increased activity. However, the Goma Volcano Observatory was unable to successfully pay for Internet connections to remotely monitor the volcanic activity on instruments, or staff fuel to take measurements due to a withdrawal of World Bank funding due to allegations of government corruption one year prior. Goma is the provincial capital city of 2,000,000 inhabitants around 15 kilometres to the South.
-
-As a result, only one warning was issued for an imminent eruption a fortnight preceding the May eruption. Three vents opened on the cinder cone's flanks, which flowed towards Goma at a rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation - the invisible, toxic CO2 gathers in low-lying areas. Whilst there was an evacuation warning of 400,000 people as a result of the city evacuation plan and a third of the population moved quickly, 2000 homes were destroyed and 17 villages were ruined.
-
-However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared this time, showing how far a small warning system and prior community knowledge can help mitigate vulnerability.
-
-## Case study: Mount Merapi, Indonesia
-
-Indonesia is an EDC with an HDI of 0.705 and GNI per capita of **$4,580** in 2022. It is in a very unstable tectonic region, with the Sunda Trench being the subduction zone between the Indo-Australian plate to the south and east, and the continental Eurasian plate to the north. There are 130 active volcanoes in Indonesia and, as a result, 70% of the 273 million inhabitants live within 100km of an active volcano - within range of damaging distances to historic VEI 6 and 7 eruptions of Tambora and Krakatau. 8.6 million are within 10km of these volcanoes - the range of a pyroclastic flow. 
-
-Quick facts:
-- Eruption occurred in October 2010. Peak VEI of 4 - deadliest in 150 years
-- 353 people died, mostly due to close proximity pyroclastic flows
-- 350,000 evacuated from the areas in hazard zones 1, 2 and 3
-- Many people returned as the eruption was still ongoing. It lasted over a month from 25th October to the end of November
-
-50,000 people are living on Mt. Merapi's slopes, within the most dangerous hazard Zone 3. This is primarily due to the agricultural benefits of volcano flanks:
-- Ash deposits are rich in potassium and phosphorous. Combined with added relief rainfall and being in a tropical equatorial region, there is plenty of water to supply large swaths of agricultural regions
-- Infrastructure such as electricity and telecommunications already exists in the region, reducing the amount of pull factors to move into urban regions such as Yogyakarta to the south.
-- However, although risk perception is high, it may have been overridden by a sense of dependence on the land - they may not have a financial buffer compared to when Eyjafjallajokull erupted with the same VEI in the same year.
-
-Mitigation strategies have been partially successful. The local Javanese government compensated many thousands of farmers with plots of land elsewhere to discourage the continued inhabitation of the flanks.
-
-Indonesia has very well-prepared, experienced and equipped emergency services. In addition, there is a constant clearance of flood and river channels to reduce the impact of lahars, which were seen, especially due to the Equatorial nature of the country, and pyroclastic flows might have on the population, of which there were over a dozen during Mount Merapi's eruption in 2010. In addition, local governments have been able to provide hundreds of thousands of people with emergency shelters, some of which end up becoming permanent settlements, which are much futher away from the volcano itself, mitigating vulnerabilities further. However, despite this apparent organisation, the shelters are also prone to disease outbreaks. The "mass exodus" of people who the shelters have been occupied by have historically has involved many children becoming severely injured and separated from their parents and their families. Despite allegations of corruption, local governments' responses during national disasters remain excellent, including aid delivery from both internal and external means.
-
-Despite the local government's demonstration of regularly clearing valleys from debris, there can be no replacement for ensuring that people are moved away from the stratovolcano's flanks and provided access to another area - something which has been done for those in zone 3. However, for an EDC with some of the fastest-growing populations and high population densities supporting 1,000/km^2^ even in remote areas of Java, a balance seems to have been struck by successfully modifying the vulnerability to a large extent whilst not investing huge amount of money to save less and less residents who do simply do not wish to move.
-
-## Strategies to manage volcanic hazards
-
-### Mitigating against events
-Humans cannot stop volcanic hazards
-
-### Mitigating against vulnerability
-
-### Modifying loss
-
-
-
-
-
-# NEA stuff
-
-## Spearman's Rank 
-
-In the first sheet, in cell E5, you write:
-`=RANK.AVG(C5,$C$5:$C$24,0)`
-This compares the value of the cell in C5 to those in cells 5 to 24.
-You then go to the bottom right of the cell and drag the dot to cell E24
-This will copy that earlier formula to give the results for each row. This is because we need the results in an ordered format.
-Repeat this for the Cancer rate column (so `=RANK.AVG(D5,$D$5:$D$24,0)`) in column F
-
-Finally, in any other cell, we can use the cool excel CORREL function to just work it out
-`=CORREL(E5:E24,F5:F24)`
-This gets the spearman's correlation for the two sets of data
-
-
-
-# Footnotes
-
-### (Disclaimer) AI-assisted writing
-
-ChatGPT or any other text-based generative transformer model was **not used** to directly write the content here. It's good for clarification of certain topics (and I've used it for that), but **don't get used to it** otherwise you'll lose your creativity.
-
----
-To add later:
-
-[Development of Dubai time-lapse [interactive]](https://earthengine.google.com/timelapse#v=25.15489,55.19748,9.429,latLng&t=0.03&ps=50&bt=19840101&et=20221231)
-
-
-
+Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTU4MTczNzEsMzg2ODc3ODAzLDM4Mz
-EwODMxOCw0ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4
-OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNj
-EyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUy
-NTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMC
-w2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4MDU2MSwzOTg0
-ODcyMTVdfQ==
+eyJoaXN0b3J5IjpbMTU4Njc3NDk1MCwzODY4Nzc4MDMsMzgzMT
+A4MzE4LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4
+LC02OTk5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MT
+IwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1
+NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLD
+Y0Njc3MDQyMCwtOTEyMDExODU1LC0xNzM4MjgwNTYxLDM5ODQ4
+NzIxNV19
 -->
