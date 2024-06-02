@@ -687,7 +687,7 @@ However, there have been changes made in rural and urban neighbourhoods:
 **Urban**
 UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
 - These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
-- This has resulted in
+- This has resulted in there being 1.1 million new grid connections during the intervention.
 
 
 
@@ -704,7 +704,13 @@ The withdrawal has had a dramatic negative effect on the ountry, however, proves
 
 
 ### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
-The DRC is a central African LIDC with an HDI of 0.482. Its capital is Kinshasa. The country 
+The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa. The country has male life expectancies of 59 and female life expectancy of 63. The GDP per capita is just $785 across a country with 101m inhabitants.
+
+Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
+
+Currently MONUSCO - a UN peacekeeping force - are present and there are around 18,000 
+
+- Becoming more stable: first electons in 2019 were peaceful
 
 
 
@@ -718,7 +724,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTk1NTU1OCwtNzQ4NTYyMTIwLDEyMT
+eyJoaXN0b3J5IjpbLTgxOTMyMDAzOSwtNzQ4NTYyMTIwLDEyMT
 Y5NDUwNiwtMTE4OTQ2MjEzMCwtNTgzODY2MTI2LDQ5OTE4MzA3
 OCwtOTc0ODc0ODg3LDczODg5ODMyMiw0OTM1OTA1ODMsMTA2ND
 UxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIsNTk3ODc3Mjgw
