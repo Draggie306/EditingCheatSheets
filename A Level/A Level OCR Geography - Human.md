@@ -619,7 +619,7 @@ India, aside from having th largest population with some amazing people, is a ra
 
 The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
 
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the Safe Cities network and the Safe Delhi Campaign are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
 
 However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
 
@@ -700,7 +700,7 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwNTEyMjkyLC0xMTg5NDYyMTMwLC01OD
+eyJoaXN0b3J5IjpbMTIxNjk0NTA2LC0xMTg5NDYyMTMwLC01OD
 M4NjYxMjYsNDk5MTgzMDc4LC05NzQ4NzQ4ODcsNzM4ODk4MzIy
 LDQ5MzU5MDU4MywxMDY0NTEwNzQ3LC05NTE5NTk4MTQsMTcwNj
 gwNDQ2Miw1OTc4NzcyODAsMjExMTkxOTg1MiwtMTk3NjE3NzAw
