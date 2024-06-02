@@ -413,18 +413,21 @@ The local availability of a resource or natural advantage can encourage the grow
 
 
 ## How do we understand place?
-> a) People see, experience and understand place in different ways, this can also change over time. 
-> b) Places are represented through a variety of contrasting formal and informal agencies.
+> 2.a) People see, experience and understand place in different ways, this can also change over time. 
+> 2.b) Places are represented through a variety of contrasting formal and informal agencies.
 
 ---
+Places are represented differently through formal and informal factors. 
 
 
 ### Place Perception: Uluru and Jerusalem
-
+- Religious and emotional attachment
 
 ### Emotional attachment: The Kurds and Kurdistan
 
+
 ### Globalisation and our sense of place
+Globalisation and time-space compression 
 
 
 ## Economic change and patterns of social inequality
@@ -442,7 +445,9 @@ Social inequality can be measured through various means. In the UK, the IMD is a
 The Gini coefficient is used to measure the inequality of income and thereby deprivation within countries. [Here](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022#:~:text=The%20Gini%20coefficient%20for%20gross,40.0%25%20in%20FYE%202020) is the UK stats on the ONS website.
 
 ### Case study: MIDDLESBROUGH
-Middlesborough is 
+Middlesborough is a region in north-east England. 
+
+A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. Furthermore,  
 
 
 https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
@@ -677,11 +682,11 @@ end of paper 2
 
 good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDIzNTU4Niw3Mzg4OTgzMjIsNDkzNT
-kwNTgzLDEwNjQ1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYy
-LDU5Nzg3NzI4MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzOD
-U0OTIyNywtNzM4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0
-NSwzODg1MjEzOSwyMzQ4NjI1OTIsLTEzMjQ3Nzk4NDQsLTczNz
-IzMDY5NCwxNjg5ODEyNjAsODM3MzQ1ODk0LDQxMzgxNzA5MV19
+eyJoaXN0b3J5IjpbLTk2MjcyNTU1LDczODg5ODMyMiw0OTM1OT
+A1ODMsMTA2NDUxMDc0NywtOTUxOTU5ODE0LDE3MDY4MDQ0NjIs
+NTk3ODc3MjgwLDIxMTE5MTk4NTIsLTE5NzYxNzcwMCwtNTM4NT
+Q5MjI3LC03MzgzMDgwMzUsMjAwMTU0MDc2NSwtNTk3MDI1NjQ1
+LDM4ODUyMTM5LDIzNDg2MjU5MiwtMTMyNDc3OTg0NCwtNzM3Mj
+MwNjk0LDE2ODk4MTI2MCw4MzczNDU4OTQsNDEzODE3MDkxXX0=
 
 -->
