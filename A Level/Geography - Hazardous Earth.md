@@ -39,7 +39,9 @@ The theory of plate tectonics is closely linked with Alfred Wegener's theory of 
 
 ### Paleomagnetism
 Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. 
-When oceanographers mapped seabeds for the first time during WW2, magnetic flips were observed on either side of oceanic divergent boundaries and "seafloor spreading centres". This is because as magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
+When oceanographers mapped seabeds for the first time during WW2, magnetic flips were observed on either side of oceanic divergent boundaries. 
+
+This is because magma, with high iron content from the mantle, is erupted, and then these small iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the width of polarity inversals on either side of the plate boundary on the ocean floor (the variability of the polar inversals changing the widths) - thus proving that  
 
 
 ### Ancient glacial epochs
@@ -231,6 +233,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQwNjk5ODE2LDE4MTU2OTY5OTYsMTAyNz
-QxNjI4OSwyMTgyOTEwNDcsLTE2NzA2NTM3NjNdfQ==
+eyJoaXN0b3J5IjpbMTU5Mjg1NTg0NSwxODE1Njk2OTk2LDEwMj
+c0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
