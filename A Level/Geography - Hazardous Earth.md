@@ -8,7 +8,7 @@ This is effectively asking about how well it is a **source of information about 
 - Not contain essential **information**? This could be the magnitude, focus, people affected by it, why that specific location. If it is a map, why that area? Geology?
 - Have a completely understandable **scale**? Pick out a year/month and can you get a precise reading? Is it going up in regular, precise intervals or random numbers of years?
 - Have a reliable **source**? Is it from the USGS, the UNDRR, the EU?
-- If statistics give, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
+- If statistics given, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
 
 
 ## Structure of the Earth
@@ -220,6 +220,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTQzMjEyNiwxMDI3NDE2Mjg5LDIxOD
+eyJoaXN0b3J5IjpbMTgxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxOD
 I5MTA0NywtMTY3MDY1Mzc2M119
 -->
