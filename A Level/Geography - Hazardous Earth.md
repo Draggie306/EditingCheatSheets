@@ -38,7 +38,8 @@ The theory of plate tectonics is closely linked with Alfred Wegener's theory of 
 ## Reasons for plate movement
 
 ### Paleomagnetism
-Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. When oceanographers mapped seabeds during WW2, magnetic flips were observed on either side of divergent boundaries and seafloor spreading centres. This is because as magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
+Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. 
+When oceanographers mapped seabeds for the first time during WW2, magnetic flips were observed on either side of oceanic divergent boundaries and "seafloor spreading centres". This is because as magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
 
 
 ### Ancient glacial epochs
@@ -52,7 +53,7 @@ Evidence from previous glacial periods when the Pangea supercontinent existed re
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
 
 
-Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that these continents looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
+Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
 
@@ -230,6 +231,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTUxMDI3ODAsMTgxNTY5Njk5NiwxMD
-I3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbMzQwNjk5ODE2LDE4MTU2OTY5OTYsMTAyNz
+QxNjI4OSwyMTgyOTEwNDcsLTE2NzA2NTM3NjNdfQ==
 -->
