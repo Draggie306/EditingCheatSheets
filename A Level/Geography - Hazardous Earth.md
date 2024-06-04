@@ -45,7 +45,8 @@ This is because magma, with high iron content from the mantle, is erupted, and t
 
 
 ### Ancient glacial epochs
-Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest, implying that these places were once in polar regions.  
+Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them (erosional features), have been found by glaciologists in central India, Africa and even in the Amazon Rainforest, implying that these places were once in polar regions.  
+It is unlikely that glaciers will form over oceans due to higher temperatures so land-based glaciers and therefore connected land masses existed.
 
 
 ### Geologic sequences
@@ -55,7 +56,7 @@ Evidence from previous glacial periods when the Pangea supercontinent existed re
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!*
 
 
-Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
+Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
 Aside from the geological evicence, there exists also biological evidence.
@@ -266,8 +267,8 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDA4MzU4NjIsLTEwMjU2NzIzODMsLT
-kwNTU0MjQzNCwtMTUwMTc5NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1
-NTg0NSwxODE1Njk2OTk2LDEwMjc0MTYyODksMjE4MjkxMDQ3LC
-0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMTUyNzMxODQ0MywtMTIwMDgzNTg2MiwtMT
+AyNTY3MjM4MywtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5MTMx
+NDQ5NywxNTkyODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNjI4OS
+wyMTgyOTEwNDcsLTE2NzA2NTM3NjNdfQ==
 -->
