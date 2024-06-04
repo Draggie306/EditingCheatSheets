@@ -100,15 +100,17 @@ At these oceanic ridge crests, landforms which are likely to be visible include 
 
 Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to, releasing kinetic energy. (There is little volcanic activity along transform faults.)
 
+Faster spreading (up to 170mm/yr) will result in broader and smoother mountain chains, with slow spreading (20mm/yr) having much steeper mountains.
+
 > A transform fault is **only the lateral** part of the zig-zag, between ocean ridge crests.
 
 ### Continental-continental
 
-In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land at the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
+In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land "ridge" being "pushed" and the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
 
 Rift valleys can also be found where spreading is occurring at a slower rate, such as the Mid-Atlantic Ridge (North American <--> Eurasian) on land such as Iceland.
 
-
+Faster-spreading 
 
  
 ## Convergent plate boundaries
@@ -169,6 +171,16 @@ Effusive, basaltic eruption causes these as low-length polymerisation of the lav
 
 ### East African Rift Valley
 The African Plate is splitting in two! Land is dropping down due to ridge push and convection. There are also volcanic mountains
+
+
+
+### Cool stuff
+
+Tiltmeters can be used to measure rates of ground deformation. They are visible being installed in this video: https://www.youtube.com/watch?v=_Te1TJrQwW8
+
+Time-lapse video of the growth of a lava dome: https://www.youtube.com/watch?v=h6B1myUKAS4
+
+
 
 # Volcano Case Studies
 - Mitigating the event is a costly method of reducing the effects of an eruption as it is occurring - e.g. ash wall construction and lowering concrete barriers from helicopters in Etna, spraying water on lava to cool and slow it down in Iceland
@@ -254,8 +266,8 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2NzIzODMsLTkwNTU0MjQzNCwtMT
-UwMTc5NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2
-OTk2LDEwMjc0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX
-0=
+eyJoaXN0b3J5IjpbLTEyMDA4MzU4NjIsLTEwMjU2NzIzODMsLT
+kwNTU0MjQzNCwtMTUwMTc5NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1
+NTg0NSwxODE1Njk2OTk2LDEwMjc0MTYyODksMjE4MjkxMDQ3LC
+0xNjcwNjUzNzYzXX0=
 -->
