@@ -60,7 +60,8 @@ Geologic sequeces and the apparent fit of the continents show that regions with 
 ### Fossil evidence
 Aside from the geological evicence, there exists also biological evidence.
 
-
+- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that t
+- *Mesosaurus* was a freshwater reptile that was native to southern Africa. Its remains were also found in South America - implying that there was 
 
 ---
 ```![enter image description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308809199927436/wegener-yeeha-original.gif)
@@ -235,7 +236,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OT
-I4NTU4NDUsMTgxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0
-NywtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbLTc5MzM4OTMyMCwtMTUwMTc5NDc4NSw2OT
+EzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2OTk2LDEwMjc0MTYy
+ODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
