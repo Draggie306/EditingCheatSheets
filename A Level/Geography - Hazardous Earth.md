@@ -58,6 +58,8 @@ Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](htt
 Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
+Aside from the geological evicence, there exists also biological evidence.
+
 
 
 ---
@@ -233,7 +235,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNT
-Y5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2
-M119
+eyJoaXN0b3J5IjpbLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OT
+I4NTU4NDUsMTgxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0
+NywtMTY3MDY1Mzc2M119
 -->
