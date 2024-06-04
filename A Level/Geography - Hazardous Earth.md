@@ -48,7 +48,7 @@ Evidence from previous glacial periods when the Pangea supercontinent existed re
 ### Geologic sequences
 *He noticed that the continents look just like pieces of a broken puzzle...*
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
-*A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4/?utm_source=share&utm_medium=web2x&context=3) to [  
+*A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [  
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
 
 
@@ -64,7 +64,7 @@ Geologic sequeces and the apparent fit of the continents show that regions with 
 ---
 
 
-## Plate Bboundaries
+## Plate Boundaries
 A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
 
 ## Divergent plate boundaries
@@ -230,6 +230,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDYxNjg4MiwxODE1Njk2OTk2LDEwMj
-c0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbLTE2MTUxMDI3ODAsMTgxNTY5Njk5NiwxMD
+I3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2M119
 -->
