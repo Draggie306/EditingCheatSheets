@@ -11,6 +11,10 @@ This is effectively asking about how well it is a **source of information about 
 - If statistics give, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
 
 
+## Structure of the Earth
+
+
+
 ## Theory of Plate Tectonics
 The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected by scientific communities.
 
@@ -216,6 +220,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzQxNjI4OSwyMTgyOTEwNDcsLTE2Nz
-A2NTM3NjNdfQ==
+eyJoaXN0b3J5IjpbMjAxNTQzMjEyNiwxMDI3NDE2Mjg5LDIxOD
+I5MTA0NywtMTY3MDY1Mzc2M119
 -->
