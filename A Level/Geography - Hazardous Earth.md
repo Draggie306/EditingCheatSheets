@@ -65,12 +65,17 @@ Aside from the geological evicence, there exists also biological evidence.
 - *Brachiopods* are marine shellfish found in sedimentary rock bands in Australia and India
 
 
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
+*Map of where Glossopteris fossils have been found.*
 
 > You can see a map of fossils on the Paleobiology Database: https://paleobiodb.org/navigator/
 
+
+
+
 ---
-```![enter image description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308809199927436/wegener-yeeha-original.gif)
-```
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/wegener-yeeha-original.gif)
 
 ---
 
@@ -241,7 +246,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzA4ODU3MSwtMTUwMTc5NDc4NSw2OT
+eyJoaXN0b3J5IjpbLTkwNTU0MjQzNCwtMTUwMTc5NDc4NSw2OT
 EzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2OTk2LDEwMjc0MTYy
 ODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
