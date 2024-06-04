@@ -52,7 +52,7 @@ Evidence from previous glacial periods when the Pangea supercontinent existed re
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
 
 
-Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. When these continents are joined together,
+Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that these continents looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
 
@@ -230,6 +230,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzA5MjM3MywxODE1Njk2OTk2LDEwMj
+eyJoaXN0b3J5IjpbLTIxNDYxNjg4MiwxODE1Njk2OTk2LDEwMj
 c0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
