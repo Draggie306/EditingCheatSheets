@@ -62,7 +62,7 @@ Aside from the geological evicence, there exists also biological evidence.
 
 - *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
 - *Mesosaurus* was a freshwater reptile that was native to southern Africa. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
-- *Brachiopods* are marine shellfish found in sedimentary rock bands in Australia and India
+- *Brachiopods* are marine shellfish found in sedimentary rock bands in Australia and India. Similar types have 
 
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
@@ -246,7 +246,8 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTU0MjQzNCwtMTUwMTc5NDc4NSw2OT
-EzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2OTk2LDEwMjc0MTYy
-ODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbLTExNzUzMjUxOTgsLTkwNTU0MjQzNCwtMT
+UwMTc5NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2
+OTk2LDEwMjc0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX
+0=
 -->
