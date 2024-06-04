@@ -62,16 +62,22 @@ Aside from the geological evicence, there exists also biological evidence.
 
 - *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
 - *Mesosaurus* was a freshwater reptile that was native to southern Africa. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
-- *Brachiopods* are marine shellfish found in sedimentary rock bands in Australia and India. Similar types have 
 
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
 *Map of where Glossopteris fossils have been found.*
 
+On a larger and wider scale:
+- Oil and fossil fuel deposits are found in Antarctic and Tundra regions. These require warm, swamp-like (anaerobic) conditions for fossil fuels to form - these were present along equatorial and regions between the tropics. Thus, the crust must have moved to carry these deposits elsewhere.
+
+
 > You can see a map of fossils on the Paleobiology Database: https://paleobiodb.org/navigator/
 
+### Age of sea floor rocks
 
-
+Because of the sea-floor spreading theory, it was hypothesised that the rocks, contrary to prior belief, would be the youngest in the centre of the oceans (at mid-ocean ridges) and oldest towards the continents - and at subduction zones. 
+The depth of the accumulated sediment on the sea floor was found to increase as distance from spreading centres increased too. Furthermore, rock core data shows that nowhere on Earth is oceanic crust older than 200 million years (in the North-west Pacific) and thus the crust must be continually recycled
+ 
 
 ---
 
@@ -81,6 +87,8 @@ Aside from the geological evicence, there exists also biological evidence.
 
 
 ## Plate Boundaries
+Now that we've determined Alfred Wegener was a brilliant man, let's dive into the mechanisms of the continents.
+
 A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
 
 ## Divergent plate boundaries
@@ -246,7 +254,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzUzMjUxOTgsLTkwNTU0MjQzNCwtMT
+eyJoaXN0b3J5IjpbLTEwMjU2NzIzODMsLTkwNTU0MjQzNCwtMT
 UwMTc5NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2
 OTk2LDEwMjc0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX
 0=
