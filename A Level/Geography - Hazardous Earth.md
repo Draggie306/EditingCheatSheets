@@ -62,7 +62,7 @@ Geologic sequences and the apparent fit of the continents show that regions with
 Aside from the geological evicence, there exists also biological evidence.
 
 - *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
-- *Mesosaurus* was a freshwater reptile that was native to southern Africa. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
+- *Mesosaurus* was a freshwater reptile that was native to southern Africa around 290mya. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
 
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
@@ -267,8 +267,8 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzMxODQ0MywtMTIwMDgzNTg2MiwtMT
-AyNTY3MjM4MywtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5MTMx
-NDQ5NywxNTkyODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNjI4OS
-wyMTgyOTEwNDcsLTE2NzA2NTM3NjNdfQ==
+eyJoaXN0b3J5IjpbNTM2ODg5OTMwLDE1MjczMTg0NDMsLTEyMD
+A4MzU4NjIsLTEwMjU2NzIzODMsLTkwNTU0MjQzNCwtMTUwMTc5
+NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2OTk2LD
+EwMjc0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
