@@ -52,7 +52,7 @@ Evidence from previous glacial periods when the Pangea supercontinent existed re
 *He noticed that the continents look just like pieces of a broken puzzle...*
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
 *A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [  
-Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
+Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!*
 
 
 Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
@@ -233,6 +233,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5Mjg1NTg0NSwxODE1Njk2OTk2LDEwMj
-c0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNT
+Y5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2
+M119
 -->
