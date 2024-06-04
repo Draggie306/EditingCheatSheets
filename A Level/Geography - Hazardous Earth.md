@@ -13,6 +13,17 @@ This is effectively asking about how well it is a **source of information about 
 
 ## Structure of the Earth
 
+### Crust
+
+### Lithosphere
+
+Mohorovicic discontinuity
+
+### Asthenosphere
+
+
+### Mesosphere and below
+
 
 
 ## Theory of Plate Tectonics
@@ -30,19 +41,18 @@ The theory of plate tectonics is closely linked with Alfred Wegener's theory of 
 Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. When oceanographers mapped seabeds during WW2, magnetic flips were observed on either side of divergent boundaries and seafloor spreading centres. This is because as magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
 
 
-### Glacial deposits
-Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest.  
+### Ancient glacial epochs
+Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them, have been found by glaciologists in central India, Africa and even in the Amazon Rainforest, implying that these places were once in polar regions.  
 
 
-### Apparent fit of the continents
+### Geologic sequences
 *He noticed that the continents look just like pieces of a broken puzzle...*
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
 *A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4/?utm_source=share&utm_medium=web2x&context=3) to [  
 Dark North (u/dxrknxrth)](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!
 
 
-### Geologic sequences
-
+Geologic sequeces and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. When these continents are joined together,
 
 ### Fossil evidence
 
@@ -220,6 +230,6 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxOD
-I5MTA0NywtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbMTY1MzA5MjM3MywxODE1Njk2OTk2LDEwMj
+c0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
 -->
