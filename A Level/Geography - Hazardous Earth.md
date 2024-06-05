@@ -164,8 +164,11 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 ### Hotspot volcanoes
 
 
-### Yellowstone supervolcano
+### Supervolcanoes
 
+Includes Yellowstone (USA) and the present-day Lake Toba (Sumatra, Indonesia) caldera, which erupted around 70,000 years ago. The caldera is up to 100km across! 
+
+These are VEI 8 eruptions that erupt so much material that is injected high into the trophosphere and may stay there for decades, with global effects. The Toba eruption theory may have caused a bottleneck in the human population and the global cooling and crop failures that occured reduced humanity to just 10,000 humans.
 
 
 ### Stratovolcanoes
@@ -271,9 +274,9 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY0ODMyODI1LDUzNjg4OTkzMCwxNTI3Mz
-E4NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0
-MzQsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMT
-gxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1
-Mzc2M119
+eyJoaXN0b3J5IjpbMTM4NjUyMzE0NSw1MzY4ODk5MzAsMTUyNz
+MxODQ0MywtMTIwMDgzNTg2MiwtMTAyNTY3MjM4MywtOTA1NTQy
+NDM0LC0xNTAxNzk0Nzg1LDY5MTMxNDQ5NywxNTkyODU1ODQ1LD
+E4MTU2OTY5OTYsMTAyNzQxNjI4OSwyMTgyOTEwNDcsLTE2NzA2
+NTM3NjNdfQ==
 -->
