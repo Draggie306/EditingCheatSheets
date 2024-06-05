@@ -147,7 +147,7 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 | Explosive eruptions | Effusive eruptions |
 |--|--|
 | Typically forms at converging boundaries | Typically forms at diverging boundaries or hotspots |
- | Formed as a result of subduction | Formed from a deep mantle plume, or from ridge pull |
+ | Formed as a result of subduction | Formed from a deep mantle plume, or from ridge push |
 | Temperatures cooler, at around 750 | Hot temperatures at 1000+ degrees |
 | Sticky, viscous magma | Runny, low viscosity magma |
 | Acidic | Less acidic |
@@ -160,9 +160,13 @@ To simplify the remembrance of the formation and type of magma, have a look at t
 
 ### Intrusive volcanicity
 
+
 ### Hotspot volcanoes
 
+
 ### Yellowstone supervolcano
+
+
 
 ### Stratovolcanoes
 Cone-shaped formed by explosive extrusive volcanicity. Due to high viscosity, typically near a converging boundary, caused by long-length silica-rich acidic polymers due to the mixture of hot asthenospheric material and subducted plate debris which contains H~2~O, gases and other material from the ocean floor. This results in more gases developing, rising upwards and mixed in viscous, relatively cool (~600-800 degrees C) rhyolitic magma chambers. The explosive eruptions occur when the magma pushed by gases reaches the surface. The high viscosity causes the lava to not travel long distances. Over time, ash and lava will solidify in strata, building up around the central volcanic funnel causing the characteristic dome shape. 
@@ -267,8 +271,9 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2ODg5OTMwLDE1MjczMTg0NDMsLTEyMD
-A4MzU4NjIsLTEwMjU2NzIzODMsLTkwNTU0MjQzNCwtMTUwMTc5
-NDc4NSw2OTEzMTQ0OTcsMTU5Mjg1NTg0NSwxODE1Njk2OTk2LD
-EwMjc0MTYyODksMjE4MjkxMDQ3LC0xNjcwNjUzNzYzXX0=
+eyJoaXN0b3J5IjpbMjY0ODMyODI1LDUzNjg4OTkzMCwxNTI3Mz
+E4NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0
+MzQsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMT
+gxNTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1
+Mzc2M119
 -->
