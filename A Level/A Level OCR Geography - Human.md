@@ -1,34 +1,34 @@
 
   
 
-[< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+[< Back to A evel Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
 
 # A Level HUMAN Geography (Paper 2)
 
 please let me know if there are any errors :)
 
-[Latest update: 01/06/2024 22:31. 
-Last content addition: 01/06/2024 22:31.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 011/65/20 6. 
+Last content addition: /06/202422:56.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+
+Use a PC/device with a large screen to see the Table of Contents on the left-hand side to quickly navigate through this document.
 
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
-# 2.2.2 Global Systems – Migration
+# [TBD] 2.2.2 Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
-### Definitions
-A migrant, according to the UN definition, is someone living outside their country of origin for at least a year.
+#
+## DefiniContemporary patterns of migrations
+
+ the UN definition, is someone living outside their country of origin for at least a year.
 
 **Interdependence -** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
 
 **Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
 
-**Economic migrants** are those who migrate just for monetary gain, and no other reasons. They may send money back. They may also bring dependents.
-
-
-## Contemporary patterns of migration
-
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons. They may send money back. They may also bring depen## tion
 Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
 
 Migration is significant, and worldwide! In 2020, 291 million people were living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
@@ -41,11 +41,11 @@ Intraregional migration is migration that occurs within a region, for example, t
 
 #### The Poles are coming!!
 
-Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
+Prior to Brexit, a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
 
 The accession of Poland, and other A8 eastern European countries in 2004 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour.
 
-There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
+There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, theatural, t overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
 
 Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
 
@@ -62,7 +62,15 @@ A range of reasons are contributing to this growth.
 
 Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - the lowest of all groups, natives included.
 
-## Consequences of migration
+##
+
+
+### Inter-regional migration
+There is more and more inter-regional migration occurring globally, with the increasing 
+
+
+
+## [tbd] Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
 
 Flows of people through migration is intrinsically linked to flows of money, culture, knowledge and ideas. 
@@ -207,7 +215,7 @@ U.S. Companies are expected to invst 40bn in Mexico throughout 2024. This create
 There is increasing environmental political cooperation and interdependence with Mexico through the joint management of the Colorado river basin (that supports 40m people) and increasing collaboration regarding the fighting of illegal crossings, and drug and people trafficking at the border. USAID also invest in governmental projects to reduce deforestation by 2030 and promote natural climate solutions and energy efficiency.
 
 #### Opportunities
-- 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
+- 3/4 of Indians and over half of the Chinese immgrants re "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
 - Most immigrants are young and of working age. The largest age bracket of Indians is 30-34 and for Mexicans this is 40-44, boosting the tax base, allowing for gaps in the labour market to be filled and sustains natives' demand to be in higher paying, tertiary sector jobs. Over 45% of Mexicans were in primary or secondary-sector jobs (just think about how many people that is!!)
 - Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the occupation of old, industrial inner cities now occupied by migrants who redevelop the area.
 
@@ -226,11 +234,33 @@ Laos is an LIDC with very limited influence over the global migratory system.
 
 Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
 
-72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day - and young people are "lucky to get a few years' education". Naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
+72% work in subsistence agriculture, and, with 1 in 3 below the age of 15 (age of majority). There is very much an expectation that children will contribute to the family life by working in agriculture day-by-day - and young people are "lucky to get a few years' education". N
+
+#### Growth
+
+
+#### Investment
+
+
+
+
+
+
+# [TBD] 2.1 – Changing Spaces; Making Places
+
+## What’s in a place?
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+
+**Content:**
+
+Case studies of two contrasting place profiles at a local scale, including: 
+- their demographic, socio-economic, cultural, political, built and natural characteristics that shape their place identity. 
+- their past and present connections that shape the place identity and embed them in regional, national, international and global scales 
+- how shifting flows of people (such as commuter, migration), resources (such as naturally, this means that poverty rates are high, with 22% below the absolute poverty threshold. 
 
 The only solution to this for residents it to migrate. The border with Thailand is porous, with brokers in Laos and Vientiane that aid the transfer of people. The reasons for this is clear: Thailand is a rapidly growing economy with a HDI of 0.802, creating a skills shortage and gap in the job market, especially primary sectors. The minimum wage is 300 baht, vs just 80 baht in Laos, meaning people can obtain 4x more money just by moving across the Mekong River - which is well-connected with several Thailao friendship bridges (to Vientiane). This, combined with the language, culture and hetitage similarities, result in Thailand having 960,000 Laotian immigrants, Laos having a diaspora of 1.29 million overseas and a net migration rate of -1.1 per 1000 per year.
 
-Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International with the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but there is little evidenceof its success.
+Migration policies in Laos are ineffective. Human trafficking is very common - **between 200,000 and 450,000 annually** in the Greater Mekong area - seen through the trafficking of underage footballers to Laos in 2015 and the border with China referred to as the "millionaire's playground" and associated "maid trade" out of the country. The ASEAN bloc has relatively free movement of individuals and special agreements for skilled labour including dentists, tourism and agriculture have been made, but this is unincentivising for the majority who lack passports and visas. A lack of credentials makes return more difficult too. To combat this and the **problem of bribery and corruption of border officials** by human traffickers, the Laotian government is collaborating with varios NGOs like Save the Children and CARE International wil the "3P Plan" - prevention, protection and prosecution. In 2017 the largest crackdown and initiatives to ensure victims do not become victimised again were established but there is little evidenceof its success.
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
 
@@ -239,7 +269,7 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 #### Opportunities
 - Laos has received FDI from Vietnam in over 400 investment projects
 - Remittances over time should contribute to a multiplier effect as seen in other LIDCs
-- High-speed rail will allow more development internally and greater movement of people between China, Vietnam, and Thailand. As Laos is very central it has a special relationship over this
+- High-speed rail will allow more development internally and greater movement o people between China, Vietnam, and Thailand. As Laos is very central it has a special relationship over this
 - Political stability is increasingly good in this area
 - The ASEAN migration corridor stimulates economic activities with trade and development.
 
@@ -253,7 +283,8 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 # 2.1 – Changing Spaces; Making Places
 
 ## What’s in a place?
-> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections whicchnology), money and investment (such as EU funding, TNCs) and ideas (such as knowledge economy) have helped shape the demographic, socio-economic and cultural profile of these places over time.
+---
 
 A **place** can be described as a location created by human experiences. 
 A **space**, on the other hand, has no added social connections or added perceived values. 
@@ -405,6 +436,7 @@ At the heart of it, people are what turn a space into a multifaceted place. The 
 The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
 
 
+
 ## How do we understand place?
 > 2.a) People see, experience and understand place in different ways, this can also change over time. 
 > 2.b) Places are represented through a variety of contrasting formal and informal agencies.
@@ -418,6 +450,9 @@ Places are represented differently through formal and informal factors.
 #### Place Perception: Uluru and Jerusalem
 - Religious and emotional attachment.
 - 
+
+### Place Perception: Uluru and Jerusalem
+
 
 #### Emotional attachment: The Kurds and Kurdistan
 
@@ -463,6 +498,11 @@ Hart and the town of Fleet within are the least deprived LA and LSOA in England,
  - Average life expectancies are 2-4 years higher than the national avg.  
 - Fleet's average household income is £52,000 - over double that of Middlesbrough.
 
+https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
+
+### Case study: HART, HAMPSHIRE
+
+
 
 ## Players that impact on economic change
 > 4.a. Places are influenced by a range of players operating at different scales.
@@ -504,7 +544,7 @@ The 1900s saw yet more opportunities. The Austin car plant brought car and vehic
 #### War and post-war decline
 Artillery, aircraft and weaponry were understandably prioritised during the Second World War. Unemployment remained low but the population, like all towns and cities, shrunk from 1.2m to 1m. 
 
-The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contemporary living spaces.
+The war also left its mark on the infrastructure. The Birmingham Blitz destroyed over 12,000 homes. LA realised 110k homes were sub-standard and began mass demolishment and replaced them with 400 modern tower blocks and 81,000 new homes. Increased QoL with more contemporary living spacesspace and more modern.
 
 By 1970s:
 - The British vehicle industry had been in decline for 20 years. Preference for Japanese models, cheaper costs w/global shift and globalisation and demand for these cars favoured them vs British makes
@@ -723,13 +763,56 @@ Congolese
 ---
 end of paper 2
 
-good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)
+good luck in Paper 3! Hazards are my favourite <3 (sorry drumlins)their prior growth and prosperity - other areas that needed this even more were prioritised. (negative feedback?) 
+
+#### Modern-day Birmingham
+A large number of migrants from the Indian subcontinent was recorded in the 1991 census. 25% were now non-British, largely driven by the increase in tertiary sector work and 3D jobs. By 2011, this had increased to 49%.
+
+The national government's grant scheme to encourage FDI was not used in Birmingham, due to other areas of the UK, notably the northeast, that had undergone even more significant deindustrialisation being prioritised. This lack of investment further decreased prospertity and exacerbated inequalities by not providing the still large secondary sector with opportunities to work
+
+EU Social Investment fund helped to regenerate areas of the city with £450m investment in changing social housing. Some of this has been matched post-Brexit but this is essential for low-income families.
+
+Over 50,000 students are present in the 5 city universities. They work, and spend time and money in the area, kickstarting a positive multiplier effect.
+
+
+Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
+
+## Placemaking processes
+> 5.a. Place is produced in a variety of ways at different scales.
+5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
+5.c. Making a successful place requires planning and design.
+
+Placemaking is the process of transforming public spaces into places that work for people.
+
+Successful placemaking requires efforts from all scales of players. Community intervention and consultation, local councils, planners, architects, community groups, and NGOs are just some of the stakeholders involved. These players should all take into consideration an area's heritage, culture, creativity, green spaces and more in attempting to make a better place.
+
+#### Hulme Crescents
+Built as Europe's largest social housing development in 1972 in Manchester, poor architecture and planning resulted in several practicality and construction failures and oversights. The over 3,200 deck access properties were unpoliced, and crime was high. Thick concrete led to a sense of isolation, a child fell and died from a balcony, heating was expensive, vermin infested the decks, and became abandoned by the council in 12 years. 22 years after construction, they were demolished fully.
+
+They were replaced by more traditional apartments that were safe for families, with a central park, with semi-detached and terraced housing that was of high quality and low-rise. There was a focus on personal mobility, without the need to travel up several flights of stairs in the prior 
+
+
+### Case study: Dubai's transformation
+
+From fishing village to diverse economic powerhouse.
+
+After realising that oil would not be an unlimited resource, the Sheikh 
+
+
+
+
+
+
+
+
+---
+end of paper 2
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTkxOTgzNTgsLTc0ODU2MjEyMCwxMj
-E2OTQ1MDYsLTExODk0NjIxMzAsLTU4Mzg2NjEyNiw0OTkxODMw
-NzgsLTk3NDg3NDg4Nyw3Mzg4OTgzMjIsNDkzNTkwNTgzLDEwNj
-Q1MTA3NDcsLTk1MTk1OTgxNCwxNzA2ODA0NDYyLDU5Nzg3NzI4
-MCwyMTExOTE5ODUyLC0xOTc2MTc3MDAsLTUzODU0OTIyNywtNz
-M4MzA4MDM1LDIwMDE1NDA3NjUsLTU5NzAyNTY0NSwzODg1MjEz
-OV19
+eyJoaXN0b3J5IjpbNzczNzE1NjA3LC03NDg1NjIxMjAsMTIxNj
+k0NTA2LC0xMTg5NDYyMTMwLC01ODM4NjYxMjYsNDk5MTgzMDc4
+LC05NzQ4NzQ4ODcsNzM4ODk4MzIyLDQ5MzU5MDU4MywxMDY0NT
+EwNzQ3LC05NTE5NTk4MTQsMTcwNjgwNDQ2Miw1OTc4NzcyODAs
+MjExMTkxOTg1MiwtMTk3NjE3NzAwLC01Mzg1NDkyMjcsLTczOD
+MwODAzNSwyMDAxNTQwNzY1LC01OTcwMjU2NDUsMzg4NTIxMzld
+fQ==
 -->
