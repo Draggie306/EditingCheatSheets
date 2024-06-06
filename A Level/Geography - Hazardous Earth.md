@@ -244,7 +244,9 @@ It is worth noting that the DRC is in an area of conflict.
 
 Lake Nyos was the site of a limnic eruption in 1986 in the north-east of Cameroon, another LIDC. 
 
-CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Line (a series of inter-plate volcanoes) potentially a result of hotspot/mante plume volcanism built up below the lake under pressure from the water above. Eventually, this was disturbed, most likely as a result of a landslide or rockfall, and the gas was then able to rise to the surface.  
+CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Line (a series of inter-plate volcanoes) potentially a result of hotspot/mante plume volcanism built up below the lake under pressure from the water above. Eventually, this was disturbed, most likely as a result of a landslide or rockfall, and the gas was then able to rise to the surface. 
+
+808 million cubic metres of CO2 was outgassed  
 
 
 ## Case study: Mount Merapi, Indonesia
@@ -285,9 +287,10 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0OTkzNjEyMCwtMTM1MDMwMzQ1NywxMz
-g2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4NDQzLC0xMjAwODM1
-ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0MzQsLTE1MDE3OTQ3OD
-UsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNTY5Njk5NiwxMDI3
-NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2M119
+eyJoaXN0b3J5IjpbLTE1NTEzMjY3ODEsLTM0OTkzNjEyMCwtMT
+M1MDMwMzQ1NywxMzg2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4
+NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0Mz
+QsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgx
+NTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mz
+c2M119
 -->
