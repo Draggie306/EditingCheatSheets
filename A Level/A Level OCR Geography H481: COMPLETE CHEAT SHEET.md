@@ -9,10 +9,14 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 15/05/2024 23:28
-Last content addition: 15/05/2024 23:28](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 15/5/2024 81:43
+Last content addition: 15/5/2024 81:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may--- 
+### Notice 12/05/2024
+Please note that if you have used this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*document before the most recent change, a variety of changes have been made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to be rewritten because of this.
+
+---
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
@@ -39,7 +43,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 > 1.a. Glaciated landscapes can be viewed as systems.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
-*Valley glacier photo by [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
+*Valley glacier photo  [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
 
 There are 3 main parts to any system: **inputs**, **processes** and **outputs**. 
 
@@ -138,8 +142,13 @@ Some types of limestone, like carboniferous limestone, have many interconnected 
 > **Primary permeability** is when spaces (pores) absorb and retain water.
 
 #### Relief and aspect
-These have an impact on the the **microclimate**. This is a small region with its own distinct climatic chawalls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
-An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
+These have an impact on the the **microclimate**. This is a small region with its own distinct climatic chaTypes of glacier and movement
+> (Date studied: ~29/09/2022)
+
+An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
+A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
+A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
+An **ice cap**  a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
 
 
 Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
@@ -160,7 +169,12 @@ Fundamentally, glaciers move because of gravity. The gradient influences the eff
 Valley glaciers usally or   altitude ain, th high relief, hae as rates o lo at ear mostly warmae and hve istict ares of blation and accumulation, descending from mountains.
 
 Ice sheets, however, are large msss f snow and ice ine  in grate than  km n are say inoctins o il latite and have slow rates o moement and ly aroun ear ostl coldased. he ase of te glacie s froen  he edroc and has a ittle pecipitation bu also oer temperates so alaton l are loer .
-**Cold-based (polar) glaciers:**
+**Cold-based (polar) glaciers:**s of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
+
+
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of te ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+
+Cold-based (polar) glaciers:
 - have a slow rate of movement (<5m/year);
 - are located in extreme latitude (polar) regions;
 - are generally flat;
@@ -178,7 +192,7 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 
 > Ice at 0°C deforms 100 times faster than at -20°C. Thus, the movement within cold-based glaciers is limited by there being a lack of lubricant, and the cold temperatures inhibiting internal deformation to a very slow rate.
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
+![e](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
 
 ### Factors affecting the microclimate 
@@ -204,7 +218,7 @@ Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the 
 Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
 
 
-## How are lacial landscapes developed?
+## How are glacial landscapes developed?
 Glacial landforms are typically classified according to erosional and depositional processes. This development can be described as a series of interrelated processes.
 
 ## Glacial erosional landforms
@@ -221,7 +235,7 @@ A corrie is an armchair-shaped depression in a mountain. Also known as a *cwm* o
 
 This virgin snow is known as *névé*, which becomes *firn* after one complete cycle without melting (i.e. surviving a summer ablation period; of 1 year).
 
-This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from te ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slipping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
+This newly-formed hollow, deepened by **nivation** (e.g. freeze-thaw processes) from the ice, then begins to move because of gravity acting upon the ice mass. The ice freezes to the back wall, plucking material (debris), which is then washed out through a process known as **rotational slipping**.  Over multiple years, the snow at the bottom is compressed into ice, and the material plucked or that has fallen into the **bergschrund crevasse** is used by the ice to abrade and further deepen the hollow. Comparatively, the ice at the front of the corrie may be much thinner and therefore has lower pressure and is less abrasive, creating a rock lip, supplemented by washed out *moraine* from previously plucked material.
 
 When this ice melts or the area is deglaciated, a *tarn* (or corrie lake) is created, enclosed by the rock lip. Material may then continue to fall down from the back wall due to continued weathering, combined with aspect and steep relief, known as **scree**.
 
@@ -241,12 +255,12 @@ An arête is a knife-shaped, narrow ridge formed when two corries' back walls co
 
 A pyramidal peak is a high mountain whose surroundings have been eroded as corries. Three or more corries eroding back-to-back (similarly to how arêtes form) result in this sharp peak forming. There are typically distinct aretes visible all the way up to the peak, representing the boundary between corries. 
 
-![eeer iage desition ](https://cheatsheet-assets.ibaguette.com/alevel/geography/Matterhorn.jpg)
+![eeer iage desition nter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Matterhorn.jpg)
 *The Matterhorn in the European Alps. It is a great example of a pyramidal peak.*
 
 ### U-shaped valleys
 
-Also known as a ***glacial trough***, a U-shaped valley is formed as a result of strongly channelled ice, **bulldozing** its way through a valley. On the valley's sides, plucking occurs, causine sides to steepen. This rocky material is then dragged by the glacier helping it to carve out more of the landscape. 
+Also known as a ***glacial trough***, a U-shaped valley is formed as a result of strongly channelled ice, **bulldozing** its way through a valley. On the valley's sides, plucking occurs, causing the sides to steepen. This rocky material is then dragged by the glacier, helping it to carve out more of the landscape. 
 
 > The actual shape of most U-shaped valleys is **parabolic**.
 
@@ -255,11 +269,11 @@ Firstly, before a glacial period, a V-shaped valley exists, having moderately st
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/C186FA7B-7B73-41FC-8572-925D09410A4F.png)
 *How a V-shaped valley is formed. Remember this from GCSE? (if not, recap yourself on the GCSE cheat sheet!*
 
-When an ice mass has formed in the valley or flowed from an upland area, freeze-thaw weathering begins to occur above the glacier line (where this ice mass is), causing the valley to steepen, in the same way as a corrie steepens its back wall. The glacier itself also causes plucking, mostly on the sides, as rocks are frozen and ripped as the glacier moves. Vertical abrasion also deepens the valley floor as subglacial material comes into contact with the bedrock.
+When an ice mass has formed in the valley or low from an upland area, freeze-thaw weathering begins to occur above the glacier line (where this ice mass is), causing the valley to steepen, in the same way as a corrie steepens its back wall. The glacier itself also causes plucking, mostly on the sides, as rocks are frozen and ripped as the glacier moves. Vertical abrasion also deepens the valley floor as subglacial material comes into contact with the bedrock.
 
 ### Hanging valley
 
-Hanging valleys with waterfalls and truncated spurs are a feature of the U-shaped alley landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging alley's  lacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
+Hanging valleys with waterfalls and truncated spurs are a feature of the U-shaped alle landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging all  lacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Hanging-Valley.jpg) 
 *Photo from [Peter Hammer](https://unsplash.com/@peterham?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
@@ -270,24 +284,50 @@ After deglaciation, there may be some (iconic) water features in these glacial t
 
 #### Ribbon lake
 
-Glaciers ero the valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to havee from an area of high incline to a more expansive area   a the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilled with water after a glacier retreats. More detail over aieted to swatullswattecacvt t td he Li District case study section.
+Glaciers ero te valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to havee from area of high incline to a more expansive area   a the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilled with water after a glacier retreats. More detail over aieted to swatullswattecacvt t td he Li District case study section.
 
 #### Misfit stream
 
 A ribbon lake  well as a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x0)
+*Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet). Roche moutonnées
+
+A roche moutonnée is a more rebstant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
+
+As td to ster  forced up and  oer the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock and giving it a craggy appearance.
+
+Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformaton.
+
+![enr iage destion valley landform. They are visible within th glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging valley's glacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
+
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Hanging-Valley.jpg) 
+*Photo from [Peter Hammer](https://unsplash.com/@peterham?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
+
+
+### Water features
+After deglaciation, there may be some (iconic) water features in these glacial troughs.
+
+#### Ribbon lake
+
+Glaciers erode the valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to have come from an area of high incline to a more expansive area. This means that the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilled with water after a glacier retreats. More detail over at [Ullswater ](#ullswater) in the Lake District case study section.
+
+#### Misfit stream
+
+A ribbon lake as well as a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
+
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x670)
 *Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
 
 ### Roche moutonnées
 
-A roche moutonnée is a more rebstant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
+A roche moutonnée is a more resistant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
 
-As this meltwater is forced up and  oer the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock and giving it a craggy appearance.
+As this meltwater is forced up and over the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock and giving it a craggy appearance.
 
-Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformaton.
+Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
-![enr iage destion ](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
+![eenr iage desition ](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
 *Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
 
 The word is French with "roche" meaning rock and "moutonée" meaning sheep.
@@ -463,7 +503,7 @@ The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some p
 The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometeres high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were eroded; now Eagle Mountain, the highest, is only 701m high. Part of Lake Superior and other Arrowhead region lakes were deeply eroded thanks to their weaker geologies. 
-
+ 
 
 As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred as the moraine was overtopped, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. With the water came deposition: large swathes of fertile silt and soil deposits have been left behind in the valley, likely from the Big Stone Moraine. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation! [simplified]
 
@@ -550,19 +590,19 @@ A kame is an irregularly shaped hill, hummock or mound made of stratified glacia
 
 There are two types of kame:
 #### Delta kames
-Delta kames can form in two main ways. Firstly, they can form due to the build-up of debris in **englacial tunnels** or crevasses that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
+Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** or crevasses that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
 
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
 #### Kame terraces
-Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice-marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor. 
+Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice- marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor. 
 
 
 > Watch out! Many people say 'kame' when they mean 'esker'! You need to know the differences between the two well. (main one is eskers are subglacial, kames are not)
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/FluvioglacialDuring.jpg)
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/FluvioglacialAfter.jpg)
-*This displays between kame and esker.*
+*This displays the distinction between kame and esker.*
 
 As climate change increases temperature levels, more meltwater is present, which transports and deposits sediment. This will result in a larger amount of all types of kame being more likely to form.
 Here is an example of an esker on Google Maps: [https://www.google.com/maps/cheatsheet-esker-link](https://www.google.com/maps/@64.0543235,-16.3193597,405m/data=!3m1!1e3?hl=en)
@@ -1475,7 +1515,20 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 
 
-# Paper 3 - Geographical Debates
+# Paper 3 - Geographical Debates# [tbd] Earth's Life Support Systems
+
+> This information will be coming soon! Message me if you want it early
+
+Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
+
+## Water
+Water is a fundamental part of life on Earth. Without it, we may not exist. This is so much so that liquid water is believed to be one of the key ingredience for life, alongside chemistry and energy. Water allows elements to become more complex, sustaining multicellular organisms' growth and complexity. 
+
+Water makes up 70% of the human body, and up to 99% in some species of flora and fauna. Water vapour is also the most potent greenhouse gas, beating methane and CO~2~.  Long-wave solar radiation is absorbed by these water particles, increasing global mean temperatures by 15 degrees C. Oceans also contribute to this temperature modification: it takes about 4x more energy to warm water than it does to heat air. In this sense, oceans act as both a carbon and energy sink, with gradual releases of this over time. In addition to this, clouds reflect ~21% of all incoming solar radiation, and these are again made of water droplets and ice crystals. White land, such as the glacial ice sheets in Antarctica and Greenland also reflect back hige wuantities of solar energy.
+
+## The Hydrological Cycle
+
+
 # [TBD] Disease Dilemmas 
 
 Last update: 15/01/2024 22:38
@@ -1731,7 +1784,7 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 
-# 2.2.2 Global Systems – Migration
+# [TBD] 2.2.2 Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
@@ -1780,7 +1833,22 @@ A range of reasons are contributing to this growth.
 
 Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - the lowest of all groups, natives included.
 
-## Consequences of migration
+##
+A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
+
+**Interdependence** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
+
+**Globalisation** is the growing integration and interdependence between peoples' lives economically, politically and environmentally.
+
+**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
+
+Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
+
+Migration on a global scale is significant. In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
+
+> Global migration involves dynamic flows of people between countries, regions and continents
+
+## [tbd] Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
 
 Flows of people through migration is intrinsically linked to flows of money, culture, knowledge and ideas. 
@@ -1974,7 +2042,28 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
 
 A **place** can be described as a location created by human experiences. 
-A **space**, on the other hand, has no added social connections or added perceived values. 
+A **space****Stability**
+
+
+### Intra-regional migration
+Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
+
+
+# [TBD] 2.1 – Changing Spaces; Making Places
+
+## What's in a place?
+> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
+
+**Content:**
+
+Case studies of two contrasting place profiles at a local scale, including: 
+- their demographic, socio-economic, cultural, political, built and natural characteristics that shape their place identity. 
+- their past and present connections that shape the place identity and embed them in regional, national, international and global scales 
+- how shifting flows of people (such as commuter, migration), resources (such as natural, technology), money and investment (such as EU funding, TNCs) and ideas (such as knowledge economy) have helped shape the demographic, socio-economic and cultural profile of these places over time.
+---
+
+A place can be described as a location created by human experiences. 
+A space, on the other hand, has no added social connections or added perceived values. 
 
 For example, a car parking space at a shopping market has no value to you. It's just a one time location which you leave your car at. However, a parking place at your work may have your name on it, it may be valued by yourself and there may be some memories associated with it, such as tripping over or talking to someone there.
 
@@ -2019,7 +2108,7 @@ May 2022 Council Election Results. Turnout **35.3%**
 
 
 #### Built Environment
-Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise.
+Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise. The 
 
 The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
 
@@ -2044,10 +2133,12 @@ Mancroft is categorised as a built-up area alongside most of Norwich by the ONS.
 
 Furthermore, the average income is £32,000, showing that there are many professional jobs being occupied. This means that there is a reasonable amount of disposable income for residents to spend on facilities and more recreational activities, such as supporting local cafes which tend to be at a higher price. 
 
-The majority of homes have 3-4 rooms (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
+The majority of homes have 3-4 rooms, (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
 
 These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
 
+
+**Summary:**
 Overall, Mancroft is a built-up area with a high population density, suggesting that it contains a large amount of flats and buildings in close proximity. The population is diverse, with 11.07% of the ward being retired, 866 students, 5,353 economically active people aged between 16 and 74, and 2,466 people economically inactive. The majority of homes have 3 or 4 rooms, with an average of 2.51 people per household, suggesting that the area is mainly occupied by single people or very small families. This data implies that Mancroft is a roughly working to lower middle-class area (also inferred by its political affiliation) with many workers living in smaller houses, and families would then go on to move away from this area in the city centre with increased affluency and more likely to be middle-class.
 
 ### Case study: Place Profile - Sheringham North Ward, North Norfolk
@@ -2067,7 +2158,7 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
 #### Built Environment
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, as well as typically costing more to use than bricks and also looking good on postcards!
 
 
 #### History
@@ -2101,7 +2192,10 @@ Sheringham has a much older demographic with an average age of 51 years compared
 -->
 
 
-### Shifting flows of money, investment and ideas
+### Shifting flows of money, investment and ideas[Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
+
+
+### Shifting flows of money, investment and ideas on place identity
 
 Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
 
@@ -2148,9 +2242,49 @@ The "global village" means that there are now global communties where people can
 
 Places in ACs may be characterised by less pollution, fewer unskilled labour with the decline of industry. However, large factories may remain, increasing crime and leaching from contaminated factories may give places a unique identity. Theses previously exotic countries - most likely LIDCs - may receive the other end, with increased contamination, rapid rural-urban migration fuelling slum settlements, and exploitative employers leaving a negative perception of the place amongst its own residents.
 
-Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.
+Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.It was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
+
+Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. 
+
+There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a quaternary knowledge economy, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
+
+Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
+
+### Shifting flows of people
+At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
+
+The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it thanks to globalisation leading to the replacement of local resources. Ocean going ships have grown significantly in size and can no longer fit up the River Yare so the riverside docklands fell into decline, much like the London Docklands.
+
+
+
+## How do we understand place?
+
+> a) People see, experience and understand place in different ways, this can also change over time. 
+b) Places are represented through a variety of contrasting formal and informal agencies.
+
+**Content A:**
+- The complexities that exist when trying to define place, including the concept of space versus place. 
+- How and why people perceive places in different ways based on their identity, including age, gender, sexuality, religion and role. 
+- How level of emotional attachment to place can influence people's behaviour and activities in a place.
+- How the processes of globalisation and time-space compression can influence our sense of place.
+
+**Content B:**
+- How informal representations of a place differ through contrasting media such as TV, film, music, art, photography, literature, graffiti and blogs. 
+- Identify how formal and statistical representations of a place, such as census and geospatial data, contrasts with informal representations.
+
+---
+
+
+### Place Perception: Uluru and Jerusalem
+
+
+### Emotional attachment: The Kurds and Kurdistan
+
+### Globalisation and our sense of place
+
 
 ## Economic change and patterns of social inequality
+
 > 3.a. The distribution of resources, wealth and opportunities are not evenly spread within and between places.
 > 3.b. Processes of economic change can create opportunities for some while creating and exacerbating social inequality for others.
 > 3.c. Social inequality impacts people and places in different ways.
@@ -2336,144 +2470,13 @@ India, aside from having th largest population with some amazing people, is a ra
 
 The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
 
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
-
-However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
-
-Due to legislation changes, there is some societal change being made in the country. Companies which arguably have great influence on societal changes are forced to abide by the laws, and through corporate responsibility, these ideas may trickle down over time from the legislature to civilians. 
-
-- 52% women believe that it is acceptable for men to beat their wife
-- 63% of Delhi's women fear of going out at night
-- Only 1% of Delhi's residents say they never worry if a female member of the household at any time
-
-[Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
-
-> "Dalits" - lowest form of caste
-
-## Strategies for global governance
-Human rights violations can be a cause and consequence of conflict. Conflict can be caused by:
-- the denial of basic needs including food, water, housing, education and employment (over long time scales)
-- discrimination - within a society, through political exclusion and injustices
-- lack of free and fair democratic systems
-- oppressive or corrput governments that do not respect all groups
-- genocide, ethnic cleansing and torture
-
-Confict itself may cause futher human rights violations.
-- deaths and injuries in men, women and children both combattants and civilians in zones of conflict
-- lack of access to food, water and basic resources through damaged infrastructure
-- provocation of internal and intenational migration and conditions of refugees and asylum seekers
-- abuse of power by militants on women and children
-- more genocide, ethnic cleansing and torture 
-
-
-### Flows and geopolitical intervention
-People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
-
-Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and futher abuses.
-
-Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
-
-Since invasion, NATO has spent over US $2.13tn on Afghanistan (see below), most of which has gone to military expenses. 
-
-### Promotion and protection
-
-- The United Nations has various obligations in its charter. 
-
-### Case study: AFGHANISTAN, an area of conflict
-Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
-
-There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). Food insecurity was also widespread: 
-
-87% of women even during intervention in 2018 were still subject to any type of violence.
-
-
-> Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
-
-#### Consequences
-War and conflict is the most obvious direct result of intervention. 
-
-- 45k Nato-trained Afghan security forces dead
-- 38k civilian casualties
-
-However, there have been changes made in rural and urban neighbourhoods: 
-
-**Rural**
-- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
-- UNDP: rural uphold of local demoracy and developments in regional councils to request funding
-- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teeaching about agriculture, increasing resilience, employment and incomes
-
-**Urban**
-UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
-- These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
-- This has resulted in there being 1.1 million new grid connections during the intervention.
-
-
-
-
- 
-
-#### Withdrawal?
-
-The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
-
-
-
-## Intervention and development
-
-
-### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
-The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa. The country has male life expectancies of 59 and female life expectancy of 63. The GDP per capita is just $785 across a country with 101m inhabitants.
-
-Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
-
-Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fagile DRC.
-
-- Becoming more stable: first electons in 2019 were peaceful
--  CARE International, Action Aid and the World Bank are working to improve access across the country to education and healthcare services (half of young women are illiterate). 
-
-
-<!-- Editor To do: More here! -->
-
-Congolese
-
----
-
-# [tbd] Hazardous Earth
-
-## 3-marker limitation questions
-To answer these questions, firstly understand what the question is asking. For example:
-> "Identify three limitations of Fig. 5 (graph) as a source of information about earthquakes occurring in Iran."
-
-This is effectively asking about how well it is a **source of information about earthquakes**. Therefore your answer must be about earthquake information and that's it. Therefore, you should consider the properties of earthquakes, their effects, responses and more. For example, does the figure:
-- Not contain essential **information**? This could be the magnitude, focus, people affected by it, why that specific location. If it is a map, why that area? Geology?
-- Have a completely understandable **scale**? Pick out a year/month and can you get a precise reading? Is it going up in regular, precise intervals or random numbers of years?
-- Have a reliable **source**? Is it from the USGS, the UNDRR, the EU?
-- If statistics give, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
-
-
-## Theory of Plate Tectonics
-The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected by scientific communities.
-
----
-![enter link description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/wegener-haha-original.gif)
-
----
-
-
-## Reasons for plate movement
-
-### Paleomagnetism
-Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. When oceanographers mapped seabeds during WW2, magnetic flips were observed on either side of divergent boundaries and seafloor spreading centres. This is because when magma is erupted, it has high iron content. These iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the polarity inversals on either side of the plate boundary.
-
-
-### Glacial deposits
-Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, li
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDM3NjYxNCwxNTYyNjMzMzgxLDM4Nj
-g3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02MzcwMzk3MDgs
-LTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEsMTY1Nj
-I1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMzk2NzI3
-NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0MDgsLT
-EzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4NTUsLTE3Mzgy
-ODA1NjFdfQ==
+eyJoaXN0b3J5IjpbLTcxODM4NTM1LDE1NjI2MzMzODEsMzg2OD
+c3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOTcwOCwt
+MTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwxNjU2Mj
+U2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3
+OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMT
+MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
+MDU2MV19
 -->
