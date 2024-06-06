@@ -244,6 +244,8 @@ It is worth noting that the DRC is in an area of conflict.
 
 Lake Nyos was the site of a limnic eruption in 1986 in the north-east of Cameroon, another LIDC. 
 
+CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Line (a series of inter-plate volcanoes)  
+
 
 ## Case study: Mount Merapi, Indonesia
 
@@ -283,7 +285,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NjQ2MzgzNCwtMTM1MDMwMzQ1NywxMz
+eyJoaXN0b3J5IjpbLTQyMzE1MjEwOCwtMTM1MDMwMzQ1NywxMz
 g2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4NDQzLC0xMjAwODM1
 ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0MzQsLTE1MDE3OTQ3OD
 UsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNTY5Njk5NiwxMDI3
