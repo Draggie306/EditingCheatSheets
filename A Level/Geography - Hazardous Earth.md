@@ -244,9 +244,9 @@ It is worth noting that the DRC is in an area of conflict.
 
 Lake Nyos was the site of a limnic eruption in 1986 in the north-east of Cameroon, another LIDC. 
 
-CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Line (a series of inter-plate volcanoes) potentially a result of hotspot/mante plume volcanism built up below the lake under pressure from the water above. Eventually, this was disturbed, most likely as a result of a landslide or rockfall, and the gas was then able to rise to the surface. 
+CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Hot Line (a series of inter-plate volcanoes) potentially a result of hotspot/mante plume volcanism built up below the lake under pressure from the water above. Eventually, this was disturbed, most likely as a result of a landslide or rockfall, and the gas was then able to rise to the surface. 
 
-808 million cubic metres of CO2 was outgassed  
+Up to 808 million cubic metres of CO2 was outgassed in an area that covered 25km^2^ with the gas being up to 50m thick as it moved over the land. CO~2~ is heavier than oxygen so it sticks to the ground, displacing the oxygen. There were only 4 survivors from the villages that surrounded it, killing 1,746. All animal life was asphyxiated overnight, even insects. What's disturbing is that internal combustion vehicles would have been unable to start too without oxygen - and asphyxiation can occur in minutes.
 
 
 ## Case study: Mount Merapi, Indonesia
@@ -287,10 +287,10 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEzMjY3ODEsLTM0OTkzNjEyMCwtMT
-M1MDMwMzQ1NywxMzg2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4
-NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0Mz
-QsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgx
-NTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mz
-c2M119
+eyJoaXN0b3J5IjpbMjQwMjAzOTI5LC0zNDk5MzYxMjAsLTEzNT
+AzMDM0NTcsMTM4NjUyMzE0NSw1MzY4ODk5MzAsMTUyNzMxODQ0
+MywtMTIwMDgzNTg2MiwtMTAyNTY3MjM4MywtOTA1NTQyNDM0LC
+0xNTAxNzk0Nzg1LDY5MTMxNDQ5NywxNTkyODU1ODQ1LDE4MTU2
+OTY5OTYsMTAyNzQxNjI4OSwyMTgyOTEwNDcsLTE2NzA2NTM3Nj
+NdfQ==
 -->
