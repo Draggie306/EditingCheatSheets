@@ -195,7 +195,7 @@ Time-lapse video of the growth of a lava dome: https://www.youtube.com/watch?v=h
 - Mitigating against vulnerability is preparing the community and planning for hazards to occur. Indonesia's Centre for Volcanology and Geological Hazard Mitigation is... [tbd]
 - Managing losses is how the event is responded to. Well-trained search and rescue teams and temporary shelter provisioning are perhaps key to reducing the impact of an eruption. EDCs such as Indonesia may be the most adept to dealing with these.
 
-## Case study: Eyjafjallajökull, Iceland
+## Case study: Eyjafjallajökull, Iceland 2010
 Iceland, in 2010, had a HDI of 0.959 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
 
 Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with characteristic basaltic andesitic lava. This attracted some tourists to the area, and ash reached no more than 4km in the atmosphere - a VEI 2 eruption.
@@ -220,7 +220,7 @@ Just-in-time manufacturing and trade as a result of globalisation such as the tr
 > How to [pronounce](https://upload.wikimedia.org/wikipedia/commons/transcoded/7/75/Is-Eyjafjallaj%C3%B6kull_%283%29.oga/Is-Eyjafjallaj%C3%B6kull_%283%29.oga.mp3) 
 
 
-## Case study: Volcan del Fuego, Guatemala
+## Case study: Volcan del Fuego, Guatemala 2018
 
 Guatemala is an LIDC in Central America with an HDI of 0.627 and GNI/capital of $8,500 PPP.
 
@@ -248,8 +248,9 @@ CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Hot L
 
 Up to 808 million cubic metres of CO2 was outgassed in an area that covered 25km^2^ with the gas being up to 50m thick as it moved over the land. CO~2~ is heavier than oxygen so it sticks to the ground, displacing the oxygen. There were only 4 survivors from the villages that surrounded it, killing 1,746. All animal life was asphyxiated overnight, even insects. What's disturbing is that internal combustion vehicles would have been unable to start too without oxygen - and asphyxiation can occur in minutes.
 
+A similar limnic eruption has the potential to occur in the 2,000x larger Lake Kivi - south of Goma and Nyiragongo.
 
-## Case study: Mount Merapi, Indonesia
+## Case study: Mount Merapi, Indonesia 2010
 
 Indonesia is an EDC with an HDI of 0.705 and GNI per capita of **$4,580** in 2022. It is in a very unstable tectonic region, with the Sunda Trench being the subduction zone between the Indo-Australian plate to the south and east, and the continental Eurasian plate to the north. There are 130 active volcanoes in Indonesia and, as a result, 70% of the 273 million inhabitants live within 100km of an active volcano - within range of damaging distances to historic VEI 6 and 7 eruptions of Tambora and Krakatau. 8.6 million are within 10km of these volcanoes - the range of a pyroclastic flow. 
 
@@ -287,10 +288,10 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQwMjAzOTI5LC0zNDk5MzYxMjAsLTEzNT
-AzMDM0NTcsMTM4NjUyMzE0NSw1MzY4ODk5MzAsMTUyNzMxODQ0
-MywtMTIwMDgzNTg2MiwtMTAyNTY3MjM4MywtOTA1NTQyNDM0LC
-0xNTAxNzk0Nzg1LDY5MTMxNDQ5NywxNTkyODU1ODQ1LDE4MTU2
-OTY5OTYsMTAyNzQxNjI4OSwyMTgyOTEwNDcsLTE2NzA2NTM3Nj
-NdfQ==
+eyJoaXN0b3J5IjpbLTE1NDc1ODUzNjAsLTM0OTkzNjEyMCwtMT
+M1MDMwMzQ1NywxMzg2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4
+NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0Mz
+QsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgx
+NTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mz
+c2M119
 -->
