@@ -226,17 +226,24 @@ Guatemala is an LIDC in Central America with an HDI of 0.627 and GNI/capital of 
 
 The eruption in 2018 was Guatemala’s deadliest event since 1902. It **killed over 200 people** with a VEI 3-4 plume reaching 15.2km. There was **no hazard plan**, and despite being one of the most active volcanoes along the Pacific Ring of Fire, it seems that people did not fully understand the risks. Bodies in 6 destroyed villages were found not far from homes, corroborating with video footage of people simply staring at the ash cloud and oncoming pyroclastic flows. Coupled with the fact that there was no evacuation alert issued, this shows that the infrastructure and investment were simply inadequate in the region. 
 
-Efforts to evacuate the area were rendered difficult due to inaccurate data involving road access, population size and population locations in proximity to the volcano's flanks prone to pyroclastic flows. **The Guatemalan Mountain Rescue Brigade** were already searching for a missing person when explosive activity increased, and were able to help a significant but unknown number of people in surrounding villages to evacuate, emphasising the **need for well-trained and experienced individuals** for mitigation of vulnerability. Mitigation of losses could have been better but was not totally inadequate: firefighters were immediately deployed to the area with the aim of recovering trapped people and bodies, however, the heat and nature of the pyroclastics simply incinerated many buildings. **6,000 people were eventually evacuated** as lava flows continued into the night and temporary shelters were provisioned with priority given to women and children, showing that there was at least some emergency provisioning.
+Efforts to evacuate the area were rendered difficult due to inaccurate data involving road access, population size and population locations in proximity to the volcano's flanks prone to pyroclastic flows. **The Guatemalan Mountain Rescue Brigade** were already searching for a missing person when explosive activity increased, and were able to help a significant but unknown number of people in surrounding villages to evacuate (local scale), emphasising the **need for well-trained and experienced individuals** for mitigation of vulnerability. Mitigation of losses could have been better but was not totally inadequate: firefighters were immediately deployed to the area with the aim of recovering trapped people and bodies, however, the heat and nature of the pyroclastics simply incinerated many buildings. **6,000 people were eventually evacuated** as lava flows continued into the night and temporary shelters were provisioned with priority given to women and children, showing that there was at least some emergency provisioning.
+
 
 ## Case study: Mount Nyiragongo, DRC, May 2021
 
 Mountain Nyiragongo is situated on a continental divergent plate boundary, resulting in effusive eruptions. The world's largest lava lake is situated in the volcano, which is a **cinter cone**, and it began to grow and show increased activity. However, the Goma Volcano Observatory was unable to successfully pay for Internet connections to remotely monitor the volcanic activity on instruments, or staff fuel to take measurements due to a withdrawal of World Bank funding due to allegations of government corruption one year prior. Goma is the provincial capital city of 2,000,000 inhabitants around 15 kilometres to the South.
 
-As a result, only one warning was issued for an imminent eruption a fortnight preceding the May eruption. Three vents opened on the cinder cone's flanks, which flowed towards Goma at a rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 30 two people died, mostly used to asphyxiation - the invisible, toxic CO2 gathers in low-lying areas. Whilst there was an evacuation warning of 400,000 people as a result of the city evacuation plan and a third of the population moved quickly, 2000 homes were destroyed and 17 villages were ruined.
+As a result, only one warning was issued for an imminent eruption a fortnight preceding the May eruption. Three vents opened on the cinder cone's flanks, which flowed towards Goma at a rate of around 1 kilometre per hour, allowing around 20 hours for people to escape. Around 32 people died, mostly used to asphyxiation - the invisible, toxic CO2 gathers in low-lying areas. Whilst there was an evacuation warning of 400,000 people as a result of the city evacuation plan and a third of the population moved quickly, 2000 homes were destroyed and 17 villages were ruined.
 
 However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared this time, showing how far a small warning system and prior community knowledge can help mitigate vulnerability.
 
-It is worth noting that the DRC is in an area of conflict, 
+It is worth noting that the DRC is in an area of conflict. 
+
+
+### Mini case study: Lake Nyos, Cameroon
+
+Lake Nyos was the site of a limnic eruption in 1986 in the north-east of Cameroon, another LIDC. 
+
 
 ## Case study: Mount Merapi, Indonesia
 
@@ -276,7 +283,7 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDI0MjE2MCwtMTM1MDMwMzQ1NywxMz
+eyJoaXN0b3J5IjpbMTU4NjQ2MzgzNCwtMTM1MDMwMzQ1NywxMz
 g2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4NDQzLC0xMjAwODM1
 ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0MzQsLTE1MDE3OTQ3OD
 UsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNTY5Njk5NiwxMDI3
