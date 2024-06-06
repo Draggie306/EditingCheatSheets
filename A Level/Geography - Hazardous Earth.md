@@ -236,6 +236,8 @@ As a result, only one warning was issued for an imminent eruption a fortnight pr
 
 However, this LIDC eruption was much better handled compared to the eruption in 2002, where 10x more people died and 13% of the city was destroyed, rendering 120,000 homeless. People in Goma were evidently more prepared this time, showing how far a small warning system and prior community knowledge can help mitigate vulnerability.
 
+It is worth noting that the DRC is in an area of conflict, 
+
 ## Case study: Mount Merapi, Indonesia
 
 Indonesia is an EDC with an HDI of 0.705 and GNI per capita of **$4,580** in 2022. It is in a very unstable tectonic region, with the Sunda Trench being the subduction zone between the Indo-Australian plate to the south and east, and the continental Eurasian plate to the north. There are 130 active volcanoes in Indonesia and, as a result, 70% of the 273 million inhabitants live within 100km of an active volcano - within range of damaging distances to historic VEI 6 and 7 eruptions of Tambora and Krakatau. 8.6 million are within 10km of these volcanoes - the range of a pyroclastic flow. 
@@ -274,9 +276,9 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAzMDM0NTcsMTM4NjUyMzE0NSw1Mz
-Y4ODk5MzAsMTUyNzMxODQ0MywtMTIwMDgzNTg2MiwtMTAyNTY3
-MjM4MywtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5MTMxNDQ5Ny
-wxNTkyODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNjI4OSwyMTgy
-OTEwNDcsLTE2NzA2NTM3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDI0MjE2MCwtMTM1MDMwMzQ1NywxMz
+g2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4NDQzLC0xMjAwODM1
+ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0MzQsLTE1MDE3OTQ3OD
+UsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgxNTY5Njk5NiwxMDI3
+NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mzc2M119
 -->
