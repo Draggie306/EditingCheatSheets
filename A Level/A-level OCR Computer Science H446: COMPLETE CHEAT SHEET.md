@@ -1024,7 +1024,6 @@ WHERE ReleaseDate = "02/06/2023"
 A transaction must be processed in its entirety or not at all. It is not possible to process only part of a transaction no matter how catastrophic the failure is.
 
 #### Consistency
-
 No transaction can violate the defined validation rules. Referential integrity will always be upheld.
 
 #### Isolation
@@ -2273,7 +2272,7 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTExNzU0NjQ2LDE1NTI0OTYzNzMsLTQ0Mj
-A3MDQyNCwtMTU5MjE5NTk5Niw2NTA1MDMzNzAsLTE4NDk5MDg1
-MTYsLTc3MjU4OTA1M119
+eyJoaXN0b3J5IjpbLTExMjk2NzY5ODgsOTExNzU0NjQ2LDE1NT
+I0OTYzNzMsLTQ0MjA3MDQyNCwtMTU5MjE5NTk5Niw2NTA1MDMz
+NzAsLTE4NDk5MDg1MTYsLTc3MjU4OTA1M119
 -->
