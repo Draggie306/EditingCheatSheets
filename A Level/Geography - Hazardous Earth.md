@@ -248,7 +248,7 @@ CO~2~ gas, as a result of deep magma and gas intrusions below the Cameroon Hot L
 
 Up to 808 million cubic metres of CO2 was outgassed in an area that covered 25km^2^ with the gas being up to 50m thick as it moved over the land. CO~2~ is heavier than oxygen so it sticks to the ground, displacing the oxygen. There were only 4 survivors from the villages that surrounded it, killing 1,746. All animal life was asphyxiated overnight, even insects. What's disturbing is that internal combustion vehicles would have been unable to start too without oxygen - and asphyxiation can occur in minutes.
 
-A similar limnic eruption has the potential to occur in the 2,000x larger Lake Kivi - south of Goma and Nyiragongo.
+A similar limnic eruption has the potential to occur in the 2,000x larger Lake Kivu - south of Goma and Nyiragongo.
 
 ## Case study: Mount Merapi, Indonesia 2010
 
@@ -288,10 +288,10 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2NTk5MDYwLC0xNTQ3NTg1MzYwLC0zND
-k5MzYxMjAsLTEzNTAzMDM0NTcsMTM4NjUyMzE0NSw1MzY4ODk5
-MzAsMTUyNzMxODQ0MywtMTIwMDgzNTg2MiwtMTAyNTY3MjM4My
-wtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5MTMxNDQ5NywxNTky
-ODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNjI4OSwyMTgyOTEwND
-csLTE2NzA2NTM3NjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NTAwMzE3MzYsNTE2NTk5MDYwLC0xNT
+Q3NTg1MzYwLC0zNDk5MzYxMjAsLTEzNTAzMDM0NTcsMTM4NjUy
+MzE0NSw1MzY4ODk5MzAsMTUyNzMxODQ0MywtMTIwMDgzNTg2Mi
+wtMTAyNTY3MjM4MywtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5
+MTMxNDQ5NywxNTkyODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNj
+I4OSwyMTgyOTEwNDcsLTE2NzA2NTM3NjNdfQ==
 -->
