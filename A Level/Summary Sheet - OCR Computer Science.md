@@ -163,10 +163,10 @@ Memory is divided into fixed-length physical sections that different application
 Different sized sections based on the logical divisions of a program, keeping e.g. a function together.
  
 #### Virtual memory
-An area of the physical disk used as an overflow from main memory when it becomes full. Unused functions or programs can be swapped in and out of memory to prioritise the ones currenly executing or that the user would like to access.
+An area of the physical disk used as an overflow from main memory when it becomes full. Unused functions or programs can be swapped in and out of memory to prioritise the ones currently executing or that the user would like to access.
 
 ### Interrupts
-An interrupt is a signal that is checked for after an FDE cycle is completed, and if True, invokes an Interrupt Service Routine. The data currently stored in the CPU registers is poshed to the system stack. Interrupts have different priorities and can be interrupted by other more important interrupts. 
+An interrupt is a signal that is checked for after an FDE cycle is completed, and if True, invokes an Interrupt Service Routine. The data currently stored in the CPU registers is pushed to the system stack. Interrupts have different priorities and can be interrupted by other more important interrupts. 
 
 Interrupts may be something simple such as a peripheral needing attention (printer running out of paper), keyboard press, an I/O device ending, or a power failure. When the ISR has terminated the values from the stack are pushed back into the registers and the processor can continue. 
 
@@ -180,7 +180,7 @@ Each job is given a FIFO time slice (quantum) in which its execution must occur.
 The jobs are processed in the order that they are given to the dispatcher. It will occupy the CPU until it completes. There are no priorities so jobs e.g. from viruses can continually dispatch new, long jobs that may prevent the antivirus from allocating its own job.
 
 #### Shortest remaining time
-The job with the estimated shortest remaining time to execute is processed next. Shorter jobs can take over from the running process. This reduces the queue of jobs to process but may not be useful for larger, more important jobs such as a large calculation. The user may also have to specify the length of each job or it may become innaccurate. 
+The job with the estimated shortest remaining time to execute is processed next. Shorter jobs can take over from the running process. This reduces the queue of jobs to process but may not be useful for larger, more important jobs such as a large calculation. The user may also have to specify the length of each job or it may become inaccurate. 
 
 #### Shortest job first.
 The job with the shortest estimated total time is always executed first, but requires the user to estimate each job and may not favour longer and more important jobs
@@ -193,7 +193,7 @@ Multiple priority queues are created with different priority levels themselves, 
 
 
 #### Distributed
-Distributed OS coordinate the processing of a job, or multiple jobs, acoss multiple computers. This is useful for supercomputers or when I/O or data from one computer is required by any other computer. The management of resources is abstracted from the user. It aims to ensure that the load is distributed across each node connected to improve and ensure all tasks are completed quickly.
+Distributed OS coordinate the processing of a job, or multiple jobs, across multiple computers. This is useful for supercomputers or when I/O or data from one computer is required by any other computer. The management of resources is abstracted from the user. It aims to ensure that the load is distributed across each node connected to improve and ensure all tasks are completed quickly.
 
 #### Embedded 
 Embedded operating systems have minimal or one specific function and may be held in ROM, and with limited RAM - often only the amount that was determined during manufacturing. It may have a very basic UI and have specialised input/output devices, e.g. sensors, and there are no permanent secondary storage devices.
@@ -202,7 +202,7 @@ Embedded operating systems have minimal or one specific function and may be held
 Multi-tasking systems are those that perform more than one task simultaneously through the use of processor scheduling. This is most major OSes now. Music can be listened to, whilst working on a document, whilst browsing a website. 
 
 #### Multi-user 
-A muti-user operating system is one where a single, powerful computer with one large or multiple CPUs that devices are connected to, and all users receive a slice of processing time.
+A multi-user operating system is one where a single, powerful computer with one large or multiple CPUs that devices are connected to, and all users receive a slice of processing time.
 
 
 #### Realtime
@@ -210,21 +210,21 @@ Realtime OSes take in many simultaneous inputs and make immediate decisions for 
 
 
 ### BIOS
-Loads from ROM at startup and initialises and tests hardware. If all good then load the OS from secondary storage into RAM and then pass control over to it.
+Loads from ROM at start-up and initialises and tests hardware. If all good then load the OS from secondary storage into RAM and then pass control over to it.
 
 ### Device drivers
-Programs that provides a software interface between an OS or application and a hardware device. This allows the OS to control the devices attached to a system such as speakers or a GPU. This allows the OS to communiate with a hardware device through a driver routine without needing to know the specifics of the manufacturer or its capabilities. 
+Programs that provides a software interface between an OS or application and a hardware device. This allows the OS to control the devices attached to a system such as speakers or a GPU. This allows the OS to communicate with a hardware device through a driver routine without needing to know the specifics of the manufacturer or its capabilities. 
  
 ### Virtual machines
 Used to emulate another machine. The software that runs for the target machine is translated by the virtual machine to emulate and execute on the host machine. 
 
-Intermediate code such as Java bytecode can execute on the virtual machine. This improves portability as the source code can be translated into machine-independent bytecode which is a "halfway-house" between the source and machine code. The stages of compilation have already been completed so the host system just needs the Java virtual machine to translate into machine-dependednt object/machine code. Bytecode interpreters.
+Intermediate code such as Java bytecode can execute on the virtual machine. This improves portability as the source code can be translated into machine-independent bytecode which is a "halfway-house" between the source and machine code. The stages of compilation have already been completed so the host system just needs the Java virtual machine to translate into machine-dependent object/machine code. Bytecode interpreters.
 
 
 ## Applications generation
 
 ### Nature of applications 
-Systems software includes the OS, utiltiies, libraries and translators. 
+Systems software includes the OS, utilities, libraries and translators. 
 
 
 ### Utilities
@@ -244,7 +244,7 @@ Closed source/proprietary does not have the source code visible. There may be re
 Programming languages must be translated into low-level machine dependent machine code for it to be executed by the CPU. 
 
 #### Assemblers
-It is difficult to code in, time consuming and today it is not worth it. Assembly language is 1:1 representative mneumonics of machine code instructions but are easier to remember and to code in. An assembler translates the mneumonics as written in assembly code into machne code. This is needed as different instuction sets are used by different CPUs and thus different machine code will be produced even for the same mneumonic.
+It is difficult to code in, time consuming and today it is not worth it. Assembly language is 1:1 representative mnemonics of machine code instructions but are easier to remember and to code in. An assembler translates the mnemonics as written in assembly code into machine code. This is needed as different instruction sets are used by different CPUs and thus different machine code will be produced even for the same mnemonic.
 
 #### Interpreters
 Interpreters go over source code line-by-line and translate it into machine code that is then executed. If there is a syntax error, then the code will stop executing at that line, whilst the code before has executed. Therefore errors may be present in code that is running, but may not have been checked in as much rigour as a compiler. JavaScript is an example of this. It allows the file size to be reduced (as the interpreted code must be the source code) providing that an appropriate interpreter is installed on the client machine. Each browser has its own interpreter that is installed; the JS code written may be compressed but is otherwise the same as source and can be opened. However, each iteration will have to be interpreted every time so is slower.
@@ -260,7 +260,7 @@ All formatting and unnecessary spaces, comments etc are removed. Tokenisation oc
 #### Syntax analysis
 The string of tokens is split into phrases and then parsed - or checked vs the language rules to determine if it violates any requirements, e.g. assigning multiple values to a constant, or the "=" operator being used after not before an identifier.
 
-Semantic analysis also occurs here. This is like the grammar. It may syntactivally be okay but the program may not be valid, such as the wrong data type associated with a specific variable.
+Semantic analysis also occurs here. This is like the grammar. It may syntactically be okay but the program may not be valid, such as the wrong data type associated with a specific variable.
 
 #### Code generation
 The machine code is generated.
@@ -270,11 +270,9 @@ This may be done over several passes to optimise the code - remove unreachable b
 ### Linkers, loaders and libraries
 Libraries are pre-compiled, pre-written programs that can be interacted with, typically written by smart people with more expertise, or that is the known fastest way to solve a problem, e.g. mathematical operations or random numbers or even providing the interface for a GUI. There is little point in rewriting the same code as has already been written. They are tested, reduce the need to re-code tasks and save space. 
 
-
 The linker can replace the memory address within a compiled program to the one of the library function. The loaders copies the program and the linked libary subroutines into main memory - it must relocate the memory locations though.
 
 Linking may be dynamic or static. Sometimes the executable program may have libraries imported in it and be very sizeable. However dynamic linking may not include the linked functions and assume that the host device will have matching libraries to reference and call.
-
 
 
 
@@ -319,6 +317,17 @@ Extreme programming is based on the agile development model but made significant
 RAD is a type of agile development where priority is given to speed of development. Program components can be reused. Components are given a fixed time limit to make each part good enough for the general requirements identified.
 
 
+## Networks
+
+### Importance of protocols
+Protocols and standards ensure that data can be communicated between devices in the same way, regardless of manufacturer or operating system.
+
+### TCP/IP stack
+The model has 4 layers:
+- Application layer: this assigns protocols based on the application being used for it. For example, the HTTP protocol for web browser applications or the SSH for file transfer applications.
+- Transport layer: splits into and numbers packets using the TCP or UDP protocol to establish transmission between two devices over a network. It also adds ports.
+- Internet layer: adds source/destination IP addresses
+- Link layer: specifies mac addresses; typically that of the router
 
 
 
@@ -433,5 +442,5 @@ Collisions are a problem. To resolve them we can do rehashing to increment the i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTI5MTcwOTBdfQ==
+eyJoaXN0b3J5IjpbMTY4Mjc3MzA3MCwtMTA1MjkxNzA5MF19
 -->
