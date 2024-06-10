@@ -270,7 +270,7 @@ This may be done over several passes to optimise the code - remove unreachable b
 ### Linkers, loaders and libraries
 Libraries are pre-compiled, pre-written programs that can be interacted with, typically written by smart people with more expertise, or that is the known fastest way to solve a problem, e.g. mathematical operations or random numbers or even providing the interface for a GUI. There is little point in rewriting the same code as has already been written. They are tested, reduce the need to re-code tasks and save space. 
 
-The linker can replace the memory address within a compiled program to the one of the library function. The loaders copies the program and the linked libary subroutines into main memory - it must relocate the memory locations though.
+The linker can replace the memory address within a compiled program to the one of the library function. The loader copies the program and the linked libary subroutines into main memory - it must relocate the memory locations though.
 
 Linking may be dynamic or static. Sometimes the executable program may have libraries imported in it and be very sizeable. However dynamic linking may not include the linked functions and assume that the host device will have matching libraries to reference and call.
 
@@ -442,5 +442,5 @@ Collisions are a problem. To resolve them we can do rehashing to increment the i
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjc3MzA3MCwtMTA1MjkxNzA5MF19
+eyJoaXN0b3J5IjpbMzI1NTM3MTQxLC0xMDUyOTE3MDkwXX0=
 -->
