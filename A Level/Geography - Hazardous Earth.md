@@ -196,7 +196,7 @@ Time-lapse video of the growth of a lava dome: https://www.youtube.com/watch?v=h
 - Managing losses is how the event is responded to. Well-trained search and rescue teams and temporary shelter provisioning are perhaps key to reducing the impact of an eruption. EDCs such as Indonesia may be the most adept to dealing with these.
 
 ## Case study: Eyjafjallajökull, Iceland 2010
-Iceland, in 2010, had a HDI of 0.959 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
+Iceland, in 2010, had a HDI of 0.92 and a GNI per capita of US$36,270 PPP, with a life expectancy of 82.
 
 Eyjafjallajokull is a stratovolcano covered in glacial ice. Volcanic events starting in March 2010 began effusively, with characteristic basaltic andesitic lava. This attracted some tourists to the area, and ash reached no more than 4km in the atmosphere - a VEI 2 eruption.
 
@@ -288,10 +288,10 @@ Humans cannot stop volcanic hazards
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDc1ODUzNjAsLTM0OTkzNjEyMCwtMT
-M1MDMwMzQ1NywxMzg2NTIzMTQ1LDUzNjg4OTkzMCwxNTI3MzE4
-NDQzLC0xMjAwODM1ODYyLC0xMDI1NjcyMzgzLC05MDU1NDI0Mz
-QsLTE1MDE3OTQ3ODUsNjkxMzE0NDk3LDE1OTI4NTU4NDUsMTgx
-NTY5Njk5NiwxMDI3NDE2Mjg5LDIxODI5MTA0NywtMTY3MDY1Mz
-c2M119
+eyJoaXN0b3J5IjpbNTE2NTk5MDYwLC0xNTQ3NTg1MzYwLC0zND
+k5MzYxMjAsLTEzNTAzMDM0NTcsMTM4NjUyMzE0NSw1MzY4ODk5
+MzAsMTUyNzMxODQ0MywtMTIwMDgzNTg2MiwtMTAyNTY3MjM4My
+wtOTA1NTQyNDM0LC0xNTAxNzk0Nzg1LDY5MTMxNDQ5NywxNTky
+ODU1ODQ1LDE4MTU2OTY5OTYsMTAyNzQxNjI4OSwyMTgyOTEwND
+csLTE2NzA2NTM3NjNdfQ==
 -->
