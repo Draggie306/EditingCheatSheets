@@ -42,7 +42,9 @@ A more noticable example of this is on webpages. Frequently when browsing a webs
 However, there are some drawbacks of caching. If an OS predicts that an instruction will be loaded next, and it is not required, then this fetch-decode-execute cycle has effectively been wasted. This can add up oer time. Stale caches are another example: websites may show old versions of their content - not good if concert-goers are constantly refreshing to buy a ticket - although the load is reduced for the origin webserver it needs to display this new content/availability!
 
 #### Reusable program components
-Well-defined, documented algorithms are more likely to be error-free and can be used in many different programs.  
+Well-defined, documented algorithms are more likely to be error-free and can be used in many different programs. There is little point in recreating a complex function from scratch when a library that contains the desired inputs and outputs already exists, such as inside a Windows Dynamic Link Library (DLL) file. These algorithms must be predictable and easily understandable for other programmers.
+
+For large projects or for large companies with a range of projects and software, they may make their own libraries that can be shared. Abstract data types are those that can be implemented differently depending on the program but have the same overall logic, and for simplification across this large codebase, they may be (re)written to ensure that all programs share the same 
 
 
 /
@@ -53,5 +55,5 @@ Well-defined, documented algorithms are more likely to be error-free and can be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NzI3OTQ2OCwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTE4MjkwMjY0MTYsMTQyMjU3MDcyOV19
 -->
