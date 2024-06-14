@@ -52,6 +52,16 @@ For large projects or for large companies with a range of projects and software,
 
 
 
+## Programming techniques
+
+### The 3 constructs
+There are 3 main constructs to any progam: sequence, selecton and iteration.
+
+Sequence is the order of execution. This means that one instruction is executed after another, one line before another, unless there is a branching statementor function call used (GOTO or BRP/BRZ/BRA in LMC) 
+
+Selection is the process of evaluating a Boolean condition and selecting to execute code 
+
+
 /
 
 
@@ -60,5 +70,6 @@ For large projects or for large companies with a range of projects and software,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
+I1NzA3MjldfQ==
 -->
