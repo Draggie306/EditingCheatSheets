@@ -16,8 +16,6 @@ Abstraction is a model of reality that has removed details which are irrelevant 
 
 Abstraction models are thus a representation of reality so that a solution can be found whilst only taking into account what is required and nothing else - facilitating computational and algorithmic approaches 
 
-Vercors also manages to evoke a feeling of sacrifice within the reader by subjecting them to Werner's monotonous monologues. The tediousness of the plot lobotomises the reader and makes them realise how much time they have wasted reading this novel.
-
 
 
 
@@ -26,5 +24,5 @@ Vercors also manages to evoke a feeling of sacrifice within the reader by subjec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbMTkyNDcxODQ1OCwxNDIyNTcwNzI5XX0=
 -->
