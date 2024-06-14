@@ -39,8 +39,10 @@ Caching is a way for the computer system to save (idle) time. Caching is heavily
 
 A more noticable example of this is on webpages. Frequently when browsing a website the stylesheet and scripts likely remain the same across pages, so when loading a new webpage on the same website, requesting the (slower) server across the internet will be much slower than storing the stylesheet in, for example, system RAM. Likewise the history function and back button may have the HTML file of the previous page in memory. On a larger scale CDNs (content delivery networks) on websites store copies of the webpage so that the "origin" server's load is reduced and therefore cost is saved and user access time is reduced. 
 
-However, there are some drawbacks of caching. If an OS predicts that an instruction will be loaded next, and it is not required, then this fetch-decode-execute cycle has effectively been wasted. This can add up oer time. Stale caches are another example: websites may show old versions of their content - not good if concert-goers are constantly refreshing to buy a ticket - although the load is reduced for the origin webserver it needs to display this new 
+However, there are some drawbacks of caching. If an OS predicts that an instruction will be loaded next, and it is not required, then this fetch-decode-execute cycle has effectively been wasted. This can add up oer time. Stale caches are another example: websites may show old versions of their content - not good if concert-goers are constantly refreshing to buy a ticket - although the load is reduced for the origin webserver it needs to display this new content/availability!
 
+#### Reusable program components
+Well-defined, documented algorithms are more likely to be error-free and can be used in many different programs.  
 
 
 /
@@ -51,5 +53,5 @@ However, there are some drawbacks of caching. If an OS predicts that an instruct
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTgyNjQ5ODIsMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbMTY4NzI3OTQ2OCwxNDIyNTcwNzI5XX0=
 -->
