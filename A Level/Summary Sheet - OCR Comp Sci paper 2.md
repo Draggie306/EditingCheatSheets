@@ -32,9 +32,11 @@ Inputs to a problem are information relevant, devised from the abstract model, t
 
 The algorithm *must* *always* be correct and be efficient.
 
-Inputs and outputs should be documented, either in the source code file (e.g. in Python you can use `(numberOne: int)`or a documentation file. This is a **precondition**. Preconditions reduce ambiguity and allow the programmer or user to know what inputs must be inputted. When no preconditions are present  
+Inputs and outputs should be documented, either in the source code file (e.g. in Python you can use `(numberOne: int)`or a documentation file. This is a **precondition**. Preconditions reduce ambiguity and allow the programmer or user to know what inputs must be inputted. When no preconditions are present in the documentation then it can be assumed that the algorithm will take into account al types of values so that there will be no errors, e.g. checking if a list has a length of over 1 before reading the value at index 0. It is also much easier to re-use algorithms if they have clear inputs and outputs in their documentation.
 
-
+#### Caching
+Caching is a way for the computer system to save (idle) time. Caching is heavily used in time-sensitive applications and networking. The principle of caching is that data which has been recently accessed, or when a pattern of data access is detected, this data should be available for faster access when next requested by the user. An example of this can be seen in the FDE cycle: instead of data computed in the ALU moving to memory for storage, it is moved to the accumulator; likewise, frequently-fetched instructions may be stored in the hierarchy of **cache** memory on the CPU. 
+A more noticable example of this is on webpages. Frequently when browsing a website the stylesheet and scripts likely remain the same across pages, so when loading a new webpage on the same website, requesting the (slower) server across the internet will be much slower than storing the stylesheet in, for example, system RAM. Likewise the history function and back button may have the HTML file of the previous page in memory.   
 
 
 /
@@ -45,5 +47,5 @@ Inputs and outputs should be documented, either in the source code file (e.g. in
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMjg2NTMxOSwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTQyOTczODE1MSwxNDIyNTcwNzI5XX0=
 -->
