@@ -36,7 +36,11 @@ Inputs and outputs should be documented, either in the source code file (e.g. in
 
 #### Caching
 Caching is a way for the computer system to save (idle) time. Caching is heavily used in time-sensitive applications and networking. The principle of caching is that data which has been recently accessed, or when a pattern of data access is detected, this data should be available for faster access when next requested by the user. An example of this can be seen in the FDE cycle: instead of data computed in the ALU moving to memory for storage, it is moved to the accumulator; likewise, frequently-fetched instructions may be stored in the hierarchy of **cache** memory on the CPU. 
-A more noticable example of this is on webpages. Frequently when browsing a website the stylesheet and scripts likely remain the same across pages, so when loading a new webpage on the same website, requesting the (slower) server across the internet will be much slower than storing the stylesheet in, for example, system RAM. Likewise the history function and back button may have the HTML file of the previous page in memory.   
+
+A more noticable example of this is on webpages. Frequently when browsing a website the stylesheet and scripts likely remain the same across pages, so when loading a new webpage on the same website, requesting the (slower) server across the internet will be much slower than storing the stylesheet in, for example, system RAM. Likewise the history function and back button may have the HTML file of the previous page in memory. On a larger scale CDNs (content delivery networks) on websites store copies of the webpage so that the "origin" server's load is reduced and therefore cost is saved and user access time is reduced. 
+
+However, there are some drawbacks of caching. If an OS predicts that an instruction will be loaded next, and it is not required, then this fetch-decode-execute cycle has effectively been wasted. This can add up oer time. Stale caches are another example: websites may show old versions of their content - not good if concert-goers are constantly refreshing to buy a ticket - although the load is reduced for the origin webserver it needs to display this new 
+
 
 
 /
@@ -47,5 +51,5 @@ A more noticable example of this is on webpages. Frequently when browsing a webs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyOTczODE1MSwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTIwMTgyNjQ5ODIsMTQyMjU3MDcyOV19
 -->
