@@ -16,6 +16,13 @@ Abstraction is a model of reality that has removed details which are irrelevant 
 
 Abstraction models are thus a representation of reality so that a solution can be found whilst only taking into account what is required and nothing else - facilitating computational and algorithmic approaches 
 
+Abstraction is needed so that a problem can be solved in a simple way, thereby speeding up the time it takes to create and execute a solution without overloading the user with information. For example, the user can just be told to copy and paste a file from one document to another, without needing to know the details of how the program that runs the document software works, how the OS is allocating memory to the program, and how the file of the document itself is being read to and written into secondary storage with the physical fipping of bits or electrons being trapped.
+
+A model for, for example, a shop and its revenue, may take into account the number of visitors, how much is spent and if there are any refunds. This does not take into account the process of welcoming people into a shop, how long people spend  
+
+
+
+
 
 
 
@@ -24,5 +31,5 @@ Abstraction models are thus a representation of reality so that a solution can b
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDcxODQ1OCwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTk0MzE2NjYyNiwxNDIyNTcwNzI5XX0=
 -->
