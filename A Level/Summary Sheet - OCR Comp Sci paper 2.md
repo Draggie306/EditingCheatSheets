@@ -50,6 +50,8 @@ For large projects or for large companies with a range of projects and software,
 ## Thinking procedurally
 
 
+
+
 /
 
 
@@ -58,5 +60,5 @@ For large projects or for large companies with a range of projects and software,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODU1MjU2NiwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
 -->
