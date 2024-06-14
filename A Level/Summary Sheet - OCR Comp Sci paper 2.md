@@ -25,7 +25,7 @@ Abstraction is needed so that a problem can be solved in a simple way, thereby s
 A model for, for example, a shop and its revenue, may take into account the number of visitors, how much is spent and if there are any refunds. This does not take into account the process of welcoming people into a shop, how long people spend inside, the items people are going to buy, as this is largely unnecesary for the specifc task: to calculate revenue.
 
 
-### Thinking ahead
+## Thinking ahead
 There is a need to think ahead to calculate the steps involved in creating a solution. The inputs, processes and outputs should be worked out before the algorithm to calculate the outputs based on the inputs is written! 
 
 Inputs to a problem are information relevant, devised from the abstract model, to the problem. The output is therefore the solution to the problem, returned by the algorithm.
@@ -34,17 +34,20 @@ The algorithm *must* *always* be correct and be efficient.
 
 Inputs and outputs should be documented, either in the source code file (e.g. in Python you can use `(numberOne: int)`or a documentation file. This is a **precondition**. Preconditions reduce ambiguity and allow the programmer or user to know what inputs must be inputted. When no preconditions are present in the documentation then it can be assumed that the algorithm will take into account al types of values so that there will be no errors, e.g. checking if a list has a length of over 1 before reading the value at index 0. It is also much easier to re-use algorithms if they have clear inputs and outputs in their documentation.
 
-#### Caching
+### Caching
 Caching is a way for the computer system to save (idle) time. Caching is heavily used in time-sensitive applications and networking. The principle of caching is that data which has been recently accessed, or when a pattern of data access is detected, this data should be available for faster access when next requested by the user. An example of this can be seen in the FDE cycle: instead of data computed in the ALU moving to memory for storage, it is moved to the accumulator; likewise, frequently-fetched instructions may be stored in the hierarchy of **cache** memory on the CPU. 
 
 A more noticable example of this is on webpages. Frequently when browsing a website the stylesheet and scripts likely remain the same across pages, so when loading a new webpage on the same website, requesting the (slower) server across the internet will be much slower than storing the stylesheet in, for example, system RAM. Likewise the history function and back button may have the HTML file of the previous page in memory. On a larger scale CDNs (content delivery networks) on websites store copies of the webpage so that the "origin" server's load is reduced and therefore cost is saved and user access time is reduced. 
 
 However, there are some drawbacks of caching. If an OS predicts that an instruction will be loaded next, and it is not required, then this fetch-decode-execute cycle has effectively been wasted. This can add up oer time. Stale caches are another example: websites may show old versions of their content - not good if concert-goers are constantly refreshing to buy a ticket - although the load is reduced for the origin webserver it needs to display this new content/availability!
 
-#### Reusable program components
+### Reusable program components
 Well-defined, documented algorithms are more likely to be error-free and can be used in many different programs. There is little point in recreating a complex function from scratch when a library that contains the desired inputs and outputs already exists, such as inside a Windows Dynamic Link Library (DLL) file. These algorithms must be predictable and easily understandable for other programmers.
 
-For large projects or for large companies with a range of projects and software, they may make their own libraries that can be shared. Abstract data types are those that can be implemented differently depending on the program but have the same overall logic, and for simplification across this large codebase, they may be (re)written to ensure that all programs share the same 
+For large projects or for large companies with a range of projects and software, they may make their own libraries that can be shared. Abstract data types are those that can be implemented differently depending on the program but have the same overall logic, and for simplification across this large codebase, they may be (re)written to ensure that all programs share the same logic and are therefore more predictable, savng time.
+
+
+## Thinking procedurally
 
 
 /
@@ -55,5 +58,5 @@ For large projects or for large companies with a range of projects and software,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjkwMjY0MTYsMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbLTU4ODU1MjU2NiwxNDIyNTcwNzI5XX0=
 -->
