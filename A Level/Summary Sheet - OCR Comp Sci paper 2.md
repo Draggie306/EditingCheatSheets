@@ -11,7 +11,7 @@ Computational thinking is having the ability to logically think about a problem 
 
 <!-- A good comment informs its readers, corrects authors, and offers insights in a polite, respectful and constructive manner. All other comments fall into the category of rants, bile, insults or trolling. -->
 
-In computing, a "problem" should be defined a 
+In computing, a "problem" should be defined as something that can be solved by an algorithm. (it may be just a simple subroutine)
 
 ## Thinking abstractly
 
@@ -41,5 +41,5 @@ Inputs to a problem are information relevant, devised from the abstract model, t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzU0OTU3MSwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTE0MDEwMzIwMjcsMTQyMjU3MDcyOV19
 -->
