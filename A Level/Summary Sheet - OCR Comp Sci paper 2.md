@@ -28,12 +28,16 @@ A model for, for example, a shop and its revenue, may take into account the numb
 ### Thinking ahead
 There is a need to think ahead to calculate the steps involved in creating a solution. The inputs, processes and outputs should be worked out before the algorithm to calculate the outputs based on the inputs is written! 
 
-Inputs to a problem are information relevant, devised from the abstract model, to the problem
+Inputs to a problem are information relevant, devised from the abstract model, to the problem. The output is therefore the solution to the problem, returned by the algorithm.
+
+The algorithm *must* *always* be correct and be efficient.
+
+Inputs and outputs should be documented, either in the source code file (e.g. in Python you can use `(numberOne: int)`or a documentation file. This is a **precondition**. Preconditions reduce ambiguity and allow the programmer or user to know what inputs must be inputted. When no preconditions are present  
 
 
 
 
-
+/
 
 
 
@@ -41,5 +45,5 @@ Inputs to a problem are information relevant, devised from the abstract model, t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDEwMzIwMjcsMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbLTUwMjg2NTMxOSwxNDIyNTcwNzI5XX0=
 -->
