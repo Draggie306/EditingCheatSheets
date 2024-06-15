@@ -59,6 +59,7 @@ Thinking procedurally thus allows programs to be decomposed into a series of mor
 - Identifies the components of a solution to the program
 - Techniques such as hierarchy charts allow a top-down overview as to how these sub-functions can be created for the overall problem's solution
 
+Thinking procedurally is used in conjunction with thinking ahead so that the sub-procedures process the inputs as part of the overall program to create a desired, correct and predictable output.
 
 ## Thinking logically 
 
@@ -82,6 +83,7 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2NTMzMzU2NCwtNjAwMDI5NDgyLC0xMT
-M5NTExMzkwLDMxNTU1NjUyNiwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbMjEzNzY5OTIwMCwtMzY1MzMzNTY0LC02MD
+AwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0MjI1NzA3
+MjldfQ==
 -->
