@@ -62,7 +62,29 @@ Thinking procedurally thus allows programs to be decomposed into a series of mor
 Thinking procedurally is used in conjunction with thinking ahead so that the sub-procedures process the inputs as part of the overall program to create a desired, correct and predictable output.
 
 ## Thinking logically 
-Logical thinking is about determining when decisions in program logic/flow have to be made. In practice this may be `if` statements (conditional selection/branching) and is where a decision is made. The conditions that affect this will be evaluated depending on logical conditions, such as Boolean operators. "`if X < Y then do Z`" (a decision) will evaluate to True and do Z if theX is lower than Y (a condition).     
+Logical thinking is about determining when decisions in program logic/flow have to be made. In practice this may be `if` statements (conditional selection/branching) and is where a decision is made. The conditions that affect this will be evaluated depending on logical conditions, such as Boolean operators. "`if X < Y then do Z`" (a decision) will evaluate to True and do Z if a condition, if X is lower than Y, is True.
+
+The flow of the program can be said to be adjusted depending on the logical condition. This is the basis for all programs and software: there is no point of using a computer if the result is already known to be the same for all inputs. 
+
+## Thinking concurrently
+Concurrent thinking is about the parts of a program that can be tackled at the same time. It would be pointless to have an intrusion detection system monitor the back door if the front door is not being monitored at the same time too. 
+
+Parallel computing is the use of multiple processors running different instructions at the same time. The GPU can be processing the positions of objects in a game whilst the CPU is decoding the instructions for a character's movement. This speeds up processing but is not possible on just one processor.
++ more intensive tasks can be offloaded to specialised parts of the computer system such as the GPU
++ processing can be sped up significantly when repetitive calculations (e.g. vector positioning in 3D rendering) need to be calculated
+	+ this is also why AI uses GPUs just like games, they both use vectorisation for various tasks
+- most programs are serial: they may not be optimised to use other processors to perform a function, or cannot do this at all. It has only been in recent years that browsers now have the option to use the GPU for graphics intensive tasks e.g. video playback/DOM rendering
+- there is an overhead of allocating and managing the coordination of different tasks being performed by different programs at the same tme
+- Amdahl's law exists.
+[Source: ARM: Limitations of parallel processing](https://developer.arm.com/documentation/dui0538/f/parallel-processing-concepts/limitations-of-parallel-processing)
+
+
+
+Concurrent processing is the allocation of time (scheduling) of each process. This is required in multi-user or multi-tasking systems. As the CPU is extremely fast the illusion is therefore that two programs are being executed at the same time but in reality they are not. 
+This has the effects of:
++ increased program throughput and utilisation of the CPU, allowing more tasks to be performed more quickly
++ the system does not need to wait for user input to start an instruction, the other instruction can use CPU time instead
+- if the CPU is executing a large number of programs and is very busy in its utilisation then the time to complete all tasks is increased (this is why your computer may freeze if you are doing lots of processing on it)
 
 
 ## Programming techniques
@@ -83,7 +105,7 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTQwNzUzMiwtMzY1MzMzNTY0LC02MD
-AwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0MjI1NzA3
-MjldfQ==
+eyJoaXN0b3J5IjpbNzM3Njg2NjkxLC0zNjUzMzM1NjQsLTYwMD
+AyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMjU3MDcy
+OV19
 -->
