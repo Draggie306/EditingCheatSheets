@@ -52,7 +52,12 @@ Involves the procedural breakdown of a problem into a number of sub-problems, to
 
 To create the solution to a problem, the components of it will need to be identified. So too will be the components of the solutions of the program itself. To do this, the steps needed to solve the problem will too need to be identified - this can be done through top-down design or hierarchy charts.
 
-Thinking procedurally allows programs to be decomposed into a series of more distinct programs
+Thinking procedurally thus allows programs to be decomposed into a series of more distinct algorithms that have their own dedicated purpose. This is an example of structured programming - modularisation, structured code (i.e. using the 3 constructs) and recursion. Each sub-function can be tested individually and documented as its own reusable component - allowing it to be used at various points in the program. The scope of these individual sub-functions means that changes to one of them will be less likely to interfere with other parts of the program; also, different programmers can work on different sub-functions.
+
+- "Decomposes"/breaks down program into sub-problems
+- Identifies components of the program
+- Identifies the components of a solution to the program
+- Techniques such as hierarchy charts allow a top-down overview as to how these sub-functions can be  
 
 
 
@@ -74,6 +79,6 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNzk1NTgsLTYwMDAyOTQ4MiwtMTEzOT
-UxMTM5MCwzMTU1NTY1MjYsMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbLTcyNDQ4OTMxMSwtNjAwMDI5NDgyLC0xMT
+M5NTExMzkwLDMxNTU1NjUyNiwxNDIyNTcwNzI5XX0=
 -->
