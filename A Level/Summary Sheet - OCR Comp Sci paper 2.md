@@ -50,7 +50,9 @@ For large projects or for large companies with a range of projects and software,
 ## Thinking procedurally
 Involves the procedural breakdown of a problem into a number of sub-problems, to accomplish the soution of an overall (larger) task. 
 
-To create the solution to a problem, the components of it will need to be identified. So too will be the components of the solutions of the program itself. To do this. 
+To create the solution to a problem, the components of it will need to be identified. So too will be the components of the solutions of the program itself. To do this, the steps needed to solve the problem will too need to be identified - this can be done through top-down design or hierarchy charts.
+
+Thinking procedurally allows programs to be decomposed into a series of more distinct programs
 
 
 
@@ -72,6 +74,6 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk1ODc0NjI3LC02MDAwMjk0ODIsLTExMz
-k1MTEzOTAsMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbLTIxNzk1NTgsLTYwMDAyOTQ4MiwtMTEzOT
+UxMTM5MCwzMTU1NTY1MjYsMTQyMjU3MDcyOV19
 -->
