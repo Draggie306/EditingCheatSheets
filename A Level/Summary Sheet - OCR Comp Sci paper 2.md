@@ -48,6 +48,7 @@ For large projects or for large companies with a range of projects and software,
 
 
 ## Thinking procedurally
+Involves the procedural breakdown of a problem into a number of sub-problems, to accomplish the soution of an overall (larger) task. 
 
 
 
@@ -70,6 +71,6 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
-I1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbLTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMT
+U1NTY1MjYsMTQyMjU3MDcyOV19
 -->
