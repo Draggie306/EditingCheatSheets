@@ -62,7 +62,7 @@ Thinking procedurally thus allows programs to be decomposed into a series of mor
 Thinking procedurally is used in conjunction with thinking ahead so that the sub-procedures process the inputs as part of the overall program to create a desired, correct and predictable output.
 
 ## Thinking logically 
-
+Logical thinking is about determining when decisions in program logic/flow have to be made. In practice this may be `if` statements (conditional selection/branching) and is where a decision is made. The conditions that affect this will be evaluated depending on logical conditions, such as Boolean operators. "`if X < Y then do Z`" (a decision) will evaluate to True and do Z if theX is lower than Y (a condition).     
 
 
 ## Programming techniques
@@ -83,7 +83,7 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNzY5OTIwMCwtMzY1MzMzNTY0LC02MD
+eyJoaXN0b3J5IjpbLTkwNTQwNzUzMiwtMzY1MzMzNTY0LC02MD
 AwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0MjI1NzA3
 MjldfQ==
 -->
