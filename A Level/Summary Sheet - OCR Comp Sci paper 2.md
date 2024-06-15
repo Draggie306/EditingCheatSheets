@@ -72,7 +72,7 @@ Concurrent thinking is about the parts of a program that can be tackled at the s
 Parallel computing is the use of multiple processors running different instructions at the same time. The GPU can be processing the positions of objects in a game whilst the CPU is decoding the instructions for a character's movement. This speeds up processing but is not possible on just one processor.
 + more intensive tasks can be offloaded to specialised parts of the computer system such as the GPU
 + processing can be sped up significantly when repetitive calculations (e.g. vector positioning in 3D rendering) need to be calculated
-	+ this is also why AI uses GPUs just like games, they both use vectorisation for various tasks
+	+ this is also why AI uses GPUs just like games, they both use vectorisation for various tasks	
 - most programs are serial: they may not be optimised to use other processors to perform a function, or cannot do this at all. It has only been in recent years that browsers now have the option to use the GPU for graphics intensive tasks e.g. video playback/DOM rendering
 - there is an overhead of allocating and managing the coordination of different tasks being performed by different programs at the same tme
 - Amdahl's law exists.
@@ -105,7 +105,7 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM3Njg2NjkxLC0zNjUzMzM1NjQsLTYwMD
-AyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMjU3MDcy
-OV19
+eyJoaXN0b3J5IjpbLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNj
+UzMzM1NjQsLTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1
+MjYsMTQyMjU3MDcyOV19
 -->
