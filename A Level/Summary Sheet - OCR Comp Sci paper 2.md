@@ -57,7 +57,10 @@ Thinking procedurally thus allows programs to be decomposed into a series of mor
 - "Decomposes"/breaks down program into sub-problems
 - Identifies components of the program
 - Identifies the components of a solution to the program
-- Techniques such as hierarchy charts allow a top-down overview as to how these sub-functions can be  
+- Techniques such as hierarchy charts allow a top-down overview as to how these sub-functions can be created for the overall problem's solution
+
+
+## Thinking logically 
 
 
 
@@ -79,6 +82,6 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNDQ4OTMxMSwtNjAwMDI5NDgyLC0xMT
+eyJoaXN0b3J5IjpbLTM2NTMzMzU2NCwtNjAwMDI5NDgyLC0xMT
 M5NTExMzkwLDMxNTU1NjUyNiwxNDIyNTcwNzI5XX0=
 -->
