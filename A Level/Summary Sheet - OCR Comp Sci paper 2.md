@@ -100,8 +100,13 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 ### Recursion and iteration
 
 A recursive function is one that has three requirements:
-- must call itself;
-- has a base case - in that it checks if a condition is 
+- has a base case - and not call itself if this is met;
+- must call itself for all times this base case is not met;
+- must reach the base case in a finite and predictable number of steps.
+
+Recursion is only useful if the algorithm is recursive. It may be more intuitive to call itself, especially if programs are modular in structure. Recursive functions also do not need to keep track of how many times they have iterated over some data as they only have one base case, resulting in shorter code, but often makes it harder to read and trace through. 
+
+Execution of the caller functi
 
 
 
@@ -117,7 +122,7 @@ A recursive function is one that has three requirements:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI5OTU1OTAzLC0xMjAyNzkyOTQ5LDczNz
+eyJoaXN0b3J5IjpbMTA3NjczNjc0LC0xMjAyNzkyOTQ5LDczNz
 Y4NjY5MSwtMzY1MzMzNTY0LC02MDAwMjk0ODIsLTExMzk1MTEz
 OTAsMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
 -->
