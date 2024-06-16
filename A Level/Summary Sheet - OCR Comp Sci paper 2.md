@@ -97,6 +97,18 @@ Sequence is the order of execution. This means that one instruction is executed 
 Selection is the process of evaluating a Boolean condition and selecting to execute code 
 
 
+### Recursion and iteration
+
+A recursive function is one that has three requirements:
+- must call itself;
+- has a base case - in that it checks if a condition is 
+
+
+
+
+
+
+
 /
 
 
@@ -105,7 +117,7 @@ Selection is the process of evaluating a Boolean condition and selecting to exec
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNj
-UzMzM1NjQsLTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1
-MjYsMTQyMjU3MDcyOV19
+eyJoaXN0b3J5IjpbMzI5OTU1OTAzLC0xMjAyNzkyOTQ5LDczNz
+Y4NjY5MSwtMzY1MzMzNTY0LC02MDAwMjk0ODIsLTExMzk1MTEz
+OTAsMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
 -->
