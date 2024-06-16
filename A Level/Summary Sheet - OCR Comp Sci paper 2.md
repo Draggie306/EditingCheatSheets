@@ -108,9 +108,12 @@ Recursion is only useful if the algorithm is recursive. It may be more intuitive
 
 Execution of the invoking function is paused, and its data is pushed to the call stack in a single stack frame, during the execution of the called function. For when recursion occurs many times, or the base case was not specified correctly, the size or depth of the call stack may be so large that a stack overflow error occurs or the system runs out of memory. This is not the case for iterative routines. 
 
+### Global and local
 
 
-
+### Parameter passing
+Passing by value creates a copy of the data with a separate memory address and data that is ony active whilst in the called subroutine and destroyed when it becomes out of scope - therefore not affecting the original variable.
+Passing by reference uses the actual memory location to 
 
 
 
@@ -122,7 +125,7 @@ Execution of the invoking function is paused, and its data is pushed to the call
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0Nzc0MDA2LC0xMjAyNzkyOTQ5LDczNz
-Y4NjY5MSwtMzY1MzMzNTY0LC02MDAwMjk0ODIsLTExMzk1MTEz
-OTAsMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbLTczMDY3OTY0LDU4NDc3NDAwNiwtMTIwMj
+c5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2NCwtNjAwMDI5NDgy
+LC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxNDIyNTcwNzI5XX0=
 -->
