@@ -106,7 +106,7 @@ A recursive function is one that has three requirements:
 
 Recursion is only useful if the algorithm is recursive. It may be more intuitive to call itself, especially if programs are modular in structure. Recursive functions also do not need to keep track of how many times they have iterated over some data as they only have one base case, resulting in shorter code, but often makes it harder to read and trace through. 
 
-Execution of the caller functi
+Execution of the invoking function is paused, and its data is pushed to the call stack in a single stack frame, during the execution of the called function. For when recursion occurs many times, or the base case was not specified correctly, the size or depth of the call stack may be so large that a stack overflow error occurs or the system runs out of memory. This is not the case for iterative routines. 
 
 
 
@@ -122,7 +122,7 @@ Execution of the caller functi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjczNjc0LC0xMjAyNzkyOTQ5LDczNz
+eyJoaXN0b3J5IjpbNTg0Nzc0MDA2LC0xMjAyNzkyOTQ5LDczNz
 Y4NjY5MSwtMzY1MzMzNTY0LC02MDAwMjk0ODIsLTExMzk1MTEz
 OTAsMzE1NTU2NTI2LDE0MjI1NzA3MjldfQ==
 -->
