@@ -116,8 +116,49 @@ Passing by value creates a copy of the data with a separate memory address and d
 Passing by reference uses the actual memory location to 
 
 
+### IDE use
 
-/
+
+### OO techniques
+
+
+
+
+### Knowledge of principles
+
+
+
+### Big-O notation
+
+
+### Standard algorithms
+
+#### Bubble sort
+
+#### Insertion sort
+
+
+#### Merge sort
+
+#### Quick sort
+
+#### Dijkstra's shortest path algorithm
+
+#### The A* algorithm
+
+#### Binary search
+
+#### Linear search
+ 
+
+
+
+
+
+
+
+
+
 
 
 
@@ -125,7 +166,8 @@ Passing by reference uses the actual memory location to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMDY3OTY0LDU4NDc3NDAwNiwtMTIwMj
-c5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2NCwtNjAwMDI5NDgy
-LC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxNDIyNTcwNzI5XX0=
+eyJoaXN0b3J5IjpbLTE2MzYzMDg2NjYsLTczMDY3OTY0LDU4ND
+c3NDAwNiwtMTIwMjc5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2
+NCwtNjAwMDI5NDgyLC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxND
+IyNTcwNzI5XX0=
 -->
