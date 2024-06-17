@@ -162,9 +162,14 @@ The examples required are for the worst case. However it is worth noting that th
 ### Standard algorithms
 
 #### Bubble sort
+This sorting algorithm is very inefficient due to its nested looping - an O(n^2^) average and worst case. It starts by initialising a Boolean value to True and while it is True it will iterate over the array and compare the current element to the element at index + 1 (and set the Bollean value to False). If the element at index + 1 is smaller than the current index, then they will be swapped (by setting index + 1 to index, and index to index + 1 with a temp variable to ensure data is not duplicated). The Boolen value will be updated to True if swapping has occurred. Then the current index is incremented, and the process will continue until the value is False, exiting the loop and signifing successful sorting.
+
+It has a time complexity of O(n^2^) for most cases; in the case that the array is sorted it will be O(n). However, its space complexity remains O(1) as it modifies the array in-place. It should thus only be used if the array is small.
 
 #### Insertion sort
+Insertion sort has similar complexities to bubble sort. 
 
+Starting at index 1, iterate over the array. If the item at the index is greater than the item at index 0, then increment the counter. Else, store the index in a temporary variable and perform comparisions on each preceding element to check if it is less than or equal to the temporary variable value. One it is so, move each element in indexes greater than the current position up by 1 and insert the temporary variable to the current index. Increment the original counter and repeat.
 
 #### Merge sort
 
@@ -178,10 +183,18 @@ The A* algorithm is a general purpose pathfinding algorithm that uses a heuristi
 
 
 #### Binary search
+Uses a midpoint (end - start DIV 2) and comparisons to check whether the item at the midpoint of an array is greater, equal to or less than the target. If it is equal, then return the position and found. Else, remove that half of the array and call the function again until the element is found. 
+- Has O(1) best case
+- For everything else, has O(log n)
 
+Binary search trees are similar. However unweighted trees have a worst case of O(n).
+
+Binary searches require the data to be pre-sorted. This also can increase the time required for new insertions.
 
 #### Linear search
- 
+ Linear search simply iterates over an array, and compares it to the target, using a counter to track iterations. Its best case is O(1) but average and worst cases are O(n) and can be used (and may be the only choice to use) on unsorted arrays. Its linear time complexity requires it to be used on a small array only, else it will take too long.
+
+Inserting items can be done as an array or linked list which is typically faster than binary searching.
 
 
 
@@ -198,8 +211,8 @@ The A* algorithm is a general purpose pathfinding algorithm that uses a heuristi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjY2MTQwMzE2LC03MzA2Nzk2NCw1ODQ3Nz
-QwMDYsLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNjUzMzM1NjQs
-LTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMj
-U3MDcyOV19
+eyJoaXN0b3J5IjpbLTcyOTI4MDYyNCwtNzMwNjc5NjQsNTg0Nz
+c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
+LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
+I1NzA3MjldfQ==
 -->
