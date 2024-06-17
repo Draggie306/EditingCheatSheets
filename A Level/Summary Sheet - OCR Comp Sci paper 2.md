@@ -157,7 +157,7 @@ The most inefficient part of the code is used to determine the complexity: if th
 #### Space complexity and cases 
 Space complexity refers to the memory usage during the operation. Linear complexities will not require any more memory to be used, however for algorithms such as merge sort the memory required increases significantly, as the implementaiton may be resursive, so may have a polynomial space complexity. While less important than time (memory is cheap) it should be considered.
 
-The examples required are for the worst case. However it is worth noting that the best case, average and worst cases are all slightly different. For msot algorithms the best case is O(1) in case only one operation has to be performed for t
+The examples required are for the worst case. However it is worth noting that the best case, average and worst cases are all slightly different. For msot algorithms the best case is O(1) in case only one operation has to be performed to get to the answer, e.g. the first element in a serial search or the middle item in binary search. The average time complexity for most algorithms is the same as their worst case but can vary slightly to be a little worse. Hash functions are always O(1) - unless there is a collision in which case the worst time complexity is likely O(n).
 
 ### Standard algorithms
 
@@ -173,6 +173,8 @@ The examples required are for the worst case. However it is worth noting that th
 #### Dijkstra's shortest path algorithm
 
 #### The A* algorithm
+The A* algorithm is a general purpose pathfinding algorithm that uses a heuristic function (h)
+
 
 #### Binary search
 
@@ -194,8 +196,8 @@ The examples required are for the worst case. However it is worth noting that th
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjM1NDM5MSwtNzMwNjc5NjQsNTg0Nz
-c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
-LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
-I1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbNzI4NjY4ODUsLTczMDY3OTY0LDU4NDc3ND
+AwNiwtMTIwMjc5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2NCwt
+NjAwMDI5NDgyLC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxNDIyNT
+cwNzI5XX0=
 -->
