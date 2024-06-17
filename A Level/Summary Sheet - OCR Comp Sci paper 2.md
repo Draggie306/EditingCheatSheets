@@ -134,22 +134,30 @@ Represents the complexity - in terms of the amount of passes to complete a sort/
 - O(1): constant. The same amount of time to execute no matter the size of the dataset. This is typically the best case
 	- A hash table is an example of this.
 - O(log n): logarithmic. Each iteration reduces the amount of remaining items by half. Likewise each time the dataset doubles the amount of iterations required to process this increases by one.
-	- Examples include binary search.
+	- Examples include binary search and merge sort.
 - O(n): linear. The linear complexity increases iterations by one for each new item in the dataset. This makes it efficient for small values but as the dataset grows the time required increases too.
 	- This includes simple `for` loops, iterating over an array.
 - O(n^2^): polynomial. Again, the number of iterating increases significantly with the size of the input dataset. This is hopelessly inefficient for even medium sized datasets.
 	- This is why a nested `for` loop is typically a bad idea for performance. 
 - O(2^n^): exponential. This is the opposite to logarithmic: the time required doubles with every element added.Again, this is hopelessly inefficient and if an algorithm requires this it is likely intractible.
 
-There is also O(n log n) which is less efficient than O(log n) but is linear to - linearithmic. This is when a linear search is performed and thus may reduce the size of the dataset by half. This includes merge sort and quick sort. 
+There is also O(n log n) which is less efficient than O(log n) but is linear to - linearithmic. This is when a linear search is performed and thus may reduce the size of the dataset by half. This includes merge sort and quick sort (although these should be categorised as logarithmic for the purposes of OCR exams). 
 
 > O(n!) is factorial and simply should not be used.
 
 To work out the complexity of code: 
 - if there are no iterations, it is likely O(1)
-- if there is halving cocurring 
+- if there is halving occurring then the complexity will likely be O(log n) 
 - single iterations make the complexity O(n)
 - nested iterations make the complexity O(n^2^)
+- recursive functions that call themselves twice or more have a O(2^n^) complexity
+
+The most inefficient part of the code is used to determine the complexity: if there is a nested for loop but also division then the complexity will be O(n^2^) due to the priority of the most inefficient loop.
+
+#### Space complexity and cases 
+Space complexity refers to the memory usage during the operation. Linear complexities will not require any more memory to be used, however for algorithms such as merge sort the memory required increases significantly, as the implementaiton may be resursive, so may have a polynomial space complexity. While less important than time (memory is cheap) it should be considered.
+
+The examples required are for the worst case. However it is worth noting that the best case, average and worst cases are all slightly different. For msot algorithms the best case is O(1) in case only one operation has to be performed for t
 
 ### Standard algorithms
 
@@ -186,8 +194,8 @@ To work out the complexity of code:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3Njc5NTk3LC03MzA2Nzk2NCw1ODQ3Nz
-QwMDYsLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNjUzMzM1NjQs
-LTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMj
-U3MDcyOV19
+eyJoaXN0b3J5IjpbMTc5MjM1NDM5MSwtNzMwNjc5NjQsNTg0Nz
+c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
+LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
+I1NzA3MjldfQ==
 -->
