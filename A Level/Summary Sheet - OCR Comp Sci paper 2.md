@@ -134,14 +134,22 @@ Represents the complexity - in terms of the amount of passes to complete a sort/
 - O(1): constant. The same amount of time to execute no matter the size of the dataset. This is typically the best case
 	- A hash table is an example of this.
 - O(log n): logarithmic. Each iteration reduces the amount of remaining items by half. Likewise each time the dataset doubles the amount of iterations required to process this increases by one.
-	- Examples include merge sort and binary sort.
+	- Examples include binary search.
 - O(n): linear. The linear complexity increases iterations by one for each new item in the dataset. This makes it efficient for small values but as the dataset grows the time required increases too.
 	- This includes simple `for` loops, iterating over an array.
 - O(n^2^): polynomial. Again, the number of iterating increases significantly with the size of the input dataset. This is hopelessly inefficient for even medium sized datasets.
 	- This is why a nested `for` loop is typically a bad idea for performance. 
 - O(2^n^): exponential. This is the opposite to logarithmic: the time required doubles with every element added.Again, this is hopelessly inefficient and if an algorithm requires this it is likely intractible.
 
-There is also O(n log n) which is us
+There is also O(n log n) which is less efficient than O(log n) but is linear to - linearithmic. This is when a linear search is performed and thus may reduce the size of the dataset by half. This includes merge sort and quick sort. 
+
+> O(n!) is factorial and simply should not be used.
+
+To work out the complexity of code: 
+- if there are no iterations, it is likely O(1)
+- if there is halving cocurring 
+- single iterations make the complexity O(n)
+- nested iterations make the complexity O(n^2^)
 
 ### Standard algorithms
 
@@ -178,8 +186,8 @@ There is also O(n log n) which is us
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTA5NDE3MCwtNzMwNjc5NjQsNTg0Nz
-c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
-LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
-I1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbMTg3Njc5NTk3LC03MzA2Nzk2NCw1ODQ3Nz
+QwMDYsLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNjUzMzM1NjQs
+LTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMj
+U3MDcyOV19
 -->
