@@ -179,6 +179,7 @@ The A* algorithm is a general purpose pathfinding algorithm that uses a heuristi
 
 #### Binary search
 
+
 #### Linear search
  
 
@@ -197,8 +198,8 @@ The A* algorithm is a general purpose pathfinding algorithm that uses a heuristi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzcxMDI4MiwtNzMwNjc5NjQsNTg0Nz
-c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
-LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
-I1NzA3MjldfQ==
+eyJoaXN0b3J5IjpbMjY2MTQwMzE2LC03MzA2Nzk2NCw1ODQ3Nz
+QwMDYsLTEyMDI3OTI5NDksNzM3Njg2NjkxLC0zNjUzMzM1NjQs
+LTYwMDAyOTQ4MiwtMTEzOTUxMTM5MCwzMTU1NTY1MjYsMTQyMj
+U3MDcyOV19
 -->
