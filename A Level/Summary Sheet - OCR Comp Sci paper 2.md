@@ -129,7 +129,11 @@ Passing by reference uses the actual memory location to
 
 
 ### Big-O notation
+Represents the complexity - in terms of the amount of passes to complete a sort/search - of an algorithm. 
 
+- O(1): constant. The same amount of time to execute no matter the size of the dataset. This is typically the best case
+	- A hash table may include this.
+- O(log n): logarithmic. Each iteration reduces the amount of remaining items by half. Likewise each time the dataset doubles the amount of iterations required to process this incree
 
 ### Standard algorithms
 
@@ -166,7 +170,7 @@ Passing by reference uses the actual memory location to
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzYzMDg2NjYsLTczMDY3OTY0LDU4ND
+eyJoaXN0b3J5IjpbLTE2NTY2MDczNzEsLTczMDY3OTY0LDU4ND
 c3NDAwNiwtMTIwMjc5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2
 NCwtNjAwMDI5NDgyLC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxND
 IyNTcwNzI5XX0=
