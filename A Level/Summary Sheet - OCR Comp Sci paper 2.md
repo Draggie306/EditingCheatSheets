@@ -173,7 +173,8 @@ The examples required are for the worst case. However it is worth noting that th
 #### Dijkstra's shortest path algorithm
 
 #### The A* algorithm
-The A* algorithm is a general purpose pathfinding algorithm that uses a heuristic function (h)
+The A* algorithm is a general purpose pathfinding algorithm that uses a heuristic function (h(x)) that qims to find a solution to the path that is "good enough" using these heuristics - but not always the most optimal solution. The real cost (g(x)) is this applied to visiting each node in addition to this heuristic function.
+
 
 
 #### Binary search
@@ -196,8 +197,8 @@ The A* algorithm is a general purpose pathfinding algorithm that uses a heuristi
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4NjY4ODUsLTczMDY3OTY0LDU4NDc3ND
-AwNiwtMTIwMjc5Mjk0OSw3Mzc2ODY2OTEsLTM2NTMzMzU2NCwt
-NjAwMDI5NDgyLC0xMTM5NTExMzkwLDMxNTU1NjUyNiwxNDIyNT
-cwNzI5XX0=
+eyJoaXN0b3J5IjpbMTU2MzcxMDI4MiwtNzMwNjc5NjQsNTg0Nz
+c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
+LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
+I1NzA3MjldfQ==
 -->
