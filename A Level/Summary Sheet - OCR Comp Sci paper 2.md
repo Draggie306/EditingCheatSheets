@@ -171,7 +171,12 @@ Insertion sort has similar complexities to bubble sort.
 
 Starting at index 1, iterate over the array. If the item at the index is greater than the item at index 0, then increment the counter. Else, store the index in a temporary variable and perform comparisions on each preceding element to check if it is less than or equal to the temporary variable value. One it is so, move each element in indexes greater than the current position up by 1 and insert the temporary variable to the current index. Increment the original counter and repeat.
 
+It is mostly useful for already-sorted or nearly-sorted lists/arrays and for small ones. However its space complexity remains O(1) due to in-place modification. The majority of the time, especially in reverse ordered arrays, its complexity is O(n^2^). 
+
 #### Merge sort
+Merge sort is the binary search of sorting. It recursively splits an array in half until each individual element can be compared and sub-lists created that double in size for each comparison, until the original length array is re-assembled in order.
+
+
 
 #### Quick sort
 
@@ -211,7 +216,7 @@ Inserting items can be done as an array or linked list which is typically faster
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyOTI4MDYyNCwtNzMwNjc5NjQsNTg0Nz
+eyJoaXN0b3J5IjpbLTE1ODY3MDY2NCwtNzMwNjc5NjQsNTg0Nz
 c0MDA2LC0xMjAyNzkyOTQ5LDczNzY4NjY5MSwtMzY1MzMzNTY0
 LC02MDAwMjk0ODIsLTExMzk1MTEzOTAsMzE1NTU2NTI2LDE0Mj
 I1NzA3MjldfQ==
