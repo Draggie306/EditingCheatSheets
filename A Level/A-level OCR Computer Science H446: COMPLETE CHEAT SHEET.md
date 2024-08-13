@@ -268,9 +268,11 @@ They were originally designed to render images and graphics. Because they are de
 
 
 ### Virtual storage
+This is storage on a device that is remote; physically not present, e.g. a cloud server. Examples may include a NAS (network attached storage), Google Drive or OneDrive, as they are all not part of the host system.
 
+It can act as a local drive but must go through the Internet (or local network). Limitations thus are network speed and cost to host the virtual drive from cloud providers and for bandwidth.  
 
-# [tbd] 1.2 Software and software development
+# 1.2 Software and software development
 
 ## 1.2.1 Systems Software
 ### Operating Systems
@@ -479,7 +481,7 @@ JavaScript for example is interpreted. This in the long run speeds up (the websi
 
 - Compiled code executes faster than interpreted code as it is directly executed by the processor
 - Compilers can apply optimisations during compilation for the program to execute more efficiently
-- Once compiled, the code can then be distributed and executed on different devices providing they have the same processor instruction set, e.g exe files on windows x86 processors.
+- Once compiled, the code can then be distributed and executed on different devices providing they have the same processor instruction set, e.g exe files on Windows x86 processors.
 
 --
 - Interpeters allow for better debugging capabilities and errors are detected at runtime for quick fixing
@@ -508,7 +510,7 @@ The lexer builds up a symbol table for every token in the program, which keeps t
 - Value (`48.3061`)
 
 #### Syntax analysis
-After the lexing stage, the tokens are now split up into phrases (e.g. a line of code), which is then parsed. During parsing, the language's rules are applied to each phrase to determine if it is valid. An error will be thrown if the phrase violates the language rules (e.g. `print("hello, world)`)
+After the lexing stage, the tokens are now split up into phrases (e.g. a line of code), which is then parsed. During parsing, the language's rules are applied to each phrase to determine if it is valid. An error will be thrown if the phrase violates the language rules (e.g. `print("hello, world)` <- unmatched quotation mark)
 
 > this is similar to a natural language!
 
@@ -518,7 +520,7 @@ A set of tokens may be valid syntaxically but not valid programatically. Semanti
 
 #### Code generation and optimisation
 
-Programmers are lazy so often source code is inefficient. Code optimisation removes redundant instructions and replace inefficient code with code that achieves the same result. For example
+Programmers are lazy so often source code is inefficient. Code optimisation removes redundant instructions and replaces inefficient code with code that achieves the same result. For example
 
 ```py
 i = 0
@@ -2272,7 +2274,8 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjk2NzY5ODgsOTExNzU0NjQ2LDE1NT
-I0OTYzNzMsLTQ0MjA3MDQyNCwtMTU5MjE5NTk5Niw2NTA1MDMz
-NzAsLTE4NDk5MDg1MTYsLTc3MjU4OTA1M119
+eyJoaXN0b3J5IjpbMTM2NDM0ODkzLC0xMTI5Njc2OTg4LDkxMT
+c1NDY0NiwxNTUyNDk2MzczLC00NDIwNzA0MjQsLTE1OTIxOTU5
+OTYsNjUwNTAzMzcwLC0xODQ5OTA4NTE2LC03NzI1ODkwNTNdfQ
+==
 -->
