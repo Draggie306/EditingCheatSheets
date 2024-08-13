@@ -811,7 +811,7 @@ Firstly, entities need to be worked out.
 
 For example, employees of a company, films, actors, club members. Each **entity** has **attributes**.
 
-The simplest kind of database, a flat file, holds data about one entity only, such as a user's coins and roles in the Baguette Brigaders Discord Server.
+The simplest kind of database, a flat file, holds data about one entity only, such as a user's coins and roles in the Baguette Brigaders Discord Server (join [here](https://ibaguette.com/discord) btw).
 
 If you are designing a system for a company that sells subscriptions for online revision resources, a flat file would not be useful.
 
@@ -1249,15 +1249,9 @@ It's worth noting that the IP has no guarantee of correct transmission, and it i
 
 #### Link layer
 
-This is also known as the Data Link/Network Interface layer
+This is also known as the Data Link/Network Interface layer. It operates across a physical connection such as an Ethernet cable or wireless chip.
 
-Each layer has its own specific tasks in transmitting data over a network.
-
-The link layer operates across a physical connection
-
-Adds the MAC address of the physical NIC that packets should be sent to based on the destination IP address
-
-MAC addresses change with each hop in transmitting data over a network.
+It also adds the MAC address of the physical NIC that packets should be sent to based on the destination IP address. MAC addresses change with each hop in transmitting data over a network.
 
 
 ### Transferring Files using FTP
@@ -1293,7 +1287,7 @@ chosenElement.innerHTML = "Hello, World!";
 
 
 
-# [tbd] 1.4 Data types, data structures and algorithms
+# 1.4 Data types, data structures and algorithms
 
 This section is about how data is represented and stored within different structures, and how different algorithms can be applied to these structures.
 
@@ -1422,22 +1416,18 @@ Number: 25.875
 ### Floating point arithmetic
 Floating point binary numbers allow the 
 
-
-## 
-
-
   
-# [tbd] 1.5 Legal, moral, cultural and ethical issues
+# 1.5 Legal, moral, cultural and ethical issues
 
 
-The **Data Protection Act 2018** controls the way data about living people is stored and processed 
+The **Data Protection Act 2018** controls the way data about living people is stored and processed .
 - It is a national law which complements the European Union's General Data Protection Regulation (GDPR)
 
-The **Computer Misuse Act 1990** makes it an offence to access or modify computer material without permission
+The **Computer Misuse Act 1990** makes it an offence to access or modify computer material without permission.
 
-The **Copyright, Designs and Patents Act 1988** covers the copying or use of other people’s work
+The **Copyright, Designs and Patents Act 1988** covers the copying or use of other people’s work.
 
-The **Regulation of Investigatory Powers Act 2000** regulates surveillance and investigation, and covers the interception of communications
+The **Regulation of Investigatory Powers Act 2000** regulates surveillance and investigation, and covers the interception of communications.
 
 
 # Paper 2
@@ -2274,8 +2264,8 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NDM0ODkzLC0xMTI5Njc2OTg4LDkxMT
-c1NDY0NiwxNTUyNDk2MzczLC00NDIwNzA0MjQsLTE1OTIxOTU5
-OTYsNjUwNTAzMzcwLC0xODQ5OTA4NTE2LC03NzI1ODkwNTNdfQ
-==
+eyJoaXN0b3J5IjpbMjA5NTIxMzU4NywtMTEyOTY3Njk4OCw5MT
+E3NTQ2NDYsMTU1MjQ5NjM3MywtNDQyMDcwNDI0LC0xNTkyMTk1
+OTk2LDY1MDUwMzM3MCwtMTg0OTkwODUxNiwtNzcyNTg5MDUzXX
+0=
 -->
