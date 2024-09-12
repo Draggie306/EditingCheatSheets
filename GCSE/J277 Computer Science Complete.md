@@ -1126,11 +1126,11 @@ Erroneous test data is data of the incorrect data type which should be rejected 
 
 ## 2.4.1 Boolean logic
 
-![](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.4.1_boolean_logic.png)
+![OCR GCSE computer science specification section 2.4.1 Boolean logic](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.4.1_boolean_logic.png)
 *Ahhh... logic diagrams and truth tables. My worst enemy. There's always a tricksy little 1 or 0 that I always put in the wrong place and there goes my full marks for the test. Grrrr!*
 
 
-![AND, OR and NOT gates](https://cheatsheet-assets.ibaguette.com/gcse/compsci/andornot.png)
+![OCR GCSE computer science specification section 2.4.1 Boolean logic - and, or and not gates](https://cheatsheet-assets.ibaguette.com/gcse/compsci/andornot.png)
 *Your AND, OR and NOT gates.*
 
 You must be able to follow the lines in a truth table, and the interactions these have at these gates.
@@ -1145,7 +1145,7 @@ You must be able to follow the lines in a truth table, and the interactions thes
 ![OR gate ](https://cheatsheet-assets.ibaguette.com/gcse/compsci/orgate.png)
 *OR gate outputs*
 
-![Deez nots](https://cheatsheet-assets.ibaguette.com/gcse/compsci/notgate.png)
+![Not gate](https://cheatsheet-assets.ibaguette.com/gcse/compsci/notgate.png)
 *Deez NOTs*
 
 
@@ -1156,7 +1156,7 @@ You must be able to follow the lines in a truth table, and the interactions thes
 
 ## 2.5.1 Languages
 
-![](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.5.1_languages.png)
+![OCR GCSE computer science specification section 2.5.1 Languages](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.5.1_languages.png)
 
 There are two categories of programming language: high and low-level languages.
 
@@ -1165,7 +1165,7 @@ There are two categories of programming language: high and low-level languages.
 
 > Assembly code, although is a low-level language, is not quite machine code. Machine code is what everything must be translated into to be executed.
 
-![enter image description here](https://cheatsheet-assets.ibaguette.com/gcse/compsci/translators.png)
+![High level languages vs assembly languages vs machine code and physical hardware, with the assembler and instruction set labelled from BBC](https://cheatsheet-assets.ibaguette.com/gcse/compsci/translators.png)
 *Taken from [here](https://www.bbc.co.uk/bitesize/guides/z6x26yc/revision/5)*
 
 A compiler parses the source code once, saving the results as a binary file, and translating it. An interpreter reads the source code line by line and converts it to executable binary while executing.
@@ -1179,7 +1179,7 @@ Interpreted code is slower, as the CPU must wait for every line to be translated
 
 ## 2.5.2 The IDE
 
-![](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.5.2_The_Integrated_Development_Environment_IDE.png)
+![OCR GCSE computer science specification section 2.5.2 The IDE (Integrated Development Environment)](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.5.2_The_Integrated_Development_Environment_IDE.png)
 
 The IDE (integrated development environment) has a wide range of tools to help programmers develop programs. These include:
 
@@ -1319,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczMzkyODkyNywtMTEzNzU4ODI5NSwtMT
+eyJoaXN0b3J5IjpbMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMT
 MxNjY4NjI0MV19
 -->
