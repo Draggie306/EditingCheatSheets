@@ -1044,7 +1044,7 @@ Local variables are declared in one subroutine or function. The value of this is
 
 Parameter passing - allows the values of local variables within the main program to be passed to sub-programs without the need to use global variables. The value of these variables (or a copy of the value of these variables) is passed as a parameter to and from sub-programs as necessary.
 
-> You can read more about the scope, lifespan and implications of memory scopes on the [A Level Cheat Sheet](https://ibaguette.com/cheatsheets/alevel/computerscience) !
+> You can read more about the scope, lifespan and implications of memory scopes on the [A Level Cheat Sheet](https://ibaguette.com/cheatsheets/alevel/computerscience)!
 
 ### SQL
 
@@ -1074,9 +1074,9 @@ You must `import random` at the start of the program for this to work (it is a *
 # 2.3 Producing robust programs
 
 
-## 3.1 Defensive design
+## 2.3.1 Defensive design
 
-![](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.3.1_Defensive_design.png)
+![OCR GCSE computer science specification section 2.3.1 Defensive design](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.3.1_Defensive_design.png)
 
 A program must be able to handle all likely input values, not just the intended one. If valid data is inputted which might affect functionality, for example entering -10 to an age question, then this will produce logic errors. To accommodate this, there can be a range of things added to a program to ensure these do not occur.
 
@@ -1098,7 +1098,7 @@ Code written must also be maintainable in the future. There are several ways of 
 
 ## 2.3.2 Testing
 
-![](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.3.2_testing.png)
+![OCR GCSE computer science specification section 2.3.2 Testing](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.3.2_testing.png)
 
 Testing is used to make sure there are no bugs or unexpected events when the code is run. You don't want to send your code to a client if it doesn't work! 
 
@@ -1319,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzc1ODgyOTUsLTEzMTY2ODYyNDFdfQ
-==
+eyJoaXN0b3J5IjpbMTczMzkyODkyNywtMTEzNzU4ODI5NSwtMT
+MxNjY4NjI0MV19
 -->
