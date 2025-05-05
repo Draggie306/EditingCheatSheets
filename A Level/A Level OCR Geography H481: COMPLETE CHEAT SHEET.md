@@ -1427,11 +1427,12 @@ Economic growth is largely an... economic factor.
 - Migrants open up new demands for goods and products in a destination area. Tesco in the UK has launched over 100 lines of Polish food, and "oriental shops on every corner" is commonly quoted in inner UK cities due to the amount of immigrants and those of immigrant heritage. 
 - Multiplier effects as a result of supplementary remittance income in areas of origin is common.
 
-> Nepal has had a multiplier effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic inc
-
+<!-- TBD
+> Nepal has had a multiplier effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic increases
+-->
 
 #### Development
-- Sociopolitial development as a result of returning flows of people, skills and capital is of great benefit to countries of origin.
+- Socio-political development as a result of returning flows of people, skills and capital is of great benefit to countries of origin.
 - Long-term development of an origin country can be facilitated by strong diaspora links that help to transfer skills, capital, knowledge and ideas through professional, social and religious networks. This has been furthered by the communications revolution.
 - NGO and supranational organisations such as the UN "Migration and Development" scheme allows collaboration between countries, families, private and public organisations for a bottom-up but also large scale approach to development in a source region.
 
@@ -1481,7 +1482,7 @@ The USA has high numbers of political, socioeconomic and environmental links wit
 Environmentally, USAID has a great interest in the Amazon Rainforest, and collaborates with Brazil's FUNAI to coordinate and plan environmental projects, preserve indiginous peoples and contribute to the gathering of scientific information - important on the global scale with the increasing importance of climate change on the world agenda.
 
 **Haiti**
-Although the poorest country in the Western hemisphere, Brazi significantly supports peace and social integration of Haitians through the provisionment of humanitarian visas, with 54,000 after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physcial presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
+Although the poorest country in the Western hemisphere, Brazil significantly supports peace and social integration of Haitians through the provisioning of humanitarian visas, with 54,000 after Haiti's political instability and natural disasters. The National Immigration Council for Brazil reduces Haitians' vulnerability to human rights abuses and have physical presence in the country to allow visas to be given easily. Many Haitians occupy roles in the primary and secondary sectors in the large cities, filling skills shortages.
 
 **Portugal**
 Portugal is well-known in Brazil for being the "gateway to the EU" for economic migrants. Sharing the same language, having colonial links and a political "special status" given to Brazillians has resulted in the Portuguese being the largest diaspora community in Brazil, and on the other side the second largest diaspora community (behind the US). The social benefits of this link are great between the two countries, with flows of ideas and people aided by the communications revolution.
@@ -1497,9 +1498,9 @@ Brazil has a stable democracy, good education system and strong civil rights. Fl
 
 
 **Social Inequality**
-Despite being a "country of immigrans" it is unfortunately those who are disciminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social enequalities. 
+Despite being a "country of immigrants" it is unfortunately those who are discriminated against in society, with African immigrants consistently the lowest in terms of educational attainment and exam scores. Many migrants - and those internally moving - also end up in cities' infamous "favelas" due to the cheap costs of living but that exacerbate social inequalities. 
 
-### Case study: AC USA
+### Case study: an AC, the USA
 The USA is an AC that influences and drives the global migration system through **economic, social and political factors**. It is the #1 biggest economy of $25tn with some of its companies valued greater than other entire countries.
 
 #### Patterns and policies
@@ -1514,7 +1515,7 @@ Today, there are several key policies. However the **Immigation and Nationality 
 - Green Card: open-door policy that allocates 50,000 visas anually at random to anyone that applies. It is a lottery system that promotes diversity. This gives a permanent residency card
 - Skills-based visas such as the H-1B, H-1A and O-1 allow 140,000 migants with skills deemed "valuable" and who are sponsored by a company every year to arrive. These are "aliens of extraordinary ability" and are highly educated, skillful, graduates and entrepreneurs who fuel innovation.  
 - Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
-	- Histroically amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
+	- Histroically, amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
 - Refugees and humanitarian visas: the USA has historically taken in more refugees than the entire world, combined. This number changes annually but stays at around 45,000 per annum
 
 **Key Policies**
@@ -1544,21 +1545,21 @@ U.S. Companies are expected to invst 40bn in Mexico throughout 2024. This create
 There is increasing environmental political cooperation and interdependence with Mexico through the joint management of the Colorado river basin (that supports 40m people) and increasing collaboration regarding the fighting of illegal crossings, and drug and people trafficking at the border. USAID also invest in governmental projects to reduce deforestation by 2030 and promote natural climate solutions and energy efficiency.
 
 #### Opportunities
-- 3/4 of Indians and over half of the Chinese immgrants are "persons of extraordinary ablity", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sudnar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences.
+- 3/4 of Indians and over half of the Chinese immigrants are "persons of extraordinary ability", able to fuel innovation especially in regions such as Silicon Valley (both Microsoft and Google CEOs, Satya Nadella and Sundar Pichai are Indian). USA benefits from cultural and social enrichment in businesses, education, arts and the sciences. 
 - Most immigrants are young and of working age. The largest age bracket of Indians is 30-34 and for Mexicans this is 40-44, boosting the tax base, allowing for gaps in the labour market to be filled and sustains natives' demand to be in higher paying, tertiary sector jobs. Over 45% of Mexicans were in primary or secondary-sector jobs (just think about how many people that is!!)
 - Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the occupation of old, industrial inner cities now occupied by migrants who redevelop the area.
 
 #### Challenges
 - Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexcian "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
 - There are still, despite amnesties, high amounts of unauthorised, illegal immigrants, an estimated 10.9 million, as a result of the "American dream" ideology throughout central and southern American countries using Mexico as a way in.
-- The tightening of border laws, deployment of border control agents and ever increasing "bureaucracy" to process migrants has beome a deterrent - and a burden for the taxpayer.
-- The size of the illegal population who do not wish to declare themselves out of fear is a barrier to social, economic and political integration. It may be burdeensome on the demand of resources in scarce regions with high migrant stock - such as southern California (a desert).
+- The tightening of border laws, deployment of border control agents and ever increasing "bureaucracy" to process migrants has become a deterrent - and a burden for the taxpayer.
+- The size of the illegal population who do not wish to declare themselves out of fear is a barrier to social, economic and political integration. It may be burdensome on the demand of resources in scarce regions with high migrant stock - such as southern California (a desert).
 
 #### Profound Statement
 > **Politics play on the fears of people in the west who want to protect their own culture, wealth and lifestyle without consideration for the cultural, social and economic benefits that migration has on countries and regions within.** 
 
 
-### Case study: LIDC Lao PDR
+### Case study: an LIDC, Lao PDR
 Laos is an LIDC with very limited influence over the global migratory system.
 
 Laos has a population of 6.8 million and is a landlocked, south-east Asian country. As an LIDC it has a HDI of just 0.576 and GDP per capita of around $2,050.
@@ -1587,18 +1588,7 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 - Lao's garment industry companies may fail to keep up with demand due to being outpriced by competition
 - People with high-skill labour including carpenters are - for the moment - are simply more likely to migrate out and seldom return, suppressing wages and creating relative inequalities.
 
-# 2.1 – Human - Changing Spaces; Making Places
-
-## What’s in a place?
-> 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
-
-A **place** can be described as a location created by human experiences. 
-A **space****Stability**
-
-
-### Intra-regional migration
-Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
-
+---
 
 # 2.1 Human – Changing Spaces; Making Places
 
@@ -1659,7 +1649,7 @@ May 2022 Council Election Results. Turnout **35.3%**
 
 
 #### Built Environment
-Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise. The 
+Mancroft is home to a variety of architectural styles and ages, ranging from the 15th century to the modern day. Examples of 15th century buildings include the Guildhall, whilst 19th century developments include the Royal Arcade. The skyline is generally low-rise.
 
 The ward also contains two modern, innovative shopping centre developments, Chantry Place and Castle Quarter. Furthermore, The Forum is a modern development in amongst the 499 listed buildings. Very diverse, e.g. Norwich Market with various stalls from tearooms, army equipment, Italian street food to Indian scents and spices - reflecting the diversity of the ward (and city as a whole!) and demands for these foods. The ward's population density at is also 10 times the UK average, having approximately 5,000 homes. 
 
@@ -1707,7 +1697,7 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
 #### Built Environment
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, in addition to typically costing more to use than bricks. Plus, it also looks good on postcards - reinforcing its status as a tourist hotspot.
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment resembles more of a postcard town. It is also an iconic material for tourism, in addition to typically costing more to use than bricks. Plus, it also looks good on postcards - reinforcing its status as a tourist hotspot.
 
 
 #### History
@@ -1758,25 +1748,20 @@ There has been a constant flow of students and academics in the area, fuelled by
 Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
 
 ### Shifting flows of people
-At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
+At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenure and house type, and by extent, the place profile.
 
 The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
 
 
 ### Globalisation and our sense of place
-Globalisation and time-space compression contribute to the feelings of a "shrinking world". There is increasing interconnectedness due to massevely increased trade and cultural links; containerisation popularised in 1956 by McLean has resulted in goods being traded faster, cheaper and in greater quantity. The communications revolution has promoted the sharing and flows of ideas, knowledge and technology, now measured in milliseconds with the internet.
+Globalisation and time-space compression contribute to the feelings of a "shrinking world". There is increasing interconnectedness due to massively increased trade and cultural links; containerisation popularised in 1956 by McLean has resulted in goods being traded faster, cheaper and in greater quantity. The communications revolution has promoted the sharing and flows of ideas, knowledge and technology, now measured in milliseconds with the internet.
 
 Exotic and far-away nations that were once perceived to be luxurious and out-of-reach can be reached in hours, not weeks. 
-The "global village" means that there are now global communties where people can meet, share ideas and have common interests; our sense of "place" now may be not just in the real world but also in platforms online and "places" to hang out in messaging boards and group chats. 
+The "global village" means that there are now global communities where people can meet, share ideas and have common interests; our sense of "place" now may be not just in the real world but also in platforms online and "places" to hang out in messaging boards and group chats. 
 
 Places in ACs may be characterised by less pollution, fewer unskilled labour with the decline of industry. However, large factories may remain, increasing crime and leaching from contaminated factories may give places a unique identity. Theses previously exotic countries - most likely LIDCs - may receive the other end, with increased contamination, rapid rural-urban migration fuelling slum settlements, and exploitative employers leaving a negative perception of the place amongst its own residents.
 
 Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.
-
-### Shifting flows of people
-At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
-
-The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich for example it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it thanks to globalisation leading to the replacement of local resources. Ocean going ships have grown significantly in size and can no longer fit up the River Yare so the riverside docklands fell into decline, much like the London Docklands.
 
 
 
@@ -1824,7 +1809,7 @@ The Gini coefficient is used to measure the inequality of income and thereby dep
 ### Case study: MIDDLESBROUGH
 Middlesborough is a region in north-east England. 
 
-A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks 16th of the UK's 317 LAs. 
+A harsh cycle of deprivation has occurred after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks 16th of the UK's 317 LAs. 
 North Ormesby Ward was the 3rd most deprived out of the 7,180 in the UK. 
 
 - Middlesbrough's average household income is £24,900
@@ -2460,11 +2445,11 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTAzMzUyNDIsLTMwNDQ3MjIxMCwtNz
-E4Mzg1MzUsMTU2MjYzMzM4MSwzODY4Nzc4MDMsMzgzMTA4MzE4
-LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OT
-k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
-MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
-U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
-MDQyMF19
+eyJoaXN0b3J5IjpbLTg3Mzg3MzAzMSwtMzA0NDcyMjEwLC03MT
+gzODUzNSwxNTYyNjMzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgs
+NDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OT
+k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
+NCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNT
+UzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2Nzcw
+NDIwXX0=
 -->
