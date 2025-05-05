@@ -2140,8 +2140,6 @@ Facts:
 
 This is an infectious, contagious disease. 
 
-
-
 ## Case study: River flooding, Bangladesh
 
 Bangladesh, bordered by India and Myanmar (synoptic link to Global Migration) is a deltaic country, situated on the world's largest river delta - the Ganges-Brahmaputra Delta. 
@@ -2463,13 +2461,9 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 - oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
 
-<!-- (explain from memory) -->
-
-## Conservative plate boundaries
-
-Typically
+<!-- (explain from m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNzI4NTQxLC0zMDQ0NzIyMTAsLTcxOD
+eyJoaXN0b3J5IjpbNDc3MTM4NzgwLC0zMDQ0NzIyMTAsLTcxOD
 M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
 ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
 Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
