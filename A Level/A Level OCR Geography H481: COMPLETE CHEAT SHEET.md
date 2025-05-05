@@ -9,32 +9,34 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 15/5/2024 81:43
-Last content addition: 15/5/2024 81:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 105/05/2024 81:435 11:59
+Last content addition: 15/05/2024 818:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may--- 
 ### Notice 12/05/2024
-Please note that if you have used this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*document before the most recent change, a variety of changes have been made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to be rewritten because of this.
+Please note that if you have used this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*document before the most recent change, agive credit!*
+
+> Notice: A variety of changes have been, or are going to be, made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to been rewritten because of this.
 
 ---
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
-> Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
+> Discuss with other students, developers, educatoteachers and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
 > NEW! You can also **follow [iBaguette on Instagram](https://instagram.com/ibaguettecom)** for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/OCR-Geo-ALevel-CheatSheet.png =500x300)
-*Top-notch graphic design by me*
+*Top-notch graphic design by me as always.*
 
 
 Let's get right into the content!
 
-# Paper 1 - Physical Systems
-# 1.1 Option B – Glaciated Landscapes
+# Paper 1 -1.1.2 Physical Systems
+# 1.1 Option B –- Glaciated Landscapes
 
-"Feeling a little like a **[drumlin](#drumlins)** today."
+*"Feeling a little like a **[drumlin](#drumlins)** today."*
 
 Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.com/apps/webappviewer/index.html?id=fd78b03a74bb477c906c5d4e0ba9abaf) to see places in the UK which have been influenced by glacial activity, with drumlins, subglacial lineations, moraines and more!
 
@@ -43,7 +45,7 @@ Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.
 > 1.a. Glaciated landscapes can be viewed as systems.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/amazing-valley-glacier-system.jpg =500x660)
-*Valley glacier photo  [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet)*
+*Valley glacier photo from [Simon Fitall](https://unsplash.com/@simonfitall?utm_source=ibaguette.com&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
 
 There are 3 main parts to any system: **inputs**, **processes** and **outputs**. 
 
@@ -104,7 +106,7 @@ The glacier mass balance is the total **sum** of all the **accumulation** (snow,
 Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in a typical scenario:
 ![Diagram of the Glacial Mass Balance in a glacier, oscillating between minimum and maximum glacier mass ](https://cheatsheet-assets.ibaguette.com/alevel/geography/MassBalance.jpg)
 
-An equilibrium is reached between accumulation and amlation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season. In the image above, as the accumulation is equal to ablation, the glacier is not growing.
+An equilibrium is reached between accumulation and amblation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season. In the image above, as the accumulation is equal to ablation, the glacier is not growing.
 
 Layers of snow within the ice give evidence of the way that it has formed.
 
@@ -118,10 +120,15 @@ Layers of snow within the ice give evidence of the way that it has formed.
 The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand.
 
 Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At highTypes of glacier and movement
+
 > (Date studied: ~29/09/2022)
 
 An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
+ 
+
 A **piedmont glacier** spreads out as a wide lobe as it **enters altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both region wider plain** typically from a smaller valley
+ 
+
 A **valley glacier** is one **bound by valley and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
 
 
@@ -138,7 +145,7 @@ Lithology is the chemical composition and physical properties of rocks. Some typ
 
 Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks such as igneous granite which do not have any of these structural weaknesses.
 
-Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'.
+Some types of limestone, like carboniferous limestone, have mwalls**, coming from a higher mountain region, from a plateau on an ice cap or any interconnected joints, giving it 'secondary permeability'.
 > **Primary permeability** is when spaces (pores) absorb and retain water.
 
 #### Relief and aspect
@@ -174,7 +181,13 @@ Ice sheets, however, are large msss f snow and ice ine  in grate than  km n are 
 
 Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of te ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
 
-Cold-based (polar) glaciers:
+Cold-based (polar) glaciers:ce sheet.
+ 
+
+An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
+
+
+**Cold-based (polar) glaciers:**
 - have a slow rate of movement (<5m/year);
 - are located in extreme latitude (polar) regions;
 - are generally flat;
@@ -198,15 +211,32 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 ### Factors affecting the microclimate 
 The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions. 
 
+#### Relief and aspect
+These have an impact on the the **microclimate**. This is a small region with its own distinct climatic chawalls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
+
+Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
+
+Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow rates of movement of only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
+
+Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers - areas of high relief mean there is greater gravitational potential energy for faster glacial movement. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (in the **zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+
 **Regional climate**
 
-The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand.
+The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, - usually those previously deposited by ice or meltwater, - such as smaller rocks, dirt and sand.
 
 Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At higher altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both regionally and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
 
 **Geology**
+#### Latitude and Altitude
 
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering as seen, through carbonation.
+Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
+
+Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
+
+#### Geology
+Geology is more than just "weak" and "strong" rocks and resistance. It is a combination of properties that uniquely determine how rocks react to stress, mechanical and chemical forces, and the environnment.
+
+Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen, through carbonation. Weakly-bonded rocks also reduce their resistance to glacial erosion.
 
 Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
 > **Primary permeability** is when spaces (pores) absorb and retain water.
@@ -215,7 +245,10 @@ Structure relates to the physical rock types, like faulting, bedding and jointin
 
 Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
 
-Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
+Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, howevIn glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks such as igneous granite which do not have any of these structural weaknesses.
+
+Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'.
+> **Primary permeability** is when spaces (pores) absorb and retain water.
 
 
 ## How are glacial landscapes developed?
@@ -267,9 +300,9 @@ Also known as a ***glacial trough***, a U-shaped valley is formed as a result of
 Firstly, before a glacial period, a V-shaped valley exists, having moderately steep sides and a central river channel, with **interlocking spurs** being a distinct feature. During periods of glaciation, snow begins to accumulate in these valleys as they are often sheltered.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/C186FA7B-7B73-41FC-8572-925D09410A4F.png)
-*How a V-shaped valley is formed. Remember this from GCSE? (if not, recap yourself on the GCSE cheat sheet!*
+*How a V-shaped valley is formed. Remember this from GCSE? (if not, recap yourself on the [GCSE Geography cheat sheet!](https://ibaguette.com/cheatsheets/gcse/geography/Paper1#river-landscapes)*
 
-When an ice mass has formed in the valley or low from an upland area, freeze-thaw weathering begins to occur above the glacier line (where this ice mass is), causing the valley to steepen, in the same way as a corrie steepens its back wall. The glacier itself also causes plucking, mostly on the sides, as rocks are frozen and ripped as the glacier moves. Vertical abrasion also deepens the valley floor as subglacial material comes into contact with the bedrock.
+When an ice mass has formed in the valley or has flowed from an upland area, freeze-thaw weathering begins to occur above the glacier line (where this ice mass is), causing the valley to steepen, in the same way as a corrie steepens its back wall. The glacier itself also causes plucking, mostly on the sides, as rocks are frozen and ripped as the glacier moves. Vertical abrasion also deepens the valley floor as subglacial material comes into contact with the bedrock.
 
 ### Hanging valley
 
@@ -284,7 +317,7 @@ After deglaciation, there may be some (iconic) water features in these glacial t
 
 #### Ribbon lake
 
-Glaciers ero te valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to havee from area of high incline to a more expansive area   a the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilled with water after a glacier retreats. More detail over aieted to swatullswattecacvt t td he Li District case study section.
+Glaciers ero te valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to havee from area of high incline to a more expansive area   a the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilvalley landform. They are visibled with water after a glacier retreats. More detail over aieted to swatullswattecacvt t td he Li District case study section.
 
 #### Misfit stream
 
@@ -299,7 +332,7 @@ As td to ster  forced up and  oer the roche moutonnée, mechanical plucking and 
 
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformaton.
 
-![enr iage destion valley landform. They are visible within th glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging valley's glacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
+![enr iage destion valley landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging valley's glacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Hanging-Valley.jpg) 
 *Photo from [Peter Hammer](https://unsplash.com/@peterham?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
@@ -314,7 +347,7 @@ Glaciers erode the valley into the typical U-shape. These lakes are typically lo
 
 #### Misfit stream
 
-A ribbon lake as well as a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
+A ribbon lake as well asnd a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x670)
 *Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
@@ -327,7 +360,7 @@ As this meltwater is forced up and over the roche moutonnée, mechanical pluckin
 
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
-![eenr iage desition ](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
+![eenter image desicription here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
 *Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
 
 The word is French with "roche" meaning rock and "moutonée" meaning sheep.
@@ -438,7 +471,7 @@ A range of physical factors have had an influence on the formation of landforms 
 ### Geology
 The area has three main geologies:
 - **Skiddaw Group** (or Skiddaw Slates - north; the oldest, sedimentary rocks formed 500mya by compaction and tectonic movement)
-- **Borrwowdale Volcanics** (central; hard igneous rocks formed 450mya including Helvellyn and Scafell Pike (978m) with the largest mountains: it is less prone to erosion)
+- **Borrwowdale Volcanics Group** (central; hard igneous rocks formed 450mya including Helvellyn and Scafell Pike (978m) with the largest mountains: it is less prone to erosion)
 - **Windermere Group** (south; softer sedimentary rocks and limestone formed 420mya and have been eroded down)
 
 
@@ -545,7 +578,7 @@ Isostatic readjustment occurs when these ice sheet glaciers retreat due to the l
 Geomorphic means changes (**morph**) to the land (**geo)**.
 
 
-Glaciofluvial landforms are formed as a result of climate changes 
+Glaciofluvial landforms are formed as a result of climate changes during and after glacial periods.
 
 ### Eskers 
 
@@ -590,7 +623,7 @@ A kame is an irregularly shaped hill, hummock or mound made of stratified glacia
 
 There are two types of kame:
 #### Delta kames
-Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** or crevasses that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
+Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** or(and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
 
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
@@ -722,7 +755,7 @@ Resistant rock, or **tor**, may be more prominent in these blockfields as they a
 
 ### Types of mass movement
 #### Solifluction lobes
-Solifluction is the movement and "flowing" of soil and sediments 
+Solifluction irefers the movement and "flowing" of soil and sediments .
 
 When the ground and soil on slopes is frozen during the winter, the soil particles are separated slightly and loosened by the ice which forms and expands by around 9% between these particles (frost heaving).
 
@@ -834,8 +867,11 @@ That's the end for glaciation! I hope you found it useful.
 
 ---
 
-# 1.2 - Earth's Life Support Systems
-Section wordcount: 8796
+# 1.2 Physical - Earth's Life Support Systems
+Section wordcount: 8796Wordcount: 8799
+Last modification: 04/05/2025 22:45
+Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resource and author acknowledgement must be given. please click the link for the full legal deed.*
 
 ---
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
@@ -845,14 +881,14 @@ Section wordcount: 8796
 
 "Without water and carbon I literally would not be here" - a wise man, 2024
 
-# 1. How important are water and carbon to life on Earth?
+## 1. How important are water and carbon to life on Earth?
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/ELSS-keyidea1.png)
 
 The short answer to this is that the water and carbon cycles are **very important**.
 
 The long answer? Well...:
 
-## Introduction to water
+### Introduction to water
 > 1a. Water and carbon support life on Earth and move between the land, oceans and atmosphere.
 
 Water is a fundamental prerequisite for life, not just on Earth but it is considered by scientists as an essential necessity for any sort of life in the universe. 
@@ -877,13 +913,13 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | Biosphere | 1.1k km^3^ |0.000081%
 * Data updated to match latest scientific research.
 
-## Introduction to carbon
+### Introduction to carbon
 
 ![enter image description here](https://upload.wikimedia.org/wikipedia/commons/8/82/Carbon_cycle-cute_diagram.svg)
 
 Carbon is the building block of life on Earth. It is available for use in the natural world and by humans.
 
-It is found across the planet, in a wide variety of stores, and is measured in Petagrams of Carbon - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
+It is found across the planet, in a wide variety of stores, and is measured in P**petagrams of Ccarbon** - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
 
 Similarly to water, carbon is a closed system on Earth, but on a more local scale such as a rainforest it becomes an open system.
 
@@ -900,18 +936,18 @@ Similarly to water, carbon is a closed system on Earth, but on a more local scal
 > The data is somewhat variable and differs between scientific research.
 
 
-## Inputs, outputs and processes of water
+### Inputs, outputs and processes of water
 > 1b. The carbon and water cycles are systems with inputs, outputs and stores.
 > 1c. The carbon and water cycles have distinctive processes and pathways that operate within them.
 
 In the global hydrological cycle, there are many interrelated processes, stores, inputs and outputs, similar to that of a glaciated system. Flux is a term used to measure the rate of flow between stores, through mass over unit time (e.g. 3m/s). In total, **around 505,000km^2^ of water is moved annually** around this system.
 
-### Evapotranspiration
+#### Evapotranspiration
 Evapotranspiration is the term used to denote the transfer of water into the atmosphere, combining evaporation and transpiration. Energy, such as insolation, when added to a mass of water like an ocean, increases particles' energy and breaks the bonds between them, allowing for a state change to gas as water vapour, which then rises. This is evaporation. Transpiration on the other hand occurs only from the biosphere and mainly plants - this accompanies the process of respiration and photosynthesis. Leaves and plant surfaces lose water through their stomata via evaporation, and this water is replenished through effectively pulling more water and nutrients from the roots through the plant. On a local scale this may be insignificant but on a wider, perhaps national scale such as the Amazon Rainforest, the amount of water transpired through the plant, and evaporated by rivers and other stores, contribute significantly to changing global weather patterns. In total, transpiration accounts for around 10% of atmospheric water vapour.
 
 Water in the soil (pedosphere) is the most likely to be absorbed by trees and vegetation, which transpire and release water into the atmosphere. You can use this as an example of a rapid flux, from the pedosphere, to the biosphere and then into the atmosphere, perhaps in under a day. **An oak tree can transpire over 150,000 litres of water** per year.  In total **10% of water vapour present is transpired by plants** (biosphere)![^1]
 
-### Precipitation
+#### Precipitation
 One of the main processes in the water cycle is **precipitation**. Simply put, this is when water leaves the atmosphere through any form, such as rain, snow, sleet or hail. When water vapour reaches the critical **dew point** (temperature at which air becomes **saturated** with moisture), it condenses in the atmosphere as clouds. Provided that there exists **condensation nuclei**, then clouds will form. As these nuclei of ice crystals or water droplets **aggregate**, they become too heavy to be suspended in the atmosphere, thus reaching a critical size and then fall to the surface as precipitation. This process is known as the collision-coalescence theory. 
 
 Water produced by precipitation is then collected in a **drainage basin** and moves into rivers through **runoff** - a combination of processes including **overland flow**, in addition to **soil infiltration**, **ground percolation** and subsequent **throughflow** and **groundwater flow**. Most of this water will then enter the ocean again, ready for the cycle to repeat, or **percolate** further into **permeable** rocks and be part of an underground **aquifer**.
@@ -924,14 +960,14 @@ Some key points:
 
 Precipitation may make it to the ground in a catchment area and be subject to the processes involved in [catchment hydrology](#Catchment-hydrology). Or, it may be **intercepted** by trees and vegetation, 
 
-### Ablation
+#### Ablation
 Ablation, which you might know from the Glaciated Landscapes unit, is the result of snowmelt. Glaciated environments and ice sheets contain the second highest amount of stored water on the planet - behind that of oceans - at 29 million cubic kilometres. Although most is in polar glaciers which take a longer time to melt due to the much colder temperatures, water is still released through **meltwater**, **calving** and **sublimation**. And from retreating alpine glaciers.
 
 In addition, permafrost melting can also contribute to the creation of extra ponds and lakes, visible in thermokarst landscapes in the Arctic Tundra. This change occurs seasonally.
 
 [This video](https://cheatsheet-assets.ibaguette.com/alevel/geography/consequences_iceberg.mp4) is a great example of the risks to humans when there is too much ablation. [VIDEO]
 
-### Condensation & cloud formation
+#### Condensation & cloud formation
 
 There are some fundamental principles of cloud formation you need to know:
 - **HOT AIR CAN HOLD MORE MOISTURE THAN COLD AIR**. (Greater energy allows for more gases)
@@ -943,7 +979,7 @@ There are some fundamental principles of cloud formation you need to know:
 
 Air moves in 'parcels' which have their own temperatures, humidity, etc.
 
-#### Adiabatic expansion
+##### Adiabatic expansion
 
 When air cools or expands adiabatically, this means that there is no heat exchange with the environment. The parcel of air purely changes based on the pressure being exerted on it by the atmosphere.
 
@@ -957,7 +993,7 @@ When the sun warms an area of land, it creates heat, which warms up the air arou
 
 ![enter image description here](https://www.ux1.eiu.edu/~jpstimac/1400/FIG04_021.JPG)
 
-#### Cloud formation
+##### Cloud formation
 Clouds main form through convection. As an area of ground warms, the local air "parcel" rises - this is atmospheric instability. For this example, let's say that the dew point is 10degrees C lower than the temperature at the surface (as a result of insolation). Therefore, as the air has not reached its dew point, it moves upwards at the DALR, and reach the dew point at an altitude of 1km. Once it reaches this level, condensation will occur, forming a cloud. However, there is still convection occurring, as the air parcel is still warmer than the surrounding ELR. Eventually, the ELR and SALR will be in equilibrium at a given altitude, which marks the point of atmospheric stability and halt of cloud formation
 
 > Different areas at different times have different dew points. and rates of ELR 
@@ -974,7 +1010,7 @@ Air can be cooled, aside from just moving vertically upwards, in several ways, a
 - Air can be forced through wind over an area of high topography (mountains) through **orographic lift**, cooling more rapidly and thus reaching the dew point more quickly, forming clouds on the windward side of the mountain. This creates orographic rainfall on one side and a rain shadow on the other.
 - When a warmer air mass mixes with a cooler one, the cooler one is heavier and will slide below the warm one. This is **frontal lift**. The hot air above is lifted by the cool air below, rapidly cooling it and, if this is enough to reach the dew point, the air becomes saturated and clouds form! 
 
-### Catchment hydrology
+#### Catchment hydrology
 There are a range of processes in a drainage basin that affect the water cycle.
 
 When precipitation occurs in an area above freezing point, is is able to move rapidly as water as opposed to slowly as snow. When this water lands on soil, it has a few options, ultimately with the goal of moving into rivers through **runoff** - a combination of processes, as defined below:
@@ -1149,9 +1185,11 @@ Rocks remain largely impermeable, due to both the permafrost and solid water and
 
 ### Carbon cycle
 
-Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little due to the extreme temperatures.
+Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
 
 <!-- To finish this section: editor TBD -->
+
+
 
 In the long-term, the degradation of permafrost and 
 
@@ -1188,21 +1226,21 @@ Positive feedback loops are a snowball effect. That is, the system, after a trig
 
 **In the water cycle:**
 1. A greater greenhouse effect increases global temperatures. This means the atmosphere can hold more moisture. The higher temperatures increase evaporation rates.  This increases the greenhouse effect. This means that temperatures are higher, and evaporation increases.
-2. Temperature increases in atm. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow&ice cover. This increases sea surface temperatures...
+2. Temperature increases in atmthe atmosphere. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow& & ice cover. This increases sea surface temperatures...
 
 
 **In the carbon cycle:**
-1. A greater greenhouse effect increases temps. Permafrost in the tundra is able to melt more quicky. CO2 and CH4 are released. This increses temperatures
+1. A greater greenhouse effect increases temps. Permafrost in the tundra is able to melt more quicky. CO2 and CH4 are released. This increases temperatures.
 
 
 #### Negative feedback loops
 
 **In the water cycle:**
-1. Higher temperatures from greenhouse effect. This increases evaporation. With more atmospheric water, more clouds are likely to form. This increases the albedo effect, reducing the amount of sunlight that is reflected as long-wave radiaion. This lowers temperaturs and evaporation.
+1. Higher temperatures from greenhouse effect. This increases evaporation. With more atmospheric water, more clouds are likely to form. This increases the albedo effect, reducing the amount of sunlight that is reflected as long-wave radiation. This lowers temperatures and evaporation.
 2. A rainfall event may occur. This increases the amount of infiltration and percolation into groundwater stores. The water table rises with more water. This increases overland flow, until the water level lowers. This lowers the amount of water in aquifers.
 
 **In the water cycle:**
-1. Increased atm CO2 emissions. This increases the amount of CO2 in the atmosphere. The CO2 available to plants increases, causing **carbon fertilisation**. Plants thus absorb more carbon from the atm. This lowers the atm CO2 concentration.
+1. Increased atmospheric CO2 emissions. This increases the amount of CO2 in the atmosphere. The CO2 available to plants increases, causing **carbon fertilisation**. Plants thus absorb more carbon from the atm. This lowers the atmospheric CO2 concentration.
 
 ### Land use changes
 A range of land use changes act as a catalyst for altering the flows and stores in the carbon and water cycles.
@@ -1232,7 +1270,7 @@ Modern agricultural techniques require huge amounts of change to natural environ
 
 
 #### Forestry
-Modifes the water cycle on a local scale, depending on the type of trees and area of effect.
+Modifies the water cycle on a local scale, depending on the type of trees and area of effect.
 
 
 
@@ -1243,7 +1281,7 @@ Artesian aquifers are those under artesian pressure. This means that in a syncli
 
 In London, the water table fell by 90m due to industry. By 1990 it was recovering at 3m/yr. Underground infrastructure was threatened and Thames Water now has permits to abstract water, maintaining the equilibrium.
 
-In the River Kennet, upstream from London, which drains 1,200 km2 of land, water extraction from sources has decreased river flow by 14% consistently. This is worse in droughts when up to 40% of the flow is lost. This reduces overland flow in the river, and also the flux as percolation into aquifers, whose water tables are less likely to rise to the surface, affecting a number of springs and saturated overland flow and water in surrounding areas. Water available for uptake by trees is also lost. Downstrem, floodplains have seen a lowering in the water table and less time spent with the saturated ground. 
+In the River Kennet, upstream from London, which drains 1,200 km2 of land, water extraction from sources has decreased river flow by 14% consistently. This is worse in droughts when up to 40% of the flow is lost. This reduces overland flow in the river, and also the flux as percolation into aquifers, whose water tables are less likely to rise to the surface, affecting a number of springs and saturated overland flow and water in surrounding areas. Water available for uptake by trees is also lost. Downstream, floodplains have seen a lowering in the water table and less time spent with the saturated ground. 
 
 
 ## How water and carbon are linked
@@ -1286,7 +1324,7 @@ Globally, wetlands account for around 7% of the land. But also 35% of the terres
 
 However, where these regions are widespread such as the tropics, human activity to sustain high population densities has reduced the amount of *natural* mangroves and salt marshes. Despite this reduction and associated risk to natural ecosystems, there have been schemes and actions taken to restore the prevalence of these wetlands. In Cambridgeshire, 500ha of low-lying land has been converted back to wetland as a result of the EU Habitats Directive. Controlled flooding of inland areas such as the Fens can also contribute to reclaiming land by the sea in these areas where the water table is naturally much higher. 
 
-In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands have been lost. However, pledges have been made to restore 30 percent of the degraded land by 2030 and over 1000 sq km has been restored, sequestering almost 400,000 tonnes of C per year! 
+In Canada, which is home to 25% of the world's wetlands, 70% of the wetlands have been lost. However, pledges have been made to restore 30 percent of the degraded land by 2030 and over 1000 sq. km has been restored, sequestering almost 400,000 tonnes of C per year! 
 
 
 ### Carbon capture and storage
@@ -1329,7 +1367,7 @@ In areas of water scarcity, water may be allocated by governments and rationed b
 
 Agriculture, as seen in the Colorado River basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
 
-Management strategies
+Management strategies:
 - minimising water loss through evaporation with the use of **drip irrigation**, reducing usage by 70%.
 - terracing and vegetative strips encourage the pooling of water on the surface. This reduces runoff and allows more time for water to infiltrate, moving through the soil as throughflow.
 - capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
@@ -1342,7 +1380,7 @@ Calculations are made in relation to the amount and rates of fluxes in the syste
 
 ---
 
-# Additional Skills
+## Paper 1 - Additional Skills
 The OCR specification also lists some specific skills you must have to ensure you get full marks. These topic-specific skills are:
 - climate graphs
 - simple mass balance (*remember from glaciation?*)
@@ -1350,23 +1388,23 @@ The OCR specification also lists some specific skills you must have to ensure yo
 - unit conversions
 - analysis and presentation of field data
 
-## Statistical tests
+### Statistical tests
 
-### Median
+#### Median
 Rank the data and work out the middle value. If it's between two points, then take the mean value between them.
 + easy to calculate
-+ not affected by extreme, anomolous values
++ not affected by extreme, anomoalous values
 - most of the values are ignored
 - less "sensitive" than the mean (a significant change on one side can be balanced by a small number on the other)
 
-### Mean
+#### Mean
 Add all values in the series together and divide by the total number of values. This is the "average".
 
 + all values accounted for
 + gives fair representation for all values
-- affected by all values even if anomolous/very large or small.   
+- affected by all values even if anomoalous/very large or small.   
 
-### Mode
+#### Mode
 The value that occurs in data the most.
 
 + can be used on qualitative data
@@ -1375,7 +1413,7 @@ The value that occurs in data the most.
 - may be multiple modes, or none at all
 - only useful for specific enquires
 
-### Range
+#### Range
 Subtract the lowest from the highest value in the data.
 
 + shows the full spectrum of all data
@@ -1384,7 +1422,7 @@ Subtract the lowest from the highest value in the data.
 - most data is ignored
 
 
-### Interquartile range
+#### Interquartile range
 Rank the data, then identify the median. For all values below the overall median, calculate the median. Repeat for the upper half. Then, subtract the lower half median from the upper half median.
 
 + measures dispersion of data
@@ -1392,13 +1430,13 @@ Rank the data, then identify the median. For all values below the overall median
 
 - doesn't include all values
 
-### Spearman's Rank
+#### Spearman's Rank
 Tests the significance of a correlation between two variables.
 
 
 $\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
 
-Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, whch means there is a less than 1% chance of this being caused by chance!
+Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, which means there is a less than 1% chance of this being caused by chance!
 
 > If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
 
@@ -1784,7 +1822,12 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 
-# [TBD] 2.2.2 Global Systems – Migration
+# [TBD] 2.2.2
+
+
+
+
+# 2.2.2 Human - Global Systems – Migration
 
 Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk/images/223012-specification-accredited-a-level-gce-geography-h481.pdf) or search for: 'Global Systems: Option B – Global Migration'
 
@@ -1810,7 +1853,7 @@ Migration is significant, and worldwide! In 2020, 291 million people were living
 ### Intra-regional migration
 Intraregional migration is migration that occurs within a region, for example, the European Union. 
 
-#### The Poles are coming!!
+#### Case study: The Poles are coming!!
 
 Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
 
@@ -2036,7 +2079,7 @@ Laos and Thailand also jointly manage the Mekong river, inheritly improving poli
 - Lao's garment industry companies may fail to keep up with demand due to being outpriced by competition
 - People with high-skill labour including carpenters are - for the moment - are simply more likely to migrate out and seldom return, suppressing wages and creating relative inequalities.
 
-# 2.1 – Changing Spaces; Making Places
+# 2.1 – Human - Changing Spaces; Making Places
 
 ## What’s in a place?
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
@@ -2049,7 +2092,7 @@ A **space****Stability**
 Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
 
 
-# [TBD] 2.1 – Changing Spaces; Making Places
+# [TBD] 2.12.1 Human – Changing Spaces; Making Places
 
 ## What's in a place?
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
@@ -2123,9 +2166,9 @@ The ward itself is named after St Peter Mancroft alongside the parish church. Th
 -  84.4% white, 6.8% Asian, 3.3% black, mixed race 3.5%
 -  77% of the population originated the UK, 23% were foreign born residents, of which 9.9% are from EU countries.
 - The highest population in age distribution bracket is 20-29 years, which contains 2,740 people
-> Least religious city in the UK! with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third, with religions at 33.5% and 3.5% respectively.
+> LNorwich is in fact the least religious city in the UK!, with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third, with religions at 33.5% and 3.5%, respectively.
 
-[Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
+ [Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
 
 #### Socio-economic
 Mancroft is categorised as a built-up area alongside most of Norwich by the ONS. Large amounts of flats, apartments in a close proximity suggests that there are many employers and jobs available within the region and city, so employees can easily access these facilities. 
@@ -2158,7 +2201,7 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
 #### Built Environment
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, as well as typically costing more to use than bricks and also looking good on postcards!
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, as well asin addition to typically costing more to use than bricks and. Plus, it also lookings good on postcards! - reinforcing its status as a tourist hotspot.
 
 
 #### History
@@ -2203,11 +2246,11 @@ During the Industrial Revolution, there was a large amount of rural to urban mig
 
 It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
 
-> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
+> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to - before then, it was faster to travel and trade with Amsterdam by boat than it was to travel to London. 
 
 Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. And definitely *not* Anglia Square. 
 
-There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
+There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to the world-renowned Cambridge Universitiey - both geographically and with academic links. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
 
 Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
 
@@ -2277,11 +2320,12 @@ b) Places are represented through a variety of contrasting formal and informal a
 
 ### Place Perception: Uluru and Jerusalem
 
+> Content to be added soon!
 
 ### Emotional attachment: The Kurds and Kurdistan
 
 ### Globalisation and our sense of place
-
+> Content to be added soon!
 
 ## Economic change and patterns of social inequality
 
@@ -2291,7 +2335,7 @@ b) Places are represented through a variety of contrasting formal and informal a
 
 
 ### [TBD] Measuring Social Inequality
-Book reference: pages 158-162
+> Book reference: pages 158-162
 
 Social inequality can be measured through various means. In the UK, the IMD is a composite statistic that comprises 7 domains with varying weightings: income and employment account for 50%, followed by education and health at 13.5%, and finally (barriers to) housing and services, crime and the living environment at 9.3%.
 
@@ -2301,7 +2345,7 @@ The Gini coefficient is used to measure the inequality of income and thereby dep
 ### Case study: MIDDLESBROUGH
 Middlesborough is a region in north-east England. 
 
-A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks16th of the UK's 317 LAs. 
+A harsh cycle of deprivation has occured after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks 16th of the UK's 317 LAs. 
 North Ormesby Ward was the 3rd most deprived out of the 7,180 in the UK. 
 
 - Middlesbrough's average household income is £24,900
@@ -2404,7 +2448,7 @@ Through the City Challenge redevelopment, they were replaced by more traditional
 
 ### Case study: Dubai's transformation
 
-From fishing village to diverse economic powerhouse.
+From fishing village to diverse economic powerhouse, Dubai is an excellent example of placemaking.
 
 After realising that oil would not be an unlimited resource, the Sheikh diversfied from 1970.
 
@@ -2413,7 +2457,19 @@ The Jebel Ali Free Zone was established, today allowing 200,000 companies to ope
 
 
 
-# [tbd] 2.2.3 Global Governance: Option C – Human Rights
+## [tbd] 2.2.3Rebranding
+There are 5 main ways to rebrand an area:
+- Top-down investment
+- Market-let strategies
+- Flagship developments
+- Events
+- Legacy
+(Others include art events, historical exhibitions etc.)
+
+
+
+# 2.2.3 Human - Global Governance: Option C – Human Rights
+> [tbd] This is incomplete - new information will be added soon.
 
 ## Overview
 Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
@@ -2430,53 +2486,13 @@ Intervention refers to activity taken by a nation to manipulate the economy, soc
 
 **Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. The ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
 - the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer. Employers have been known to go bankrupt and migrants are effectively trapped in their destination country.
-- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and can only be transported back home if they pay this back.
-- bonded labour - when a person's work is used as a form of repayment of prior debt or loan. Especially in positions of authority, with no formal contracts, or where the liberties of the person depend on the repayment, the person to whom the debt is owed can effectively demand the services indefinitely. 
-Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
-
-**Capital punishment** and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
-In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
-
-**Maternal mortality** is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is the rate of these deaths per 100,000 births. Trends that influence MMR include:
-- Fewer doctors to guide through childbirth/perform legal abortions
-- Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
-- Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
-- Countries may be patriarchal and the dowry may incentivise the selling of young girls aged 14 or lower to be married (e.g. Iraq), substantially increasing complications as bodies may not be fully developed 
-- Lower levels of education regarding contraceptives, hygiene or how to deliver a baby (vs prenatal classes or education programs)
-- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into pregnancy and as early after delivery without letting their body recover (stress)
-- Lack of nationalised or free healthcare may discourage people with hypertension or haemorrhages from seeking help until it becomes fatal.
-
-The vast majority of maternal deaths can be avoided, therefore, it is not just a question of development but also of human rights.
-
-## Gender inequality
-Women's rights are measured through the **GGGI** - the Global Gender Gap Index by the World Economic Forum. It is a percentage score that calculates the relative equality of women compared to men. It's measured through:
-- economic participation and equal opportunities;
-- educational attainment;
-- health and survival;
-- political empowerment.
-
-As of 2023, no country has closed this gap.
-
-Social norms are a barrier to gender equality. 
-
-Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of housework on the daughters, and likewise, those being married through dowry systems are expected to take care of the husband's family.
-
-In Rwanda, the genocide in 1994 resulted in over 1 million men being killed, and the effective requirement of women to fill the gaps left by the male workforce. This completely upheld the social norms present and, even today, the central African country has a female:male workforce participation ratio of 100:85, and ranks 5th in the world on the GGGI.
-
-
-
-### Case study: INDIA
-India, aside from having th largest population with some amazing people, is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
-
-The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
-
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by
+- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxODM4NTM1LDE1NjI2MzMzODEsMzg2OD
-c3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOTcwOCwt
-MTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwxNjU2Mj
-U2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOTY3Mjc3
-OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQwOCwtMT
-MyMjgzMDQzMCw2NDY3NzA0MjAsLTkxMjAxMTg1NSwtMTczODI4
-MDU2MV19
+eyJoaXN0b3J5IjpbNDQ5ODIyMjM3LC03MTgzODUzNSwxNTYyNj
+MzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02
+MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OT
+U2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDcz
+MiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNz
+gxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4
+NTVdfQ==
 -->
