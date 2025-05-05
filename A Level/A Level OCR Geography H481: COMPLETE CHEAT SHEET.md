@@ -2014,7 +2014,7 @@ Confect itself may cause further human rights violations.
 ### Flows and geopolitical intervention
 People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
 
-Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and futher abuses.
+Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and further abuses.
 
 Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
 
@@ -2043,23 +2043,20 @@ War and conflict is the most obvious direct result of intervention.
 However, there have been changes made in rural and urban neighbourhoods: 
 
 **Rural**
-- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
-- UNDP: rural uphold of local demoracy and developments in regional councils to request funding
-- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teeaching about agriculture, increasing resilience, employment and incomes
+- UNICEF have provided remote, community-first schools and "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
+- UNDP: rural uphold of local democracy and developments in regional councils to request funding
+- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teaching about agriculture, increasing resilience, employment and incomes
 
 **Urban**
 UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
 - These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
-- This has resulted in there being 1.1 million new grid connections during the intervention.
+- This has resulted in there being 1.1 million new electrical grid connections during the intervention.
 
 
-
-
- 
 
 #### Withdrawal?
 
-The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
+The withdrawal has had a dramatic negative effect on the country, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
 
 
 
@@ -2069,11 +2066,11 @@ The withdrawal has had a dramatic negative effect on the ountry, however, proves
 ### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
 The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa. The country has male life expectancies of 59 and female life expectancy of 63. The GDP per capita is just $785 across a country with 101m inhabitants.
 
-Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
+Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisanal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
 
-Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fagile DRC.
+Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fragile DRC.
 
-- Becoming more stable: first electons in 2019 were peaceful
+- Becoming more stable: first elections in 2019 were peaceful
 -  CARE International, Action Aid and the World Bank are working to improve access across the country to education and healthcare services (half of young women are illiterate). 
 
 
@@ -2132,7 +2129,7 @@ Different scales:
 
 #### Malaria
 
-Malaria is an infectious, non-contagious disease. It is concentrated around the tropics, mostly in Africa, Central America and South/Southeast Asia - in other words, it is endemic to specific countries and epidemics can occur, but not pandemics. The Anopheles mosquito, which is the fector which transports the *Plasmodium* parasite, is most abundant in warm and humid environments, but not large urban areas. 
+Malaria is an infectious, non-contagious disease. It is concentrated around the tropics, mostly in Africa, Central America and South/Southeast Asia - in other words, it is endemic to specific countries and epidemics can occur, but not pandemics. The Anopheles mosquito, which is the vector that transports the *Plasmodium* parasite, is most abundant in warm and humid environments, but not large urban areas. 
 
 Facts:
 - In 2018, 220 million people were infected with the disease.
@@ -2397,12 +2394,12 @@ It is unlikely that glaciers will form over oceans due to higher temperatures so
 *A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [u/dxrknxrth](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!*
 
 
-Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
+Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandinavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
-Aside from the geological evicence, there exists also biological evidence.
+Aside from the geological evidence, there exists also biological evidence.
 
-- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
+- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the southern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
 - *Mesosaurus* was a freshwater reptile that was native to southern Africa around 290mya. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
 
 
@@ -2439,7 +2436,7 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTcwNjY2OCwtMzA0NDcyMjEwLC03MT
+eyJoaXN0b3J5IjpbMTY2MjAzMTQ1OSwtMzA0NDcyMjEwLC03MT
 gzODUzNSwxNTYyNjMzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgs
 NDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OT
 k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
