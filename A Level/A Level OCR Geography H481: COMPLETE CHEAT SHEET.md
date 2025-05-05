@@ -2,6 +2,7 @@
 
 
 
+
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
 # A Level OCR Geography: Complete Cheat Sheet
@@ -2476,13 +2477,13 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
  
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
-At these 
+At these
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2Mj
-YzMzM4MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwt
-NjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOT
-k1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3
-MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMz
-c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
-ODU1XX0=
+eyJoaXN0b3J5IjpbLTExMjYzNTEwNTIsLTMwNDQ3MjIxMCwtNz
+E4Mzg1MzUsMTU2MjYzMzM4MSwzODY4Nzc4MDMsMzgzMTA4MzE4
+LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OT
+k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
+MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMT
+U1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3
+MDQyMF19
 -->
