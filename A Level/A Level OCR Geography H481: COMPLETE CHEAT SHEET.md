@@ -2337,6 +2337,7 @@ Note: Although not a case study, grassroots strategies should also be recapped (
 
 
 
+
 # 3.5 Debates - Hazardous Earth
 
 ## 3-marker limitation questions
@@ -2394,12 +2395,12 @@ It is unlikely that glaciers will form over oceans due to higher temperatures so
 *A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [u/dxrknxrth](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!*
 
 
-Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandinavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
+Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
 
 ### Fossil evidence
-Aside from the geological evidence, there exists also biological evidence.
+Aside from the geological evicence, there exists also biological evidence.
 
-- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the southern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
+- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
 - *Mesosaurus* was a freshwater reptile that was native to southern Africa around 290mya. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
 
 
@@ -2434,13 +2435,14 @@ A plate boundary is where there are two plates meeting. This is not the same as 
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
  
 ### Oceanic-oceanic boundary
-At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed.
-
+At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
 At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
 
 Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to, releasing kinetic energy. (There is little volcanic activity along transform faults.)
 
+
 Faster spreading (up to 170mm/yr) will result in broader and smoother mountain chains, with slow spreading (20mm/yr) having much steeper mountains.
+
 
 > A transform fault is **only the lateral** part of the zig-zag, between ocean ridge crests.
 
@@ -2448,7 +2450,9 @@ Faster spreading (up to 170mm/yr) will result in broader and smoother mountain c
 
 In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land "ridge" being "pushed" and the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
 
+
 Rift valleys can also be found where spreading is occurring at a slower rate, such as the Mid-Atlantic Ridge (North American <--> Eurasian) on land such as Iceland.
+
 
 <!-- Faster-spreading -->
 
@@ -2459,12 +2463,13 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 - oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
 
+<!-- (explain from memory) -->
 
 ## Conservative plate boundaries
 
-Typically continental plates move past in a s
+Typically
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg5Mjg0MzcwLC0zMDQ0NzIyMTAsLTcxOD
+eyJoaXN0b3J5IjpbNzQyNzI4NTQxLC0zMDQ0NzIyMTAsLTcxOD
 M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
 ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
 Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
