@@ -284,7 +284,7 @@ When a system starts, the bootloader in ROM loads the operating system into RAM.
 
 The OS provides various functions such as a user interface, memory management, interrupts and interrupt handling, scheduling and device driver management.
 
-> The Operating System hides the complexity of the hardware by providing a user interfact to the user. This can be through GUIs (graphical user interfaces) such as Windows, or through CLIs such as the Command Prompt or the Linux shell.
+> The Operating System hides the complexity of the hardware by providing a user interface to the user. This can be through GUIs (graphical user interfaces) such as Windows, or through CLIs such as the Command Prompt or the Linux shell.
 
 ### Memory management
 #### Paging
@@ -1791,7 +1791,7 @@ This algorithm is designed to find the fastest point from a start node to an end
 
 An algorithm is a sequence of instructions that can be followed to solve a problem.
 
-Pseudocode is a middleground between a functional programming language and English. There are no strict rules on how to write pseudocode. Instead, there are rough guidelines which differ slightly.
+Pseudocode is a middleground between a programming language and English. There are no strict rules on how to write pseudocode. Instead, there are rough guidelines which differ slightly.
 
 It's not tied to a specific programming language, allowing people who may not know the same programming languages, or stakeholders who may not be technical enough to understand program code, to understand and follow the logic behind how a program should work. My mum could probably understand it.
 
@@ -2264,8 +2264,8 @@ A 2D hash table can be used to fix this to an extent, by using the first hash fu
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTIxMzU4NywtMTEyOTY3Njk4OCw5MT
-E3NTQ2NDYsMTU1MjQ5NjM3MywtNDQyMDcwNDI0LC0xNTkyMTk1
-OTk2LDY1MDUwMzM3MCwtMTg0OTkwODUxNiwtNzcyNTg5MDUzXX
-0=
+eyJoaXN0b3J5IjpbMTk0MTA5NzIzMywyMDk1MjEzNTg3LC0xMT
+I5Njc2OTg4LDkxMTc1NDY0NiwxNTUyNDk2MzczLC00NDIwNzA0
+MjQsLTE1OTIxOTU5OTYsNjUwNTAzMzcwLC0xODQ5OTA4NTE2LC
+03NzI1ODkwNTNdfQ==
 -->
