@@ -1089,10 +1089,7 @@ Rocks remain largely impermeable, due to both the permafrost and solid water and
 Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
 
 
-
-
-
-In the long-term, the degradation of permafrost and 
+> [tbd] In the long-term, the degradation of permafrost and ...
 
 
 ### Oil Extraction
@@ -1385,9 +1382,9 @@ Prior to Brexit, there was a large bilateral corridor between the UK and Poland;
 
 The accession of Poland, and other A8 eastern European countries in 2004 allowed significant amounts of migration due to the freedom of Schengen movement. Many moved westwards, attracted by both higher wages and higher demand for low-skilled labour.
 
-There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigation has increased natives' wage growth, and for the top 10% it has grown by 35%.
+There is some evidence that the bottom 10% of the pay scale in the UK has had wage growth suppressed by EU immigration. However, the overall relative wage growth is 49% since 1992 and the top 50% of employees have seen the opposite effect: that EU immigration has increased natives' wage growth, and for the top 10% it has grown by 35%.
 
-Migrants fom the new EU joiners are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conformatively to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
+Migrants from the new EU joiner countries are more likely to be in employment. As of 2019 over 83% of these new immigrants had almost a 10% lead compared to natives and other pre-2004 EU members. Conforming to global migratory trends, this is because it is the youthful population who migrate, incentivised and able to work in more conditions, without an economically "burdensome" family or dependents. 
 
 According to the Financial Times, there is no evidence that European migrants come to live a life on benefits or take jobs from Britons. The average European migrant who arrived in 2016 will make a total lifetime contribution to the UK public finances of £78,000 - more so than any UK native, or non-EEA migrant.
 
@@ -1401,21 +1398,6 @@ A range of reasons are contributing to this growth.
 - New source and destination areas. Economies such as the UAE and Gulf nations have looked to diversify and build a new economy, requiring millions of workers and 
 
 Compared to the 83% employment rates of intra-regional migration, those coming into the UK from outside the EEA only have employment rates of 68% - the lowest of all groups, natives included.
-
-##
-A migrant, according to the UN definition, is someone living outside their country of origin for a period of at least a year.
-
-**Interdependence** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
-
-**Globalisation** is the growing integration and interdependence between peoples' lives economically, politically and environmentally.
-
-**Economic migrants** are those who migrate just for monetary gain, and no other reasons.
-
-Monetary remittances include money sent from economic migrants back to their home country and their family. This is significant for a variety of reasons; firstly, the stability of incomes in LIDCs, which are typically where large numbers of economic migrants emigrate from are improved. In addition, money increasingly is worth more for LIDCs - seen in Haiti where 37% of its GDP is from migrants sending home money.
-
-Migration on a global scale is significant. In 2020, there were 291 million people living outside their country of origin. Furthermore, of these, 73% were **economic migrants**, showing just how key money is to fuelling global flows of people and ideas.
-
-> Global migration involves dynamic flows of people between countries, regions and continents
 
 ## [tbd] Consequences of migration
 When I say "consequences", this includes both positive and negative factors. For example, migration creates both stability whilst also may increase inequalities.
@@ -1434,7 +1416,7 @@ In the short-term, migration allows countries of destination to receive greater 
 
 Whilst not a problem currently, ageing populations will be supported by migratory flows. Ageing Western populations with low domestic birth rates - such as the UK's 1.6 - will require migrants to support the 2 working to 1 pensioner general requirement to ensure that countries do not run into significant debt and the collapse of the state. Migrants who decide to stay are very likely to build - or already have - families, thus contributing to population and tax-base growth.   
 
-Social stability, though **social remittances** and the diffusion of ideas inheritly promotes ideas between source and origin. For South-North migration, this is especially true for democratic, equalitarian ideas (Politics students - please correct my terminology here) whilst globally flows of people can encourage politicians to engage with peacebuilding and the resolution of conflicts.
+Social stability, though **social remittances** and the diffusion of ideas inherently promotes ideas between source and origin. For South-North migration, this is especially true for democratic, equalitarian ideas (Politics students - please correct my terminology here) whilst globally flows of people can encourage politicians to engage with peacebuilding and the resolution of conflicts.
 
 
 
@@ -1445,7 +1427,7 @@ Economic growth is largely an... economic factor.
 - Migrants open up new demands for goods and products in a destination area. Tesco in the UK has launched over 100 lines of Polish food, and "oriental shops on every corner" is commonly quoted in inner UK cities due to the amount of immigrants and those of immigrant heritage. 
 - Multiplier effects as a result of supplementary remittance income in areas of origin is common.
 
-> NEPAL has had a multipler effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic increasses
+> Nepal has had a multiplier effect in rural infrastructure, small businesses and education. 25% of its GDP in 2014 vs 42% in 1995 was from remittances - reduction largely a result of domestic inc
 
 
 #### Development
@@ -2476,10 +2458,9 @@ A plate boundary is where there are two plates meeting. This is not the same as 
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
  
 ### Oceanic-oceanic boundary
-At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
-At these
+At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjYzNTEwNTIsLTMwNDQ3MjIxMCwtNz
+eyJoaXN0b3J5IjpbLTE5MTAzMzUyNDIsLTMwNDQ3MjIxMCwtNz
 E4Mzg1MzUsMTU2MjYzMzM4MSwzODY4Nzc4MDMsMzgzMTA4MzE4
 LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OT
 k5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3
