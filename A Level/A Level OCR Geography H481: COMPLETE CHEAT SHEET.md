@@ -1910,7 +1910,9 @@ After realising that oil would not be an unlimited resource, the Sheikh diversif
 
 The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the Burj Khalifa (828m in 2008) the real estate sector has grown to US$25bn.  
 
-## [tbd] Rebranding
+## Rebranding
+> [tbd] This is incomplete - new information will be added soon.
+
 There are 5 main ways to rebrand an area:
 - Top-down investment
 - Market-let strategies
@@ -1975,13 +1977,13 @@ In Rwanda, the genocide in 1994 resulted in over 1 million men being killed, and
 
 
 ### Case study: INDIA
-India, aside from having th largest population with some amazing people, is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
+India, aside from having the largest population in the world, is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
 
 The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
 
-India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "*Beti Bachao, Beti Padhao*" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
 
-However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
+However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men should be realised. 
 
 Due to legislation changes, there is some societal change being made in the country. Companies which arguably have great influence on societal changes are forced to abide by the laws, and through corporate responsibility, these ideas may trickle down over time from the legislature to civilians. 
 
@@ -1989,7 +1991,7 @@ Due to legislation changes, there is some societal change being made in the coun
 - 63% of Delhi's women fear of going out at night
 - Only 1% of Delhi's residents say they never worry if a female member of the household at any time
 
-[Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
+To put into perspective how unequal the genders are in India, this BBC News article does a great job: [Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
 
 > "Dalits" - lowest form of caste
 
@@ -1998,13 +2000,13 @@ Human rights violations can be a cause and consequence of conflict. Conflict can
 - the denial of basic needs including food, water, housing, education and employment (over long time scales)
 - discrimination - within a society, through political exclusion and injustices
 - lack of free and fair democratic systems
-- oppressive or corrput governments that do not respect all groups
+- oppressive or corrupt governments that do not respect all groups
 - genocide, ethnic cleansing and torture
 
-Confict itself may cause futher human rights violations.
-- deaths and injuries in men, women and children both combattants and civilians in zones of conflict
+Confect itself may cause further human rights violations.
+- deaths and injuries in men, women and children both combatants and civilians in zones of conflict
 - lack of access to food, water and basic resources through damaged infrastructure
-- provocation of internal and intenational migration and conditions of refugees and asylum seekers
+- provocation of internal and international migration and conditions of refugees and asylum seekers
 - abuse of power by militants on women and children
 - more genocide, ethnic cleansing and torture 
 
@@ -2437,11 +2439,11 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1OTMzNzU4LC0zMDQ0NzIyMTAsLTcxOD
-M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
-ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
-Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
-LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NT
-MyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTkxNTcwNjY2OCwtMzA0NDcyMjEwLC03MT
+gzODUzNSwxNTYyNjMzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgs
+NDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OT
+k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
+NCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNT
+UzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2Nzcw
+NDIwXX0=
 -->
