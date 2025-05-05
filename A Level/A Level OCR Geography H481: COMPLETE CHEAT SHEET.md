@@ -1,6 +1,6 @@
 
 
-  
+
 
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
@@ -9,21 +9,19 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 105/05/2024 81:435 11:59
-Last content addition: 15/05/2024 818:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 05/05/2025 11:59
+Last content addition: 15/05/2024 18:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may--- 
-### Notice 12/05/2024
-Please note that if you have used this in your own work, but a link to this resourse and author acknowledgement must be given. please click the link for the full legal deed.*document before the most recent change, agive credit!*
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but give credit!*
 
-> Notice: A variety of changes have been, or are going to be, made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have or are going to been rewritten because of this.
+> Notice: A variety of changes have been, or are going to be, made to almost all the information for a more complete and thorough scientific explanation. Some sections such as pingos and periglacial environments have been rewritten because of this.
 
 ---
 
 
 You can use a PC/device with a wide screen to see the Table of Contents and quickly navigate through this document.
 
-> Discuss with other students, developers, educatoteachers and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
+> Discuss with other students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
 > NEW! You can also **follow [iBaguette on Instagram](https://instagram.com/ibaguettecom)** for updates and new Cheat Sheets, study memes and clips, revision tips, and more!
 
@@ -33,8 +31,7 @@ You can use a PC/device with a wide screen to see the Table of Contents and quic
 
 Let's get right into the content!
 
-# Paper 1 -1.1.2 Physical Systems
-# 1.1 Option B –- Glaciated Landscapes
+# 1.1.2 Physical - Glaciated Landscapes
 
 *"Feeling a little like a **[drumlin](#drumlins)** today."*
 
@@ -106,82 +103,22 @@ The glacier mass balance is the total **sum** of all the **accumulation** (snow,
 Over a year, the graph of mass balance in a northern hemisphere glacier may look like this in a typical scenario:
 ![Diagram of the Glacial Mass Balance in a glacier, oscillating between minimum and maximum glacier mass ](https://cheatsheet-assets.ibaguette.com/alevel/geography/MassBalance.jpg)
 
-An equilibrium is reached between accumulation and amblation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season. In the image above, as the accumulation is equal to ablation, the glacier is not growing.
+An equilibrium is reached between accumulation and ablation are equal. This point may be reached between the accumulation extreme in winter and the ablation extreme in the summer season. In the image above, as the accumulation is equal to ablation, the glacier is not growing.
 
 Layers of snow within the ice give evidence of the way that it has formed.
 
 
-
-### ysical factors affecting landscapes
-> 1.b. Glaciated landscapes are influenced by a range of physical factors.
-
-#### Regional climate
-
-The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, usually those previously deposited by ice or meltwater, such as smaller rocks, dirt and sand.
-
-Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At highTypes of glacier and movement
-
-> (Date studied: ~29/09/2022)
-
-An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
- 
-
-A **piedmont glacier** spreads out as a wide lobe as it **enters altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both region wider plain** typically from a smaller valley
- 
-
-A **valley glacier** is one **bound by valley and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
-
-
-#### er aally rate s aLatitude and Altitude
-
-Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
-
-Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, however.
-
-#### Geology
-Geology is more than just "weak" and "strong" rocks and resistance. It is a combination of properties that uniquely determine how rocks react to stress, mechanical and chemical forces, and the environnment.
-
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation. Weakly-bonded rocks also reduce their resistance to glacial erosion.
-
-Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks such as igneous granite which do not have any of these structural weaknesses.
-
-Some types of limestone, like carboniferous limestone, have mwalls**, coming from a higher mountain region, from a plateau on an ice cap or any interconnected joints, giving it 'secondary permeability'.
-> **Primary permeability** is when spaces (pores) absorb and retain water.
-
-#### Relief and aspect
-These have an impact on the the **microclimate**. This is a small region with its own distinct climatic chaTypes of glacier and movement
-> (Date studied: ~29/09/2022)
-
-An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
-A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
-A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
-An **ice cap**  a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
-
-
-Valley glaciers usually occur in high altitude locations, with high relief, have fast rates of flow at 20–200m/year (mostly warm-based) and have distinct areas of ablation and accumulation, descending from mountains.
-
-Ice sheets, however, are large masses of snow and ice defined by being greater than 50,000 km² and are usually in locations of high/low latitude and have slow racteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions. 
-
-Areas of high relief mean there is greater gravitational potential energy for faster glacial movement. 
-
-
 ### Types of glacier and movement
-> 1.c. There are different types of glacier and glacier movement.
 
-An **ice sheet is a mass o so  ice reater ha , it nsderae thine imnt acr spres out s a ie loe s it eter aider a typically frm a maller le all glacier is one ond b ally all, ming frm a ihe mnin egir a lateauon an ice ca or an ie sheetn ie cs of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so a*domeshaped ms of glacial ie* usaly sitated n a hhland re nd also coers mblation levels are lower too.
+> (Date studied: ~29/09/2022)
 
+An **ice sheet** is a mass of snow and ice, **greater than 50,000km^2^** with considerable thickness.
+ 
 
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of the ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big cracks in icegaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier) making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
+A **piedmont glacier** spreads out as a wide lobe as it **enters a wider plain** typically from a smaller valley
+ 
 
-Valley glaciers usally or   altitude ain, th high relief, hae as rates o lo at ear mostly warmae and hve istict ares of blation and accumulation, descending from mountains.
-
-Ice sheets, however, are large msss f snow and ice ine  in grate than  km n are say inoctins o il latite and have slow rates o moement and ly aroun ear ostl coldased. he ase of te glacie s froen  he edroc and has a ittle pecipitation bu also oer temperates so alaton l are loer .
-**Cold-based (polar) glaciers:**s of movement and only around 5m/year (mostly cold-based). The base of the glacier is frozen to the bedrock and has a little precipitation but also lower temperatures so ablation levels are lower too.
-
-
-Fundamentally, glaciers move because of gravity. The gradient influences the effect of gravity on glaciers. The thickness of te ice and the pressure exerted on the bedrock can also influence melting and movement. More accumulation also leads to more movement. When ice is solid and rigid, it breaks into crevasses (big gaps visible from the surface). Under pressure, ice will deform and behave like plastic (**zone of Plastic Flow** on the lower half of the glacier making it move faster.  Conversely, the **rigid zone** is on the top half of the glacier.
-
-Cold-based (polar) glaciers:ce sheet.
+A **valley glacier** is one **bound by valley walls**, coming from a higher mountain region, from a plateau on an ice cap or an ice sheet.
  
 
 An **ice cap** is a **dome-shaped mass of glacial ice** usually situated on a highland area and also covers >50,000km^2^.
@@ -207,7 +144,6 @@ Cold-based glaciers are unable to move by basal sliding as the basal temperature
 
 ![e](https://cheatsheet-assets.ibaguette.com/alevel/geography/Based%20Glaciers.png)
 
-
 ### Factors affecting the microclimate 
 The microclimate is a small region with its own distinct climatic characteristics, for example, one side of a mountain, or the north side of a valley. Generally, wider climate characteristics play a larger role in influencing the behaviour of glaciers, but glaciers are also affected by various lower-level and smaller-scale conditions. 
 
@@ -222,11 +158,11 @@ Fundamentally, glaciers move because of gravity. The gradient influences the eff
 
 **Regional climate**
 
-The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials, - usually those previously deposited by ice or meltwater, - such as smaller rocks, dirt and sand.
+The wind is a moving force and can carry out processes such as transportation, position and erosion. In the air, these are known as **aeolian processes**, and can contribute to shaping glaciated landscapes. It is more effective when acting upon fine materials - usually those previously deposited by ice or meltwater - such as smaller rocks, dirt and sand.
 
 Temperature within the climate is another factor, as temperatures above 0°C will melt accumulated snow and ice, resulting in more outputs in the system. At higher altitudes, there are typically more prolonged periods of above-freezing temperatures, and melting, compared to in high latitude locations, where is below freezing most of the time, allowing for glaciers to thicken and expansive ice sheets to form. Precipitation is another climate factor, with its totals and patterns, both regionally and seasonally, in determining the mass balance of a glacier system, as it provides the main inputs to these glaciers as snowfall.
 
-**Geology**
+
 #### Latitude and Altitude
 
 Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
@@ -236,20 +172,12 @@ Altitude also has a direct impact on the temperatures and development of valley 
 #### Geology
 Geology is more than just "weak" and "strong" rocks and resistance. It is a combination of properties that uniquely determine how rocks react to stress, mechanical and chemical forces, and the environnment.
 
-Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen, through carbonation. Weakly-bonded rocks also reduce their resistance to glacial erosion.
+Lithology is the chemical composition and physical properties of rocks. Some types, like basalt, are very resistant to erosion and weathering, as they are comprised of densely packed interlocking crystals. Clay, on the other hand, is weak and does not have these strong bonds on the molecular level. The solubility of rocks like chalk can also be affected by acidity, making them prone to chemical weathering, as seen through carbonation. Weakly-bonded rocks also reduce their resistance to glacial erosion.
 
-Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'. 
-> **Primary permeability** is when spaces (pores) absorb and retain water.
-
-**Latitude and Altitude**
-
-Beyond the Arctic and Antarctic circles, located at 66.5° north and south, the climate is very dry, with little seasonal variation. Being so dry and extremely cold, they are much different to more dynamic valley glaciers as they have higher precipitation levels, and more névé turns into firn. The dryness contributes to **periglacial** environments *(see below for more about those!)* while also turning the types of glaciers in these areas to more cold-based. This means that they flow much less quickly, and different types of movement occur. 
-
-Altitude also has a direct impact on the temperatures and development of valley glaciers. As temperatures typically decrease by 0.7^o^C every 100m of altitude gained, there are more likely to be valley glaciers in areas of high relief, as seen in the Alps and the Himalayas. These glaciers are still not as cold as cold-based glaciers, howevIn glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks such as igneous granite which do not have any of these structural weaknesses.
+Structure relates to the physical rock types, like faulting, bedding and jointing. These all have an impact on how permeable rocks are. Chalk, for example, is very porous, spaces between the particles within it on the molecular level allow water to percolate through. In glaciated environments, this is significant as freeze-thaw action can crack rocks with faults or pores from the inside. This compares to crystalline rocks such as igneous granite which do not have any of these structural weaknesses.
 
 Some types of limestone, like carboniferous limestone, have many interconnected joints, giving it 'secondary permeability'.
 > **Primary permeability** is when spaces (pores) absorb and retain water.
-
 
 ## How are glacial landscapes developed?
 Glacial landforms are typically classified according to erosional and depositional processes. This development can be described as a series of interrelated processes.
@@ -288,7 +216,7 @@ An arête is a knife-shaped, narrow ridge formed when two corries' back walls co
 
 A pyramidal peak is a high mountain whose surroundings have been eroded as corries. Three or more corries eroding back-to-back (similarly to how arêtes form) result in this sharp peak forming. There are typically distinct aretes visible all the way up to the peak, representing the boundary between corries. 
 
-![eeer iage desition nter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Matterhorn.jpg)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Matterhorn.jpg)
 *The Matterhorn in the European Alps. It is a great example of a pyramidal peak.*
 
 ### U-shaped valleys
@@ -306,33 +234,7 @@ When an ice mass has formed in the valley or has flowed from an upland area, fre
 
 ### Hanging valley
 
-Hanging valleys with waterfalls and truncated spurs are a feature of the U-shaped alle landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging all  lacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
-
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Hanging-Valley.jpg) 
-*Photo from [Peter Hammer](https://unsplash.com/@peterham?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
-
-
-### Water features
-After deglaciation, there may be some (iconic) water features in these glacial troughs.
-
-#### Ribbon lake
-
-Glaciers ero te valley into the typical U-shape. These lakes are typically long, thin and deep as a result of compressing flow, as this ice is likely to havee from area of high incline to a more expansive area   a the ice is more likely to move faster and pushed into a thinner area downstream, so is more likely to erode vertically rather than laterally. This depression (or **rock basin**) is then refilvalley landform. They are visibled with water after a glacier retreats. More detail over aieted to swatullswattecacvt t td he Li District case study section.
-
-#### Misfit stream
-
-A ribbon lake  well as a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
-
-![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x0)
-*Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet). Roche moutonnées
-
-A roche moutonnée is a more rebstant rock in the path of a glacier. Light abrasion from the above subglacial material occurs on the upvalley (stoss) side, resulting in striations, grooves, and polishing from subglacial debris. There may also be pressure melting at a local scale on this side.
-
-As td to ster  forced up and  oer the roche moutonnée, mechanical plucking and freeze-thaw weathering occur. On the down-valley (lee) side, the **pressure release** results in refreezing into ice, while the glacier continues to move, thereby pulling away the rock and giving it a craggy appearance.
-
-Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformaton.
-
-![enr iage destion valley landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging valley's glacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
+Hanging valleys with waterfalls and truncated spurs are a feature of the U-shaped valley landform. They are visible within this glacial trough, and form as a smaller glacier from another valley has created a U-shaped valley which then enters the larger valley. As the hanging valley's glacier is smaller, it is less powerful, so it does not reach the base of the larger glacial trough valley.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Hanging-Valley.jpg) 
 *Photo from [Peter Hammer](https://unsplash.com/@peterham?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
@@ -347,7 +249,7 @@ Glaciers erode the valley into the typical U-shape. These lakes are typically lo
 
 #### Misfit stream
 
-A ribbon lake as well asnd a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
+A ribbon lake and a misfit stream may also be present in the base of the newly-formed glacial trough valley after deglaciation.
 
 ![](https://cheatsheet-assets.ibaguette.com/alevel/geography/misfit-stream.jpg =500x670)
 *Misfit stream: Photo from [Mario Álvarez](https://unsplash.com/@mriovisual?utm_source=iBaguette&utm_medium=referral&utm_content=iBaguetteGeographyALevelCheatSheet).*
@@ -360,7 +262,7 @@ As this meltwater is forced up and over the roche moutonnée, mechanical pluckin
 
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
-![eenter image desicription here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
 *Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
 
 The word is French with "roche" meaning rock and "moutonée" meaning sheep.
@@ -389,7 +291,7 @@ After deglaciation, isostatic readjustment may occur, and these compressed, lowe
 - Material deposited directly by ice is called **till**.
 - Material deposited by meltwater is called outwash, or **glacio-fluvial material**.
 
-Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as the theory of dsepositional drumlins.
+Lodgement till is material deposited by advancing ice, due to pressure being exerted into existing valley material, and left behind as ice advances, such as the theory of depositional drumlins.
 Ablation till is material deposited at the terminus by melting ice from stagnant, or retreating glaciers during a warm period or end of glaciation event. Most depositional landforms are this type.
 
 It can be known whether sediment was deposited by water or ice. Ice-transported sediment is **angular**, not curved, as it has not been subject to more abrasive, erosional forces by the meltwater. The **order of size of sediments** can indicate this too, as water deposits sediment **progressively** due to reducing energy levels, while glaciers deposit material **unsorted**; 'en masse'. Glaciers also deposit till in **mounds and ridges**, as, during ablation, this englacial and supraglacial material gets dropped on the bedrock below. This is distinct from the layered deposition (or strata) typically characterised by fluvial processes. Glaciofluvial processes involve an amount of stratification but not complete sorting.
@@ -408,7 +310,7 @@ Moraines are ridges of soil, rocks and till which have been deposited by a glaci
 
 #### Medial moraines
 
-Form in the **centre of a glacial channel** (typically when two glaciers merge - see the image above an o ad you can see how the mountain in the middle is being carved out). Also may occur when their **lateral moraines meet** and combine into one.
+Form in the **centre of a glacial channel** (typically when two glaciers merge - see the image above and you can see how the mountain in the middle is being carved out). Also may occur when their **lateral moraines meet** and combine into one.
 
 #### Lateral moraines
 
@@ -420,7 +322,7 @@ These mark a **pause or halt of glacial retreat** (e.g. when there are a couple 
 
 #### Terminal moraine
 
-A ridge, often characterised by bein g the largest and most prominent in the area, marking the **maximum advance of a glacial period** (glacial maximum), deposited at the snout of the glacier. Often crescent-shaped when observed from the cross profile.
+A ridge, often characterised by being the largest and most prominent in the area, marking the **maximum advance of a glacial period** (glacial maximum), deposited at the snout of the glacier. Often crescent-shaped when observed from the cross profile.
 
 #### Recessional moraines
 
@@ -445,7 +347,7 @@ Others argue that they may have a bedrock core (hence rock-cored drumlins) and a
 
 Another argument to the formation of drumlins is that they occur when a glacier move over an area of existing glacial deposits. As the glacier moves over this existing till, the pressure of the overlying ice causes the till to be remoulded and changed into the characteristic shape of streamlined till that we know and love as a drumlin.
 
-They typically occur in larger groups, or ‘swarms'. This is known as a ‘'**basket of eggs**' topography.
+They typically occur in larger groups, or ‘swarms'. This is known as a ‘**basket of eggs**' topography.
 
 Drumlins can be up to 1,000m in length but are typically around 300-500m. They also improve revenue for farmers, as the topography allows them to have a larger farming area in the same sized plot of land. Their length-to-width ratio is typically between 1.8 and 4.1, and this may be an indication of past glacial velocities, with longer drumlins indicating a faster ice velocity due to the laminar flow of ice.
 
@@ -462,7 +364,7 @@ Drumlins are often found in conjunction with [morainic](#moraines) landforms and
 
 The Lake District is a mountainous area in the north of England. Over the Pleistocene epoch, many glacials and interglacials moulded the area into what it is today, with the most recent activity during the Last Glacial Period (the Loch Lomond Stadial; 12kya) being responsible for the current appearance of the valley landscape.
 
-![eenter image desicription here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/Beautiful_Lake_District.JPG?a=lirycrof =500x700)
 *A beautiful view towards Helvellyn from Blencathra.*
 
 
@@ -471,7 +373,7 @@ A range of physical factors have had an influence on the formation of landforms 
 ### Geology
 The area has three main geologies:
 - **Skiddaw Group** (or Skiddaw Slates - north; the oldest, sedimentary rocks formed 500mya by compaction and tectonic movement)
-- **Borrwowdale Volcanics Group** (central; hard igneous rocks formed 450mya including Helvellyn and Scafell Pike (978m) with the largest mountains: it is less prone to erosion)
+- **Borrowdale Volcanic Group** (central; hard igneous rocks formed 450mya including Helvellyn and Scafell Pike (978m) with the largest mountains: it is less prone to erosion)
 - **Windermere Group** (south; softer sedimentary rocks and limestone formed 420mya and have been eroded down)
 
 
@@ -486,7 +388,7 @@ The area has three main geologies:
 
 Helvellyn is a 950m tall pseudo-pyramidal peak with aretes named Striding Edge and Swirral Edge separating the corrie from Brown Cove Tarn and Nethermost Cove, respectively. These corries are on the north-east side of the mountain. It's not quite an official pyramidal peak as it only has these two named corries (but for all intents and purposes...).
 
-Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). The varied geology also resulted in extending flow contributing to the ununiformityed nature of the U-shaped valley.
+Ice from Red Tarn at Helvellyn met with the Brown Cove Tarn ice, creating the Helvellyn Gill hanging valley. Flowing northeast into Glenridding Valley, it joined another larger glacier creating a  **glacial trough** in present-day Ullswater. Likely exacerbated by compressing flow, where the ice mass moves slower, a long, thin, deep ribbon lake formed (as the flow made ice more likely to erode vertically). The varied geology also resulted in extending flow contributing to the ununiformed nature of the U-shaped valley.
 
 > This glacier would have continued flowing north-eastwards, taking eroded material with it, towards modern-day Penrith, which is in a flat area, possibly resulting in the old Ullswater glacier becoming a Piedmont glacier when entering this more expansive, larger valley. 
 
@@ -498,7 +400,7 @@ Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk
 
 To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
 
-Drumlins made of boudlder clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
+Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
 **Langstrath Valley** has an example of lateral moraine on the north side of it.
 
 The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, proving that there was once glacial activity in the area.
@@ -533,10 +435,10 @@ These examples clearly show the significant extent to which landforms in a valle
 
 The Laurentide Ice Sheet was a huge ice sheet, up to 2 miles in height in some places, with cycles of growth and retreat several times over the Quaternary period, from over 2mya to... today!  
 
-The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometeres high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
+The geology of Minnesota is varied. There are alternating bands of igneous and sedimentary rocks. In the north, a range of mountains several kilometers high was created by tectonic compression, made of strong metamorphic gneiss. In the Arrowhead region in the northeast, located near to Lake Superior, tectonic tilting has exposed weaker, lesser-jointed shale rocks.
 
 Its last advance occurred between around 100kya and 20kya, where subglacial erosion carved out areas of North America, from the huge Hudson Bay to the hundreds of thousands of smaller lakes present in Minnesota and Canada, such as Mille Lacs Lake in an ellipsoidal basin. The mountains were eroded; now Eagle Mountain, the highest, is only 701m high. Part of Lake Superior and other Arrowhead region lakes were deeply eroded thanks to their weaker geologies. 
- 
+
 
 As it made its final retreat, meltwater was blocked by the ice and the large "Big Stone Moraine", forming Glacial Lake Agassiz. It was larger than every Great Lake combined, covering around 300,000 square kilometres, around the same size as the present-day Black Sea. With continued ice ablation, a glacial lake outburst flood (GLOF) occurred as the moraine was overtopped, around 11,000 years ago, resulting in large-scale erosion of an area 8km wide and 76m deep in Browns Valley, Minnesota. This old river is known as the Glacial River 'Warren', helping to carve out the modern Minnesota and Mississippi rivers, and the valley present today. With the water came deposition: large swathes of fertile silt and soil deposits have been left behind in the valley, likely from the Big Stone Moraine. It took around 2,000 years for the lake to fully drain, and it likely had a large impact on the climate, sea level and even early civilisation! [simplified]
 
@@ -577,12 +479,11 @@ Isostatic readjustment occurs when these ice sheet glaciers retreat due to the l
 **Glacio-fluvial** means **an environment shaped by glacial meltwater.**
 Geomorphic means changes (**morph**) to the land (**geo)**.
 
-
 Glaciofluvial landforms are formed as a result of climate changes during and after glacial periods.
 
-### Eskers 
+### Eskers
 
-Eskers are long, sinuous (*many curves and turns*) ridges made from sand, gravel and other types of glacial till deposited on valley floors by glacial meltwater flowing through **subglacial and englacial tunnels**. 
+Eskers are long, sinuous (*many curves and turns*) ridges made from sand, gravel and other types of glacial till deposited on valley floors by glacial meltwater flowing through **subglacial and englacial tunnels**.
 
 > Eskers are "elongated ridges of glaciofluvial sediment deposited by subglacial meltwater pipes".
 
@@ -612,7 +513,7 @@ Many eskers are found in central Ireland, some are in Canada, as well as many in
 
 [Here](https://www.google.com/maps/@64.0543235,-16.3193597,405m/data=!3m1!1e3?hl=en) is an example of an esker on Google Maps.
 
- A meltwater stream is visible south of it, as well as another esker to the east.
+A meltwater stream is visible south of it, as well as another esker to the east.
 
 **Post-glacial climate change in Eskers**
 During periods of increasing global climatic temperatures, the rate of glacial ablation increases and results in more meltwater being produced. This means that there is more accumulation of sediment in proglacial areas and the length of these eskers is likely to increase or become more beaded with greater and more intense ablation periods. With faster glacial ablation, eskers will be exposed in greater number.
@@ -623,12 +524,12 @@ A kame is an irregularly shaped hill, hummock or mound made of stratified glacia
 
 There are two types of kame:
 #### Delta kames
-Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** or(and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
+Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** (and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
 
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
 #### Kame terraces
-Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice- marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor. 
+Kame terraces are ridges of material near or on the valley margin. They are largely comprised of **ex-lateral moraine**, which was transported into the ice-marginal lake due to the supraglacial streams formed due to the warming of ice through friction with valley walls. As this is largely glacio-fluvial, unlike morainic deposits, these are somewhat sorted and stratified by the movement of water. When the glacier retreats, this sediment is dropped and collapses onto the bedrock floor.
 
 
 > Watch out! Many people say 'kame' when they mean 'esker'! You need to know the differences between the two well. (main one is eskers are subglacial, kames are not)
@@ -696,7 +597,7 @@ They are found in large quantities in south Iceland, for example.
 
 Due to climate change, braided streams may dry up due to smaller amounts of ice present in these areas, after an initial increase in ablation due to temperature rise. This initial increased sediment load will progressively decrease as the ice mass decreases. 
 
-As a result, there can be expected to be more eroded streams, being deeper and wider, inside this outwash plain, followed then by the arebea becoming dry and tundra-like. Whilst vegetation thrives in outwash plains due to the rich minerals present in the glacial meltwater, this may also dry up in the future, becoming a barren, sandy and gravelly area with little life, or could be taken over and reclaimed by plants depending on resource availability.
+As a result, there can be expected to be more eroded streams, being deeper and wider, inside this outwash plain, followed then by the area becoming dry and tundra-like. Whilst vegetation thrives in outwash plains due to the rich minerals present in the glacial meltwater, this may also dry up in the future, becoming a barren, sandy and gravelly area with little life, or could be taken over and reclaimed by plants depending on resource availability.
 
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/valley-braidedstream.jpg =700x500)
@@ -755,7 +656,7 @@ Resistant rock, or **tor**, may be more prominent in these blockfields as they a
 
 ### Types of mass movement
 #### Solifluction lobes
-Solifluction irefers the movement and "flowing" of soil and sediments .
+Solifluction refers the movement and "flowing" of soil and sediments.
 
 When the ground and soil on slopes is frozen during the winter, the soil particles are separated slightly and loosened by the ice which forms and expands by around 9% between these particles (frost heaving).
 
@@ -864,11 +765,10 @@ That's the end for glaciation! I hope you found it useful.
 *What if I told you about Paraglaciation and Paraperiglaciation as well?*
 
 
-
 ---
 
 # 1.2 Physical - Earth's Life Support Systems
-Section wordcount: 8796Wordcount: 8799
+Wordcount: 8799
 Last modification: 04/05/2025 22:45
 Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resource and author acknowledgement must be given. please click the link for the full legal deed.*
@@ -919,7 +819,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 
 Carbon is the building block of life on Earth. It is available for use in the natural world and by humans.
 
-It is found across the planet, in a wide variety of stores, and is measured in P**petagrams of Ccarbon** - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
+It is found across the planet, in a wide variety of stores, and is measured in **petagrams of carbon** - PgC - which is the same 1 gigaton. It is stored as a gas in the atmosphere, in oceanic sediments, and is used in living organisms to... continue living, amongst other things. Carbon is also very useful as we can use it to power various electricity generators through hydrocarbons like oil.
 
 Similarly to water, carbon is a closed system on Earth, but on a more local scale such as a rainforest it becomes an open system.
 
@@ -1099,7 +999,7 @@ Rock permeability in the Amazon is also a physical factor. The Amazon Basin is s
 Relief also plays a role. The gentle relief of the basin today results in most flows being horizontal, either overland or throughflow in the soil. However, the Andes to the west increases the relief significantly. Higher relief adds energy to water and thus there is less chance for infiltration to occur. Surface runoff is much higher and, combined with orographic lift likely occurring here, there is the potential for low-lying flood plains downstream to fill for several months. Therefore, relief can both increase and decrease levels of overland flows, whilst altering the stores of water in the soil or over the land. 
 
 
-### Physical factors affecting carbon.
+### Physical factors affecting carbon
 
 Carbon stores and flows are influenced by temperature, vegetation, organic matter in the soil, and rocks' mineral composition. 
 
@@ -1187,7 +1087,7 @@ Rocks remain largely impermeable, due to both the permafrost and solid water and
 
 Permafrost is estimated to contain 1,600 GtC in the tundra. The main store of carbon is in the soil and permafrost: low temperatures mean little decompositional activity, and it may take thousands of years for plants to decompose. The biomass store is very little  due to the extreme temperatures.
 
-<!-- To finish this section: editor TBD -->
+
 
 
 
@@ -1226,7 +1126,7 @@ Positive feedback loops are a snowball effect. That is, the system, after a trig
 
 **In the water cycle:**
 1. A greater greenhouse effect increases global temperatures. This means the atmosphere can hold more moisture. The higher temperatures increase evaporation rates.  This increases the greenhouse effect. This means that temperatures are higher, and evaporation increases.
-2. Temperature increases in atmthe atmosphere. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow& & ice cover. This increases sea surface temperatures...
+2. Temperature increases in the atmosphere. This increases sea surface temperatures. This melts polar sea ice. This decreases the albedo effect from snow & ice cover. This increases sea surface temperatures...
 
 
 **In the carbon cycle:**
@@ -1287,7 +1187,7 @@ In the River Kennet, upstream from London, which drains 1,200 km2 of land, water
 ## How water and carbon are linked
 > 4.a. The two cycles are linked and interdependent.
 
-As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways. 
+As I've hinted at and I'm sure you've realised by now, the water and carbon cycles are linked in many ways.
 
 - **Oceans**
 - **Atmosphere**
@@ -1393,7 +1293,7 @@ The OCR specification also lists some specific skills you must have to ensure yo
 #### Median
 Rank the data and work out the middle value. If it's between two points, then take the mean value between them.
 + easy to calculate
-+ not affected by extreme, anomoalous values
++ not affected by extreme, anomalous values
 - most of the values are ignored
 - less "sensitive" than the mean (a significant change on one side can be balanced by a small number on the other)
 
@@ -1402,7 +1302,7 @@ Add all values in the series together and divide by the total number of values. 
 
 + all values accounted for
 + gives fair representation for all values
-- affected by all values even if anomoalous/very large or small.   
+- affected by all values even if anomalous/very large or small.   
 
 #### Mode
 The value that occurs in data the most.
@@ -1447,382 +1347,7 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 [^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
-otocol)
-The Kyoto Protocol was the first major climate change protocol. Whilst it was legally binding, and 192 parties were included in it, many developing nations such as India and China - who “needed” to emit to continue their growth, were exempt from the protocol, and even some ACs such as the USA and Australia did not ratify the treaty. The overall goal of the protocol was to limit emissions to 5% of 1990 levels - and it worked. The protocol also had multiple rounds, the second of which capping emissions 18% below 1990 levels to 2020.
 
-Kyoto introduced three major mechanisms to help reduce carbon (and the emission of other gases).
-
-- Emissions trading: commoditises greenhouse gas emissions. Article 17 sets out the amount of greenhouse gas emissions that each country is permitted to emit, based on the overall target of the protocol (5% above 1997). Countries are allowed to buy and sell quotas of carbon - but due to supply and demand, prices of investing in sustainable development in the long term are cheaper. More details in the cap and trade section below.
-- [Clean development mechanism](https://unfccc.int/process-and-meetings/the-kyoto-protocol/mechanisms-under-the-kyoto-protocol/the-clean-development-mechanism): This incentivises industrialised countries to invest in cleaner energy use in countries in the process of developing. This gives ACs flexibility on how quotas are reached - as the offset of carbon is counted as their emissions - whilst encouraging the use of these sustainable practices - such as the use of solar panels in rural communities - in developing nations. By 2012, this accounted for around 3 billion tonnes of CO2 reduction.
-
-
-#### 2015 Paris Climate Convention
-The PCC in 2015 attempted to build on the successes of the Kyoto Protocol whilst also modernising it. It aims to limit CO2 emissions and temperature increase below 2 degrees C.
-
-- Countries publish their naturally determined contributions and there is pressure at the global scale to consistently outperform other countries;
-- Long-term strategies 
-
-
-## Management strategies for water
-There are global strategies that have the potential to protect the water cycle, including:
-- **forestry**
-- **water allocations**
-- **drainage basin planning**
-
-### Forestry techniques
-The protection of forests ensures that areas on a local scale are protected from deforestation in law. The UN, World Bank and governments all collaborate to ensure forests do not become degraded. The REDD+ programme funds projects in over 50 countries with direct investment, technology and carbon offsets.
-
-NGOs such as WWF and the ARPA program in Brazil ensure that over 128 million acres of land, targeting 150 million, are protected. 
-
-
-### Water allocations
-In areas of water scarcity, water may be allocated by governments and rationed between different groups and stakeholders, such as businesses, farmers and individuals. 
-
-Agriculture, as seen in the Colorado River basin in the USA, accounts for over 80% of the water use. Globally agriculture accounts for over 90% of consumption, including municipal and industry sectors.
-
-Management strategies
-- minimising water loss through evaporation with the use of **drip irrigation**, reducing usage by 70%.
-- terracing and vegetative strips encourage the pooling of water on the surface. This reduces runoff and allows more time for water to infiltrate, moving through the soil as throughflow.
-- capping usage for certain states (in the Colorado basin) to ensure that droughts do not disproportionally damage downstream states and environments. 
-
-### Drainage basin planning
-This is a collaborative effort at the drainage basin scale to encourage the sharing of demands and needs for everyone involved, including domestic use, industry and agriculture.
-
-Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, stating that aquifers should always remain 50% at capacity with a high water table. After these plans have been made, actions can be taken, such as reforestation to improve interception rates, slowing peak flow, and encouraging greater infiltration and percolation. Urban areas can be financially incentivised to reduce the amount of impermeable surfaces - such as in the EU Water Directive Framework pre-2020 where 10 catchment hydrologies had holistic plans established to improve the amount and availability of water at this scale.
-
-
----
-## Statistical tests
-
-### Median
-Rank the data and work out the middle value. If it's between two points, then take the mean value between them.
-+ easy to calculate
-+ not affected by extreme, anomolous values
-- most of the values are ignored
-- less "sensitive" than the mean (a significant change on one side can be balanced by a small number on the other)
-
-### Mean
-Add all values in the series together and divide by the total number of values. This is the "average".
-
-+ all values accounted for
-+ gives fair representation for all values
-- affected by all values even if anomolous/very large or small.   
-
-### Mode
-The value that occurs in data the most.
-
-+ can be used on qualitative data
-+ useful for spotting patterns
-
-- may be multiple modes, or none at all
-- only useful for specific enquires
-
-### Range
-Subtract the lowest from the highest value in the data.
-
-+ shows the full spectrum of all data
-
-- can be significantly affected by extreme values 
-- most data is ignored
-
-
-### Interquartile range
-Rank the data, then identify the median. For all values below the overall median, calculate the median. Repeat for the upper half. Then, subtract the lower half median from the upper half median.
-
-+ measures dispersion of data
-+ not easily affected by outliers
-
-- doesn't include all values
-
-### Spearman's Rank
-Tests the significance of a correlation between two variables.
-
-
-$\rho = 1- {\frac {6 \sum d_i^2}{n(n^2 - 1)}}$
-
-Compare the number of items (degrees of freedom) given to the significance table. The hypothesis can be rejected if the number in the table is below the critical value at 0.95, then your hypothesis can be rejected. If it's above, then there is less than a 5% that the relationship was caused by chance, and you accept the hypothesis. You can go even further if given a critical value of 0.99, whch means there is a less than 1% chance of this being caused by chance!
-
-> If you have a t-value, then subtract 2 from the degrees of freedom. Else, leave it as the number of samples.
-
-Confidence intervals can be obtained from the following formula:
-$\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \theta)^2} \leq \chi^2_{1, \alpha}\right\}$
-(no need to know this - unless you do maths?)
-
-[^1]: [Met Office](https://www.weather.gov/source/zhu/ZHU_Training_Page/definitions/dry_wet_bulb_definition/dry_wet_bulb.html)
-
-[^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
-
-
-# Paper 3 - Geographical Debates# [tbd] Earth's Life Support Systems
-
-> This information will be coming soon! Message me if you want it early
-
-Another physical geography section, this may be the most widely studied topic across the UK, along with the costs and rivers unit.
-
-## Water
-Water is a fundamental part of life on Earth. Without it, we may not exist. This is so much so that liquid water is believed to be one of the key ingredience for life, alongside chemistry and energy. Water allows elements to become more complex, sustaining multicellular organisms' growth and complexity. 
-
-Water makes up 70% of the human body, and up to 99% in some species of flora and fauna. Water vapour is also the most potent greenhouse gas, beating methane and CO~2~.  Long-wave solar radiation is absorbed by these water particles, increasing global mean temperatures by 15 degrees C. Oceans also contribute to this temperature modification: it takes about 4x more energy to warm water than it does to heat air. In this sense, oceans act as both a carbon and energy sink, with gradual releases of this over time. In addition to this, clouds reflect ~21% of all incoming solar radiation, and these are again made of water droplets and ice crystals. White land, such as the glacial ice sheets in Antarctica and Greenland also reflect back hige wuantities of solar energy.
-
-## The Hydrological Cycle
-
-
-# [TBD] Disease Dilemmas 
-
-Last update: 15/01/2024 22:38
-Word count: 4,807 (25,446 characters)
-
-## 1. Global patterns of disease
-![Specification Content for Disease Dilemmas Key Idea 1 - "What are the global patterns of disease and can factors be identified that determine these?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.1.png)
-
-All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
-
-**Communicable** diseases are diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
-**Non-communicable** diseases cannot be spread between people. These are a result of lifestyle choices and genetic factors
-
-**Infectious** diseases are those which are spread by **pathogens** from any host to any host, with any form of contact. 
-**Non-infectious** diseases cannot be caused by pathogens between hosts.
-
-**Contagious** diseases are those which spread **between people** through direct or indirect contact.
- **Non-contagious** diseases cannot be transmitted from one person to another. However, they may include those transmitted through **vectors**.
-
-For example:
-- Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
-- Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
-
-In addition, diseases can diffuse in different ways
-
-- expansion diffusion: increasing in geographical area, typically decreasing in severity
-- relocation diffusion: move from one area to another
-- contagious diffusion: spread from person to person
-- hierarchical diffusion: spread along transport links
-
-All of these are linked to Hargerstrand's diffusion model. 
-
-Be careful when applying this to outbreaks like Covid where the model assumes that people will always want to travel and constant movement. Lockdowns can result in this model's predictions being broken.
-
-Different scales:
-- endemic: persistent in a restricted geographical area
-- epidemic: an outbreak that has spread to a larger population
-- pandemic: an outbreak that has spread worldwide
-
-
-## 2. Is there a link between disease and levels of economic development?
-![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
-### Patterns of diseases
-
-#### Malaria
-
-Malaria is an infectious, non-contagious disease. It is concentrated around the tropics, mostly in Africa, Central America and South/Southeast Asia - in other words, it is endemic to specific countries and epidemics can occur, but not pandemics. The Anopheles mosquito, which is the fector which transports the *Plasmodium* parasite, is most abundant in warm and humid environments, but not large urban areas. 
-
-Facts:
-- In 2018, 220 million people were infected with the disease.
-- In total, there are 3.2 billion people at risk in 97 countries.
-- It is estimated that half the world's population since the beginning has died from this disease.
-
-#### HIV/AIDS
-
-This is an infectious, contagious disease. 
-
-
-
-## Case study: River flooding, Bangladesh
-
-Bangladesh, bordered by India and Myanmar (synoptic link to Global Migration) is a deltaic country, situated on the world's largest river delta - the Ganges-Brahmaputra Delta. 
-
-Flooding from this river is a significant part of the livelihoods of Bangladesh's population. **60% live in rural areas**, mostly in the primary (agricultural) sector; **80% of the land area benefits from the flooding extent**.  There are several hundred permanent waterways which move around a billion tonnes of fertile soil, fuelled by glacial ablation in the Himalayas (synoptic link to Glaciated Systems) where peak melting coincides with the monsoon season. On top of being low lying (the average elevation is just 9 metres; 10% is below sea level [2](https://en-ie.topographic-map.com/map-csnfcz/Bangladesh/), which leads to over **a third of the country's land area regularly flooding** in the monsoon season. [1](https://factsanddetails.com/south-asia/Bangladesh/Nature_Environment_Animals_Bangladesh/entry-8204.html)
-
-This isn't all positive, however. In the short to medium term, climate change is exacerbating risks by increasing the volatility of glacial systems, increasing the magnitude of discharge and therefore magnitude of the flooding in these low-lying areas. 
-
-![](https://www.researchgate.net/profile/Shamsuddin-Shahid/publication/234130893/figure/fig4/AS:300113512681492@1448564045534/Graph-shows-the-percentage-of-area-inundated-in-Bangladesh-by-peak-floods-over-the-time.png)
-*percentage-of-area-inundated-in-Bangladesh*
-
-In 2020, the monsoon rains were of unprecedented scale. In the first half of the monsoon season, 40% of the land was inundated. This led to an epidemic of various water-borne diseases, including hepatitis, diarrhoea, typhoid and cholera. Although only 83 people died, **1.3 million homes were damaged** (and 3/4 of a million flooded), **affecting 5.4 million people** (1 in 35 people) [4](https://reliefweb.int/report/bangladesh/bangladesh-monsoon-floods-final-report-n-mdrbd025). The amount of **crops destroyed was over 150,000 hectares**, [3](https://www.globalfloods.eu/get-involved/case-study-bangladesh-2020/) which has knock-on effects for future years: consecutive years with bad flooding can decrease communities' resilience due to less stored money from agriculture, especially true as **half of the Bangladeshi population live below the absolute poverty threshold** and this can increase the susceptibility to disease outbreaks with a lack of nutrition and strength to be able to fight diseases like diarrhoea which is especially deadly for children under 5 years old. As an LIDC, this is especially true: the population pyramid is swayed in favour of younger ages (5% are under 5, compared to the average in ACs which is 6x fewer). This was seen in Bangladesh with these floods: the contamination of water supplies such as wells resulted in 4,500 people becoming ill with diarrhoea alone. On top of this, just under 2,000 schools and educational facilities were destroyed in the floods too.
-
-Bangladesh, although has its problems, is improving too. The threat of more severe flooding in future years and stronger cyclones has prompted both the government and NGOs to intervene. Female education and nutrition has significantly improved, with an emphasis on breastfeeding which reduces the likelihood of deadly waterborne diseases like diarrhoea being introduced into vulnerable babies' and children's immune systems. The Government allocated 14,410 tons of rice to be given to those affected. Oral rehydration solution was given to treat those moderately dehydrated, with water purification tablets being used to treat water supplies in large population centres, significantly reducing the risk of waterborne illness contamination and subsequent infection.
-
-Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-3983-b9f7-4b038c3b8e55/MDRBD025efr%20%281%29.pdf)
-
-
-## Disease vs Economic Development
-![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
-
-
-## Case study: Air pollution and cancer in India
-
-India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air with particulate matter above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
-
-Over the past 2 decades, fine particle concentration has increased by 69% across India, reducing the life expectancy by around 2.4 years nationally.
-
-Air pollution here is largely caused by **particulate matter (PM)**, like NO~2~, S0~2~ and O~3~, emitted from vehicles, factories and coal-based factories. Biomass in rural areas also contributes to this: burning paraffin and animal excrement increases indoor air pollution so much that up to 1 million people die prematurely annually because of this. This is visible as **photochemical smog** - which can cause acid rain.
-
-> PM 2.5 are particulates smaller than 2.5 micrometres in size, which can penetrate and remain persistently in the lungs and interfere with DNA, causing mutations like cancer and increasing the probability of other non-communicable and chronic illnesses. Bronchitis, asthma, lung cancer, and CVDs (heart disease)  
-
-In many cities such as Bangalore, around 50% of children suffer from asthma. This is the highest worldwide.
-
-In Delhi, PM 2.5s are at 24x the safe level - and increasing. A reduction to safe levels would benefit life expectancy more than eliminating unsafe water access and eliminating poverty, combined.
-
-Air pollution is having a significant negative impact on India's economic output and various social factors. There is an **added burden on healthcare systems** to accommodate for lung cancers and other cardiovascular, chronic illnesses when the country has not fully made it out of the Age of Receding Pandemics (Stage 2) of the epidemiological transition model. The particulate matter at such high levels has an **impact on the brain, reducing its function by several percent** and potentially **reducing educational attainment** and the chances of students contributing to the economy through high-skilled employment. Even if they do, the **reduced life expectancy will shorten the times they will be able to work, earn, spend and reinvest in the economy.**
-
-> Nearly 1.67 million deaths and an estimated loss of USD 28.8 billion worth of output were India's prices for worsening air pollution in 2019. ^[1]
-
-Respiratory diseases are **1.7x higher in Delhi**, with a **40% decrease in lung function because of air pollution**. In addition, there are 20% more non-smoking-related lung cancer diagnoses each year, with a total of **1 in 68 males being diagnosed with lung cancer in one year** alone.
-
-[^1]: https://www.indiatoday.in/diu/story/will-an-extended-ban-on-firecrackers-help-improve-the-air-we-breathe-1858861-2021-09-29
-
-
-### Solutions
-
-However, there is a silver lining to the smog cloud. Gujarat, a state in the west of the country, has set a legal limit on pollutant emissions for industrial plants. The government gives out a set amount of **emission permits** to companies, and should certain factories require more emissions, they must trade these permits to raise their emissions allowances. This financially incentivises businesses to invest in less emissive processing facilities, reducing air pollution, whilst providing a revenue stream for the local authority to tackle the effects of heightened levels of emissions, in addition to tackling a root cause of this through the trading permits. 
-Petrol and diesel subsidies have been scrapped in some areas (these fuels power large amounts - 1/3 - of electrical production) and further, **14 Indian cities are expanding the use of high-speed metro systems** - encouraging clean, fast public transport which reduces traffic congestion. 
-
-In rural areas, zigzag brick kilns which reduce coal consumption by 80% have been fitted in various communities, despite slow progress. Burning stubble in fields - a huge smoke pollutant which wind frequently carries from rural to urban settlements, making up **17% of India's emissions** - is also in the process of having additional restrictions. 
-
-Despite all of these advances, the introduction of legislation like this has been slow and there are greater priorities for the moment such as increasing living standards across the country - **15% are still living in multidimensional poverty**. There is currently no legislation controlling levels of nitrogen dioxide and sulphur dioxide with vehicle emissions. Economic incentives to further grow the country's economy may be hampered if legislation like this is forcefully enacted, therefore, the government is betting that allowing significant economic development now will allow them to put laws in place in the future as the country develops, without being of detriment to all citizens.
-
-![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sources_of_Air_Pollution.png)
-
-Further reading: [Wikipedia](https://en.wikipedia.org/wiki/Air_pollution_in_India)
-
-### Global solutions to air problems
-
-In 1997, there was the legally binding Kyoto Protocol. It created agreements on reducing carbon emissions around the world, such as by 2012 there will be 22% lower emissions. In comparison to 1990 in the EU, however, global carbon emissions increased by 65%! Despite this, the goal was achieved and even by 5% in the EU. This caused industries - directly or indirectly - to move and relocate away from the EU. Carbon trading systems were also considered too complex, would not help to reduce emissions, and only included those countries that had already been industrialised. 
-
-In 2015, this protocol was replaced by the Paris Climate Convention. It agreed to reduce CO~2~ emissions below 60% of 2010 levels by 2050 and to keep global temperature rises below 2° C in comparison to the 1900 average. Ideally, this was set to 1.5°, but this is considered too difficult.
-
-
-
-
-## Dealing with communicable and non-communicable diseases
-![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
-
-## Case study: Malaria in Ethiopia (LIDC)
-
-Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium (primary *P. vivax*) parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
-
-> Sporozoites inoculated by the female Anopheles vector enters liver cells, rupturing and releasing mature merozoites which move into red blood cells.
-
-200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. Malaria can also be caught again, as it can take many reinfections to build up sufficient immunity to become protected against it. [[2](https://www.mdedge.com/hematology-oncology/article/187381/related-issues/why-its-hard-develop-immunity-against-malaria)]
-
-The **epidemiology** of malaria is unevenly distributed. Areas such as the **Gambella province**, situated to the west of the **Ethiopian highland mountains** (relief rainfall) is in a **lowland area and malaria is endemic**. This area, where humid and warm, >30 degrees conditions mix with **stagnant water pools** provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, where altitudes reach over 4,000m are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest elevation capital city in the world. 
-In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many **agricultural workers migrate** temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and **work into the night, when transmission is at its highest**. **Irrigation, in the Awash Valley and in Gambella**, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
-
-
- 
-
-### Socio-economic impacts on Ethiopia
- 
-As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled from the malaria warnings, despite being a beautiful country along the East African Rift.
-
-The uneven epidemiology also affects **food security**, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malaria, many refuse to work in the lowlands and overexploit the already poorer quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible to damaging **famines**. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
-
-### Mitigation strategies and responses
-
-There has been little medicinal development concerning anti-malarial treatments for over 50 years. Chloroquine, which raises the blood pH and therefore that of the parasite, killing it, is becoming increasingly resisted by the parasites and can be toxic for those who take it (socioeconomic impact too). As a result, the government and NGOs have been working together to mitigate the risk of this disease.
-
-The U.S. President's Malaria Initiative (PMI) has 'invested' half a billion dollars into antimalarial programs, such as providing around **50 million insecticide-treated nets (ITNs)** to residents, prioritising pregnant women and those under 5. Indoor residual spraying (IRS) has also been used extensively, in over 12 million homes and public places. Child **death rates have fallen by over 35%**, and **70% of homes** now have protection from an ITN or through IRS. In total, the number of malaria-induced deaths has **declined by 50% in just 15 years from the peak in 2004**. These are some examples of indirect mitigation strategies.
-
-The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push to eliminate Ethiopia worldwide by 2030, a strategy that worked for Smallpox during the 20th Century. It remains to be seen how growing resistance and increased incidence may have an effect on the longer-term outlook. 
-
-## Case study: Cancer in the UK
-
-Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 were due to cancer. 
-
-> Carcinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may cause 
-
-Rates of cancer in the UK are not evenly distributed. The northeast has the highest rate of colon, lung and rectal cancer, as opposed to areas like London with the lowest rates of cancer in the country, where prostate cancer is highest. 
-
-Melanoma, a type of skin cancer, has the fewest cases in more deprived communities according to the Index of Multiple Deprivation compared to lesser deprived communities.
-Lung cancer has significantly more (170%) cases in the 50% more deprived communities compared to the least deprived half.
-
-There is a clear link between smoking and at least 15 different types of cancer. **7 in 10 lung cancer cases are caused by smoking**; it is also the most common cause of cancer death in the UK
-
-### Socio-economic impacts on the UK
-A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. **500 people die daily from cancers**. Incidence, in areas dependent of deprivation status, is going to increase by over 40% by 2035 for half a million new cases annually. 
-
-The workforce is affected: **120,000 people below the age of 65 are diagnosed every year with cancer**. They are likely to leave the labour force for many months at a time during treatment, and many may never return to work - some are too physically in pain or fatigued due to the secondary effects of chemotherapy, for example, to return. The UK has one of the highest rates of carers for those with cancer in the "western" world with over 1 million people caring for someone with a terminal condition, out of work or undergoing treatment. In addition to the 50,000+ working-age people who die to cancer each year, the economic losses of this quickly adds up into the tens of billions, with hundreds of thousands never able to work again.
-
-
-### Mitigation strategies and responses
-
-Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. **Skin cancer melanoma** is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - **only 11% of people say they always use sunscreen in the UK** ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)] for **an average of 3% per year**. To combat this, the Met Office now issue weather warnings and forecasts for UV levels, including for the most popular holiday destinations. The Sunbeds (Regulations) Act 2010 forbids the supply of tanning devices to those under 18. Finally, additional education in schools and publicity campaigns have also been increasingly employed by the government to warn the public about melanoma.
-
-In addition, (international) charities and organisations have employed a range of measures to tackle cancer. Macmillan Cancer Support and Cancer Research UK are some charities that both employ direct and indirect strategies. Firstly, Cancer Research UK invest large sums of their donations into various cancer drugs, and treatments such as immunotherapy, chemotherapy and radiotherapy. The research done in these fields has resulted in many clinical trials which, if successful, can help to detect cancers early and therefore increase survivability. This charity also runs indirect strategies like campaigns to reduce smoking, where a **1% reduction in smoking can save more than 3,000 lives annually**. With 150,000 children taking up smoking each year and many continuing for the rest of their lives, they also run educational awareness courses to discourage the uptaking of this habit.
-
-
-Perhaps the most important organisation involving the mitigation of cancer in the UK is the NHS itself. "Stoptober" campaigns for smoking raise money and make people 5x more likely to permanently quit. **£200 million investments** are resulting in much faster diagnoses turnarounds - a target of **2 weeks from the GP to the hospital, and 2 months from the GP to treatments commencing**. GP training and support have provided access to quicker diagnosis turnarounds, and this is supplemented by screening. **Breast cancer screening every 3 years** for women aged between 50 and 71, alongside **cervical screening** at similar intervals for women between 26 and 64 years to catch the most common cancers. Additionally, **vaccinations** like the Year 8 HPV vaccine have been promoted.
-
-However, the UK NHS system is seen as a "postcode lottery", not just for cancers but all types of chronic diseases. Covid-19 has amplified and shown the vulnerabilities in such a system, with over **300,000 being on the national cancer waiting list**, with 3.1% of these waiting more than 3 months. This is after being diagnosed with cancer! Understandably, this shows that many people's cancer can progress despite referrals quickly from GPs. due to a lack of hospital availability. **For every 4 weeks' delay in treatment, there is a 10% reduction in complete survival likelihood**.
-
-The UK government also employ many indirect strategies. Smoking was banned indoors in 2007, alongside a 2-year increase in legal age, and also picture warnings on smoking packaging - the first EU nation to do so, helping the "tobacco control plan". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. Finally, the 10-year cancer plan with state-of-the-art radiotherapy machines and record investment to reduce the effects of an ageing population. However the effectiveness of these remains limited - the purchase of sweets and unhealthy foods can still be undertaken, and the prevalence of smoking has not seen a substantial decrease since the Covid-19 pandemic, whilst the use of e-cigarettes has increased. Moreover, lack of access to these new technologies in northern areas of the country has been revealed, on top of complaints about "red tape" and additional beaurocracy from importing them.
-
-
-![smoking prevalence](https://allen-carr-live.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/06/07151619/Smoking-UK-stats-England-smoking-prevalence-by-region-1024x310.png)
-
-
-## Predicting and mitigating against diseases
-![Specification Content for Disease Dilemmas Key Idea 4 - "How far can diseases be predicted and mitigated against?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.4.png)
-
-## Case study: The Red Cross and cholera in Haiti
-
-Haiti is known as "the poorest country in the Western hemisphere". It has a GNI per capita of US $1665 PPP and poverty is around 60%. The Mw 7.0 quake in January 2010 killed around 10% of the population of the capital, Port-au-Prince. More than 90% of the population lived in slums and half had no access to toilets. 
-
-Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley, are believed to have brought the disease, 9 months after the quake hit the island nation. 820,000 cholera cases were counted within 4 years, with around half a million hospitalisations - 82 hospitals had been damaged or destroyed during the quake. 
-
-The British Red Cross targeted the outbreak with its own response programme between 2010 and 2012.  10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and the Red Cross were able to deliver clean water to 300,000 cap dwellers in the capital. On top of this, as cholera is water-borne, they built 1300 latrines, serving almost 200 people each. They also directly treated over 20,000 cholera cases in treatment units across Haiti, provided medical supplies to hospitals in the Artibonite Valley and also indirectly combatted the disease through educational measures, teching how to avoid infection and the symptoms.
-
-Coupled with other aid workers like Cuban doctors who treated more than 75,000 cholera cases, it may have been a much greater success than it was. Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)]. Basic functionality and sanitation was not put in place across the country. 
-
-
-Further reading: [[www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
-
-
-## Can diseases ever be fully eradicated?
-![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
-
-## Case study: the rosy periwinkle
-
-![enter image description here](https://www.europarl.europa.eu/resources/library/images/20121206PHT04354/20121206PHT04354_original.jpg)
-
-Plants have been used for a long time as medicines to cure diseases, from old herbal remedies in prehistory to the medieval Doctrine of Signatures. 
-
-The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. **Vinblastine can help testicular cancer, Hodgekin's lymphoma and more**. Furthermore, other alkaloids can be used to treat some cancers too. This has been unable to be synthesised synthetically through scientific means.
-
-In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of dollars from healthcare services around the world.
-
-However, it is patented by Eli Lilly, which makes it illegal for others to sexually reproduce, import or export the plant. As a result, it maintains a monopoly over the periwinkle market and can effectively charge the prices they decide to use it. Furthermore, this also allows them to get away with **biopiracy**, as **under 5% of the money is given back to the indigenous farmers**. Economic growth is limited due to export restrictions under Lily which can exacerbate poverty in a region, as workers are effectively being exploited for transnationals' gain.
-
-Although it has come under scrutiny from some EU regulators, this practice largely goes unnoticed, as pharmaceutical companies have leverage and spend billions on discovering new drugs.
-
-Biopiracy further reading: [here](https://www.jstor.org/stable/25684263?seq=11)
-
-
-## Case study: GSK (formerly GlaxoSmithKline)
-
-GSK is part of the transnational pharmaceutical industry, which is a for-profit industry.
-
-Historically, GSK has been (and may still be) overcharging governments and individuals for drugs, making abnormally high profits on lifesaving therapeutics. Its former employees have been criminally prosecuted on two continents, and have also been accused of lobbying governments and international organisations, with the use of bribing medical experts in favour of them. In addition, they have been seen to prioritise the R&D of drugs that require long repeated prescriptions and less those which are not as profitable like those needed for tropical diseases.
-
-Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaternary sector jobs, improving local economies in their 36 countries of manufacturing.  
-
-Some of GSK's breakthroughs and patents include the first malaria candidate vaccine and ongoing Nobel Prize-winning discoveries for malarial drugs. They also provide medication for type 2 diabetes and discovered the first oncology drug for leukaemia. On top of this, they are one of the only pharmaceuticals to be actively researching new candidate drugs for the WHO's top 3 global priority diseases. Patents in medicine last for no longer than 20 years and gives GSK the ability to invest greater amounts in new medicines. They currently hold almost 10,000 patents, largely in HIV medication, cancer treatments, cardiovascular disease and Covid-19.
-
-As GSK had an operating profit of £6.433 billion in 2022, they are able to afford to provide LIDCs and EDCs drugs and medicines at significant discounts: 80% of the 800mn vaccine doses given were to these countries in 2014. In addition, they do not enforce historic patents or file new medicinal patents in LIDCs, allowing companies to manufacture versions of their medicines in these countries. FInally, their code of practice now involves capping the prices of patented drugs in LIDCs, many of which cannot manufacture their own pharmaceuticals, to 25% of the UK price and only allowing a 5% return on each product sold - the remaining 20% of its profits are invested into the developing country where it is sold.
-
-
-## Mini case study: Guinea worm in Ghana
-
-The Guinea worm eradication programme and the Ghana Red Cross women's program partnered and women, who are typically the ones to source water for families, were taught about the benefits of filtering water to avoid contamination. Women were also responsible for reporting and monitoring all cases of the worm back to the WHO. 
-
----
-
-Note: Although not a case study, grassroots strategies should also be recapped (guinea worm)
-
-
-
-
-
-# [TBD] 2.2.2
 
 
 
@@ -1834,9 +1359,9 @@ Page 30 in [the OCR A Level Geography H481 Specification](https://www.ocr.org.uk
 ### Definitions
 A migrant, according to the UN definition, is someone living outside their country of origin for at least a year.
 
-**Interdependence -** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
+**Interdependence** is the interrelationships between ACs, EDCs and LIDCs through trade, foreign aid and migration
 
-**Globalisation -** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
+**Globalisation** is the growing integration and interdependence between peoples’' lives economically, politically and environmentally.
 
 **Economic migrants** are those who migrate just for monetary gain, and no other reasons. They may send money back. They may also bring dependents.
 
@@ -1853,7 +1378,7 @@ Migration is significant, and worldwide! In 2020, 291 million people were living
 ### Intra-regional migration
 Intraregional migration is migration that occurs within a region, for example, the European Union. 
 
-#### Case study: The Poles are coming!!
+#### Case study: The Poles are coming
 
 Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional as this was in the EU.
 
@@ -2092,7 +1617,7 @@ A **space****Stability**
 Intraregional migration is migration that occurs within a region, for example, the European Union. Prior to Brexit, there was a large bilateral corridor between the UK and Poland; this is categorised as being intra-regional. 
 
 
-# [TBD] 2.12.1 Human – Changing Spaces; Making Places
+# 2.1 Human – Changing Spaces; Making Places
 
 ## What's in a place?
 > 1.a. Places are multi-faceted, shaped by shifting flows and connections which change over time.
@@ -2166,9 +1691,7 @@ The ward itself is named after St Peter Mancroft alongside the parish church. Th
 -  84.4% white, 6.8% Asian, 3.3% black, mixed race 3.5%
 -  77% of the population originated the UK, 23% were foreign born residents, of which 9.9% are from EU countries.
 - The highest population in age distribution bracket is 20-29 years, which contains 2,740 people
-> LNorwich is in fact the least religious city in the UK!, with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third, with religions at 33.5% and 3.5%, respectively.
-
- [Source 1](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
+> Norwich is in fact the least religious city in the UK, with 57.8% saying they have no religious affiliation! Christianity is still the second most popular, and Islam is third at 33.5% and 3.5%, respectively. [Source](https://citypopulation.de/en/uk/eastofengland/wards/norwich/E05012906__mancroft/)
 
 #### Socio-economic
 Mancroft is categorised as a built-up area alongside most of Norwich by the ONS. Large amounts of flats, apartments in a close proximity suggests that there are many employers and jobs available within the region and city, so employees can easily access these facilities. 
@@ -2201,7 +1724,7 @@ Sheringham is part of North Norfolk in general elections. In the 2019 general el
 The Labour Party made up just 7.7% (compared to 32.1% in the UK) and the Lib Dems made up the second largest party at 30.3%, with a respective decline of 2.2% and 18.1%. 58.9% of North Norfolk, which included Sheringham, voted to leave the European Union in 2016. The MP, Duncan Baker, was a member of the UKIP party before the Brexit campaign.
 
 #### Built Environment
-Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, as well asin addition to typically costing more to use than bricks and. Plus, it also lookings good on postcards! - reinforcing its status as a tourist hotspot.
+Flint is the most common and naturally abundant material in Norfolk, particularly for the building of cottages. This is especially pronounced in coastal areas such as in Sheringham North Ward. Flint is also an iconic material for attracting tourism, in addition to typically costing more to use than bricks. The built environment ressembles more of a postcard town.It is also an iconic material for tourism, in addition to typically costing more to use than bricks. Plus, it also looks good on postcards - reinforcing its status as a tourist hotspot.
 
 
 #### History
@@ -2235,9 +1758,6 @@ Sheringham has a much older demographic with an average age of 51 years compared
 -->
 
 
-### Shifting flows of money, investment and ideas[Dev Note 3/6/23] Possibly add more comparistions and their impacts on place identity here.
-
-
 ### Shifting flows of money, investment and ideas on place identity
 
 Norwich first started as a Saxon marketplace in the 800s and 900s, exporting wool. Throughout the Middle Ages, it was England's second largest city. 
@@ -2246,11 +1766,11 @@ During the Industrial Revolution, there was a large amount of rural to urban mig
 
 It became a centre for textiles and shoemaking until the early 1900s. The ex-largest insurance company, Aviva, or Norwich Union, was established in the 16th century and then proceeded to go global. 
 
-> Norwich was relatively isolated until the railway arrived in 1846. It was faster to go to - before then, it was faster to travel and trade with Amsterdam by boat than it was to travel to London. 
+> Norwich was relatively isolated until the railway arrived in 1846 - before then, it was faster to travel and trade with Amsterdam by boat than it was to travel to London.
 
 Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. And definitely *not* Anglia Square. 
 
-There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to the world-renowned Cambridge Universitiey - both geographically and with academic links. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
+There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to the world-renowned Cambridge University - both geographically and with academic links. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a **quaternary knowledge economy**, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
 
 Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
 
@@ -2258,23 +1778,6 @@ Norwich is a commuter town too, with people coming into work from surrounding vi
 At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
 
 The local availability of a resource or natural advantage can encourage the growth of a settlement and mould its identity by fuelling industry. If these resources run out or global shift occurs for a particular product, technology typically takes over the natural advantage and the place profile can and often change. In Norwich, this **global shift** means that it has become cheaper and easier to manufacture goods like shoes and chocolate overseas and import it, leading to the replacement of local resources. Ocean-going ships have grown significantly in size and can no longer fit up the River Yare, so the riverside docklands fell into decline, much like the London Docklands. However, with shifting flows of people, opportunities have arisen in these areas, which are now shopping hubs and entrepreneurial centres of investment. 
-
-
-## How do we understand place?
-> 2.a) People see, experience and understand place in different ways, this can also change over time. 
-> 2.b) Places are represented through a variety of contrasting formal and informal agencies.
-
----
-Places are represented differently through formal and informal factors. 
-
-
-### How and why people perceive places differently
-
-#### Place Perception: Uluru and Jerusalem
-- Religious and emotional attachment.
-- 
-
-#### Emotional attachment: The Kurds and Kurdistan
 
 
 ### Globalisation and our sense of place
@@ -2285,13 +1788,7 @@ The "global village" means that there are now global communties where people can
 
 Places in ACs may be characterised by less pollution, fewer unskilled labour with the decline of industry. However, large factories may remain, increasing crime and leaching from contaminated factories may give places a unique identity. Theses previously exotic countries - most likely LIDCs - may receive the other end, with increased contamination, rapid rural-urban migration fuelling slum settlements, and exploitative employers leaving a negative perception of the place amongst its own residents.
 
-Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.It was relatively isolated until the railway arrived in 1846. It was faster to go to Amsterdam by boat than travel to London. 
-
-Since then, it has had a complete revolution. Norwich is now the eighth most prosperous shopping location in the UK, with old-fashioned industrial buildings and factories being redeveloped and gentrified into new places such as Riverside, Castle Quarter, and Chantry Place. 
-
-There has been a constant flow of students and academics in the area, fuelled by the UEA, which has close connections to world-renowned Cambridge Universities. The UEA also houses the John Innes Centre, which has provided global breakthroughs in the fields of biology and sciences, and Tyndall Centre for Climate Change, equally as significant. This has transformed the economy into a quaternary knowledge economy, supporting high-tech and scientific quaternary sector jobs, comparing to around 250 years ago, when it was just primary and secondary sector hub, involving large amounts of manufacturing and farm labour. 
-
-Norwich is a commuter town too, with people coming into work from surrounding villages, and good transport links with goods moved into Norfolk via the M11 and A14. This has continued to attract investment by transnational corporations. 
+Cultures and religions may increasingly be less and less influential in how we feel about places. Increased homogenisation of cultures, transnational corporations (Nike, McDonald's)wanting to make their presence known on every high street and the disappearance of old traditions as young people become enveloped by social media are contributing to a feel of uniformity within towns and cities worldwide. The "clone town" index was made to study this phenomenon.
 
 ### Shifting flows of people
 At the heart of it, people are what turn a space into a multifaceted place. The exact stage in people's lives determines and influence where people live. For example, the location and housing tenureand house type, and by extent, the place profile.
@@ -2324,7 +1821,6 @@ b) Places are represented through a variety of contrasting formal and informal a
 
 ### Emotional attachment: The Kurds and Kurdistan
 
-### Globalisation and our sense of place
 > Content to be added soon!
 
 ## Economic change and patterns of social inequality
@@ -2334,7 +1830,7 @@ b) Places are represented through a variety of contrasting formal and informal a
 > 3.c. Social inequality impacts people and places in different ways.
 
 
-### [TBD] Measuring Social Inequality
+### Measuring Social Inequality
 > Book reference: pages 158-162
 
 Social inequality can be measured through various means. In the UK, the IMD is a composite statistic that comprises 7 domains with varying weightings: income and employment account for 50%, followed by education and health at 13.5%, and finally (barriers to) housing and services, crime and the living environment at 9.3%.
@@ -2454,10 +1950,7 @@ After realising that oil would not be an unlimited resource, the Sheikh diversfi
 
 The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the Burj Khalifa (828m in 2008) the real estate sector has grown to US$25bn.  
 
-
-
-
-## [tbd] 2.2.3Rebranding
+## [tbd] Rebranding
 There are 5 main ways to rebrand an area:
 - Top-down investment
 - Market-let strategies
@@ -2468,7 +1961,7 @@ There are 5 main ways to rebrand an area:
 
 
 
-# 2.2.3 Human - Global Governance: Option C – Human Rights
+# 2.2.3 Human - Global Governance – Human Rights
 > [tbd] This is incomplete - new information will be added soon.
 
 ## Overview
@@ -2486,13 +1979,510 @@ Intervention refers to activity taken by a nation to manipulate the economy, soc
 
 **Forced labour** is not literally being forced to work. It refers to when people are trapped or have no other choice. The ILO defines it as when people are coerced through violence or manipulation, or more subtly through the accumulation of debt or threat of denunciation to authorities. For example:
 - the Kafala system in Middle Eastern states, used by the UAE during preparation for the World Cup, involved employers confiscating and changing the terms of contracts so people were effectively forced to work for longer. Employers have been known to go bankrupt and migrants are effectively trapped in their destination country.
-- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and
+- debts to employers and people smugglers across the world are a huge business - people may sign contracts with agencies or loaned money to be transported, and can only be transported back home if they pay this back.
+- bonded labour - when a person's work is used as a form of repayment of prior debt or loan. Especially in positions of authority, with no formal contracts, or where the liberties of the person depend on the repayment, the person to whom the debt is owed can effectively demand the services indefinitely. 
+Bonded labour is today most common in caste societies, especially in India, but also includes Pakistan and Nepal.
+
+**Capital punishment** and the death penalty have been eliminated in most countries. It is most common in dictatorships or monarchies - such as Saudi Arabia, Iran and Iraq, but also the USA. China is the largest country with possibly the greatest amount of executions, however, many countries do not disclose their numbers or let journalists publish them - though fear that they will become executed. There were 883 known executions in 2022. 
+In some countries it is still lawful, however, many seldom use it or reserve it for the worst possible crimes - but it is up to the jurisdiction to decide.
+
+**Maternal mortality** is the death of a woman during or 42 days after the termination of, pregnancy or birth, from any cause related or aggravated by the pregnancy or its management. The MMR is the rate of these deaths per 100,000 births. Trends that influence MMR include:
+- Fewer doctors to guide through childbirth/perform legal abortions
+- Fewer healthcare facilities may result in antenatal or postnatal care being less effective - complications may arise
+- Abortions may be illegal or taboo in countries and cultures, risking the mother and the child
+- Countries may be patriarchal and the dowry may incentivise the selling of young girls aged 14 or lower to be married (e.g. Iraq), substantially increasing complications as bodies may not be fully developed 
+- Lower levels of education regarding contraceptives, hygiene or how to deliver a baby (vs prenatal classes or education programs)
+- Paid maternity leave (e.g. USA) may not exist, resulting in people working as late into pregnancy and as early after delivery without letting their body recover (stress)
+- Lack of nationalised or free healthcare may discourage people with hypertension or haemorrhages from seeking help until it becomes fatal.
+
+The vast majority of maternal deaths can be avoided, therefore, it is not just a question of development but also of human rights.
+
+## Gender inequality
+Women's rights are measured through the **GGGI** - the Global Gender Gap Index by the World Economic Forum. It is a percentage score that calculates the relative equality of women compared to men. It's measured through:
+- economic participation and equal opportunities;
+- educational attainment;
+- health and survival;
+- political empowerment.
+
+As of 2023, no country has closed this gap.
+
+Social norms are a barrier to gender equality. 
+
+Costs for education may be a barrier to female educational attainment: boys and men may be regarded as the traditional "breadwinners", depriving women of access. Or, in patriarchal societies, female education may not be prioritised as they are expected to marry into another family. Young men migrating may also leave the burden of housework on the daughters, and likewise, those being married through dowry systems are expected to take care of the husband's family.
+
+In Rwanda, the genocide in 1994 resulted in over 1 million men being killed, and the effective requirement of women to fill the gaps left by the male workforce. This completely upheld the social norms present and, even today, the central African country has a female:male workforce participation ratio of 100:85, and ranks 5th in the world on the GGGI.
+
+
+
+### Case study: INDIA
+India, aside from having th largest population with some amazing people, is a rapidly developing EDC with a GDP per capita of US $2410, almost double its 2012 value, and significantly higher than its 2002 value of US $468.8. However, India was positioned at 127 out of 146 countries in terms of its GGGI and, although increasing it score (and equality) since 2012, is slowing down the rate at which it is closing the gap.   
+
+The government has recently introduced various means of combatting the arguably entrenched social norms. In 1961 the Prohibition of Dowry Act was introduced, and has been amended several times since. The Prohibition of Child Marriage Act was enacted in 2006 - aiming to reduce the 36 million children married as children in regions such as Uttar Pradesh. 
+
+India has ratified CEDAW - that aims for the "full advancement of women as equals" - something that the USA has not done yet. Forward-thinking policies - such as a 2023 bill to require at least 30% of the parliamentary seats to be held by women - exemplify how the legislature is attempting to reduce womens' inequalities and make society more equal. Moreover, grassroots, local "on the ground approaches" including the "Safe Cities" network by the International Centre for Research on Women (ICRW) and the "Safe Delhi Campaign" are attempting to give women more confidence and provide a means for women to be able to report crimes without fear of persecution - including the over 140,000 cases of domestic abuse by the husband or relatives. The "Beti Bachao, Beti Padhao" campaign has also been successful in changing attitudes towards saving and educating girls in northern districts of India.
+
+However, despite this, social norms undoubtedly play a great role in the halting of gender equality progression. With the majority of India's 1.4bn residents in rural communities, the sheer size of the country and policing of issues not being a priority, it's not surprising that there is a lack of GGGI improvement. These rural communities require large-scale but local approaches to tackle inequalities - simply unrealistic on this scale - thus the subservient ideas surrounding women is reinforced. However, over time, the forward-thinking legislation should enforce educational mandates with the ability and equality of women and men shoud be realised. 
+
+Due to legislation changes, there is some societal change being made in the country. Companies which arguably have great influence on societal changes are forced to abide by the laws, and through corporate responsibility, these ideas may trickle down over time from the legislature to civilians. 
+
+- 52% women believe that it is acceptable for men to beat their wife
+- 63% of Delhi's women fear of going out at night
+- Only 1% of Delhi's residents say they never worry if a female member of the household at any time
+
+[Calling husbands by their name for the first time - BBC News](https://www.bbc.co.uk/news/magazine-40745343)
+
+> "Dalits" - lowest form of caste
+
+## Strategies for global governance
+Human rights violations can be a cause and consequence of conflict. Conflict can be caused by:
+- the denial of basic needs including food, water, housing, education and employment (over long time scales)
+- discrimination - within a society, through political exclusion and injustices
+- lack of free and fair democratic systems
+- oppressive or corrput governments that do not respect all groups
+- genocide, ethnic cleansing and torture
+
+Confict itself may cause futher human rights violations.
+- deaths and injuries in men, women and children both combattants and civilians in zones of conflict
+- lack of access to food, water and basic resources through damaged infrastructure
+- provocation of internal and intenational migration and conditions of refugees and asylum seekers
+- abuse of power by militants on women and children
+- more genocide, ethnic cleansing and torture 
+
+
+### Flows and geopolitical intervention
+People fundamentally drive effective intervention. Where there is seen to be human rights abuses, supranational organisations including the UNHCR and also NGOs such as Amnesty International and Human Rights Watch gather and publish information to increase awareness to the international scale, with pressure placed on governments globally to intervene. 
+
+Technology has a very important role today. Media can be uploaded instantly in areas with abuses as direct evidence of abuses, seen with the many social media videos in warzones. Trends become visible worldwide to anyone at the click of a button. During intervention, the internet allows people to communicate with charities for aid, and announcements can be made for humanitarian corridors and ceasefires - allowing vital movement and support for civilians. Remote sensing, drones, GPS and surveillance in areas with high tension and where it is risky to deploy troops to reduce the loss of life and futher abuses.
+
+Aid workers and funding from supranational organisations also demonstrate this. It requires a huge amount of funding for UN peacekeeping missions and NATO "missions" - both in terms of people and the military equipment deployed to areas of conflict.
+
+Since invasion, NATO has spent over US $2.13tn on Afghanistan (see below), most of which has gone to military expenses. 
+
+### Promotion and protection
+
+- The United Nations has various obligations in its charter. 
+
+### Case study: AFGHANISTAN, an area of conflict
+Afghanistan prior to 2001 was in a dire geopolitical situation. Sharia law (*very* strict Islam) banned any form of media such as televisions and the arts, required women to wear a burka, disallowed girls over 10 their education (and no chance for employment), held public executions as a way to show the strength of the Taliban government and amputations for petty crimes. In addition, all other religions were disallowed, journalists were attacked regularly and, due to the government's illegitimacy, made NGO and charity support almost impossible.
+
+There were a range of human rights violations. Gender rights were by far the lowest of any country with zero women completing primary and secondary education, high maternal mortality rates of 1,450 per 100,000 in 2000. The rights of the child were violated, with just 1.1 million boys in education (for comparison, by 2018 there were 5 million more boys and 3.6 million (more) girls in primary/secondary education). Food insecurity was also widespread: 
+
+87% of women even during intervention in 2018 were still subject to any type of violence.
+
+
+> Within 1 year of intervention: 3x increase in children in education from 800k to just under 3 mil; in 2002 the amount of girls in education was more than all children in 2001. 
+
+#### Consequences
+War and conflict is the most obvious direct result of intervention. 
+
+- 45k Nato-trained Afghan security forces dead
+- 38k civilian casualties
+
+However, there have been changes made in rural and urban neighbourhoods: 
+
+**Rural**
+- UNICEF have provided remote, community-first schoolsand "safe havens" for children at risk of domestic abuse, child marriage, labour and soldiers, and vaccinations.
+- UNDP: rural uphold of local demoracy and developments in regional councils to request funding
+- USAID and the UN World Food Programme: giving rural farmers (such as those in the Ghor province) nutrition, and teeaching about agriculture, increasing resilience, employment and incomes
+
+**Urban**
+UN Habitat have worked with the Afghan government, NGOs on the ground, and taken in external investment from governments such as Japan's to build locally-elected Community Development Councils, and funding to "upgrade" neighbourhoods.
+- These CDCs are locally-elected in the regions, with 50% women (increasing visibility, reducing discrimination and allowing employment) that can vote and prioritise plans to improve housing, sanitation, electricity and infrastructure in urban regions. 
+- This has resulted in there being 1.1 million new grid connections during the intervention.
+
+
+
+
+ 
+
+#### Withdrawal?
+
+The withdrawal has had a dramatic negative effect on the ountry, however, proves the positive effect that intervention can have on a country. Since 2021 the Fall of Kabul has erased much of the progress, with women again no longer able to work and complete a secondary education or be unaccompanied in public spaces. This applies beyond citizens: as women are unable to work, many NGOs and supranational organisations including Save the Children, CARE International and Islamic Relief have been forced to suspend aid and development programs [^source^](https://www.theguardian.com/world/2022/dec/26/aid-groups-suspend-afghanistan-operations-after-ban-on-women-working-for-ngos).
+
+
+
+## Intervention and development
+
+
+### Case Study: the DEMOCRATIC REPUBLIC of the CONGO
+The DRC is a central African LIDC with an HDI of 0.459. Its capital is Kinshasa. The country has male life expectancies of 59 and female life expectancy of 63. The GDP per capita is just $785 across a country with 101m inhabitants.
+
+Conflict and human rights violations are widespread as a result of internal conflict, historic corruption and poverty. ~75% live in absolute poverty (< $2.15/day) and artisinal mining is widespread with children being exploited in dangerous gold and lithium mines, and as child soldiers.   
+
+Currently MONUSCO - a UN peacekeeping and stabilisation force - are present and there are around 18,000 personnel on the eastern side of the country - the majority are troops, due to insurgence of violence known as the "Goma conflict". Internal conflict broke out after the Rwandan genocide and mass exodus of over a million Ugandans into the fagile DRC.
+
+- Becoming more stable: first electons in 2019 were peaceful
+-  CARE International, Action Aid and the World Bank are working to improve access across the country to education and healthcare services (half of young women are illiterate). 
+
+
+<!-- Editor To do: More here! -->
+
+Congolese
+
+> [tbd] Note: this section is currently being worked on!
+
+# 3.2 Debates - Disease Dilemmas
+<!-- Note that this is an incomplete cheat sheet. No ads will be shown. Eventually, the content here will be merged into the [main cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all). Happy revision!
+-->
+
+This section does not have all content; instead, focus has been placed on case studies.
+
+Section word count: 4,807 (25,446 characters)
+
+## 1. Global patterns of disease
+![Specification Content for Disease Dilemmas Key Idea 1 - "What are the global patterns of disease and can factors be identified that determine these?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.1.png)
+
+All types of diseases can be categorised into distinct categories depending on how they spread, how frequently they spread, who they spread from and to, and how many people spread them.
+
+**Communicable** diseases are diseases which spread from host to host through means such as direct contact, contact with contaminated material, through vectors or airborne particles. Broadly, these ones can spread.
+**Non-communicable** diseases cannot be spread between people. These are a result of lifestyle choices and genetic factors
+
+**Infectious** diseases are those which are spread by **pathogens** from any host to any host, with any form of contact. 
+**Non-infectious** diseases cannot be caused by pathogens between hosts.
+
+**Contagious** diseases are those which spread **between people** through direct or indirect contact.
+**Non-contagious** diseases cannot be transmitted from one person to another. However, they may include those transmitted through **vectors**.
+
+For example:
+- Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
+- Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
+
+In addition, diseases can diffuse in different ways
+
+- expansion diffusion: increasing in geographical area, typically decreasing in severity
+- relocation diffusion: move from one area to another
+- contagious diffusion: spread from person to person
+- hierarchical diffusion: spread along transport links
+
+All of these are linked to Hargerstrand's diffusion model. 
+
+Be careful when applying this to outbreaks like Covid where the model assumes that people will always want to travel and constant movement. Lockdowns can result in this model's predictions being broken.
+
+Different scales:
+- endemic: persistent in a restricted geographical area
+- epidemic: an outbreak that has spread to a larger population
+- pandemic: an outbreak that has spread worldwide
+
+
+## 2. Is there a link between disease and levels of economic development?
+![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
+### Patterns of diseases
+
+#### Malaria
+
+Malaria is an infectious, non-contagious disease. It is concentrated around the tropics, mostly in Africa, Central America and South/Southeast Asia - in other words, it is endemic to specific countries and epidemics can occur, but not pandemics. The Anopheles mosquito, which is the fector which transports the *Plasmodium* parasite, is most abundant in warm and humid environments, but not large urban areas. 
+
+Facts:
+- In 2018, 220 million people were infected with the disease.
+- In total, there are 3.2 billion people at risk in 97 countries.
+- It is estimated that half the world's population since the beginning has died from this disease.
+
+#### HIV/AIDS
+
+This is an infectious, contagious disease. 
+
+
+
+## Case study: River flooding, Bangladesh
+
+Bangladesh, bordered by India and Myanmar (synoptic link to Global Migration) is a deltaic country, situated on the world's largest river delta - the Ganges-Brahmaputra Delta. 
+
+Flooding from this river is a significant part of the livelihoods of Bangladesh's population. **60% live in rural areas**, mostly in the primary (agricultural) sector; **80% of the land area benefits from the flooding extent**.  There are several hundred permanent waterways which move around a billion tonnes of fertile soil, fuelled by glacial ablation in the Himalayas (synoptic link to Glaciated Systems) where peak melting coincides with the monsoon season. On top of being low lying (the average elevation is just 9 metres; 10% is below sea level [2](https://en-ie.topographic-map.com/map-csnfcz/Bangladesh/), which leads to over **a third of the country's land area regularly flooding** in the monsoon season. [1](https://factsanddetails.com/south-asia/Bangladesh/Nature_Environment_Animals_Bangladesh/entry-8204.html)
+
+This isn't all positive, however. In the short to medium term, climate change is exacerbating risks by increasing the volatility of glacial systems, increasing the magnitude of discharge and therefore magnitude of the flooding in these low-lying areas. 
+
+![](https://www.researchgate.net/profile/Shamsuddin-Shahid/publication/234130893/figure/fig4/AS:300113512681492@1448564045534/Graph-shows-the-percentage-of-area-inundated-in-Bangladesh-by-peak-floods-over-the-time.png)
+*percentage-of-area-inundated-in-Bangladesh*
+
+In 2020, the monsoon rains were of unprecedented scale. In the first half of the monsoon season, 40% of the land was inundated. This led to an epidemic of various water-borne diseases, including hepatitis, diarrhoea, typhoid and cholera. Although only 83 people died, **1.3 million homes were damaged** (and 3/4 of a million flooded), **affecting 5.4 million people** (1 in 35 people) [4](https://reliefweb.int/report/bangladesh/bangladesh-monsoon-floods-final-report-n-mdrbd025). The amount of **crops destroyed was over 150,000 hectares**, [3](https://www.globalfloods.eu/get-involved/case-study-bangladesh-2020/) which has knock-on effects for future years: consecutive years with bad flooding can decrease communities' resilience due to less stored money from agriculture, especially true as **half of the Bangladeshi population live below the absolute poverty threshold** and this can increase the susceptibility to disease outbreaks with a lack of nutrition and strength to be able to fight diseases like diarrhoea which is especially deadly for children under 5 years old. As an LIDC, this is especially true: the population pyramid is swayed in favour of younger ages (5% are under 5, compared to the average in ACs which is 6x fewer). This was seen in Bangladesh with these floods: the contamination of water supplies such as wells resulted in 4,500 people becoming ill with diarrhoea alone. On top of this, just under 2,000 schools and educational facilities were destroyed in the floods too.
+
+Bangladesh, although has its problems, is improving too. The threat of more severe flooding in future years and stronger cyclones has prompted both the government and NGOs to intervene. Female education and nutrition has significantly improved, with an emphasis on breastfeeding which reduces the likelihood of deadly waterborne diseases like diarrhoea being introduced into vulnerable babies' and children's immune systems. The Government allocated 14,410 tons of rice to be given to those affected. Oral rehydration solution was given to treat those moderately dehydrated, with water purification tablets being used to treat water supplies in large population centres, significantly reducing the risk of waterborne illness contamination and subsequent infection.
+
+Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-3983-b9f7-4b038c3b8e55/MDRBD025efr%20%281%29.pdf)
+
+## 2. Is there a link between disease and levels of economic development?
+![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
+
+
+## Case study: Air pollution and cancer in India
+
+India (Bharat), now the most populous country, is classified as an EDC with an HDI of 0.633 and a GNI per capita of $7130 PPP. However, levels of air pollution in this expansive nation are... pretty bad. 21 of the 30 most polluted cities globally are in India. 99% of Indians breathe air with particulate matter above the WHO's "safe" levels of PM 2.5 concentrations of less than ten micrograms/m^3^. With a population of 1.4 billion, half of them are expected to live for three fewer years because of this - and some urban residents in the capital (New) Delhi and other cities like Hyderabad and Gurugram are expected to live for 5 or even 10 or more years shorter!
+
+Over the past 2 decades, fine particle concentration has increased by 69% across India, reducing the life expectancy by around 2.4 years nationally.
+
+Air pollution here is largely caused by **particulate matter (PM)**, like NO~2~, S0~2~ and O~3~, emitted from vehicles, factories and coal-based factories. Biomass in rural areas also contributes to this: burning paraffin and animal excrement increases indoor air pollution so much that up to 1 million people die prematurely annually because of this. This is visible as **photochemical smog** - which can cause acid rain.
+
+> PM 2.5 are particulates smaller than 2.5 micrometres in size, which can penetrate and remain persistently in the lungs and interfere with DNA, causing mutations like cancer and increasing the probability of other non-communicable and chronic illnesses. Bronchitis, asthma, lung cancer, and CVDs (heart disease)  
+
+In many cities such as Bangalore, around 50% of children suffer from asthma. This is the highest worldwide.
+
+In Delhi, PM 2.5s are at 24x the safe level - and increasing. A reduction to safe levels would benefit life expectancy more than eliminating unsafe water access and eliminating poverty, combined.
+
+Air pollution is having a significant negative impact on India's economic output and various social factors. There is an **added burden on healthcare systems** to accommodate for lung cancers and other cardiovascular, chronic illnesses when the country has not fully made it out of the Age of Receding Pandemics (Stage 2) of the epidemiological transition model. The particulate matter at such high levels has an **impact on the brain, reducing its function by several percent** and potentially **reducing educational attainment** and the chances of students contributing to the economy through high-skilled employment. Even if they do, the **reduced life expectancy will shorten the times they will be able to work, earn, spend and reinvest in the economy.**
+
+> Nearly 1.67 million deaths and an estimated loss of USD 28.8 billion worth of output were India's prices for worsening air pollution in 2019. ^[1]
+
+Respiratory diseases are **1.7x higher in Delhi**, with a **40% decrease in lung function because of air pollution**. In addition, there are 20% more non-smoking-related lung cancer diagnoses each year, with a total of **1 in 68 males being diagnosed with lung cancer in one year** alone.
+
+[^1]: https://www.indiatoday.in/diu/story/will-an-extended-ban-on-firecrackers-help-improve-the-air-we-breathe-1858861-2021-09-29
+
+
+### Solutions
+
+However, there is a silver lining to the smog cloud. Gujarat, a state in the west of the country, has set a legal limit on pollutant emissions for industrial plants. The government gives out a set amount of **emission permits** to companies, and should certain factories require more emissions, they must trade these permits to raise their emissions allowances. This financially incentivises businesses to invest in less emissive processing facilities, reducing air pollution, whilst providing a revenue stream for the local authority to tackle the effects of heightened levels of emissions, in addition to tackling a root cause of this through the trading permits. 
+Petrol and diesel subsidies have been scrapped in some areas (these fuels power large amounts - 1/3 - of electrical production) and further, **14 Indian cities are expanding the use of high-speed metro systems** - encouraging clean, fast public transport which reduces traffic congestion. 
+
+In rural areas, zigzag brick kilns which reduce coal consumption by 80% have been fitted in various communities, despite slow progress. Burning stubble in fields - a huge smoke pollutant which wind frequently carries from rural to urban settlements, making up **17% of India's emissions** - is also in the process of having additional restrictions. 
+
+Despite all of these advances, the introduction of legislation like this has been slow and there are greater priorities for the moment such as increasing living standards across the country - **15% are still living in multidimensional poverty**. There is currently no legislation controlling levels of nitrogen dioxide and sulphur dioxide with vehicle emissions. Economic incentives to further grow the country's economy may be hampered if legislation like this is forcefully enacted, therefore, the government is betting that allowing significant economic development now will allow them to put laws in place in the future as the country develops, without being of detriment to all citizens.
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/2d/Sources_of_Air_Pollution.png)
+
+Further reading: [Wikipedia](https://en.wikipedia.org/wiki/Air_pollution_in_India)
+
+### Global solutions to air problems
+
+In 1997, there was the legally binding Kyoto Protocol. It created agreements on reducing carbon emissions around the world, such as by 2012 there will be 22% lower emissions. In comparison to 1990 in the EU, however, global carbon emissions increased by 65%! Despite this, the goal was achieved and even by 5% in the EU. This caused industries - directly or indirectly - to move and relocate away from the EU. Carbon trading systems were also considered too complex, would not help to reduce emissions, and only included those countries that had already been industrialised. 
+
+In 2015, this protocol was replaced by the Paris Climate Convention. It agreed to reduce CO~2~ emissions below 60% of 2010 levels by 2050 and to keep global temperature rises below 2° C in comparison to the 1900 average. Ideally, this was set to 1.5°, but this is considered too difficult.
+
+
+
+
+## 3. How effectively are communicable and noncommunicable diseases dealt with?
+![Specification Content for Disease Dilemmas Key Idea 3 - "How effectively are communicable and noncommunicable diseases dealt with?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.3.png)
+
+## Case study: Malaria in Ethiopia (LIDC)
+
+Malaria, one of the world's most deadly diseases, is estimated to have killed around 5% of all humans who have ever lived [[1](https://www.realclearscience.com/blog/2019/10/03/has_malaria_really_killed_half_of_everyone_who_ever_lived.html)]. It is a communicable, infectious but non-contagious disease. More specifically, female Anopheles mosquitoes inoculate the Plasmodium (primary *P. vivax*) parasite into humans - where it infects liver cells and then moves to red blood cells - with no other known hosts.
+
+> Sporozoites inoculated by the female Anopheles vector enter liver cells, rupturing and releasing mature merozoites which move into red blood cells.
+
+200 million cases of malaria were reported in sub-Saharan Africa to the WHO. In Ethiopia, 3/4 of the land area is considered endemic, putting 2/3 of the population (60 million) at risk of contracting the disease, where around 5 million cases are reported, alongside 70,000 deaths, per year. Malaria can also be caught again, as it can take many reinfections to build up sufficient immunity to become protected against it. [[2](https://www.mdedge.com/hematology-oncology/article/187381/related-issues/why-its-hard-develop-immunity-against-malaria)]
+
+The **epidemiology** of malaria is unevenly distributed. Areas such as the **Gambella province**, situated to the west of the **Ethiopian highland mountains** (relief rainfall) are in a **lowland area and malaria is endemic**. This area, where humid and warm, >30 degrees conditions mix with **stagnant water pools** provides ideal breeding grounds for mosquitoes (which require >20 degrees C). In the highlands, altitudes reach over 4,000m and are malaria-free thanks to their cooler temperatures. Addis Ababa, the capital, is in a malaria-free area; it is also the 5th highest-elevation capital city in the world. 
+In addition, large-scale population migration occurs at the same time as the rainy season, which is also the season of peak malarial transmission. Many **agricultural workers migrate** temporarily from the malaria-free highlands to the lowlands. Farmers often sleep in airy barns and **work into the night, when transmission is at its highest**. **Irrigation, in the Awash Valley and Gambella provinces**, has exacerbated the risk of mosquitoes due to more stagnant water pools required to harvest the most common foods like rice.
+
+
+ 
+
+### Socio-economic impacts on Ethiopia
+ 
+As with all communicable diseases, it is the poor who are the most susceptible and carry the burden of the disease. Malaria accounts for **40% of the national healthcare expenditure** and **10% of hospital visits**. The cyclical nature of the disease results in particularly bad epidemics every 5-8 years which have been seen to overwhelm health services. On top of this, tourism is stifled by the malaria warnings, despite being a beautiful country along the East African Rift.
+
+The uneven epidemiology also affects **food security**, the environment and social factors. Addis Ababa is able to accommodate high population densities due to the relatively developed infrastructure and malaria-free state. As people understand the risks of malaria, many refuse to work in the lowlands and overexploit the already poorer-quality farmland compared to the nutrient-rich lowlands. It is therefore not surprising to learn that, when harvests are particularly bad with droughts (short-medium term becoming worse due to climate change), the country is susceptible to damaging **famines**. Economic measures such as DALYs ([Disability-adjusted life years)](https://www.who.int/data/gho/indicator-metadata-registry/imr-details/158) ) lost also show that malaria has a significant impact on the population: 30% of all life years lost are because of this, reducing economic output potential further.
+
+### Mitigation strategies and responses
+
+There has been little medicinal development concerning anti-malarial treatments for over 50 years. Chloroquine, which raises the blood pH and therefore that of the parasite, killing it, is becoming increasingly resisted by the parasites and can be toxic for those who take it (socioeconomic impact too). As a result, the government and NGOs have been working together to mitigate the risk of this disease.
+
+The U.S. President's Malaria Initiative (PMI) has 'invested' half a billion dollars into antimalarial programs, such as providing around **50 million insecticide-treated nets (ITNs)** to residents, prioritising pregnant women and those under 5. Indoor residual spraying (IRS) has also been used extensively, in over 12 million homes and public places. Child **death rates have fallen by over 35%**, and **70% of homes** now have protection from an ITN or through IRS. In total, the number of malaria-induced deaths has **declined by 50% in just 15 years from the peak in 2004**. These are some examples of indirect mitigation strategies.
+
+The WHO's Global Technical Strategy has also targeted Ethiopia as part of a push to eliminate Ethiopia worldwide by 2030, a strategy that worked for Smallpox during the 20th Century. It remains to be seen how growing resistance and increased incidence may have an effect on the longer-term outlook. 
+
+## Case study: Cancer in the UK
+
+Cancers are non-communicable, non-infectious and non-contagious diseases. One in two people in the UK are expected to suffer from cancer in their lifetimes. One in four people to die in England in 2021 was due to cancer. 
+
+> Carcinogen: something likely to cause changes to a cell's DNA. Too many DNA alterations may cause 
+
+Rates of cancer in the UK are not evenly distributed. The northeast has the highest rate of colon, lung and rectal cancer, as opposed to areas like London with the lowest rates of cancer in the country, where prostate cancer is highest. 
+
+Melanoma, a type of skin cancer, has the fewest cases in more deprived communities according to the Index of Multiple Deprivation compared to lesser deprived communities.
+Lung cancer has significantly more (170%) cases in the 50% more deprived communities compared to the least deprived half.
+
+There is a clear link between smoking and at least 15 different types of cancer. **7 in 10 lung cancer cases are caused by smoking**; it is also the most common cause of cancer death in the UK
+
+### Socio-economic impacts on the UK
+A thousand people get diagnosed with cancer in the UK every day. Thousands more get informed that someone they know has been diagnosed. **500 people die daily from cancers**. Incidence, in areas independent of deprivation status, is expected to increase by over 40% by 2035 for half a million new cases annually. 
+
+The workforce is affected: **120,000 people below the age of 65 are diagnosed every year with cancer**. They are likely to leave the labour force for many months at a time during treatment, and many may never return to work - some are too physically in pain or fatigued due to the secondary effects of chemotherapy, for example, to return. The UK has one of the highest rates of carers for those with cancer in the "western" world with over **1 million people caring for someone with a terminal condition**, out of work or undergoing treatment. In addition to the 50,000+ working-age people who die of cancer each year, the economic losses of this quickly add up to **tens of billions of pounds annually**, with hundreds of thousands never able to work again.
+
+
+### Mitigation strategies and responses
+
+Environmental factors can explain a large percentage (~ two-thirds) of cancer cases in ACs like the UK. **Skin cancer melanoma** is increasingly becoming a large risk as people ignore the risks of sunbathing, purchasing sunbeds and buying more accessible cheap holidays abroad - **only 11% of people say they always use suncream in the UK** ([[2](https://melanomafocus.org/news-blog/uk-public-ignoring-skin-cancer-risks/)]). Social media, coupled with increasing wealth and accessibility of products, has idolised the view of a tanned look, whereas in reality unprotected exposure to significant UV rays invisibly damages and ruptures parts of the skin and can interfere with DNA, causing melanoma skin cancer, and reached the highest level in 2023; increasing almost a third in just a decade [[1](https://cks.nice.org.uk/topics/melanoma/background-information/prevalence/)] for **an average of 3% per year**. To combat this, the Met Office now issue weather warnings and forecasts for UV levels, including for the most popular holiday destinations. The Sunbeds (Regulations) Act 2010 forbids the supply of tanning devices to those under 18. Finally, additional education in schools and publicity campaigns have also been increasingly employed by the government to warn the public about melanoma.
+
+In addition, (international) charities and organisations have employed a range of measures to tackle cancer. **Macmillan Cancer Support and Cancer Research UK** are some charities that both employ direct and indirect strategies. Firstly, Cancer Research UK invest large sums of their donations into various cancer drugs, and treatments such as **immunotherapy, chemotherapy and radiotherapy**. The research done in these fields has resulted in many **clinical trials** which, if successful, can help to detect cancers early and therefore increase survivability. This charity also runs indirect strategies like campaigns to reduce smoking, where a **1% reduction in smoking can save more than 3,000 lives annually**. With **150,000 children taking up smoking each year** and many continuing for the rest of their lives, they also run educational awareness courses to discourage the uptaking of this habit.
+
+
+Perhaps the most important organisation involving the mitigation of cancer in the UK is the **NHS** itself. "Stoptober" campaigns for smoking raise money and make people 5x more likely to permanently quit. **£200 million investments** are resulting in much faster diagnoses turnarounds - a target of **2 weeks from the GP to the hospital, and 2 months from the GP to treatments commencing**. GP training and support have provided access to quicker diagnosis turnarounds, and this is supplemented by screening. **Breast cancer screening every 3 years** for women aged between 50 and 71, alongside **cervical screening** at similar intervals for women between 26 and 64 years to catch the most common cancers. Additionally, **vaccinations** like the Year 8 HPV vaccine have been promoted.
+
+However, the UK NHS system is seen as a "postcode lottery", not just for cancers but all types of chronic diseases. Covid-19 has amplified and shown the vulnerabilities in such a system, with over **300,000 being on the national cancer waiting list**, with 3.1% of these waiting more than 3 months. This is after being diagnosed with cancer! Understandably, this shows that many people's cancer can progress despite referrals quickly from GPs. due to a lack of hospital availability. **For every 4 weeks' delay in treatment, there is a 10% reduction in complete survival likelihood**.
+
+The UK government also employ many indirect strategies. **Smoking was banned indoors in 2007**, alongside a 2-year increase in legal age, and also **picture warnings on smoking packaging** - the first EU nation to do so, helping the "**tobacco control plan**". "Sugar taxes" have also been introduced throughout the past decade to remove up to 40% of sugar from cereals, banning buy-one-get-one-free offers in supermarkets, and requiring the calorie count to be shown in restaurants. Finally, the 10-year cancer plan with state-of-the-art radiotherapy machines and record investment to reduce the effects of an ageing population. 
+However the effectiveness of these remains limited - the purchase of sweets and unhealthy foods can still be undertaken, and the prevalence of smoking has not seen a substantial decrease since the Covid-19 pandemic, whilst the use of e-cigarettes has increased. Moreover, the lack of access to these new technologies in northern areas of the country has been revealed, on top of complaints about "red tape" and additional bureaucracy from importing them from the EU and internationally.
+
+
+![smoking prevalence](https://allen-carr-live.s3.eu-west-1.amazonaws.com/wp-content/uploads/2023/06/07151619/Smoking-UK-stats-England-smoking-prevalence-by-region-1024x310.png)
+
+
+## 4. How far can diseases be predicted and mitigated against?
+![Specification Content for Disease Dilemmas Key Idea 4 - "How far can diseases be predicted and mitigated against?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.4.png)
+
+## Case study: The Red Cross and cholera in Haiti
+
+Haiti is known as "the poorest country in the Western Hemisphere". It has a GNI per capita of US $1665 PPP and **poverty is around 60%**. The Mw 7.0 quake in January 2010 **killed around 10% of the population of the capital**, Port-au-Prince. More than 90% of the population lived in slums and half had no access to toilets. 
+
+Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley, are believed to have brought the disease, 9 months after the quake hit the island nation. **820,000 cholera cases were counted** within 4 years, with around half a million hospitalisations - **82 hospitals had been damaged or destroyed during the quake**. 
+
+The British Red Cross targeted the outbreak with its own response programme between 2010 and 2012. 10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and the Red Cross were able to deliver clean water to 300,000 camp dwellers in the capital. On top of this, as cholera is water-borne, they built 1300 latrines, serving almost 200 people each. They also directly treated over 20,000 cholera cases in treatment units across Haiti, provided medical supplies to hospitals in the Artibonite Valley and indirectly combatted the disease through educational measures, teaching how to avoid infection and the symptoms.
+
+Coupled with other aid workers like Cuban doctors who treated more than 75,000 cholera cases, it may have been a much greater success than it was. Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)]. Basic functionality and sanitation was not put in place across the country. 
+
+
+Further reading: [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
+
+
+## 5. Can diseases ever be fully eradicated?
+![Specification Content for Disease Dilemmas Key Idea 5 - "Can diseases ever be fully eradicated?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.5.png)
+
+## Case study: the rosy periwinkle
+
+![enter image description here](https://www.europarl.europa.eu/resources/library/images/20121206PHT04354/20121206PHT04354_original.jpg)
+
+Plants have been used for a long time as medicines to cure diseases, from old herbal remedies in prehistory to the medieval Doctrine of Signatures. 
+
+The rosy periwinkle (or rosy p) leaves contain 70 alkaloids with significant medicinal value. Vincristine and vinblastine were preciously undiscovered by science. **Vincristine is being used in childhood leukaemia: since 1970, survival rates have increased from 10% to 90%**. **Vinblastine can help testicular cancer, Hodgekin's lymphoma and more**. Furthermore, other alkaloids can be used to treat some cancers too. This has been unable to be synthesised synthetically through scientific means.
+
+In Madagascar, where it is native, and in some areas of India and central Asia, huge land areas are being used to farm this plant. For Eli Lilly, its developer, sales equate to hundreds of millions of dollars from healthcare services around the world.
+
+However, it is patented by Eli Lilly, which makes it illegal for others to sexually reproduce, import or export the plant. As a result, it maintains a monopoly over the periwinkle market and can effectively charge the prices they decide to use it. Furthermore, this also allows them to get away with **biopiracy**, as **under 5% of the money is given back to the indigenous farmers**. Economic growth is limited due to export restrictions under Lily which can exacerbate poverty in a region, as workers are effectively being exploited for transnationals' gain.
+
+Although it has come under scrutiny from some EU regulators, this practice largely goes unnoticed, as pharmaceutical companies have leverage and spend billions on discovering new drugs.
+
+Biopiracy further reading: [here](https://www.jstor.org/stable/25684263?seq=11)
+
+
+## Case study: GSK (formerly GlaxoSmithKline)
+
+GSK is part of the transnational pharmaceutical industry, which is a for-profit industry.
+
+Historically, GSK has been (and may still be) overcharging governments and individuals for drugs, making abnormally high profits on lifesaving therapeutics. Its former employees have been criminally prosecuted on two continents, and have also been accused of lobbying governments and international organisations, with the use of bribing medical experts in favour of them. In addition, they have been seen to prioritise the R&D of drugs that require long repeated prescriptions and less those which are not as profitable like those needed for tropical diseases.
+
+Despite these criticisms, GSK is able to deliver almost a billion vaccine doses and billions of medicine packs and healthcare products every year. 100,000 people globally are directly employed by them in tertiary and quaternary sector jobs, improving local economies in their 36 countries of manufacturing.  
+
+Some of GSK's breakthroughs and patents include the first malaria candidate vaccine and ongoing Nobel Prize-winning discoveries for malarial drugs. They also provide medication for type 2 diabetes and discovered the first oncology drug for leukaemia. On top of this, they are one of the only pharmaceuticals to be actively researching new candidate drugs for the WHO's top 3 global priority diseases. Patents in medicine last for no longer than 20 years and give GSK the ability to invest greater amounts in new medicines. They currently hold almost 10,000 patents, largely in HIV medication, cancer treatments, cardiovascular disease and Covid-19.
+
+As GSK had an operating profit of £6.433 billion in 2022, they can - at least mathematically and taking being beholden to shareholders out of the equation - afford to provide LIDCs and EDCs drugs and medicines at significant discounts: 80% of the 800mn vaccine doses given were to these countries in 2014. In addition, they do not enforce historic patents or file new medicinal patents in LIDCs, allowing companies to manufacture versions of their medicines in these countries. Finally, their code of practice now involves capping the prices of patented drugs in LIDCs, many of which cannot manufacture their own pharmaceuticals, to 25% of the UK price and only allowing a 5% return on each product sold - the remaining 20% of its profits are invested into the developing country where it is sold.
+
+
+## Mini case study: Guinea worm in Ghana
+
+The Guinea worm eradication programme and the Ghana Red Cross women's program partnered and women, who are typically the ones to source water for families, were taught about the benefits of filtering water to avoid contamination. Women were also responsible for reporting and monitoring all cases of the worm back to the WHO. 
+
+---
+
+Note: Although not a case study, grassroots strategies should also be recapped (guinea worm)
+
+
+
+
+# 3.5 Debates - Hazardous Earth
+
+## 3-marker limitation questions
+To answer these questions, firstly understand what the question is asking. For example:
+> "Identify three limitations of Fig. 5 (graph) as a source of information about earthquakes occurring in Iran."
+
+This is effectively asking about how well it is a **source of information about earthquakes**. Therefore your answer must be about earthquake information and that's it. Therefore, you should consider the properties of earthquakes, their effects, responses and more. For example, does the figure:
+- Not contain essential **information**? This could be the magnitude, focus, people affected by it, why that specific location. If it is a map, why that area? Geology?
+- Have a completely understandable **scale**? Pick out a year/month and can you get a precise reading? Is it going up in regular, precise intervals or random numbers of years?
+- Have a reliable **source**? Is it from the USGS, the UNDRR, the EU?
+- If statistics given, question why. Is it a raw number, or a more accurate proportion? Why is it just from one country - may it be beneficial to compare multiple? 
+
+
+## Structure of the Earth
+
+### Crust
+
+### Lithosphere
+
+Mohorovicic discontinuity
+
+### Asthenosphere
+
+
+### Mesosphere and below
+
+
+
+## Theory of Plate Tectonics
+The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected by scientific communities.
+
+---
+![enter link description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308808608534648/wegener-haha-original.gif)
+
+---
+
+
+## Reasons for plate movement
+
+### Paleomagnetism
+Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. 
+When oceanographers mapped seabeds for the first time during WW2, magnetic flips were observed on either side of oceanic divergent boundaries. 
+
+This is because magma, with high iron content from the mantle, is erupted, and then these small iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the width of polarity inversals on either side of the plate boundary on the ocean floor (the variability of the polar inversals changing the widths) - thus proving that  
+
+
+### Ancient glacial epochs
+Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them (erosional features), have been found by glaciologists in central India, Africa and even in the Amazon Rainforest, implying that these places were once in polar regions.  
+It is unlikely that glaciers will form over oceans due to higher temperatures so land-based glaciers and therefore connected land masses existed.
+
+
+### Geologic sequences
+*He noticed that the continents look just like pieces of a broken puzzle...*
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/ContinentalDriftMountains.jpg)
+*A slightly exaggerated visualisation of the present-day positions of the Appalachian Mountain range. [Thanks](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/comment/k4mnpz4) to [u/dxrknxrth](https://www.reddit.com/user/dxrknxrth/) and [this](https://www.reddit.com/r/interestingasfuck/comments/175gfgy/the_appalachian_mountains_atlas_mountains/) Reddit post!*
+
+
+Geologic sequences and the apparent fit of the continents show that regions with similar geologies - such as the Appalachian Mountain Range in the USA but also the Scottish Highlands and Scandanavian Mountains - were once together. These mountains are of similar lithologies and composition, and they are also close to the ocean on all the continents. What's more is that many of these continents especially those on either side of the Atlantic looked like they could be joined: eastern Brazil fits almost perfectly into central Africa, and northern America aligns to an extent with Europe.
+
+### Fossil evidence
+Aside from the geological evicence, there exists also biological evidence.
+
+- *Glossopteris* was a fern with large seeds that could not be transported in the air. Bands of its fossilised remains have been found across the sountern continents and subcontinents, including Australia, Antarctica, India, Africa and South America. This shows that the land must have been connected else the plant could not have spread.
+- *Mesosaurus* was a freshwater reptile that was native to southern Africa around 290mya. Its remains were also found in South America - implying that there was a lake in present-day South America and Africa that was joined together; this reptile could not have travelled over the salty ocean.
+
+
+![](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glossopteris-PaleoBioDB.png)
+*Map of where Glossopteris fossils have been found.*
+
+On a larger and wider scale:
+- Oil and fossil fuel deposits are found in Antarctic and Tundra regions. These require warm, swamp-like (anaerobic) conditions for fossil fuels to form - these were present along equatorial and regions between the tropics. Thus, the crust must have moved to carry these deposits elsewhere.
+
+
+> You can see a map of fossils on the Paleobiology Database: https://paleobiodb.org/navigator/
+
+### Age of sea floor rocks
+
+Because of the sea-floor spreading theory, it was hypothesised that the rocks, contrary to prior belief, would be the youngest in the centre of the oceans (at mid-ocean ridges) and oldest towards the continents - and at subduction zones. 
+The depth of the accumulated sediment on the sea floor was found to increase as distance from spreading centres increased too. Furthermore, rock core data shows that nowhere on Earth is oceanic crust older than 200 million years (in the North-west Pacific) and thus the crust must be continually recycled
+ 
+
+---
+
+![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/wegener-yeeha-original.gif)
+
+---
+
+
+## Plate Boundaries
+Now that we've determined Alfred Wegener was a brilliant man, let's dive into the mechanisms of the continents.
+
+A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
+
+## Divergent plate boundaries
+At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
+ 
+### Oceanic-oceanic boundary
+At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
+At these 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ5ODIyMjM3LC03MTgzODUzNSwxNTYyNj
-MzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02
-MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OT
-U2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDcz
-MiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNz
-gxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2NzcwNDIwLC05MTIwMTE4
-NTVdfQ==
+eyJoaXN0b3J5IjpbLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2Mj
+YzMzM4MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwt
+NjM3MDM5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOT
+k1NjIxLDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3
+MzIsLTM5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMz
+c4MTMwNDA4LC0xMzIyODMwNDMwLDY0Njc3MDQyMCwtOTEyMDEx
+ODU1XX0=
 -->
