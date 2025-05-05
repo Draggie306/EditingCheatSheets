@@ -2434,13 +2434,41 @@ A plate boundary is where there are two plates meeting. This is not the same as 
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
  
 ### Oceanic-oceanic boundary
-At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
+At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed.
+
+At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
+
+Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to, releasing kinetic energy. (There is little volcanic activity along transform faults.)
+
+Faster spreading (up to 170mm/yr) will result in broader and smoother mountain chains, with slow spreading (20mm/yr) having much steeper mountains.
+
+> A transform fault is **only the lateral** part of the zig-zag, between ocean ridge crests.
+
+### Continental-continental
+
+In locations where two continental plates meet (such as the East African Rift: Nubial <--> Somali), the mantle plume is not as strong, if any at all. As a result, rift valleys are created and are visible on land (such as in Iceland). These form as the plates, being pulled away from each other due to **convection currents** fuelling **slab pull**, resulting in the land "ridge" being "pushed" and the boundary sinking: there is nothing below supporting it. Volcanic fissures also may open up for a time if there is land movement and a magma chamber beneath, which look like lines of magma erupting over a landscape. Shield volcanoes erupt viscous lava and are less active compared to composite volcanoes and calderas.
+
+Rift valleys can also be found where spreading is occurring at a slower rate, such as the Mid-Atlantic Ridge (North American <--> Eurasian) on land such as Iceland.
+
+<!-- Faster-spreading -->
+
+## Convergent plate boundaries
+
+- upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental. Big, shallow focus earthquakes
+- responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
+- oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
+- oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
+
+
+## Conservative plate boundaries
+
+Typically continental plates move past in a s
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjAzMTQ1OSwtMzA0NDcyMjEwLC03MT
-gzODUzNSwxNTYyNjMzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgs
-NDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OT
-k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
-NCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNT
-UzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2Nzcw
-NDIwXX0=
+eyJoaXN0b3J5IjpbNTg5Mjg0MzcwLC0zMDQ0NzIyMTAsLTcxOD
+M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
+ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
+Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
+LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NT
+MyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0
+MjBdfQ==
 -->
