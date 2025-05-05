@@ -3,6 +3,7 @@
 
 
 
+
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
 # A Level OCR Geography: Complete Cheat Sheet
@@ -401,7 +402,7 @@ Inside modern-day Ullswater is a series of **roche moutonnées** such as Norfolk
 
 To the west of Helvellyn is the Thilmere ribbon lake. A series of truncated spurs and hanging valleys are located along this U-shaped valley, moulded by a glacier.
 
-Drumlins made of boudler clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
+Drumlins made of boulder clay have been deposited south of Kendal. They are oriented to the south-west [visible here](https://www.google.com/maps/@54.2840549,-2.7003992,13.74z/data=!5m1!1e4?hl=en&entry=ttu), supporting the idea that the ice was moving outwards from the area of higher topography to lower areas.
 **Langstrath Valley** has an example of lateral moraine on the north side of it.
 
 The Glenridding village has [visible depositional till](https://cheatsheet-assets.ibaguette.com/alevel/geography/Glenridding%20Deposition.png) extending into Ullswater, visible from satellite imagery, proving that there was once glacial activity in the area.
@@ -2140,6 +2141,8 @@ Facts:
 
 This is an infectious, contagious disease. 
 
+
+
 ## Case study: River flooding, Bangladesh
 
 Bangladesh, bordered by India and Myanmar (synoptic link to Global Migration) is a deltaic country, situated on the world's largest river delta - the Ganges-Brahmaputra Delta. 
@@ -2461,13 +2464,17 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 - oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
 
-<!-- (explain from m
+<!-- (explain from memory) -->
+
+## Conservative plate boundaries
+
+Typicall
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc3MTM4NzgwLC0zMDQ0NzIyMTAsLTcxOD
-M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
-ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
-Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
-LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NT
-MyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0
-MjBdfQ==
+eyJoaXN0b3J5IjpbMTk4MDY2Mjc4NCw0NzcxMzg3ODAsLTMwND
+Q3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4MSwzODY4Nzc4MDMs
+MzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMT
+Q5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMs
+LTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00Mz
+E5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMw
+NDMwXX0=
 -->
