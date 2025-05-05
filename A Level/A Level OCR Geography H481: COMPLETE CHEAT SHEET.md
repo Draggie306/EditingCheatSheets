@@ -1809,16 +1809,15 @@ The Gini coefficient is used to measure the inequality of income and thereby dep
 ### Case study: MIDDLESBROUGH
 Middlesborough is a region in north-east England. 
 
-A harsh cycle of deprivation has occurred after global shift and deindustrialisation away from coal, steel and the chemical industry. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks 16th of the UK's 317 LAs. 
+A harsh "cycle of deprivation" has occurred after global shift and deindustrialisation away from coal, steel and the chemical industry - **structural economic changes**. 38% of children are in poverty - which has grown since 2014 in a time when the UK child poverty rates have decreased by 2%. More than half of the LSOAs in Middlesbrough are in the 10% most deprived. It ranks 16th of the UK's 317 LAs. 
 North Ormesby Ward was the 3rd most deprived out of the 7,180 in the UK. 
 
 - Middlesbrough's average household income is £24,900
 - Life expectancies up to 11 years lower than the national average,
-
-https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866
+- It has been disproportionally affected by [austerity policy](https://www.gazettelive.co.uk/news/teesside-news/teesside-town-residents-13200-poorer-28502866) and a lack of growth, creating the cyclical effect of deprivation.
 
 ### Case study: HART, HAMPSHIRE
-Hart and the town of Fleet within are the least deprived LA and LSOA in England, ranking in 317 of the 317 least deprived LAs. The positioning - 45km SW of London and 50km N of ports like Portsmouth give it a commuter settlement status, allowing for the benefits of high salaries without burden of higher living costs. These high salaries allow for greater disposable income - avg house is worth over £462,000, and over 80% being detached and either owned outright or on a mortgage. This may be facilitated by the 37.5% of adults with a degree (10% higher than the national average) 
+Hart and the town of Fleet within are the least deprived LA and LSOA in England, ranking in 317 of the 317 least deprived LAs. The positioning - 45km SW of London and 50km N of ports like Portsmouth give it a commuter settlement status, allowing for the benefits of high salaries without burden of higher living costs. These high salaries allow for greater disposable income - the average house is worth over £462,000, and over 80% being detached and either owned outright or on a mortgage. This may be facilitated by the 37.5% of adults with a degree (10% higher than the national average) 
 
  - Average life expectancies are 2-4 years higher than the national avg.  
 - Fleet's average household income is £52,000 - over double that of Middlesbrough.
@@ -1846,7 +1845,7 @@ The development of a bypass, such as the Norwich NDR, has so many players. Local
 ### Case study: Structural economic change, Birmingham
 > This case study can also be used in Placemaking (5.c) 
 
-The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the de Bermingham family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
+The first sign of economic change in Birmingham, now England's second city with a population of over 1.1 million in the metropolitan area, took place in 1166, when the *de Bermingham* family purchased a royal charter, permitting the holding of a market in the area. As such, it became recognised as a hub for trading, as opposed to agriculture, and has continued to grow to the present day.
 
 
 #### The rise of Birmingham
@@ -1888,13 +1887,6 @@ Over 50,000 students are present in the 5 city universities. They work, and spen
 Finally, the Birmingham Development Plan at the LA level is ensuring that a combination of these goals continues.
 
 
-#### Overall roles of players
-
-- de Bermingham family: 1166, royal charter. Immediately changed the industry from 
-
-
-
-
 ## Placemaking processes
 > 5.a. Place is produced in a variety of ways at different scales.
 5.b. The placemaking process of rebranding constructs a different place meaning through reimaging and regeneration.
@@ -1914,7 +1906,7 @@ Through the City Challenge redevelopment, they were replaced by more traditional
 
 From fishing village to diverse economic powerhouse, Dubai is an excellent example of placemaking.
 
-After realising that oil would not be an unlimited resource, the Sheikh diversfied from 1970.
+After realising that oil would not be an unlimited resource, the Sheikh diversified from 1970.
 
 The Jebel Ali Free Zone was established, today allowing 200,000 companies to operate in Dubai, using its excellent positioning. Along with flagship developments such as the Burj Khalifa (828m in 2008) the real estate sector has grown to US$25bn.  
 
@@ -2445,11 +2437,11 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 ### Oceanic-oceanic boundary
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3Mzg3MzAzMSwtMzA0NDcyMjEwLC03MT
-gzODUzNSwxNTYyNjMzMzgxLDM4Njg3NzgwMywzODMxMDgzMTgs
-NDg5ODM0MzUwLC02MzcwMzk3MDgsLTE3NDMxNDkyODgsLTY5OT
-k2OTQ1NCw5OTA5OTU2MjEsMTY1NjI1NjE1MywtMTYxMjAwNjcx
-NCwtMTA1ODU5NDczMiwtMzk2NzI3NzksLTQzMTk1MjU1LDExNT
-UzMjc1MzcsLTEzNzgxMzA0MDgsLTEzMjI4MzA0MzAsNjQ2Nzcw
-NDIwXX0=
+eyJoaXN0b3J5IjpbNTA1OTMzNzU4LC0zMDQ0NzIyMTAsLTcxOD
+M4NTM1LDE1NjI2MzMzODEsMzg2ODc3ODAzLDM4MzEwODMxOCw0
+ODk4MzQzNTAsLTYzNzAzOTcwOCwtMTc0MzE0OTI4OCwtNjk5OT
+Y5NDU0LDk5MDk5NTYyMSwxNjU2MjU2MTUzLC0xNjEyMDA2NzE0
+LC0xMDU4NTk0NzMyLC0zOTY3Mjc3OSwtNDMxOTUyNTUsMTE1NT
+MyNzUzNywtMTM3ODEzMDQwOCwtMTMyMjgzMDQzMCw2NDY3NzA0
+MjBdfQ==
 -->
