@@ -412,11 +412,11 @@ Disadvantages:
 
 A network is a group of two or more computers connected together to communicate. There are 2 ways for them to communicate: wired (ethernet) and wireless (Wi-Fi, Bluetooth).
 
-It may seem obvious but the benefits of being in a network include accessing and sharing resources, sharing hardware like printers, communications via email, text or video, and roaming profile (can access your files from any computer in the network). 
+It may seem obvious but the benefits of being in a network include accessing and sharing resources, sharing hardware like printers, communications via email, text or video, and having a roaming profile (i.e. you can access your files from any computer in the network). 
 
 In larger networks, antiviruses and firewalls can be implemented network-wide instead of on individual computers, improving security and cost-effectiveness. 
 
-Admins can monitor what people do on these networks, and give them rights (User Access Levels) to restrict access. However, networks can cost a lot as equipment like dedicated cables or switches are needed to communicate, and malware can spread more quickly if a network has poor security.
+Admins can monitor what people do on these networks, and give them rights (see User Access Levels) to restrict access. However, networks can cost a lot as equipment like dedicated cables or switches are needed to communicate, and malware can spread more quickly if a network has poor security.
 
 ### IP and MAC addressing, standards
 The 32-bit IP address system is also known as IPv4. It allows for over 4 billion addresses (2^32 = 4,294,967,296 addresses). We're running out very quickly.
@@ -1325,6 +1325,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzYwNTg1LDE0MTk2MTgyMDIsLTExMz
-c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTUwNTQxNzUxNSwxNDE5NjE4MjAyLC0xMT
+M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
