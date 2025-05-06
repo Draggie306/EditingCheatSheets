@@ -533,14 +533,14 @@ Anti-malware detects installed malware, prevents malware from being installed, a
 
 ### Firewalls 
 
-Firewalls monitor traffic and decides whether to allow data to pass through or deny . It can be placed in front of the network, or can be placed in front of an individual device. Legitimate programs such as game servers require the firewall to allow a program or port (e.g. for a Minecraft Java server the default port is 25565) to communicate with other devices. Firewalls can be hardware or software-based, and as most things hardware-based firewalls are more effective but cost more than software-based implementations.
+Firewalls monitor traffic and decide whether to allow data to pass through or deny it. It can be placed in front of the network, or in front of an individual device. Legitimate programs, such as game servers, require the firewall to allow a program or port (e.g. for a Minecraft Java server, the default port is 25565) to communicate with other devices. Firewalls can be hardware or software-based, and (as with most things) hardware-based firewalls are more effective but cost more than software-based implementations.
 
 
 ### User access levels 
 
-User access levels only allow a user to do certain things, including running software, accessing the Internet, installing new software and editing the accounts of other users. In a school, students will be denied access to managing other students and software, but will be allowed to access the Internet. Teachers will be allowed to manage students, and maybe the software installed. Finally, admins will be able to access everything.
+User access levels only allow a user to do certain things, such as running software, accessing the Internet but preventing the installation of new software or editing the accounts of other users. In a school, students will be denied access to managing other students and software, but will be allowed to access the Internet. Teachers will be allowed to manage students, and maybe install new software. Finally, admins will be able to access everything.
 
-This reduces the risks as if a student downloads a virus, it will not be able to access any other device, as it is effectively isolated from managing network devices. However, if an admin gets infected, it would mean disaster for the network...
+This reduces the risks as if a student downloads a virus, it may not be able to access any other device, as it is effectively isolated from managing network devices. However, if an admin gets infected, it would mean disaster for the network...
 
 ### Passwords 
 
@@ -554,7 +554,7 @@ The process of changing data from plaintext to ciphertext so it cannot be unders
 
 ### Physical security
 
-Server rooms should be locked and only authorised people such as the admins can unlock them. Obviously, if someone gets into a server room, they can take all the drives containing users' information. Also, don't write down your passwords on a sticky note, someone can just take a picture of them...
+Server rooms should be locked and only authorised people such as the admins can unlock them. Many datacentres have 24/7 security and CCTV monitoring over the whole site. Obviously, if someone gets into a server room, they can take all the drives containing users' information. Also, don't write down your passwords on a sticky note, someone can just take a picture of them...
 
 
 # 1.5 Systems Software
@@ -562,7 +562,7 @@ Server rooms should be locked and only authorised people such as the admins can 
 
 ## 1.5.1 Operating systems
 
-![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.5.1_Operating_systems_as_part_of_systems_software_unit.png)
+![OCR GCSE Computer Science Specification, containing section 1.5.1 Operating Systems](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.5.1_Operating_systems_as_part_of_systems_software_unit.png)
 
 An operating system is a suite of programs that controls the general operation of a computer, and provides an easy way for us to interact with computers and run applications.
 
@@ -1321,6 +1321,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzAxNTY0NSwxNDE5NjE4MjAyLC0xMT
-M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbNDg0NzQzOTMwLDE0MTk2MTgyMDIsLTExMz
+c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
