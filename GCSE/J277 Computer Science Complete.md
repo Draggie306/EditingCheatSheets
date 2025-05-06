@@ -7,10 +7,10 @@
 
 # Complete OCR J277 Computer Science GCSE Cheat Sheet!
 
-[Latest general update: 24/01/2024 14:16. 
+[Latest general update: 06/05/2025 14:10. 
 Last content addition: 23/08/2023 21:50](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
-> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Connect with fellow students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
+> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Connect with fellow students, developers, educators and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
 
 ## READ THIS FIRST:
@@ -1319,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODk5NjYwODEsMTQxOTYxODIwMiwtMT
+eyJoaXN0b3J5IjpbLTE3ODY1ODkwODUsMTQxOTYxODIwMiwtMT
 EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
