@@ -363,7 +363,7 @@ Some useful key terms which you should probably know:
 **WAP**: wireless access point. Usually built into the switch, or physically connected by wire to it. Unless there's a repeater which would mean WAPs are connected to other WAPs 
 
 
-**Packet switching**: a method of breaking up data, and sending it using the most efficient route. For example, if you send an image, it will be broken up into 'packets' of around 1000 bytes each (if the image is 1 MB then there'll be 1,000,000 packets) and then sent. To ensure data is not corrupted on route to the destination, each packet contains the following in a header:
+**Packet switching**: a method of breaking up data, and sending it using the most efficient route. For example, if you send an image, it will be broken up into 'packets' of around 1000 bytes each (if the image is 1 MB then there'll be 1,000 packets) and then sent. To ensure data is not corrupted on route to the destination, each packet contains the following in a header:
 - the IP address it is going to;
 - the IP address it has come from;
 - the sequence number of the packet;
@@ -1328,7 +1328,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MDM2NzYzOSwtNTQ0MTg0NDY0LC0yMD
+eyJoaXN0b3J5IjpbMTIyNjg1Nzg3NSwtNTQ0MTg0NDY0LC0yMD
 E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
 ODYyNDFdfQ==
 -->
