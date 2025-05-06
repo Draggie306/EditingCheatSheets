@@ -182,10 +182,11 @@ Embedded systems may not need these as the instructions to run them are usually 
 ## 1.2.3 Units
 
 The basic unit is the bit. It represents 1 or 0. Above this is the nibble - or 4 bits. Above this again is the byte, or 8 bits.
-- A kilobyte is 1000 bits.
-- A megabyte is 1000 kilobytes. (1,000,000 bits)
-- A gigabyte is 1000 megabytes. (1,000,000,000 bits)
-- A terabyte is 1000 gigabytes. (1,000,000,000,000 bits)
+- A kilobit is 1000 bits.
+- A kilobyte is 8 kilobits. (8,000 bits)
+- A megabyte is 1000 kilobytes. (8,000,000 bits)
+- A gigabyte is 1000 megabytes. (8,000,000,000 bits)
+- A terabyte is 1000 gigabytes. (8,000,000,000,000 bits)
 
 An image is usually around 500kb. Therefore, on a 2GB USB stick, 2000 images.
 
@@ -1326,6 +1327,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NDE4NDQ2NCwtMjAxNjEzNzAzMywxND
-E5NjE4MjAyLC0xMTM3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbLTc4MzQwNjY5OSwtNTQ0MTg0NDY0LC0yMD
+E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
+ODYyNDFdfQ==
 -->
