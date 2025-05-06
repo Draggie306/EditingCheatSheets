@@ -395,14 +395,7 @@ Disadvantages:
 
 ## 1.3.2 Wired/wireless, protocols, networks
 
-*Advance information: The following will be directly assessed:*
-- Modes of connection
-- Encryption
-- IP addressing and MAC addressing
-- Standards
-- Common protocols
-
-![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.3.2_Wired_and_wireless_networks_protocols_and_layers.png)
+![OCR J277 GCSE Computer Science specification screenshot of section 1.3.2 - Wired and wireless networks, protocols and layers](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.3.2_Wired_and_wireless_networks_protocols_and_layers.png)
 
 A network is a group of two or more computers connected together to communicate. There are 2 ways for them to communicate: wired (ethernet) and wireless (Wi-Fi, Bluetooth).
 
@@ -416,7 +409,7 @@ Admins can monitor what people do on these networks, and give them rights (User 
 The 32-bit IP address system is also known as IPv4. It allows for over 4 billion addresses (2^32 = 4,294,967,296 addresses). We're running out very quickly.
 > IPv4 addresses are just numbers, like `248.228.179.104`. Each number separated by decimals cannot be over 255, as that's the 8-bit limit.
 
-IPv6's adoption is increasing now. IPv6 uses 16 bits (hexadecimal represention) for each section of the address, creating a 128-bit address. This allows almost 80 octillion unique IP addresses.
+IPv6's adoption is increasing now. IPv6 uses 16 bits (hexadecimal representation) for each section of the address, creating a 128-bit address. This allows almost 80 octillion unique IP addresses.
 > IPv6 addresses can be letters as well. They are separated by colons, such as `8cfb:3abd:dde5:ca41:e080:0328:6e86:5007`. Each part separated by colons can be from 0000 to ffff. This means that there are 1,028x more addresses than IPv4. That's 340,282,366,920,938,463,463,374,607,431,768,211,456 addresses. 
 > (no, you don't need to remember that)
 
@@ -606,8 +599,9 @@ The OS controls...
 
 
 ## 1.5.2 Utility software
+![OCR GCSE J277 Computer Science Specification, containing section 1.5.1 Operating Systems](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.5.2_Utility_software.png)
 
-Utility software helps maintain the system. It includes programs involving encryption software, defragmentation and data compression tools. Computers often come with this software built in (even part of the OS now) to keep the device running smoothly.
+Utility software helps maintain the system. It includes programs involving encryption software, defragmentation and data compression tools. Computers often come with this software built in (even as part of the OS now) to keep the device running smoothly.
 
 ### Encryption software
 
@@ -695,16 +689,7 @@ In short, if you want to make money, use a proprietary license. If you want peop
 # Paper 2
 
 
-From OCR:  
-**J277/02: This component will assess:**  
-• 2.1 Algorithms
-• 2.2 Programming fundamentals
-• 2.3 Producing robust programs
-• 2.4 Boolean logic
-• 2.5 Programming languages and Integrated Development Environments
-
----
-> ==You need to know how to create, interpret the results of, complete and refine algorithms in these languages. If you can't code Python, you can use an online tool like Replit (where you can code wiith friends at the same time too!) or use an IDE like IDLE or VS Code and just start coding something random. You will find my examples at the bottom for inspiration.==
+> ==You need to know how to create, interpret the results of, complete and refine algorithms in these languages. If you can't code Python, you can use an online tool like Replit (where you can code with friends at the same time too!) or use an IDE like IDLE or VS Code and just start coding something random. You will find my examples at the bottom for inspiration.==
 
 ---
 
@@ -898,7 +883,7 @@ Iteration is a loop. There are count and condition-controlled loops.
 
 ### Operators
 
-There are comparison and arithmetic operators. (They will give the boolean value of `True` if their criteria are met)
+There are comparison and arithmetic operators. (They will give the Boolean value of `True` if their criteria are met)
 
 #### Comparison operators:
 
@@ -1321,6 +1306,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3MTE2OTU4LDE0MTk2MTgyMDIsLTExMz
+eyJoaXN0b3J5IjpbNTIzMzkxMzI4LDE0MTk2MTgyMDIsLTExMz
 c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
