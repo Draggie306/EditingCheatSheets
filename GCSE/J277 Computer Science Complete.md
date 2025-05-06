@@ -128,7 +128,7 @@ However, a CPU which cannot keep up with its clock will corrupt its data. A very
 ### Cache size
 
 Transferring data in and out of memory takes much, much longer than from cache. Therefore, placing frequently accessed data in the cache results in everything using that function (such as square roots) being executed much faster. The more cache there is, the more data can be stored closer to the CPU.
-CPU cache is ‘graded’ at different levels depending on its speed. **L1** is usually part of the CPU chip and is both the smallest and the fastest to access. Its size is often restricted to between 8 KB and 64 KB. **L2** and **L3** caches are bigger than **L1**. They are extra caches built between the CPU and the RAM. Sometimes L2 is built into the CPU with L1.  
+CPU cache is ‘graded’ at different levels depending on its speed. **L1** is usually part of the CPU chip and is both the smallest and the fastest to access. Its size is often restricted to between 8 KB and 64 KB. **L2** and **L3** caches are bigger than **L1**. They are extra caches built between the CPU and the RAM. *Sometimes L2 is built into the CPU with L1.*  
 L2 and L3 caches take slightly longer to access than L1. Each CPU core has its own set of L1 cache, but they can share higher levels.
 
 However, cache is very expensive (L1 costs ~£1 per kilobyte), is limited by the space of the CPU die, and is very small, so cannot be a full replacement for memory.
@@ -140,13 +140,13 @@ A CPU has multiple cores on it. CPUs with multiple cores have more power to run 
 However, doubling cores does not double clock speed. Some headroom is needed to communicate between each core.
 
 ![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/corechannel.png)  
-_Something you don’t need to remember, I don’t really know why I put it here. Just remember more cores = faster as it can do multiple tasks concurrently!_ (Source: Bitesize)
+_Something you don’t need to remember, I don’t really know why I put it here. Just remember more cores = faster as it can do multiple tasks concurrently!_ (Image source: Bitesize)
 
 ## 1.1.3 - Embedded systems
 
 An embedded system is a small computer inside of a larger system. PCs would be categorised as general-purpose systems, as they can do pretty much anything. Embedded systems on the other hand have one specific function which they run.
 
-General process computers are designed to access the Internet, play games, play videos, and write programs. These all require applications to run. Tablets, phones and consoles are now increasingly classed as general process, as they now can run several applications.
+General process computers are designed to access the internet, play games, play videos, and write programs. These all require applications to run. Tablets, phones and consoles are now increasingly classed as general process, as they now can run several applications.
 
 Examples of embedded systems include GPS systems, digital watches, fitness trackers, washing machines, microwaves and more.
 
@@ -169,7 +169,13 @@ Virtual memory is needed in systems. Virtual memory is an area of secondary stor
 
 Secondary storage is non-volatile, meaning it retains the data written to it even when offline.
 
-An HDD (magnetic) has high capacity and involves flipping magnetic polarity to store bits. It is fairly fast to access. An SSD (solid-state) has high capacity and involves trapping electrons to store bits. They are extremely fast to access. A USB drive (solid state) is tiny in comparison but very portable so is useful for transferring files between people and their computers. Optical storage devices like CDs and DVDs use a laser to scan the tracks, and when light reflects back, it will either reflect from 'lands' - representing `1`, or not reflect in 'pits' - representing `0`.
+An HDD (magnetic) has very high capacity and involves flipping magnetic polarity to store bits. It is fairly fast to access. These are generally the cheapest form of bulk storage, but have moving parts, so not good for portability.
+
+An SSD (solid-state) has high capacity and involves trapping electrons to store bits. They are extremely fast to access, but significantly more expensive than HDDs. As solid state media has no moving parts, they are faster and much more portable than hard drives.
+
+A USB drive (solid state) is tiny in comparison but very portable so is useful for transferring files between people and their computers.
+
+Optical storage devices like CDs and DVDs use a laser to scan the tracks, and when light reflects back, it will either reflect from 'lands' - representing `1`, or not reflect in 'pits' - representing `0`.
 
 Embedded systems may not need these as the instructions to run them are usually in ROM. For example, a watch does not need to edit the time as it runs all the time.
 
@@ -1314,6 +1320,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEzMTA2NzcsMTQxOTYxODIwMiwtMT
-EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbMTY2MjczMjU3MSwxNDE5NjE4MjAyLC0xMT
+M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
