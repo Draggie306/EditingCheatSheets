@@ -508,11 +508,11 @@ Multiple computers doing this concurrently is called a distributed denial of ser
 
 ### Data interception and theft 
 
-Data interception is when data is intercepted while being transferred, using a special software called a 'packet sniffer'. It can identify what packets are doing and their destination across the Internet or in a network. They are usually difficult to detect, as the data still reaches its intended destination. The information gathered is sent back to a server where it can be seen by malicious entities. Another name is a "man-in-the-middle" attack.
+This is when data is intercepted while being transferred, often done by using special software called a 'packet sniffer'. It can identify what packets are doing and their destination across the internet or network. They are usually difficult to detect, as the data still reaches its intended destination. The information gathered, such as passwords or files, is sent back to a server where it can be seen by malicious entities. Another name is a "man-in-the-middle" attack.
 
 ### SQL injection
 
-You don't need to know what SQL actually is, but rather the process of it. SQL is widely used in databases to ensure their structures are maintained and to quickly read a value in it. SQL code can be entered as a data input in, for example, a username/password field, which can cause errors. Even worse, someone can input something like `FROM * PRINT Passwords` to get a list of everyone's passwords if unencrypted!
+You don't need to know what SQL actually is, but rather the process of it. SQL is widely used in databases to ensure their structures are maintained and to quickly read a value in it. Without proper *sanitation checking*, SQL code can be entered as a data input, for example, in a username/password field, which can cause errors. Even worse, someone can input something like `FROM * PRINT Passwords` to get a list of everyone's passwords if unencrypted!
 
 
 
@@ -526,12 +526,14 @@ Pen testing is when authorised users (including white hat hackers) probe a netwo
 
 ### Anti-malware software
 
-Anti-malware detects installed malware, prevents malware from being installed and removes malware from a device. It scans through all files that are run or modified and sees if one matches a list of known malicious files. However, if the antimalware software is not updated, it may not be able to correctly identify new, zero-day threats to which the system is exposed.
+Anti-malware detects installed malware, prevents malware from being installed, and removes malware from a device. It scans through all files that are run or modified and sees if one matches a list of known malicious files. However, if the antimalware software is not regularly updated, it may not be able to correctly identify new, zero-day threats to which the system is exposed.
+
+> Nowadays, anti-malware software also uses **heuristics** - that identify suspicious behaviours in programs - to better catch and remove malware, even if it is not in the malicious file list.
 
 
 ### Firewalls 
 
-Firewalls monitor traffic and allow it to pass through or deny it. It can be placed in front of the network, or can be placed in front of an individual device. Legitimate programs such as game servers require the firewall to allow a program or port (e.g. for a Minecraft Java server the default port is 25565) to communicate with other devices. Firewalls can be hardware or software-based, and as most things hardware-based firewalls are more effective but cost more than software-based implementations.
+Firewalls monitor traffic and decides whether to allow data to pass through or deny . It can be placed in front of the network, or can be placed in front of an individual device. Legitimate programs such as game servers require the firewall to allow a program or port (e.g. for a Minecraft Java server the default port is 25565) to communicate with other devices. Firewalls can be hardware or software-based, and as most things hardware-based firewalls are more effective but cost more than software-based implementations.
 
 
 ### User access levels 
@@ -1319,6 +1321,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzMDE1MDYyNCwxNDE5NjE4MjAyLC0xMT
+eyJoaXN0b3J5IjpbMTE1NzAxNTY0NSwxNDE5NjE4MjAyLC0xMT
 M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
