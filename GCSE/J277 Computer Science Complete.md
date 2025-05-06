@@ -408,7 +408,7 @@ Disadvantages:
 
 ## 1.3.2 Wired/wireless, protocols, networks
 
-![OCR J277 GCSE Computer Science specification screenshot of section 1.3.2 - Wired and wireless networks, protocols and layers](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.3.2_Wired_and_wireless_networks_protocols_and_layers.png)
+![OCR J277 GCSE Computer Science specification screenshot of section 1.3.2 - Wired and wireless networks, protocols and layers](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.3.2_Wired_and_wireless_networks_protocols_and_layers2.png)
 
 A network is a group of two or more computers connected together to communicate. There are 2 ways for them to communicate: wired (ethernet) and wireless (Wi-Fi, Bluetooth).
 
@@ -1325,6 +1325,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTQxNzUxNSwxNDE5NjE4MjAyLC0xMT
-M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbNjA5OTk5NDU1LDE0MTk2MTgyMDIsLTExMz
+c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
