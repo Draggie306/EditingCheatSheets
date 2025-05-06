@@ -992,11 +992,12 @@ Notice how inside the outer list, there are actually 2 smaller lists? This is a 
 
 ### Functions and procedures
 
-A procedure performs a task, whereas a function produces information.
+A procedure performs a task, whereas a function produces (returns) information.
 
 Parameters can be invoked into both functions and procedures. For example, `beans(number_of_beans)` will result in the function or procedure using the invoked value of `number_of_beans` to perform a calculation.
 
-Functions return a value. You can assign a value to a variable and set this value to the result of a function, like `x = beans()`, where `beans` is a defined function. It could return a number or string or any data type.
+**Functions return a value**. You can assign a value to a variable and set this value to the result of a function, like `x = beans()`, where `beans` is a defined function.
+It could return a number, string, or any data type, so after running this, `x` could have the value `4` - or whatever `beans()` has been defined to do.
 
 > Programming languages have their own built-in functions and procedures. When you type `print("text")`,  you are actually passing in your `text` as a parameter used to display something on your screen! User-defined functions and procedures are the ones that the user creates.
 
@@ -1021,7 +1022,7 @@ print(x)
 >>> Hello! This is a file!
 ```
 
-*Note: it's best practice to always do `file.close()` to avoid file corruption.*
+*Note: it's best practice to always do `file.close()` after finishing reading/performing file actions to avoid corruption.*
 
 ### Locals and globals
 
@@ -1042,8 +1043,10 @@ Data can be retrieved using the commands  `SELECT, FROM` and `WHERE`
 `*` stands for wildcard, which means all records.
 
 from the iBaguette emails database:
-`SELECT * FROM "Users" WHERE "Email Address" LIKE "admin" OR "draggie"`
-would retrieve:
+`SELECT *`
+`FROM "Users"`
+` WHERE "Email Address" LIKE "admin" OR "draggie"`
+might retrieve:
 
 | ID | User     | Surname | Email Address     |
 |----|----------|---------|-------------------|
@@ -1306,6 +1309,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMzAzNzEwNSwxNDE5NjE4MjAyLC0xMT
+eyJoaXN0b3J5IjpbMTMwMDg4NTE2NywxNDE5NjE4MjAyLC0xMT
 M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
