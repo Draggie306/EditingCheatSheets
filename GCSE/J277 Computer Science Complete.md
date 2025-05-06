@@ -490,9 +490,10 @@ Malware is an umbrella term for malicious software designed to compromise a syst
 
 
 ### Social engineering
-e.g. phishing, people as the ‘weak point’ 
 
-Emails which try to deceive users to give their personal details. Designed to look like a genuine email from a useful service, like a bank, and will have a link to a website (still looking like a real bank) where there will be a username/password field, and maybe even credit card numbers. Of course, when you enter the data, it's just sent to someone else.
+Emails which try to deceive users to give their personal details. Designed to look like a genuine email from a useful service, like a bank, and will have a link to a website (still looking like a real bank) where there will be a username/password field, and maybe even credit card numbers. This is known as **phishing**. Of course, when you enter the data, it's just sent to someone else.
+
+It exploits the idea that, often, computer security is good enough to stop malware, so uses people as the ‘weak point’ to exploit instead. 
 
 
 ### Brute-force attacks 
@@ -501,13 +502,13 @@ A program is used to systematically try all possible combinations of a username 
 
 ### Denial of service attacks
 
-Where a computer sends loads of requests to a server to overwhelm it. The server will become overwhelmed and legitimate requests will no longer work.
+When a computer sends loads of requests to a server in order to overwhelm it. The server will become overwhelmed and legitimate requests will no longer work.
 
-Multiple computers doing this concurrently is called a distributed denial of service attack, or DDoS. They usually only last a few seconds but send tens of millions of requests.
+Multiple computers doing this concurrently is called a distributed denial of service attack, or DDoS. They usually only last a few seconds but send tens of millions of requests, enough to overwhelm and take down entire networks or companies.
 
 ### Data interception and theft 
 
-Data interception is when data is intercepted while being transferred, using a special software called a 'packet sniffer'. It can identify what packets are doing and their destination across the Internet or in a network. They are usually difficult to detect, as the data still reaches its intended destination. The information gathered is sent back to a server where it can be seen by malicious entities.
+Data interception is when data is intercepted while being transferred, using a special software called a 'packet sniffer'. It can identify what packets are doing and their destination across the Internet or in a network. They are usually difficult to detect, as the data still reaches its intended destination. The information gathered is sent back to a server where it can be seen by malicious entities. Another name is a "man-in-the-middle" attack.
 
 ### SQL injection
 
@@ -1318,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzODkwNjYwLDE0MTk2MTgyMDIsLTExMz
-c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbMTQzMDE1MDYyNCwxNDE5NjE4MjAyLC0xMT
+M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
