@@ -574,7 +574,7 @@ UIs are programs that allow a user to interact with the computer. The GUI is the
 
 ### Multitasking & memory management
 
-Multitasking is a classic example of OS' evolution over the years. With CLIs, a user could only do one process. Now, videos can be streamed while uploading documents to the cloud. This requires an OS to support it and enough memory to run multiple processes. The OS manages memory used to prioritise running processes, and when another process closes, this extra available memory gets allocated to the running program. In modern computers, there are often hundreds of processes running at the same time - the CPU is so fast that it gives the illusion of running in parallel. 
+Multitasking is a classic example of OS' evolution over the years. With CLIs, a user could only do one process. Now, videos can be streamed while uploading documents to the cloud. This requires an OS to support it and enough memory to run multiple processes. The OS manages memory used to prioritise running processes, and when another process closes, this extra available memory gets allocated to the running program. In modern computers, there are often hundreds of processes running at the same time - the CPU is so fast that it gives the illusion of multiple programs running in parallel. 
 
 ### Peripherals and drivers
 
@@ -625,7 +625,7 @@ This is terrible for the computer's performance, as the head has to go to loads 
 ![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/hard_drive.png)
 *What a hard drive is actually made from. Remember there can be several platters on a large drive!*
 
-**NOTE: Solid-state drives' speeds are not affected by fragmentation. Do NOT EVER try and defrag an SSD!** 
+**NOTE: Solid-state drives' speeds are not affected by fragmentation. Do NOT EVER try and defrag an SSD!**
 
 
 ### Compression software
@@ -1321,6 +1321,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDAzOTM5MDEsMTQxOTYxODIwMiwtMT
-EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbOTc3MTE2OTU4LDE0MTk2MTgyMDIsLTExMz
+c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
