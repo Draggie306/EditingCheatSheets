@@ -1078,10 +1078,11 @@ A program must be able to handle all likely input values, not just the intended 
 Code written must also be maintainable in the future. There are several ways of ensuring this.
 
 - Subroutines. These are parts of the main program. If one part of the program needs to be changed, it can be in the subroutine which is called, so other parts of the code are not affected by changes. Also, it can reduce the amount of clutter in code: if something needs to happen multiple times, code can just link back to a pre-existing subroutine.
-> Real example: whenever someone generates coins in a [Discord server](https://discord.gg/GfetCXH), one subroutine takes care of this, instead of being defined how to exactly add a coin whenever someone asks for their balance, joins voice chat, sends a message, etc.
-- Naming conventions. There is a set of rules you should follow when naming variables and subroutines. For example, naming something `x` doesn't really tell you what it does, whereas `value_inputted` will. (I'm very guilty of this!)
-- Indentation. Essential for legibility, indentation also defines if statements and more. It also makes it easier to read what parts of the program do, as indented levels show that everything on that indent is a result of something previously.
-- Commenting. Helps people read your code and helps you come back to work on it later. Denoted by either `#`, `"""` or `//`, depending on the language. The first two are for Pythion.
+> Real example: In my Discord bot, whenever someone is active in the [Discord server](https://discord.gg/GfetCXH) and earns XP, one subroutine takes care of this, instead of the algorithm to update a balance being defined whenever someone asks for their balance, joins voice chat, sends a message, etc.
+
+- Naming conventions. There should be a set of rules you should follow when naming variables and subroutines. For example, naming something `x` doesn't really tell you what it does, whereas `value_inputted` will. (I'm very guilty of this!)
+- Indentation. Essential for legibility, indentation also defines `if` statements in Python. It also makes it easier to read what parts of the program do, as indented levels show that everything on that indent is a result of something previously. In other programming languages, indentation is optional, but can make reading code significantly easier.
+- Commenting. Helps people read your code by inserting natural language statements, and can help you if you come back to it later. Denoted by either `#`, `"""` or `//`, depending on the language. The first two are for Pythion.
 
 
 
@@ -1096,7 +1097,7 @@ Logic errors result in the program still executing, but producing unexpected res
 
 Syntax errors are errors which break the grammatical rules of the programming language and stop it from being run/translated into machine code.
 
-Il existe deux exemples de tests :
+Il existe deux exemples de tests : <!-- I'm leaving this
 
 - Iterative testing. This is testing the code, or parts of it, during development to ensure there are no seriously buggy things happening as a result of a typo. It may be easier to identify the mistake if the code is run every few minutes, as the programmer will remember what they've changed.
 - Final/terminal testing. This is testing which occurs at the end of production of some code, before being sent to clients. 
@@ -1309,6 +1310,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDkxNDQzOTksMTQxOTYxODIwMiwtMT
-EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbNjkyMDMxODcyLDE0MTk2MTgyMDIsLTExMz
+c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
