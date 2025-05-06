@@ -162,20 +162,20 @@ Primary storage consists of RAM (random access memory) and ROM (read-only memory
 
 Memory/RAM is small in size compared to secondary storage, but is much faster as it does not have moving parts or have to retain that information. It is usually from 4-16GB in size. The more RAM a computer has, the more programs and instructions it can store simultaneously.
 
-Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow for when memory is filled up. When RAM is full, data which would have gone to memory goes to an area of the disk drive. However, virtual memory is much slower than even the fastest SSDs, let alone HDDs with their moving parts.
+Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow for when memory is filled up. When RAM is full, data which would have gone to memory goes to an area of the disk drive and, when needed by the CPU again, is moved back into RAM. However, virtual memory is *much* slower than even the fastest SSDs, let alone HDDs with their moving parts, so the OS attempts to avoid placing highly-used programs in virtual memory. *More RAM = always better.*
 
 
 ## 1.2.2 Secondary storage
 
 Secondary storage is non-volatile, meaning it retains the data written to it even when offline.
 
-An HDD (magnetic) has very high capacity and involves flipping magnetic polarity to store bits. It is fairly fast to access. These are generally the cheapest form of bulk storage, but have moving parts, so not good for portability.
+An HDD (magnetic) has very high capacity and involves flipping magnetic polarity to store bits. It is fairly fast to access. These are generally the cheapest form of bulk storage but have moving parts, so not good for portability.
 
-An SSD (solid-state) has high capacity and involves trapping electrons to store bits. They are extremely fast to access, but significantly more expensive than HDDs. As solid state media has no moving parts, they are faster and much more portable than hard drives.
+An SSD (solid state) has high capacity and involves trapping electrons to store bits. They are extremely fast to access, but significantly more expensive than HDDs. As solid state media has no moving parts, they are faster and much more portable than hard drives.
 
-A USB drive (solid state) is tiny in comparison but very portable so is useful for transferring files between people and their computers.
+A USB drive (also solid state) is tiny in comparison but very portable so is useful for transferring files between people and their computers.
 
-Optical storage devices like CDs and DVDs use a laser to scan the tracks, and when light reflects back, it will either reflect from 'lands' - representing `1`, or not reflect in 'pits' - representing `0`.
+Optical storage devices like CDs and DVDs use a laser to scan the tracks, and when light reflects back, it will either reflect from 'lands' - representing `1`, or not reflect in 'pits' - representing `0`. Speeds and capacity are generally worse than HDDs or SSDs, but they are cheap to produce.
 
 Embedded systems may not need these as the instructions to run them are usually in ROM. For example, a watch does not need to edit the time as it runs all the time.
 
@@ -1320,6 +1320,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjczMjU3MSwxNDE5NjE4MjAyLC0xMT
-M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbMjgyOTE0MjY1LDE0MTk2MTgyMDIsLTExMz
+c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
