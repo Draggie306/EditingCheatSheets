@@ -1070,19 +1070,20 @@ You must `import random` at the start of the program for this to work (it is a *
 
 A program must be able to handle all likely input values, not just the intended one. If valid data is inputted which might affect functionality, for example entering `-10` to an age question will probably produce logic errors. To accommodate for this, there can be a range of things added to a program to ensure these do not occur.
 
-- Anticipating misuse
+- **Anticipating misuse**
 	- A way of making sure age is not negative could be by adding a selection (if) statement that requires certain criteria to be met. For example, `if age > 10 AND age < 100`. This is an example of *input validation*.
-- Authentication
+- **Authentication**
 	- Usernames and passwords. This can be easily implemented by adding `password = input("enter password")` and using double equals to check if it matches a previously defined variable, or even decrypted from an external file.
+	- Only a subset of registered users may be permitted to make changes (*think user access levels!*)
 
 Code written must also be maintainable in the future. There are several ways of ensuring this.
 
-- Subroutines. These are parts of the main program. If one part of the program needs to be changed, it can be in the subroutine which is called, so other parts of the code are not affected by changes. Also, it can reduce the amount of clutter in code: if something needs to happen multiple times, code can just link back to a pre-existing subroutine.
+- **Subroutines**. These are parts of the main program. If one part of the program needs to be changed, it can be in the subroutine which is called, so other parts of the code are not affected by changes. Also, it can reduce the amount of clutter in code: if something needs to happen multiple times, code can just link back to a pre-existing subroutine.
 > Real example: In my Discord bot, whenever someone is active in the [Discord server](https://discord.gg/GfetCXH) and earns XP, one subroutine takes care of this, instead of the algorithm to update a balance being defined whenever someone asks for their balance, joins voice chat, sends a message, etc.
 
-- Naming conventions. There should be a set of rules you should follow when naming variables and subroutines. For example, naming something `x` doesn't really tell you what it does, whereas `value_inputted` will. (I'm very guilty of this!)
-- Indentation. Essential for legibility, indentation also defines `if` statements in Python. It also makes it easier to read what parts of the program do, as indented levels show that everything on that indent is a result of something previously. In other programming languages, indentation is optional, but can make reading code significantly easier.
-- Commenting. Helps people read your code by inserting natural language statements, and can help you if you come back to it later. Denoted by either `#`, `"""` or `//`, depending on the language. The first two are for Pythion.
+- **Naming conventions**. There should be a set of rules you should follow when naming variables and subroutines. For example, naming something `x` doesn't really tell you what it does, whereas `value_inputted` will. (I'm very guilty of this!)
+- **Indentation**. Essential for legibility, indentation also defines `if` statements in Python. It also makes it easier to read what parts of the program do, as indented levels show that everything on that indent is a result of something previously. In other programming languages, indentation is optional, but can make reading code significantly easier.
+- **Commenting**. Helps people read your code by inserting natural language statements, and can help you if you come back to it later. Denoted by either `#`, `"""` or `//`, depending on the language. The first two are for Pythion.
 
 
 
@@ -1093,22 +1094,23 @@ Code written must also be maintainable in the future. There are several ways of 
 
 Testing is used to make sure there are no bugs or unexpected events when the code is run. You don't want to send your code to a client if it doesn't work! 
 
-Logic errors result in the program still executing, but producing unexpected results. 
+**Logic errors** result in the program still executing, but producing unexpected results. 
 
-Syntax errors are errors which break the grammatical rules of the programming language and stop it from being run/translated into machine code.
+**Syntax errors** are errors which break the grammatical rules of the programming language and stop it from being run/translated into machine code.
 
-Il existe deux exemples de tests : <!-- I'm leaving this
+### Test types
+Il existe deux exemples de tests : <!-- I'm leaving this in haha -->
 
-- Iterative testing. This is testing the code, or parts of it, during development to ensure there are no seriously buggy things happening as a result of a typo. It may be easier to identify the mistake if the code is run every few minutes, as the programmer will remember what they've changed.
-- Final/terminal testing. This is testing which occurs at the end of production of some code, before being sent to clients. 
+- **Iterative testing**. This is testing the code, or parts of it, during development to ensure there are no seriously buggy things happening as a result of a typo. It may be easier to identify the mistake if the code is run every few minutes, as the programmer will remember what they've changed.
+- **Final/terminal testing**. This is testing which occurs at the end of production of some code, before being sent to clients, and can help catch errors that arise only when multiple parts of the system are put together. 
 
-Normal test data is data which should be accepted by a program, without causing errors
+**Normal test data** is data which should be accepted by a program, without causing errors.
 
-Boundary test data is data of the correct type which is on the very edge of being valid. For example, in the statement `if x > 10`, the boundary would be 10.
+**Boundary test data** is data of the correct type which is on the very edge of being valid. For example, in the statement `if x > 10`, the boundary would be 10.
 
-Invalid test data is data of the correct data type which should be rejected by a computer system. This could be like if an age is -100 years old.
+**Invalid test data** is data of the correct data type which should be rejected by a computer system. This could be like if an age is -100 years old.
 
-Erroneous test data is data of the incorrect data type which should be rejected by a computer system. This could be entering a name instead of an age.
+**Erroneous test data** is data of the incorrect data type which should be rejected by a computer system. This could be entering a string name when an age is expected.
 
 > You need to know how to identify suitable test data for a scenario, and how to create and complete a test plan. By putting in 'erroneous', 'boundary' and 'valid' during iterative testing and final testing, this will get you full marks.
 
@@ -1152,7 +1154,7 @@ You must be able to follow the lines in a truth table, and the interactions thes
 There are two categories of programming language: high and low-level languages.
 
 - High-level languages are those which sensible people code in, like Python, JavaScript, and HTML. They are **easy to read and write**, and some have a human-like syntax. They also **do not depend on the physical architecture of the processors** executing them. However, as they are **machine independent**, they must be **translated** in order to run.
-- Low-level languages like assembly code and machine code. They must be changed depending on the make and model of the CPU. As they run 'closer' to the CPU itself, they often require less overhead on tasks, and machine code does not require translation as it is written purely in binary. 
+- Low-level languages are assembly code and machine code. They must be changed depending on the make and model of the CPU. As they run 'closer' to the CPU itself, they often require less overhead on tasks, and machine code does not require translation as it is written purely in binary. 
 
 > Assembly code, although is a low-level language, is not quite machine code. Machine code is what everything must be translated into to be executed.
 
@@ -1310,6 +1312,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMDMxODcyLDE0MTk2MTgyMDIsLTExMz
-c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTE2NzA2Mjc2MzgsMTQxOTYxODIwMiwtMT
+EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
