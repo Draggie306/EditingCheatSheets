@@ -7,10 +7,10 @@
 
 # Complete OCR J277 Computer Science GCSE Cheat Sheet!
 
-[Latest general update: 06/05/2025 14:10. 
-Last content addition: 23/08/2023 21:50](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest general update: 06/05/2025 15:31. 
+Last content addition: 06/05/2025 15:27](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
-> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Connect with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
+> Looking to smash your exams with easy-to-access, free 1:1 advice from exam survivors? Chat with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
 
 ## READ THIS FIRST:
@@ -31,6 +31,8 @@ All our Cheat Sheets are made as 1:1 compliments to the specification. The J277 
 # Paper 1
 
 # 1.1 - Systems architecture
+![All specification content for OCR J277 Systems architecture unit.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.1_Systems_architecture.png)
+*Specification content for this topic.*
 
 ## 1.1.1 Architecture of the CPU
 
@@ -78,7 +80,7 @@ In case you find the difference between Cache and Registers difficult, here’s 
 - CPU cache, is high-speed, volatile memory which is bigger than the size of registers, helping the processor to reduce memory operations. This increases the speed of common operations.
 - It is not very inaccurate to think of the processor’s register as the level 0 cache, smaller and faster than the other layers of cache in between the processor and memory. The difference is only that from the point of view of the instruction set, cache access is transparent (the cache is accessed through a memory address that happens to be a cached address at the moment) whereas registers are explicitly referenced in each instruction.
 
-There will probably be a table to tick what things do, or a 2-4 marker asking what something does and to explain it. I’d recommend learning 2 registers in detail, and what 4 just do.
+There will probably be a table to tick what things do, or a 2-4 marker asking what something does and to explain it. I’d recommend learning 2 registers in detail, and what 4 do in general.
 
 ### Von Neumann architecture
 
@@ -100,7 +102,7 @@ A processor based on von Neumann architecture has five registers which it uses f
 - the **current instruction register (CIR)** holds the instruction that is currently being decoded and executed
 - the **accumulator (ACC)** is a special purpose register and is **used by the arithmetic logic** unit (ALU) to **hold the data being processed and the results of its calculations**
 
-Note the above was heavily taken from [Bitesize](https://www.bbc.co.uk/bitesize/guides/zhppfcw/revision/3) as it’s just easier to explain
+*Note: the above was heavily taken from [Bitesize](https://www.bbc.co.uk/bitesize/guides/zhppfcw/revision/3) as it just has a great explanation*
 
 Personally, I find this the easiest way to remember them:
 
@@ -1312,6 +1314,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMDQyMDEyOCwxNDE5NjE4MjAyLC0xMT
-M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbLTE3OTEzMTA2NzcsMTQxOTYxODIwMiwtMT
+EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
