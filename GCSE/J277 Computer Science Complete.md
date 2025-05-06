@@ -671,11 +671,11 @@ Ethical issues occur **when a given decision, scenario or activity creates a con
 
 A legal issue is **something that happens that has legal implications and may need the help of a lawyer to sort out - a question or problem that is answered or resolved by the law**.
 
-Cultural issues are **problems that occur when culture conflicts with systems, goals or other cultures**. (e.g religion, ethnicity, generation)
+Cultural issues are **problems that occur when culture conflicts with systems, goals or other cultures**. (e.g. religion, ethnicity, generation)
 
-Environmental issues are defined as **harmful effects on Earth and its natural systems due to the actions of humans**. (e.g pollution, animals dying, poisoning of the environment, deforestation)
+Environmental issues are defined as **harmful effects on Earth and its natural systems due to the actions of humans**. (e.g. pollution, animals dying, poisoning of the environment, deforestation)
 
-Privacy issues include companies using your personal data for their gain, e.g. TikTok seeing what trends you're into and giving you ads across other websites, which then track you and build up a profile of what you do online. To some people, this would be creepy, especially as there's no way to opt-out
+Privacy issues include companies using your personal data for their gain, e.g. TikTok seeing what trends you're into and giving you ads across other websites, which then track you and build up a profile of what you do online. To some people, this would be creepy, especially as there's no way to opt-out.
 > If in doubt, just say that's what tiktok does because you'll probably be right either way
 
 ### Legislation relevant to Computer Science:
@@ -690,7 +690,8 @@ Privacy issues include companies using your personal data for their gain, e.g. T
 A software license agreement describes how the software should be used, and any restrictions it may have from the author, the provider and end users.
 
 Open source means providing access to the source code and the ability to change the software if you want. Groups of programmers often work together to provide support for users and develop the software further. These products are often tested by contributors in public. FREE TO USE, FOR ANYONE. 
-> For example, BaguetteBot ([Source Code](https://github.com/Draggie306/BaguetteBot) + [Invite Link](https://discord.com/oauth2/authorize?client_id=792850689533542420&permissions=8&scope=bot%20applications.commands)) is free to use and you can inspect my code.
+
+> For example, lots of components of the iBaguette website are open source, free to use and you can inspect my code. You can even browse the code that controls the routing for all the Cheat Sheets [here](https://github.com/Draggie306/CheatSheets).
 
 Proprietary means no access to the source code (already compiled), purchased commonly as 'off-the-shelf' for example games. Also known as closed-source. It remains the legal property of whoever made it. Source code is usually not released, and may require a license key to use it in return for money.
 > Developers of proprietary products are expected to create tutorials and support many operating systems themselves, especially if the product costs money.
@@ -1325,6 +1326,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTYxMzcwMzMsMTQxOTYxODIwMiwtMT
-EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbMzQ5OTUxOTQwLC0yMDE2MTM3MDMzLDE0MT
+k2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
