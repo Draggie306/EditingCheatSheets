@@ -973,19 +973,19 @@ To get the characters from positions 0 and 3 (not included), the syntax is this:
 You can also manipulate the casing of everything in a string. If `x` = 'Baguette', then `x = x.upper()` would result in `x` being 'BAGUETTE'. Likewise, `x.lower()`would be 'baguette'.
 
 Finally, concatenation is joining two strings together.
- If `one = "Baguette"` and `two = "Brigaders"`, then `one + " " + two` would print `Baguette Brigaders`. 
+ If `one = "Baguette"` and `two = "Brigade"`, then `one + " " + two` would print `Baguette Brigade`. 
 
-> If you feel comfortable with f-strings then you could get the same by using `print(f"{one.lower()} {two.upper()}")` to  output 'baguette BRIGADERS'.
+> If you feel comfortable with f-strings then you could get the same by using `print(f"{one.lower()} {two.upper()}")` to  output 'baguette BRIGADE'.
 
 ### (2D) Arrays
 
-Arrays (interchangeable with lists honestly) store lots of stuff and are denoted by their square brackets, like `[4, 5, 3, 6, 9]` or with strings as `["Yes", "No", "Baguettes", "Beans", "Haram"]`.  They can be accessed by the sting name and location in the list. If the above list with strings is called `random_words`, then to print the word 'Baguettes' I would call `print(random_words[2])`. 
+Arrays (interchangeable with lists, at least for GCSE) store lots of stuff and are denoted by their square brackets, like `[4, 5, 3, 6, 9]` or with strings as `["Yes", "No", "Baguettes", "Beans", "Haram"]`.  Elements can be accessed using by the list variable's name, and the element's location in the list in square brackets. If the above list with strings is called `random_words`, then to print the word 'Baguettes' I would call `print(random_words[2])`. 
 
 2D arrays take this principle and make it more complicated. Basically, this means there is an array inside an array.
 
 `list_of_cars_and_prices = [["beans car", "bozo car", "fresh car"], [20, 30, 55]]`
 
-Notice how inside one list, there are actually 2 smaller lists? This is a 2D array. To get the value of '55' from the second array, we do `print(list_of_cars_and_prices[1][2]`. This gets the **third value** from the **second array**, inside the list called 'list_of_cars_and_prices'. This can be used to store values next to each other.
+Notice how inside the outer list, there are actually 2 smaller lists? This is a 2D array. To get the value of '55' from the second array, we do `print(list_of_cars_and_prices[1][2]`. This gets the **third value** from the **second array**, inside the list called 'list_of_cars_and_prices'. This is useful to store related values next to each other.
 
 > To change the value of an item in an array/list, do:
 > `list_name[index] = "thing_to_change_it_to"`
@@ -1021,7 +1021,7 @@ print(x)
 >>> Hello! This is a file!
 ```
 
-It's best practice to always do `file.close()` to avoid file corruption.
+*Note: it's best practice to always do `file.close()` to avoid file corruption.*
 
 ### Locals and globals
 
@@ -1306,6 +1306,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIzMzkxMzI4LDE0MTk2MTgyMDIsLTExMz
-c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbMTgyMzAzNzEwNSwxNDE5NjE4MjAyLC0xMT
+M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
