@@ -354,16 +354,21 @@ A network's topology is how different nodes (a device connected to a network) ar
 
 Some useful key terms which you should probably know:
 
-**Router**: directs and receives packets incoming/outgoing to/from the Internet to devices in a private network via IP addresses. It connects networks together - your home LAN to the Internet, or a WAN. Nodes connected to it are given private IP addresses (192.168.1.x). The router has a public IP address. (You can see your public IP [here](https://whatismyipaddress.com/).)
+**Router**: directs and receives packets incoming/outgoing to/from the Internet to devices in a private network via IP addresses. It connects networks together - your home LAN to the internet, or a WAN. Nodes connected to it internally are given private IP addresses (192.168.1.x), whilst the router itself has a public IP address. (You can see your public IP [here](https://whatismyipaddress.com/).)
 
-**Switch**: A device which connects devices on a computer network by using packet switching to receive and forward data to the destination device. It uses MAC addresses to forward data at the data link layer. MAC (Media Access Control) addresses are used to identify a device on the local network assigned by its Network Interface Card)
+**Switch**: A device which connects devices on a computer network by using packet switching to receive and forward data to the destination device. It uses MAC addresses to forward data at the data link layer. MAC (Media Access Control) addresses are used to identify a device on the local network assigned by its Network Interface Card.
 
 **WAP**: wireless access point. Usually built into the switch, or physically connected by wire to it. Unless there's a repeater which would mean WAPs are connected to other WAPs 
 
 
-**Packet switching**: a method of breaking up data, and sending it using the most efficient route. For example, if you send an image, it will be broken up into 'packets' of around 1000 bytes each (if the image is 1 MB then there'll be 1000 packets) and then sent. To ensure data is not corrupted on route to the destination, each packet contains the following in a header: the IP address it is going to, the IP address it has come from, the sequence number of the packet, the number of packets in the whole communication, and error checking data
+**Packet switching**: a method of breaking up data, and sending it using the most efficient route. For example, if you send an image, it will be broken up into 'packets' of around 1000 bytes each (if the image is 1 MB then there'll be 1,000,000 packets) and then sent. To ensure data is not corrupted on route to the destination, each packet contains the following in a header:
+- the IP address it is going to;
+- the IP address it has come from;
+- the sequence number of the packet;
+- the number of packets in the whole communication;
+- error checking data.
 
-**DNS**: Domain Name System. How domain names are translated to IP addresses. When you go to [ibaguette.com](https://ibaguette.com), your device will make a request to a DNS server asking for the actual IP address to connect to, such as 172.67.139.203. If a DNS server does not contain the IP address, your request will be forwarded to a bigger DNS server, and finally, a root DNS server containing every single domain's IP address. 
+**DNS**: Domain Name System. How domain names are translated to IP addresses. When you go to [ibaguette.com](https://ibaguette.com), your device will make a request to a DNS server asking for the actual IP address to connect to, such as 172.67.139.203. If a DNS server does not contain the IP address, your request will repeatedly be forwarded to bigger DNS servers until one contains the relevant IP, or finally a root DNS server that contains every single domain's IP address. 
 
 The two topologies which you need to know are:
 
@@ -1320,6 +1325,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyOTE0MjY1LDE0MTk2MTgyMDIsLTExMz
+eyJoaXN0b3J5IjpbMTc4MzYwNTg1LDE0MTk2MTgyMDIsLTExMz
 c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
 -->
