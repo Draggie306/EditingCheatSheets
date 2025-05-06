@@ -26,7 +26,7 @@ Both papers individually are 50% of the total GCSE, and are worth 80 marks each.
 
 For ease of access, I’ve written this in a way designed to be read smoothly across any device, called Markdown. It’s easy to navigate and should look nice to read. To skip to areas you are weak on, I’d recommend using the side bar on the left - you may need to open in desktop site or read on a computer to use the Table of Contents.
 
-All our Cheat Sheets are made as 1:1 compliments to the specification. The J277 spec is available [here](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf).
+All of the Cheat Sheets and revision material on iBaguette are made as 1:1 compliments to their corresponding specification. The J277 spec is available [here](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf).
 
 # Paper 1
 
@@ -354,7 +354,7 @@ A network's topology is how different nodes (a device connected to a network) ar
 
 Some useful key terms which you should probably know:
 
-**Router**: directs and receives packets incoming/outgoing to/from the Internet to devices in a private network via IP addresses. It connects networks together - your home LAN to the internet, or a WAN. Nodes connected to it internally are given private IP addresses (192.168.1.x), whilst the router itself has a public IP address. (You can see your public IP [here](https://whatismyipaddress.com/).)
+**Router**: directs and receives packets incoming/outgoing to/from the Internet to devices in a private network via IP addresses. It connects networks together - your home LAN to the internet, or a WAN. Nodes connected to it internally are given private IP addresses (192.168.1.x), whilst the router also has a public IP address. (You can see your public IP [here](https://whatismyipaddress.com/).)
 
 **Switch**: A device which connects devices on a computer network by using packet switching to receive and forward data to the destination device. It uses MAC addresses to forward data at the data link layer. MAC (Media Access Control) addresses are used to identify a device on the local network assigned by its Network Interface Card.
 
@@ -1325,6 +1325,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA5OTk5NDU1LDE0MTk2MTgyMDIsLTExMz
-c1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTIwMTYxMzcwMzMsMTQxOTYxODIwMiwtMT
+EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
