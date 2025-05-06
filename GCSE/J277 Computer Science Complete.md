@@ -7,7 +7,7 @@
 
 # Complete OCR J277 Computer Science GCSE Cheat Sheet!
 
-[Latest general update: 06/05/2025 15:31. 
+[Latest general update: 06/05/2025 16:29. 
 Last content addition: 06/05/2025 15:27](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Looking to smash your exams with easy-to-access, free 1:1 advice from exam survivors? Chat with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
@@ -691,7 +691,7 @@ A software license agreement describes how the software should be used, and any 
 
 Open source means providing access to the source code and the ability to change the software if you want. Groups of programmers often work together to provide support for users and develop the software further. These products are often tested by contributors in public. FREE TO USE, FOR ANYONE. 
 
-> For example, lots of components of the iBaguette website are open source, free to use and you can inspect my code. You can even browse the code that controls the routing for all the Cheat Sheets [here](https://github.com/Draggie306/CheatSheets).
+> For example, lots of components of the iBaguette website are open source, free to use and you can inspect my code. You can even read the code that controls the routing for all the Cheat Sheets [here](https://github.com/Draggie306/CheatSheets).
 
 Proprietary means no access to the source code (already compiled), purchased commonly as 'off-the-shelf' for example games. Also known as closed-source. It remains the legal property of whoever made it. Source code is usually not released, and may require a license key to use it in return for money.
 > Developers of proprietary products are expected to create tutorials and support many operating systems themselves, especially if the product costs money.
@@ -1326,6 +1326,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ5OTUxOTQwLC0yMDE2MTM3MDMzLDE0MT
-k2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTU0NDE4NDQ2NCwtMjAxNjEzNzAzMywxND
+E5NjE4MjAyLC0xMTM3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
