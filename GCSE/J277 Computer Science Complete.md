@@ -421,7 +421,7 @@ IPv6's adoption is increasing now. IPv6 uses 16 bits (hexadecimal represention) 
 > (no, you don't need to remember that)
 
 A MAC address is different to an IP address - it is assigned to devices within a network. It can't be changed by the user, as it's on the network card on the device.
-> They are 6 groups of two hexadecimal characyers, such as `00:1C:4F:84:37:DB`. They can be separated by colons, hyphens or nothing at all.
+> They are 6 groups of two hexadecimal characters, such as `00:1C:4F:84:37:DB`. They can be separated by colons, hyphens or nothing at all.
 
 Remember, a **protocol is a set of rules that governs the transmission of data**. For example, HTTPS.
 
@@ -1319,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMT
-MxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbLTE3ODk5NjYwODEsMTQxOTYxODIwMiwtMT
+EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
