@@ -459,7 +459,7 @@ You need to know a few common protocols.
 Finally, you need to know how layers are used in protocols, and the benefits of using layers; for a teaching example, please refer to the 4-layer TCP/IP model.
 > Not required: Knowledge of the names and functions of each TCP/IP layer
 
-Layering means the breakdown of the sending of messages into separate components and activities, with each component handling a different part of communication. Therefore, it allows standards to be put in place and simply adapted as new hardware and software are developed.
+Layering means breaking down the sending of messages into separate components and activities, with each component handling a different part of communication. For example, applications like a web browser only needs to use HTTP, and leaves lower-level communication - such as how information is sent over a cable - to another program, like the OS itself. This allows standards to be put in place and simply adapted as new hardware and software are developed, rather than changing the entire system.
 
 [See this Bitesize page if you want to learn more, but it's not required](https://www.bbc.co.uk/bitesize/guides/z666pbk/revision/5)
 
@@ -1319,6 +1319,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODY1ODkwODUsMTQxOTYxODIwMiwtMT
+eyJoaXN0b3J5IjpbLTIwOTU4MTA0NTksMTQxOTYxODIwMiwtMT
 EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
