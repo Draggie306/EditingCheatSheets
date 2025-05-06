@@ -1161,11 +1161,11 @@ There are two categories of programming language: high and low-level languages.
 ![High level languages vs assembly languages vs machine code and physical hardware, with the assembler and instruction set labelled from BBC](https://cheatsheet-assets.ibaguette.com/gcse/compsci/translators.png)
 *Taken from [here](https://www.bbc.co.uk/bitesize/guides/z6x26yc/revision/5)*
 
-A compiler parses the source code once, saving the results as a binary file, and translating it. An interpreter reads the source code line by line and converts it to executable binary while executing.
+A **compiler** parses the source code once, translates it into machine code, and saves the results as a binary file. An **interpreter** reads the source code line by line and converts it to executable while executing.
 
-Compiled code runs faster, as they have already been translated. If the code has no logic or syntax errors and does not need to be debugged, compiled code is always better. It optimises code as well, allowing it to take up less memory. For example, comments are removed when generating compiled code. However, compiled code may also only be on the hardware and OS it is targeted to. You can't run an EXE file on your phone without an IDE.
+Compiled code runs faster, as it has already been translated. If the code has no logic or syntax errors and does not need to be debugged, then compiled code is always better. The compiler optimises code too, allowing it to take up less memory. For example, comments are removed when generating compiled code. However, compiled code only works on the hardware and OS it is targeted to. You can't run an EXE file on your phone without an IDE.
 
-Interpreted code is slower, as the CPU must wait for every line to be translated, but has the potential to run on multiple kinds of hardware, running different operating systems. It simply executes code, without saving a machine code version. They require less memory also as they do not translate the entire file.
+Interpreted code is executed slower, as the CPU must wait for every line to be translated, but has the potential to run on multiple kinds of hardware, running different operating systems. It simply executes code, without saving a machine code version. They generally require less memory as they do not translate the entire file.
 
 > Interpreters can be built with a REPL, or a Read Execute Print Loop. Hence the name of the coding platform, Replit.
 
@@ -1176,18 +1176,18 @@ Interpreted code is slower, as the CPU must wait for every line to be translated
 
 The IDE (integrated development environment) has a wide range of tools to help programmers develop programs. These include:
 
-- Editors. Code can be edited.
-- Error diagnostics. Tracebacks can show what caused exactly what to fail at the exact line.
-- Run-time environment. This allows a program to run on a computer even if it was not designed to. This allows the programmer to just use their known high-level language, and the RTE will do the rest. 
-- Translators. They translate code to be executed.
+- **Editors**. Code can be edited.
+- **Error diagnostics**. Tracebacks can show what caused exactly what to fail at the exact line.
+- **Providing a run-time environment**. This allows a program to run on a computer even if it was not designed to, allowing the programmer to just use their known high-level language, and the RTE will do the rest. 
+- **Translators**. They translate code to be executed.
 
 You can also write about:
 
-- Breakpoints - code can be stopped at a specific line and variables can be checked for logic errors
-- Auto-correct and indent
-- Autosuggestion - can sometimes fix a problem automatically
-- Syntax highlighting - similar declarations can be coloured to see them better. For example, all variables could be yellow while classes are blue.
-- Linting - the IDE can analyse the code you're writing as you're writing it for errors. For example, it may recognise that you used a double equals instead of a singular equals for setting the value of a variable.
+- **Breakpoints** - code can be stopped at a specific line and variables can be checked for logic errors
+- **Auto-correction** and indentation, to reduce silly mistakes
+- **Autosuggestion** - can sometimes fix a problem automatically, speeding up coding
+- **Syntax highlighting** - similar declarations can be coloured to see them better. For example, all variables could be yellow while classes are blue.
+- **Linting** - the IDE can analyse the code you're writing as you're writing it for errors. For example, it may recognise that you used a double equals instead of a singular equals for setting the value of a variable.
 
 ---
 
@@ -1196,7 +1196,7 @@ That's it! Go get a grade 9! Of course, you need to do some of your own programm
 ---
 
 
-# Programming examples.
+# Programming examples
 
 
 ## Level: Easy
@@ -1220,7 +1220,7 @@ That's it! Go get a grade 9! Of course, you need to do some of your own programm
 
 ## Answers
 
-1) 
+### Answer 1
 [My example](https://cheatsheet-assets.ibaguette.com/gcse/compsci/target.png). 
 Download [Python](https://cheatsheet-assets.ibaguette.com/gcse/compsci/target.py) / [txt](https://cheatsheet-assets.ibaguette.com/gcse/compsci/target.txt)
 
@@ -1312,6 +1312,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzA2Mjc2MzgsMTQxOTYxODIwMiwtMT
-EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
+eyJoaXN0b3J5IjpbMTY2NzQ2MDg0NiwxNDE5NjE4MjAyLC0xMT
+M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
