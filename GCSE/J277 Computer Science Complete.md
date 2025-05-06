@@ -1050,9 +1050,9 @@ might retrieve:
 
 | ID | User     | Surname | Email Address     |
 |----|----------|---------|-------------------|
-| 1  | Draggie  | 306     | draggie@ibaguette.com |
-| 6  | Admin    | Beans   | admin@ibaguette.com   |
-| 7  | Draggie1 | 306     | admin@ibaguette.com   |
+| 1  | Draggie  | 306     | admin@geog.uk |
+| 6  | Admin    | User   | admin@ibaguette.com   |
+| 7  | Draggie1 | 306     | admin@geog.uk   |
 
 
 ### Randoms
@@ -1068,17 +1068,17 @@ You must `import random` at the start of the program for this to work (it is a *
 
 ![OCR GCSE computer science specification section 2.3.1 Defensive design](https://cheatsheet-assets.ibaguette.com/gcse/compsci/2.3.1_Defensive_design.png)
 
-A program must be able to handle all likely input values, not just the intended one. If valid data is inputted which might affect functionality, for example entering -10 to an age question, then this will produce logic errors. To accommodate this, there can be a range of things added to a program to ensure these do not occur.
+A program must be able to handle all likely input values, not just the intended one. If valid data is inputted which might affect functionality, for example entering `-10` to an age question will probably produce logic errors. To accommodate for this, there can be a range of things added to a program to ensure these do not occur.
 
 - Anticipating misuse
-	- A way of making sure age is not negative could be by making the part of the code that verifies age a function, which will return the age once verified to be valid. For example, a while statement could be added with a condition-controlled loop, which will only change conditions `if age > 10 AND age < 100`. This is an example of input validation
+	- A way of making sure age is not negative could be by adding a selection (if) statement that requires certain criteria to be met. For example, `if age > 10 AND age < 100`. This is an example of *input validation*.
 - Authentication
 	- Usernames and passwords. This can be easily implemented by adding `password = input("enter password")` and using double equals to check if it matches a previously defined variable, or even decrypted from an external file.
 
 Code written must also be maintainable in the future. There are several ways of ensuring this.
 
 - Subroutines. These are parts of the main program. If one part of the program needs to be changed, it can be in the subroutine which is called, so other parts of the code are not affected by changes. Also, it can reduce the amount of clutter in code: if something needs to happen multiple times, code can just link back to a pre-existing subroutine.
-> In BaguetteBot, whenever someone generates coins in a [Discord server](https://discord.gg/GfetCXH), one subroutine takes care of this, instead of being defined how to exactly add a coin whenever someone asks for their balance, joins voice chat, sends a message, etc.
+> Real example: whenever someone generates coins in a [Discord server](https://discord.gg/GfetCXH), one subroutine takes care of this, instead of being defined how to exactly add a coin whenever someone asks for their balance, joins voice chat, sends a message, etc.
 - Naming conventions. There is a set of rules you should follow when naming variables and subroutines. For example, naming something `x` doesn't really tell you what it does, whereas `value_inputted` will. (I'm very guilty of this!)
 - Indentation. Essential for legibility, indentation also defines if statements and more. It also makes it easier to read what parts of the program do, as indented levels show that everything on that indent is a result of something previously.
 - Commenting. Helps people read your code and helps you come back to work on it later. Denoted by either `#`, `"""` or `//`, depending on the language. The first two are for Pythion.
@@ -1309,6 +1309,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwMDg4NTE2NywxNDE5NjE4MjAyLC0xMT
-M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbLTE2NDkxNDQzOTksMTQxOTYxODIwMiwtMT
+EzNzU4ODI5NSwtMTMxNjY4NjI0MV19
 -->
