@@ -10,21 +10,21 @@
 [Latest general update: 06/05/2025 14:10. 
 Last content addition: 23/08/2023 21:50](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
-> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Connect with fellow students, developers, educators and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
+> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Connect with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
 
 ## READ THIS FIRST:
 
-Please use your class notes, if you have any, as well as this, to aid your revision. I’ve tried to make it as packed full of only the most useful stuff as possible which will come up in the exam. This covers 15 pages of specification content and 210 hours of lesson time, consolidated into one place, so might not cover everything in 100% detail. I have written more for the things which people may find the most confusing. If there are any errors then please let me know immediately. I have tried my best to make it as easy as possible to understand and get a grade 9😉
+Please use your class notes, if you have any, as well as this, to aid your revision. I’ve tried to make it as packed full of only the most useful stuff as possible which will come up in the exam. This covers 15 pages of specification content and 210 hours of lesson time, consolidated into one place, so might not cover everything in 100% detail. I have written more for the things which people tend to find the most confusing. If there are any errors then please let me know immediately. I have tried my best to make it as easy as possible to understand and get a grade 9😉
 
- **This cheat sheet covers _all_ of specification for: J277/01: Computer systems as well as J277/02: Computational thinking, algorithms and programming**
+ **This cheat sheet covers _all_ of the specification for: J277/01: Computer systems *and* J277/02: Computational thinking, algorithms and programming**
 --- 
 
 Both papers individually are 50% of the total GCSE, and are worth 80 marks each.
 
 ## ABOUT THIS
 
-For ease of access, I’ve written this in a way designed to be read smoothly across any device, called Markdown. It’s easy to navigate and should look nice to read. To skip to areas you are weak on, I’d recommend using the side bar on the left - you may need to open in desktop site or read on a computer to use this Table of Contents.
+For ease of access, I’ve written this in a way designed to be read smoothly across any device, called Markdown. It’s easy to navigate and should look nice to read. To skip to areas you are weak on, I’d recommend using the side bar on the left - you may need to open in desktop site or read on a computer to use the Table of Contents.
 
 All our Cheat Sheets are made as 1:1 compliments to the specification. The J277 spec is available [here](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf).
 
@@ -34,7 +34,7 @@ All our Cheat Sheets are made as 1:1 compliments to the specification. The J277 
 
 ## 1.1.1 Architecture of the CPU
 
-### **The purpose of the CPU - the F-D-E cycle**
+### The purpose of the CPU - the F-D-E cycle
 
 The Fetch-Decode-Execute cycle is the main job of the CPU. To execute a program, the program code is copied from secondary storage into the main memory. The CPU’s **program counter** is set to the memory location where the first instruction in the program has been stored, and execution begins.  
 In a program, each **machine code** instruction takes up a slot in the main memory. These memory locations each have a **unique memory address**. The **program counter stores the address** of each instruction and tells the CPU in what order they should be executed.
@@ -53,7 +53,7 @@ Step by step:
 **The ALU (Arithmetic Logic Unit)**
 
 - Performs calculations and logical operations
-- Where decisions are made (e.g `if x > 10`)
+- Where decisions are made (e.g. `if x > 10`)
 
 **The CU (Control Unit)**
 
@@ -206,7 +206,7 @@ To convert a denary number into binary, write out all the base 2 numbers in a ro
 
 ### Denary/binary to hex
 
-Hex(adecimal) is a base 16 system to simplify binary representation. A hex digit can be any of these: **0 1 2 3 4 5 6 7 8 9 A B C D E F**.
+Hexadecimal is a base 16 system to simplify binary representation. A hex digit can be any of these: **0 1 2 3 4 5 6 7 8 9 A B C D E F**.
 
 Each hex digit represents a 4-digit binary sequence. 
 
@@ -1312,6 +1312,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzQ2MDg0NiwxNDE5NjE4MjAyLC0xMT
+eyJoaXN0b3J5IjpbMTMyMDQyMDEyOCwxNDE5NjE4MjAyLC0xMT
 M3NTg4Mjk1LC0xMzE2Njg2MjQxXX0=
 -->
