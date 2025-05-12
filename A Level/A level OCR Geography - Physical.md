@@ -15,7 +15,7 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 For the Cheat Sheet matched to the entire specification, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/all).
 
 
-# 1.1 Option B – Glaciated Landscapes
+# Glaciated Landscapes
 
 *"Feeling a little like a **[drumlin](#drumlins)** today."*
 
@@ -819,6 +819,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQzOTQxNDExLDE2MDg0NDQzMSwtNjI1Nz
-gyNjUxXX0=
+eyJoaXN0b3J5IjpbLTE4MDMzNDAyODcsMTYwODQ0NDMxLC02Mj
+U3ODI2NTFdfQ==
 -->
