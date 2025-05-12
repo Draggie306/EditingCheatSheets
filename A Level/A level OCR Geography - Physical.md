@@ -3,6 +3,8 @@
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 # OCR A Level Geography - Glaciation Revision Notes Cheat Sheet
 
+**⚠ Please note, this is a work-in-progress, somewhat unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
+
 [Latest update: 12/05/2025 17:31. 
 Last content addition: 07/06/2023 23:16.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
@@ -819,6 +821,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMzNDAyODcsMTYwODQ0NDMxLC02Mj
-U3ODI2NTFdfQ==
+eyJoaXN0b3J5IjpbNTQxODIxMDg3LDE2MDg0NDQzMSwtNjI1Nz
+gyNjUxXX0=
 -->
