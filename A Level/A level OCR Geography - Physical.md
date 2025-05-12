@@ -1,9 +1,9 @@
 
 
-[< Back to A lLevel Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
+[< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 # OCR A Level Geography - Glaciation Revision Notes Cheat Sheet
 
-[Latest update: 12/05/2025 19:19. 
+[Latest update: 12/05/2025 17:31. 
 Last content addition: 07/06/2023 23:16.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 ✅ Note: This file is synced with [this repository](https://github.com/Draggie306/CheatSheets). This is the latest version.
@@ -13,7 +13,6 @@ Use a PC/device with a large screen to see the Table of Contents on the left-han
 > Discuss with other students, developers, educators and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH)! You can also **receive a notification** when there are new Cheat Sheets, Summary Sheets *(new!)* or other revision material is made public there!
 
 For the Cheat Sheet matched to the entire specification, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/all).
-For only the **human geography (paper 2)**, you can go [here](https://ibaguette.com/cheatsheets/alevel/geography/human).
 
 
 # 1.1 Option B – Glaciated Landscapes
@@ -820,6 +819,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NjA5NjczMiwxNjA4NDQ0MzEsLTYyNT
-c4MjY1MV19
+eyJoaXN0b3J5IjpbOTQzOTQxNDExLDE2MDg0NDQzMSwtNjI1Nz
+gyNjUxXX0=
 -->
