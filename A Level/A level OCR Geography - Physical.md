@@ -6,7 +6,7 @@
 **⚠ Please note, this is a work-in-progress, somewhat unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 
 [Latest update: 12/05/2025 19:55. 
-Last content addition: 07/06/2023 23:16.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+Last content addition: 07/06/2024 22:18.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 ✅ Note: This file is synced with [this repository](https://github.com/Draggie306/CheatSheets). This is the latest version.
 
@@ -748,19 +748,15 @@ That's the end for glaciation! I hope you found it useful.
 *What if I told you about Paraglaciation and Paraperiglaciation as well?*
 
 
-# 1.2 Physical - Earth's Life Support Systems
-Wordcount: 8799
-Last modification: 04/05/2025 22:45
-Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resource and author acknowledgement must be given. please click the link for the full legal deed.*
+# Earth's Life Support Systems
+
+"Without water and carbon I literally would not be here" - a wise man, 2024
 
 ---
+
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
 *giving earth life support - created with [dall-e 3](https://openai.com/dall-e-3)*
 
-
-
-"Without water and carbon I literally would not be here" - a wise man, 2024
 
 ## 1. How important are water and carbon to life on Earth?
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/ELSS-keyidea1.png)
@@ -1338,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MzY2NDQ1MCw1NDE4MjEwODcsMTYwOD
-Q0NDMxLC02MjU3ODI2NTFdfQ==
+eyJoaXN0b3J5IjpbLTE2MDk1MjQxNzMsNTQxODIxMDg3LDE2MD
+g0NDQzMSwtNjI1NzgyNjUxXX0=
 -->
