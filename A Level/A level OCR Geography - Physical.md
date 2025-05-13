@@ -776,7 +776,7 @@ It is described by astronomers as:
 
 Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping short-wave radiation from causing harm for the biosphere. The greenhouse effect by water vapour prevents some long-wave radiation reflected from the Earth from exiting. It makes up 65-95% of all the biospheric mass, including in people, flora and fauna.
 
-Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**.An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
+Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**. An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
 
 |Store|Size|% of total|
 |--|--|---
@@ -788,7 +788,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | Atmosphere | 13k km^3^ |0.00093%
 | Rivers | 2.1k km^3^ |0.00015%
 | Biosphere | 1.1k km^3^ |0.000081%
-* Data updated to match latest scientific research.
+\* *Data updated to match latest scientific research.*
 
 ### Introduction to carbon
 
@@ -1334,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDk1MjQxNzMsNTQxODIxMDg3LDE2MD
-g0NDQzMSwtNjI1NzgyNjUxXX0=
+eyJoaXN0b3J5IjpbMTUzMDYyMzU0Myw1NDE4MjEwODcsMTYwOD
+Q0NDMxLC02MjU3ODI2NTFdfQ==
 -->
