@@ -1260,7 +1260,8 @@ Calculations are made in relation to the amount and rates of fluxes in the syste
 You've made it to the end of the content! 
 Good luck with your exams!
 Feel free to share this Cheat Sheet with friends, family and teachers.
-If you found this useful, please do send a message on Discord to let me know! 
+
+If you found this useful, please do send a message on Discord to let me know! This document has over 18,000 words hand-written by me, all available for free, so messages are appreciated :) 
 
 > Made with 💕 by Draggie
 
@@ -1334,8 +1335,9 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 
 [^2]: https://www.delfinamazoncruises.com/wp-content/uploads/2015/12/watercycletranspiration.html
 
-
+--- 
+THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNzczMjc0OCw1NDE4MjEwODcsMTYwOD
+eyJoaXN0b3J5IjpbLTY0MzY2NDQ1MCw1NDE4MjEwODcsMTYwOD
 Q0NDMxLC02MjU3ODI2NTFdfQ==
 -->
