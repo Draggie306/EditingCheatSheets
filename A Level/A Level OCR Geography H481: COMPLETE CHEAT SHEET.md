@@ -11,7 +11,7 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 05/05/2025 11:59
+[Latest update: 14/05/2025 11:59
 Last content addition: 15/05/2024 18:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but give credit!*
@@ -35,9 +35,10 @@ Let's get right into the content!
 
 # 1.1.2 Physical - Glaciated Landscapes
 
+
 *"Feeling a little like a **[drumlin](#drumlins)** today."*
 
-Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.com/apps/webappviewer/index.html?id=fd78b03a74bb477c906c5d4e0ba9abaf) to see places in the UK which have been influenced by glacial activity, with drumlins, subglacial lineations, moraines and more!
+Check out this interactive [BRITICE glacial map](https://shefuni.maps.arcgis.com/apps/webappviewer/index.html?id=fd78b03a74bb477c906c5d4e0ba9abaf) to see places in the UK which have been influenced by glacial activity, with drumlins, subglacial lineations, moraines and more, from Sheffield University!
 
 
 ## Glaciers as Systems
@@ -448,7 +449,7 @@ As it made its final retreat, meltwater was blocked by the ice and the large "Bi
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
 *The top left is the bed of Lake Agassiz, and the eroded area is visible too. North Minnesota.*
 
-If you're interested, an interactive map of the glacial extent and lobes is available [here](https://royalholloway.maps.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c), thanks to the brilliant geographers over at Royal Holloway.
+If you're interested, an interactive map of the glacial extent and lobes is available [here](https://www.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c), thanks to the brilliant geographers over at Royal Holloway uni.
 
 
 
@@ -526,7 +527,7 @@ A kame is an irregularly shaped hill, hummock or mound made of stratified glacia
 
 There are two types of kame:
 #### Delta kames
-Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** (and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
+Delta kames can form in two main ways. Firstly, they can form due to the build-up of debris in **englacial tunnels** (and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
 
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
@@ -547,7 +548,7 @@ A meltwater stream is visible south of it, as well as another esker to the east.
 
  - - -
 
-### Essay example: influence of climate changes and geomorphic processes in their formation
+### Essay example: Explain the influence of climate changes and geomorphic processes in the formation of glacio-fluvial landforms
  
 Kames are mounds of sediment deposited by glacial meltwater or ice, found in areas where glacial ice melted and receded, leaving behind sediment deposits. The process of kame formation is complex and is a result of a variety of interrelated factors, including climate change and geomorphic processes.
 
@@ -616,7 +617,7 @@ They are formed by large blocks of ice breaking from the main glacier. As the ma
 ## Periglacial landforms
 Periglacial landforms exist as a result of climate changes before and/or after glacial periods.
 
-**Periglaciation** is concerned with the process and landforms attributed to the action of **permafrost**. Typical processes include freeze-thaw.
+**Periglaciation** is concerned with the process and landforms attributed to the action of **freeze-thaw**, typically in permafrost areas.
 
 Being in a periglacial area means an area that is near to, or on the fringe of, glacial areas' ice mass, such that permafrost is present. This means that there is no physical glacier system present in the area, but it is still cold, relative to surrounding environments. 
 
@@ -754,10 +755,7 @@ The dam was built as Alcoa produces 2% of the world's aluminium supply, and glob
 
 Glacial meltwater, or **glacial milk**, is released by the Vatnajökull glacier and flows into the lake blocked by the dam. This glacial meltwater is known to have a high concentration of sediment within it, and as such reduces the capacity of the dam over time. This is because the suspended sediment at the base of the water solidifies when deposited, as there is little kinetic energy at the bottom to keep suspended sediment floating. Over time, the base level of the lake increases, reducing overall water capacity, until this excess sediment is ‘purged' by the dam management system, which may happen annually. 
 
-[Here's a video of sediment getting purged](https://www.youtube.com/watch?v=BudgYjuVkYk)
-
-[Another one](https://www.youtube.com/watch?v=VUoHhyvY4_w)
-
+[Here's a video of sediment getting purged](https://www.youtube.com/watch?v=BudgYjuVkYk), and [here's another one](https://www.youtube.com/watch?v=VUoHhyvY4_w)!
 
 --- 
 That's the end for glaciation! I hope you found it useful.
@@ -767,21 +765,15 @@ That's the end for glaciation! I hope you found it useful.
 *What if I told you about Paraglaciation and Paraperiglaciation as well?*
 
 
----
+# Earth's Life Support Systems
 
-# 1.2 Physical - Earth's Life Support Systems
-Wordcount: 8799
-Last modification: 04/05/2025 22:45
-Written by: [Oliver (100%)](https://github.com/Draggie306/CheatSheets)
-License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but a link to this resource and author acknowledgement must be given. please click the link for the full legal deed.*
+"Without water and carbon I literally would not be here" - a wise man, 2024
 
 ---
+
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/elss-dalle3-A%20creative%20representation%20of%20Earth%27s%20life%20support%20systems,%20depicting%20Earth%20as%20a%20humanoid%20figure%20lying%20on%20a%20hospital%20bed,%20looking%20sickly.%20On%20either%20sid.png)
 *giving earth life support - created with [dall-e 3](https://openai.com/dall-e-3)*
 
-
-
-"Without water and carbon I literally would not be here" - a wise man, 2024
 
 ## 1. How important are water and carbon to life on Earth?
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/ELSS-keyidea1.png)
@@ -801,7 +793,7 @@ It is described by astronomers as:
 
 Water is essential to supporting life. The atmosphere is sustained by a continual cycle of evaporation and condensation through cloud formation. Water vapour itself is a very potent greenhouse gas, which regulates and moderates global temperatures: the climate is 15 degrees C warmer with water than without. As sun rays collide with the molecules in water vapour, they heat them up, causing them to vibrate and let off heat. In addition, water vapour is excellent as stopping short-wave radiation from causing harm for the biosphere. The greenhouse effect by water vapour prevents some long-wave radiation reflected from the Earth from exiting. It makes up 65-95% of all the biospheric mass, including in people, flora and fauna.
 
-Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**.An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
+Water itself is in a closed system, meaning that water cannot enter or leave the Earth. As the water cannot exit or enter, it is transferred, stored and moved around inside the system. This is known as the **global hydrological cycle**. An open system within the overall closed water cycle system may be a drainage basin: water can enter and exit at any time.
 
 |Store|Size|% of total|
 |--|--|---
@@ -813,7 +805,7 @@ Water itself is in a closed system, meaning that water cannot enter or leave the
 | Atmosphere | 13k km^3^ |0.00093%
 | Rivers | 2.1k km^3^ |0.00015%
 | Biosphere | 1.1k km^3^ |0.000081%
-* Data updated to match latest scientific research.
+\* *Data updated to match latest scientific research.*
 
 ### Introduction to carbon
 
@@ -1275,7 +1267,6 @@ Management strategies:
 This is a collaborative effort at the drainage basin scale to encourage the sharing of demands and needs for everyone involved, including domestic use, industry and agriculture.
 
 Calculations are made in relation to the amount and rates of fluxes in the system, with "targets" placed on stores. For example, stating that aquifers should always remain 50% at capacity with a high water table. After these plans have been made, actions can be taken, such as reforestation to improve interception rates, slowing peak flow, and encouraging greater infiltration and percolation. Urban areas can be financially incentivised to reduce the amount of impermeable surfaces - such as in the EU Water Directive Framework pre-2020 where 10 catchment hydrologies had holistic plans established to improve the amount and availability of water at this scale.
-
 
 ---
 
@@ -2464,17 +2455,13 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 - oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
 
-<!-- (explain from memory) -->
-
-## Conservative plate boundaries
-
-Typicall
+<!-- (explain from m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDY2Mjc4NCw0NzcxMzg3ODAsLTMwND
-Q3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4MSwzODY4Nzc4MDMs
-MzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MDM5NzA4LC0xNzQzMT
-Q5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIxLDE2NTYyNTYxNTMs
-LTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLTM5NjcyNzc5LC00Mz
-E5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMwNDA4LC0xMzIyODMw
-NDMwXX0=
+eyJoaXN0b3J5IjpbLTE0MjQwMTQ4MTAsMTk4MDY2Mjc4NCw0Nz
+cxMzg3ODAsLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4
+MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MD
+M5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIx
+LDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
+M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
+NDA4XX0=
 -->
