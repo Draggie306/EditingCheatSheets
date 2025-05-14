@@ -600,7 +600,7 @@ They are formed by large blocks of ice breaking from the main glacier. As the ma
 ## Periglacial landforms
 Periglacial landforms exist as a result of climate changes before and/or after glacial periods.
 
-**Periglaciation** is concerned with the process and landforms attributed to the action of **freeze-thaw**, typically, in permafrost areas.
+**Periglaciation** is concerned with the process and landforms attributed to the action of **freeze-thaw**, typically in permafrost areas.
 
 Being in a periglacial area means an area that is near to, or on the fringe of, glacial areas' ice mass, such that permafrost is present. This means that there is no physical glacier system present in the area, but it is still cold, relative to surrounding environments. 
 
@@ -1334,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDI2ODQyMSwxNTMwNjIzNTQzLDU0MT
-gyMTA4NywxNjA4NDQ0MzEsLTYyNTc4MjY1MV19
+eyJoaXN0b3J5IjpbMzU5Njc5NjAxLDE1MzA2MjM1NDMsNTQxOD
+IxMDg3LDE2MDg0NDQzMSwtNjI1NzgyNjUxXX0=
 -->
