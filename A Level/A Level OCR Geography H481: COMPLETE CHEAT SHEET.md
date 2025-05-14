@@ -2367,7 +2367,7 @@ Mohorovicic discontinuity
 The theory of plate tectonics is closely linked with Alfred Wegener's theory of continental drift, a theory completed in 1912 but rejected by scientific communities.
 
 ---
-![enter link description here](https://cdn.discordapp.com/attachments/785620979300302869/1156308808608534648/wegener-haha-original.gif)
+![enter link description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/wegener-haha-original.gif)
 
 ---
 
@@ -2463,11 +2463,11 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 
 <!-- (explain from m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyOTgxNzQ4LDE5ODA2NjI3ODQsNDc3MT
-M4NzgwLC0zMDQ0NzIyMTAsLTcxODM4NTM1LDE1NjI2MzMzODEs
-Mzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOT
-cwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwx
-NjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOT
-Y3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQw
-OF19
+eyJoaXN0b3J5IjpbLTk2ODkxODYyMiwxOTgwNjYyNzg0LDQ3Nz
+EzODc4MCwtMzA0NDcyMjEwLC03MTgzODUzNSwxNTYyNjMzMzgx
+LDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02MzcwMz
+k3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEs
+MTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMz
+k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
+MDhdfQ==
 -->
