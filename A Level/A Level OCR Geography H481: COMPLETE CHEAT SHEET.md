@@ -1666,7 +1666,7 @@ Furthermore, the average income is £32,000, showing that there are many profess
 
 The majority of homes have 3-4 rooms, (not just bedrooms), suggesting that the majority of people in the area are either single, students, or in a relationship without children. There are 5708 homes in total, with 3188 people living alone. This data implies that there are many workers living in smaller, urban dwellings. When families are formed, they then go on to move away from the inner city area and potentially to more suburban areas outside of Mancroft. 
 
-These statistics reflect the average "life progression", with people working in inner city jobs or are students during thier early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
+These statistics reflect the average "life progression", with people working in inner city jobs or are students during their early 20s due to work facilities available, nightclubs and nightlife (being more 'adventurous'), but then settle in a more comfortable job and have families, moving to more remove areas with a larger house to take care of children.
 
 
 **Summary:**
@@ -1922,7 +1922,7 @@ There are 5 main ways to rebrand an area:
 Human rights are a universal set of basic rights that everyone is entitled to at all times and in all places, protecting everyone equally and indiscriminately.
 
 The UDHR was written after WW2 as a framework to establish these rights. Whilst very morally strong and well-respected, it is not legally binding. 
-States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - which outlines what a child must need to survive, grow and reach their full potential, and is the basis for Unicef's work. This is the most widely ratified piece of legislation. 
+States therefore sign treaties to codify the set of human rights into compatible domestic legislation. One of these is the UN Convention on the Rights of the Child - which outlines what a child must need to survive, grow and reach their full potential, and is the basis for UNICEF's work. This is the most widely ratified piece of legislation. 
 To encourage codification, states may place trade sanctions or embargoes on others that do not ratify or enforce rules against human rights violations. 
 
 According to UNICEF, social norms are the perceived "unwritten rules" that define acceptable and appropriate actions and behaviours within a group or community.
@@ -2462,11 +2462,11 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
 - oceanic-oceanic also fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODMxNTA1NDcsMTk4MDY2Mjc4NCw0Nz
-cxMzg3ODAsLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4
-MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MD
-M5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIx
-LDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
-M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
-NDA4XX0=
+eyJoaXN0b3J5IjpbMTg2ODU3ODE5NywxOTgwNjYyNzg0LDQ3Nz
+EzODc4MCwtMzA0NDcyMjEwLC03MTgzODUzNSwxNTYyNjMzMzgx
+LDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02MzcwMz
+k3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEs
+MTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMz
+k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
+MDhdfQ==
 -->
