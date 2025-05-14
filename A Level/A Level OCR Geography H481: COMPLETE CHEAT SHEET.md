@@ -1503,11 +1503,11 @@ The USA had an open border system for "any free white person" could become a cit
 Currently, there are 90.8 million migrants in the USA. 5% come from India and China, many are "persons of extraordinary ability" and are high-skill (Silicon Valley) wokers or have student visas from wealthy Asian families looking to be educated. 
 Mexico though is by far the greatest contributor to the US migrant population with an over 28% share.  
 
-Today, there are several key policies. However the **Immigation and Nationality Acts attempts to keep this number capped at 675,000 annually**.
+Today, there are several key policies. However the **Immigration and Nationality Acts attempts to keep this number capped at 675,000 annually**.
 - Green Card: open-door policy that allocates 50,000 visas anually at random to anyone that applies. It is a lottery system that promotes diversity. This gives a permanent residency card
-- Skills-based visas such as the H-1B, H-1A and O-1 allow 140,000 migants with skills deemed "valuable" and who are sponsored by a company every year to arrive. These are "aliens of extraordinary ability" and are highly educated, skillful, graduates and entrepreneurs who fuel innovation.  
+- Skills-based visas such as the H-1B, H-1A and O-1 allow 140,000 migrants with skills deemed "valuable" and who are sponsored by a company every year to arrive. These are "aliens of extraordinary ability" and are highly educated, skilful, graduates and entrepreneurs who fuel innovation.  
 - Family reunification: 226,000 people can be sponsored annually by lawful citizens to become permanent citizens. This is at risk with Trump-era policies and is viewed as the major source of challenges, so has a significant backlog.
-	- Histroically, amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
+	- Historically, amnesty has been given especially by Obama to allow illegal immigrant "dreamers" through policies such as DACA that protects children brought to the USA. This allows over a million people to have an education, work and live without fear of deportation
 - Refugees and humanitarian visas: the USA has historically taken in more refugees than the entire world, combined. This number changes annually but stays at around 45,000 per annum
 
 **Key Policies**
@@ -1532,7 +1532,7 @@ The USA's southern neighbour Mexico has over 37 million Mexicans, and each count
 
 Mexico also provides southern states such as Texas and southern California with low-skill, frequently illegal populations driven by the higher wages (though unfortunately many are still exploited by low-paying employers) and demand for agriculture and construction in the rapidly growing southern cities. Remittances constitute 4% of Mexico's GDP (or 63bn $US), largely from the USA. 
 
-U.S. Companies are expected to invst 40bn in Mexico throughout 2024. This creates a mutual demand for politicians to treat the interdependence between the countries seriously, with the companies benefitting from growth whilst Mexico benefits from greater availaibility of jobs and resources.
+U.S. Companies are expected to invest 40bn in Mexico throughout 2024. This creates a mutual demand for politicians to treat the interdependence between the countries seriously, with the companies benefitting from growth whilst Mexico benefits from greater availability of jobs and resources.
 
 There is increasing environmental political cooperation and interdependence with Mexico through the joint management of the Colorado river basin (that supports 40m people) and increasing collaboration regarding the fighting of illegal crossings, and drug and people trafficking at the border. USAID also invest in governmental projects to reduce deforestation by 2030 and promote natural climate solutions and energy efficiency.
 
@@ -1542,7 +1542,7 @@ There is increasing environmental political cooperation and interdependence with
 - Immigrants are themselves consumers, creating businesses. There is evidence of greater diversity and the occupation of old, industrial inner cities now occupied by migrants who redevelop the area.
 
 #### Challenges
-- Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexcian "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
+- Conflict. Trump and the Republican/Democratic divide has created ideas about the negatives of the Mexican "epidemic" and various language has been used, but not all words become actions. According to the BBC only 80 new walls have been built... out of 1,951 miles.
 - There are still, despite amnesties, high amounts of unauthorised, illegal immigrants, an estimated 10.9 million, as a result of the "American dream" ideology throughout central and southern American countries using Mexico as a way in.
 - The tightening of border laws, deployment of border control agents and ever increasing "bureaucracy" to process migrants has become a deterrent - and a burden for the taxpayer.
 - The size of the illegal population who do not wish to declare themselves out of fear is a barrier to social, economic and political integration. It may be burdensome on the demand of resources in scarce regions with high migrant stock - such as southern California (a desert).
@@ -1564,7 +1564,7 @@ Migration policies in Laos are ineffective. Human trafficking is very common - *
 
 Further to this, interdependence with Thailand is very significant. The majority of these migrants are unskilled labourers - but both countries benefit bilaterally thorough the 4x greater minimum wage in Thailand. The growing textiles and service sector are supported by Laotians who remit money - 2% of GDP - which is used on the local scale of food and essential resources (building resilience in the long-term) and large agricultural machinery - essential in such an economy.
 
-Laos and Thailand also jointly manage the Mekong river, inheritly improving political relations. 
+Laos and Thailand also jointly manage the Mekong river, inherently improving political relations. 
 
 #### Opportunities
 - Laos has received FDI from Vietnam in over 400 investment projects
@@ -2284,10 +2284,11 @@ Nepalese aid workers stationed along Mirebalais, in the Artibonite river valley,
 
 The British Red Cross targeted the outbreak with its own response programme between 2010 and 2012. 10 days after the outbreak began, MSF found that the largest camp in P-a-P had no access to chlorinated drinking water, and the Red Cross were able to deliver clean water to 300,000 camp dwellers in the capital. On top of this, as cholera is water-borne, they built 1300 latrines, serving almost 200 people each. They also directly treated over 20,000 cholera cases in treatment units across Haiti, provided medical supplies to hospitals in the Artibonite Valley and indirectly combatted the disease through educational measures, teaching how to avoid infection and the symptoms.
 
-Coupled with other aid workers like Cuban doctors who treated more than 75,000 cholera cases, it may have been a much greater success than it was. Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. [[1](https://www.cdc.gov/cholera/haiti/index.html)]. Basic functionality and sanitation was not put in place across the country. 
+Coupled with other aid workers like Cuban doctors who treated more than 75,000 cholera cases, it may have been a much greater success than it was. Weak governance contributed to the poor treatment of cholera in Haiti. There were over 10,000 NGOs but no effective management strategy and as a result, the easily-treated cholera was responsible for 10,000 deaths. Basic functionality and sanitation was not put in place across the country. 
 
+You can learn more on the Cholera section on the [WHO's Global Cholera Snapshot page](https://www.cdc.gov/cholera/about/global-epidemiology-of-cholera.html).
 
-Further reading: [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/)
+Further reading: [www.ncbi.nlm.nih.gov](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3381400/) and [the WHO's dashboard](https://who-global-cholera-and-awd-.dashboard-1-who.hub.arcgis.com/l).
 
 
 ## 5. Can diseases ever be fully eradicated?
@@ -2459,15 +2460,13 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental. Big, shallow focus earthquakes
 - responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
-- oceanic-oceanic also forms island arcs, such as the Antilles and Aleutian islands.
-
-<!-- (explain from m
+- oceanic-oceanic also fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2ODkxODYyMiwxOTgwNjYyNzg0LDQ3Nz
-EzODc4MCwtMzA0NDcyMjEwLC03MTgzODUzNSwxNTYyNjMzMzgx
-LDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02MzcwMz
-k3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEs
-MTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMz
-k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTExODMxNTA1NDcsMTk4MDY2Mjc4NCw0Nz
+cxMzg3ODAsLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4
+MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MD
+M5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIx
+LDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
+M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
+NDA4XX0=
 -->
