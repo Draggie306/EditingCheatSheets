@@ -1,9 +1,6 @@
 
 
 
-
-
-
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
 
 # A Level OCR Geography: Complete Cheat Sheet
@@ -11,8 +8,8 @@
 **⚠ This is a work-in-progress, unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 please let me know if there are any errors :)
 
-[Latest update: 14/05/2025 11:59
-Last content addition: 15/05/2024 18:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest update: 14/05/2025 15:49
+Last content addition: 14/05/2025 15:43](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) - *you may use this in your own work, but give credit!*
 
@@ -2154,7 +2151,7 @@ In 2020, the monsoon rains were of unprecedented scale. In the first half of the
 
 Bangladesh, although has its problems, is improving too. The threat of more severe flooding in future years and stronger cyclones has prompted both the government and NGOs to intervene. Female education and nutrition has significantly improved, with an emphasis on breastfeeding which reduces the likelihood of deadly waterborne diseases like diarrhoea being introduced into vulnerable babies' and children's immune systems. The Government allocated 14,410 tons of rice to be given to those affected. Oral rehydration solution was given to treat those moderately dehydrated, with water purification tablets being used to treat water supplies in large population centres, significantly reducing the risk of waterborne illness contamination and subsequent infection.
 
-Extra reading available: [here](https://reliefweb.int/attachments/4a10a902-7de0-3983-b9f7-4b038c3b8e55/MDRBD025efr%20%281%29.pdf)
+Extra reading available: [here](https://cheatsheet-assets.ibaguette.com/alevel/geography/MDRBD025efr.pdf). (archived from the [original](https://reliefweb.int/attachments/4a10a902-7de0-3983-b9f7-4b038c3b8e55/MDRBD025efr%20%281%29.pdf))
 
 ## 2. Is there a link between disease and levels of economic development?
 ![Specification Content for Disease Dilemmas Key Idea 2 - "Is there a link between disease and levels of economic development?"](https://cheatsheet-assets.ibaguette.com/alevel/geography/SpecContent_DiseaseDilemmas-3.2.2.png)
@@ -2459,14 +2456,13 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 
 - upthrust of lithospheric rock creating high altitude fold mountains e.g. Himalayas on continental-continental. Big, shallow focus earthquakes
 - responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
-- oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic activity, and shallow focus earthquakes, tsunamis and most dangerous boundary
-- oceanic-oceanic also fo
+- oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic acti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2ODU3ODE5NywxOTgwNjYyNzg0LDQ3Nz
-EzODc4MCwtMzA0NDcyMjEwLC03MTgzODUzNSwxNTYyNjMzMzgx
-LDM4Njg3NzgwMywzODMxMDgzMTgsNDg5ODM0MzUwLC02MzcwMz
-k3MDgsLTE3NDMxNDkyODgsLTY5OTk2OTQ1NCw5OTA5OTU2MjEs
-MTY1NjI1NjE1MywtMTYxMjAwNjcxNCwtMTA1ODU5NDczMiwtMz
-k2NzI3NzksLTQzMTk1MjU1LDExNTUzMjc1MzcsLTEzNzgxMzA0
-MDhdfQ==
+eyJoaXN0b3J5IjpbLTI5NDQzODgxLDE5ODA2NjI3ODQsNDc3MT
+M4NzgwLC0zMDQ0NzIyMTAsLTcxODM4NTM1LDE1NjI2MzMzODEs
+Mzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOT
+cwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwx
+NjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOT
+Y3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQw
+OF19
 -->
