@@ -263,7 +263,7 @@ As this meltwater is forced up and over the roche moutonnée, mechanical pluckin
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
-*Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
+*Source: [Québec government website](https://gq.mines.gouv.qc.ca/quaternaire/roche-moutonnee/)*
 
 The word is French with "roche" meaning rock and "moutonée" meaning sheep.
 
@@ -2458,7 +2458,7 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 - responsible for deep ocean trenches e.g. Mariana and Java Trench on continental-oceanic and oceanic-oceanic boundaries
 - oceanic plate subducts, melting in the asthenosphere. As a result there is explosive volcanic acti
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDQzODgxLDE5ODA2NjI3ODQsNDc3MT
+eyJoaXN0b3J5IjpbMzUwODIwNzg3LDE5ODA2NjI3ODQsNDc3MT
 M4NzgwLC0zMDQ0NzIyMTAsLTcxODM4NTM1LDE1NjI2MzMzODEs
 Mzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOT
 cwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwx
