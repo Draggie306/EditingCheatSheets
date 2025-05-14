@@ -765,7 +765,7 @@ That's the end for glaciation! I hope you found it useful.
 *What if I told you about Paraglaciation and Paraperiglaciation as well?*
 
 
-# Earth's Life Support Systems
+# 1.2 Physical - Earth's Life Support Systems
 
 "Without water and carbon I literally would not be here" - a wise man, 2024
 
@@ -1595,8 +1595,8 @@ Case studies of two contrasting place profiles at a local scale, including:
 - how shifting flows of people (such as commuter, migration), resources (such as natural, technology), money and investment (such as EU funding, TNCs) and ideas (such as knowledge economy) have helped shape the demographic, socio-economic and cultural profile of these places over time.
 ---
 
-A place can be described as a location created by human experiences. 
-A space, on the other hand, has no added social connections or added perceived values. 
+A **place** can be described as a location created by human experiences. 
+A **space**, on the other hand, has no added social connections or added perceived values. 
 
 For example, a car parking space at a shopping market has no value to you. It's just a one time location which you leave your car at. However, a parking place at your work may have your name on it, it may be valued by yourself and there may be some memories associated with it, such as tripping over or talking to someone there.
 
@@ -2072,6 +2072,11 @@ Congolese
 
 > [tbd] Note: this section is currently being worked on!
 
+---
+end of paper 2!
+
+good luck in Paper 3! Hazards are my favourite &lt;3 (sorry, drumlins)
+
 # 3.2 Debates - Disease Dilemmas
 <!-- Note that this is an incomplete cheat sheet. No ads will be shown. Eventually, the content here will be merged into the [main cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all). Happy revision!
 -->
@@ -2098,7 +2103,7 @@ For example:
 - Malaria is communicable (can spread), infectious (spread by a parasite) but non-contagious (cannot go directly from person to person)
 - Skin cancer is non-communicable (can't spread), non-infectious (not spread), and non-contagious (can't be caught from someone else)
 
-In addition, diseases can diffuse in different ways
+In addition, diseases can diffuse in different ways:
 
 - expansion diffusion: increasing in geographical area, typically decreasing in severity
 - relocation diffusion: move from one area to another
@@ -2371,12 +2376,13 @@ The theory of plate tectonics is closely linked with Alfred Wegener's theory of 
 
 ### Paleomagnetism
 Paleo (fossilised) magnetism is the record of historic magnetic changes as the Earth's polarity changes (known as geomagnetic reversals), with recent polarity inverses occurring every 200 to 300 thousand years. 
-When oceanographers mapped seabeds for the first time during WW2, magnetic flips were observed on either side of oceanic divergent boundaries. 
 
-This is because magma, with high iron content from the mantle, is erupted, and then these small iron particles within the erupted lava then cool quickly as a result of the water, solidifying the surrounding lava and preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the width of polarity inversals on either side of the plate boundary on the ocean floor (the variability of the polar inversals changing the widths) - thus proving that  
+When oceanographers mapped seabeds for the first time during WW2, a "mirror image" of magnetic polarity was observed on either side of oceanic divergent boundaries/seafloor spreading centres.
+
+This is because magma, with high iron content from the mantle, is erupted. Then, the small iron particles within the erupted material is then cooled quickly (because of the presence of water), solidifying the surrounding lava and materials within; thereby preserving a record of the magnetic direction the iron was pointing in. There is a mirror image of the width of polarity inversals on either side of the plate boundary on the ocean floor (the variability of geomagnetic inversals changing the widths), thus proving that new land is created over time *from* the divergent boundary.
 
 
-### Ancient glacial epochs
+### Ancient glacial deposits
 Evidence from previous glacial periods when the Pangea supercontinent existed reinforced the idea that at one point, land masses were connected. Striations, lines in rocks carved by glaciers moving other rocks over them (erosional features), have been found by glaciologists in central India, Africa and even in the Amazon Rainforest, implying that these places were once in polar regions.  
 It is unlikely that glaciers will form over oceans due to higher temperatures so land-based glaciers and therefore connected land masses existed.
 
@@ -2421,7 +2427,7 @@ The depth of the accumulated sediment on the sea floor was found to increase as 
 ## Plate Boundaries
 Now that we've determined Alfred Wegener was a brilliant man, let's dive into the mechanisms of the continents.
 
-A plate boundary is where there are two plates meeting. This is not the same as there being two plate boundaries! There is only one boundary, and two plates.
+A plate boundary is where two plates meet. This is not the same as there being two plate boundaries! There is only one boundary, but two plates.
 
 ## Divergent plate boundaries
 At a divergent plate boundary, two plates move apart from each other. Depending on the rate of movement and type of and density of the lithospheric crust, different landforms can be found
@@ -2430,7 +2436,7 @@ At a divergent plate boundary, two plates move apart from each other. Depending 
 At a mid-oceanic ridge, molten magma rises towards the Earth's surface, thanks to hot magma plumes within the mantle, originating from the lower mantle. As magma rises - caused by the force of the mantle plume - and enters the asthenosphere, it loses pressure and cools down. The lithospheric rocks above are pushed upwards by force, fracturing the lithosphere and penetrating through the crust. Accompanied by **ridge push**, at these ridges, **thermal expansion** from the presence of magma causes the surrounding rocks to... expand. Over time, vast chains of underwater mountains up to 3km tall and 60,000km in total length have formed. 
 At these oceanic ridge crests, landforms which are likely to be visible include **black smokers** (hydrothermal vents) where seawater meets the hot magma, as well as **pillow lavas**, which are mainly basaltic. These rocks once cooled can be used to indicate the upwards orientation at the time of eruption.
 
-Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes will likely occur due to, releasing kinetic energy. (There is little volcanic activity along transform faults.)
+Variations in seafloor spreading velocity result in lateral **transform faults**, which appear as zig-zags on topographic ocean maps. Due to the accumulating pressure and tension as these masses move, small earthquakes are likely to occur due to kinetic energy releases. (There is little volcanic activity along transform faults.)
 
 
 Faster spreading (up to 170mm/yr) will result in broader and smoother mountain chains, with slow spreading (20mm/yr) having much steeper mountains.
@@ -2457,11 +2463,11 @@ Rift valleys can also be found where spreading is occurring at a slower rate, su
 
 <!-- (explain from m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQwMTQ4MTAsMTk4MDY2Mjc4NCw0Nz
-cxMzg3ODAsLTMwNDQ3MjIxMCwtNzE4Mzg1MzUsMTU2MjYzMzM4
-MSwzODY4Nzc4MDMsMzgzMTA4MzE4LDQ4OTgzNDM1MCwtNjM3MD
-M5NzA4LC0xNzQzMTQ5Mjg4LC02OTk5Njk0NTQsOTkwOTk1NjIx
-LDE2NTYyNTYxNTMsLTE2MTIwMDY3MTQsLTEwNTg1OTQ3MzIsLT
-M5NjcyNzc5LC00MzE5NTI1NSwxMTU1MzI3NTM3LC0xMzc4MTMw
-NDA4XX0=
+eyJoaXN0b3J5IjpbMzQyOTgxNzQ4LDE5ODA2NjI3ODQsNDc3MT
+M4NzgwLC0zMDQ0NzIyMTAsLTcxODM4NTM1LDE1NjI2MzMzODEs
+Mzg2ODc3ODAzLDM4MzEwODMxOCw0ODk4MzQzNTAsLTYzNzAzOT
+cwOCwtMTc0MzE0OTI4OCwtNjk5OTY5NDU0LDk5MDk5NTYyMSwx
+NjU2MjU2MTUzLC0xNjEyMDA2NzE0LC0xMDU4NTk0NzMyLC0zOT
+Y3Mjc3OSwtNDMxOTUyNTUsMTE1NTMyNzUzNywtMTM3ODEzMDQw
+OF19
 -->
