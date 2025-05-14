@@ -21,7 +21,7 @@ For the Cheat Sheet matched to the entire specification, you can go [here](https
 
 *"Feeling a little like a **[drumlin](#drumlins)** today."*
 
-Check out this interactive [ARCGIS British ice map](https://shefuni.maps.arcgis.com/apps/webappviewer/index.html?id=fd78b03a74bb477c906c5d4e0ba9abaf) to see places in the UK which have been influenced by glacial activity, with drumlins, subglacial lineations, moraines and more!
+Check out this interactive [BRITICE glacial map](https://shefuni.maps.arcgis.com/apps/webappviewer/index.html?id=fd78b03a74bb477c906c5d4e0ba9abaf) to see places in the UK which have been influenced by glacial activity, with drumlins, subglacial lineations, moraines and more, from Sheffield University!
 
 
 ## Glaciers as Systems
@@ -432,7 +432,7 @@ As it made its final retreat, meltwater was blocked by the ice and the large "Bi
 ![](https://upload.wikimedia.org/wikipedia/commons/d/d5/River_Warren_Valley.gif)
 *The top left is the bed of Lake Agassiz, and the eroded area is visible too. North Minnesota.*
 
-If you're interested, an interactive map of the glacial extent and lobes is available [here](https://royalholloway.maps.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c), thanks to the brilliant geographers over at Royal Holloway.
+If you're interested, an interactive map of the glacial extent and lobes is available [here](https://www.arcgis.com/apps/webappviewer/index.html?id=22484133aff845599d5f1a6a0746572c), thanks to the brilliant geographers over at Royal Holloway uni.
 
 
 
@@ -510,7 +510,7 @@ A kame is an irregularly shaped hill, hummock or mound made of stratified glacia
 
 There are two types of kame:
 #### Delta kames
-Delta kames can form in two main ways. Firstly, they can form due to he build-up of debris in **englacial tunnels** (and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
+Delta kames can form in two main ways. Firstly, they can form due to the build-up of debris in **englacial tunnels** (and crevasses) that emerge at the glacial terminus as a result of retreat. As a result, they lose their energy, and are forced to deposit their contained load.
 
 Another way that they can be formed is when supraglacial streams meet ice-marginal lakes. These ice margin water bodies are largely static (just sit there tbh) so the sediment they carry loses energy and gets deposited in the lake, from where this supraglacial stream enters it, often leading to a tall accumulation.
 
@@ -1334,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMDYyMzU0Myw1NDE4MjEwODcsMTYwOD
-Q0NDMxLC02MjU3ODI2NTFdfQ==
+eyJoaXN0b3J5IjpbLTY2MDI2ODQyMSwxNTMwNjIzNTQzLDU0MT
+gyMTA4NywxNjA4NDQ0MzEsLTYyNTc4MjY1MV19
 -->
