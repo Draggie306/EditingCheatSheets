@@ -249,7 +249,7 @@ As this meltwater is forced up and over the roche moutonnée, mechanical pluckin
 Roche moutonnées are generally concentrated in areas of **competent bedrock**, such as *granitoids* (Glasser, 2002) - this essentially means that rocks are somewhat resistant to deformation.
 
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/alevel/geography/0000019273.jpg)
-*Source: [Québec government website](https://gq.mines.gouv.qc.ca/lexique-stratigraphique/quaternaire/roche-moutonnee/)*
+*Source: [Québec government website](https://gq.mines.gouv.qc.ca/quaternaire/roche-moutonnee/)*
 
 The word is French with "roche" meaning rock and "moutonée" meaning sheep.
 
@@ -1334,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU5Njc5NjAxLDE1MzA2MjM1NDMsNTQxOD
-IxMDg3LDE2MDg0NDQzMSwtNjI1NzgyNjUxXX0=
+eyJoaXN0b3J5IjpbLTE1NDE0NTI5NzksMTUzMDYyMzU0Myw1ND
+E4MjEwODcsMTYwODQ0NDMxLC02MjU3ODI2NTFdfQ==
 -->
