@@ -1,7 +1,7 @@
 
 
 [< Back to A Level Cheat Sheets](https://ibaguette.com/cheatsheets/alevel)
-# OCR A Level Geography - COMPLETE Paper 1 (Physical) Revision Notes
+# OCR A Level Geography - Full Paper 1 (Physical) Revision Notes
 
 **⚠ Please note, this is a work-in-progress, somewhat unfinished document. The most unfinished sections are marked with [tbd] and there may be general issues and typos. ⚠**
 
@@ -1334,6 +1334,6 @@ $\left\{\frac{\left(\sum_{i=1}^n (Z_i - \theta)\right)^2}{\sum_{i=1}^n (Z_i - \t
 --- 
 THE END
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDE0NTI5NzksMTUzMDYyMzU0Myw1ND
-E4MjEwODcsMTYwODQ0NDMxLC02MjU3ODI2NTFdfQ==
+eyJoaXN0b3J5IjpbMTA1NzA3NTc3OSwxNTMwNjIzNTQzLDU0MT
+gyMTA4NywxNjA4NDQ0MzEsLTYyNTc4MjY1MV19
 -->
