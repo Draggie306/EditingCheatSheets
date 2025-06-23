@@ -166,7 +166,7 @@ Memory/RAM is small in size compared to secondary storage, but is much faster as
 
 Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow for when memory is filled up. When RAM is full, data which would have gone to memory goes to an area of the disk drive and, when needed by the CPU again, is moved back into RAM. However, virtual memory is *much* slower than even the fastest SSDs, let alone HDDs with their moving parts, so the OS attempts to avoid placing highly-used programs in virtual memory. *More RAM = always better.*
 
-Cache memory is small amounts of incredibly fast but relatively expensive random access memory located within the CPU, used for very common operations. There are typically 3 levels of cache - L1, L2 and L3 - which go down (starting from L1) in cost and speed, but up in capacity. It's 
+Cache memory is small amounts of incredibly fast but relatively expensive random access memory located within the CPU, used for very common operations and calculations that may need to be immediately reused. There are typically 3 levels of cache - L1, L2 and L3 - which go down (starting from L1) in cost and speed, but up in capacity. As it is located on the CPU itself, it's much faster than having to go to RAM all the time.
 
 ## 1.2.2 Secondary storage
 
@@ -208,7 +208,9 @@ Text file size = bits per character x number of characters
 *There's a lot in this topic (including the things I find the hardest but shh)*
 
 ### Denary to Binary
-To convert a denary number into binary, write out all the base 2 numbers in a row (128, 64, 32, 16, 8, 4, 2, 1). Then, get your number, let's say 253, and subtract it from the largest. You'd then get 125. Write '1' below the '128' and repeat on the next numbers. If when you subtract it it's negative, write a zero below and then do the next smallest number.
+To convert a denary number into binary, write out all the base 2 numbers in a row (128, 64, 32, 16, 8, 4, 2, 1). Firstly, get your number, let's say 253, and subtract it from the largest base 2 number (here, 128). You'd get 125. Write '1' below the '128' and repeat on the next lowest numbers. If when you subtract it it's negative, write a zero below, **do not subtract anything**, but instead just move to the next smallest number.
+
+The most significant bit is the leftmost (e.g. `1` in the byte `1000 0000`). The least significant is the leftmost - it has the least "influence" on the represented number.
 
 ### Adding binary digits
 0 + 0 = 0
@@ -231,6 +233,7 @@ Remember how to convert denary to binary? Well, firstly convert the denary into 
 
 1. Convert 103 into binary.
 	= 01100111
+	> It's worth noting these 8 bits are equivalent to the 7 bits `1100111` - if you're not given the full 8 bits, you can fill the leftmost bits with zero: it doesn't change the overall number.
 2. Split into nibbles
 	= 0110 0111
 3. Work out hex of nibble 1
@@ -275,7 +278,7 @@ Answer to 2) Convert 212 into hexadecimal. [2 marks]
 
 ### Characters
 
-Characters are also represented as binary. In ASCII, there are 8 bits, so that's 255 characters possible. In Unicode, there are 16 bits, or more, allowing it to represent every character and emoji in the world - over 2 million.
+Characters are also represented as binary. In ASCII, there are 8 bits, so that's 255 possible characters. In Unicode, there are 16 bits, or more, allowing it to represent every character from every language and every emoji in the world - over 2 million.
 
 A in binary is 0100 0001.
 Character sets are ordered logically, so B is one more than A:
@@ -1336,7 +1339,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc2MzEzMjY5LC01NDQxODQ0NjQsLTIwMT
+eyJoaXN0b3J5IjpbNDIwMTAzMTM2LC01NDQxODQ0NjQsLTIwMT
 YxMzcwMzMsMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMTMxNjY4
 NjI0MV19
 -->
