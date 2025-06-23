@@ -9,8 +9,8 @@
 
 > *Written by [Oliver Ling](https://www.linkedin.com/in/oliver-ling/) (@draggie306)*
 
-[Latest general update: 06/05/2025 16:29.
-Last addition: 06/05/2025 15:27](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest general update: 23/06/2025 21:18.
+Last addition: 23/06/2025 21:18.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Looking to smash your exams with easy-to-access, free 1:1 advice from exam survivors? Chat with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
@@ -618,11 +618,11 @@ The OS controls...
 ## 1.5.2 Utility software
 ![OCR GCSE J277 Computer Science Specification, containing section 1.5.1 Operating Systems](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.5.2_Utility_software.png)
 
-Utility software helps to maintain the system. It includes programs such as encryption software, defragmentation utilities and data compression tools. Computers often come with this software built in to keep the device running smoothly, but not directly as part of the OS.
+Utility software is an additional type of software designed to maintain the system. It includes programs such as encryption software, defragmentation utilities and data compression tools. Computers often come with this software built in (even as part of the OS now) to keep the device running smoothly.
 
 ### Encryption software
 
-Encryption software is used to scramble the contents of files to everyone but authorised users who have the decryption/private key. It can encrypt individual files or even the entire disk! This is useful for government organisations or banks which have private and sensitive data stored. If someone steals a disk, what can they do with the data if they can't read it?
+Encryption software is used to scramble the contents of files to everyone but authorised users who have the decryption/private key. It can encrypt individual files or even the entire disk! This is useful, even required, for government organisations or banks which have private and sensitive data stored. If someone steals a computer, what can they do with the data if they can't read it?
 
 ### Defragmentation software
 
@@ -630,11 +630,12 @@ If you know what defragging a hard disk is, then you can skip this.
 
 If you don't, read below:
 
-Hard disk drives are separated into thousands of tracks, with thousands of segments in these tracks. When a file is written to a disk, it is written to the next available segment. Let's say you're downloading a 30GB game - and you pause it halfway through for an hour, and you download some music. Then, on the hard drive, you will have some of the game, and then some music. Let's say you finish the download. Then, there will be some game, some music, and the rest of the game. Oh, also, how about that there were some programs updating in the background and you didn't realise! Then, there will be loads of 'fragmented' parts of games, programs and music, all jumbled around near each other on the disk!
+Hard disk drives are separated into thousands of tracks, with thousands of segments in these tracks. When a file is written to a disk, it is written to the next available segment. Let's say you're downloading a 30GB game - and you pause it halfway through for an hour, and you download some music. On the hard drive, you will have some of the game, and then some music. Let's say you finish the download. Then, there will be some game, some music, and then the rest of the game. Oh, also, how about that there were some programs updating in the background and you didn't realise! Then, there will be loads of 'fragmented' parts of games, programs and music, all jumbled around near each other on the disk!
 
 This is terrible for the computer's performance, as the head has to go to loads of physically distanced parts of the disk to read and write to. Defragging moves the files from all these parts to one consecutive track, where possible. This will load your games up a load faster!
+
 ![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/hard_drive.png)
-*What a hard drive is actually made from. Remember there can be several platters on a large drive!*
+*What a hard drive is actually made from. Remember there can be several of these platters on a large drive!*
 
 **NOTE: Solid-state drives are not affected by fragmentation. Do NOT EVER try and defrag an SSD!**
 
@@ -1334,7 +1335,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyMjcwMjYxMCwtNTQ0MTg0NDY0LC0yMD
-E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
-ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MzUzOTQ0MjIsLTU0NDE4NDQ2NCwtMj
+AxNjEzNzAzMywxNDE5NjE4MjAyLC0xMTM3NTg4Mjk1LC0xMzE2
+Njg2MjQxXX0=
 -->
