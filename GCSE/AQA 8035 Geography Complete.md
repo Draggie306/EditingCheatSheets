@@ -3,10 +3,10 @@
 
 # AQA Geography GCSE - Complete Revision Cheat Sheet! (8035)
 
-## NOTE: Paper 1 and 2 are complete. 3 will be added later.
+> ## NOTE: Paper 1 and 2 are complete. 3 will be added later.
 
 
-[Latest update: 30/09/2023 13:32.
+[Latest general update: 230/096/2023 13:325 22:05.
 Latest content addition: 20/05/2023 22:25](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 
@@ -20,16 +20,22 @@ More specifically, here were my exact marks if you're interested:
 
 > Paper 1: 68/88 [77% - 1 mark/1% above Grade 9, too close!]
 Paper 2: 81.02/88  [92% - 13 marks/15% above Grade 9] (scaled mark)
-Paper 3: 65.14/76 [86% - 7 marks/10% above Grade 9] (scaled mark) 
+Paper 3: 65.14/76 [86% - 7 marks/10% above Grade 9] (scaled mark)9!
+
+> If you're interested, here were my scores:
+> Paper 1: 68/88 [77%]
+Paper 2: 81.02/88  [92%]
+Paper 3: 65.14/76 [86%] 
 Total: 214 [85% - 21 marks/8% above Grade 9]
 ---
-> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Discuss with other students, developers, educators and professionals in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! Plus, you can opt to receive automatic notifications whenever new content is added here!
+> Looking to ace your exams with easy-to-access, free 1:1 advice from exam survivors? Discuss with other students, developers, educators and professionalexam survivors in the [Baguette Brigaders Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! Plus, you can opt to receive automatic notifications whenever new content is added here!
 ---
 
 If images appear slightly pixelated, zoom in to 110%, it's much crisper.
 
 
 ### **This cheat sheet covers *all* of the specification for all 3 papers**
+---
 ... so there's quite a lot of stuff to digest!
 
 
@@ -94,14 +100,14 @@ Primary effects of the Amatrician earthquake included 299 deaths, 400 injured an
 
 As Italy is a very touristy country, to this day many tourists avoid the area as a result of the seismic activity. 
 
-Local 'agritourismos' said they were on the brink of closure as many tourists did not come to Italy the year after, and even two years later footfall in Umbria and Lazio was still much lower than before the quake.
+Local '*agritourismos*' said they were on the brink of closure as many tourists did not come to Italy the year after, and even two years later footfall in Umbria and Lazio was still much lower than before the quake.
 
 ![reduced to rubble](https://cheatsheet-assets.ibaguette.com/gcse/geography/AmatricePic2Small.jpg)
 *^^ Another home reduced to rubble*
 
 ### Case study: Amatrice - responses
 
-**Immediate responses** are the responses to the impacts in the short-term, i.e a few days after the impact. In Amatrice, the army, Vigili del Fuoco (fire brigade) and dog teams arrived during the early morning to rescue people trapped under the rubble. The Italian PM Renzi announced a relief package of over 60 million euros for reconstruction work and tax subsidies for residents. 
+**Immediate responses** are the responses to the impacts in the short-term, i.e. a few days after the impact. In Amatrice, the army, Vigili del Fuoco (fire brigade) and dog teams arrived during the early morning to rescue people trapped under the rubble. The Italian PM Renzi announced a relief package of over 60 million euros for reconstruction work and tax subsidies for residents. 
 
 Unfortunately, immediate responses were not fully effective. Due to the mountainous terrain, many bridges were destroyed and landslides occurred, blocking access to the town. 
 
@@ -1109,5 +1115,5 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk0MTUzOTJdfQ==
+eyJoaXN0b3J5IjpbOTQyNDM3NTQwLC0xNjE5NDE1MzkyXX0=
 -->
