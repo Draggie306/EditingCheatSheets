@@ -292,7 +292,7 @@ Epping Forest has bogs and ponds which have their own unique species, including 
 
 Characteristics of Epping Forest's ecosystem include a wide variety of tree species, oak, elm, ash, beech. On top of this, there are many producers, insects, mammals and birds, including amphibians and reptiles. 700 fungi species act as decomposers.
 
-The ecosystem interdependent as the forest's producers, consumers and decomposers rely on each other. This is seen when the deciduous trees lose leaves to maximise photosynthesis to conserver energy. Decomposers and detritivores quickly convert this material into humus by the end of Autumn. This helps the new season's plant growth.
+The ecosystem is interdependent as the forest's producers, consumers and decomposers rely on each other. This is seen when the deciduous trees lose leaves to maximise photosynthesis to conserver energy. Decomposers and detritivores quickly convert this material into humus by the end of autumn. This helps the new season's plant growth.
 
 Visitors to the forest pick berries and flowers, and in doing so spread seeds. Previously, the trees were cut back to encourage new growth. The biomass store is large due to big trees, and the soil store is large due to lots of humus.
 
@@ -560,7 +560,7 @@ The further inland the dune, the taller and more vegetated it will be. Dunes clo
 
 ### Spits
 
-When a coastline changes shape (i.e moves inwards), a lot of deposition happens, resulting in the beach growing out into the sea. The prevailing wind and longshore drift make this happen. The depositional material gets smaller as the spit increases in length due to attrition. A dominant wind will cause the spit to form a 'hook' (recurve) inland. Over time, there will be multiple hooks and, in Dorset, there is a spit which is 4km long.
+When a coastline changes shape (i.e. moves inwards), a lot of deposition happens, resulting in the beach growing out into the sea. The prevailing wind and longshore drift make this happen. The depositional material gets smaller as the spit increases in length due to attrition. A dominant wind will cause the spit to form a 'hook' (recurve) inland. Over time, there will be multiple hooks and, in Dorset, there is a spit which is 4km long.
 
 A salt marsh and lagoon will form behind the spit which is sheltered from the waves, over time this will become vegetated.
 
@@ -656,7 +656,7 @@ A meander is a bend in a river.  Fast flowing water on the outside causes latera
 On the other side, sand and pebbles are deposited due to high friction, forming a slip-off slope. Water here is slow. 
 The corkscrew motion of the fastest flow of the water is helicoidal.
 
-[I'm not explaining how an oxbow lake is formed because it's the staple of Geography and should be second nature to all of you lol](https://www.bbc.co.uk/bitesize/guides/ztpkqty/revision/2)
+[I'm not explaining how an oxbow lake is formed because it's the staple of Geography and should be second nature to all of you!](https://www.bbc.co.uk/bitesize/guides/ztpkqty/revision/2)
 
 When an oxbow lake eventually evaporates, a 'meander scar' is left behind.
 
@@ -702,12 +702,13 @@ Factors affecting flood risk:
 -   **Relief** - a steep valley is more likely to flood than a flatter valley because the rainfall will run off into the river more quickly, and it cannot be absorbed by the soil.
 -   **Geology** - permeable rocks allow water to pass through pores and cracks, whereas impermeable rocks do not. If a valley is made up of impermeable rocks, there is a higher chance of flooding as there is an increase in surface run-off.
 -   **Vegetation** - trees and plants absorb water, called interception. Lots of vegetation reduces flood risk. Deforestation will increase the flood risk, as the water cannot be intercepted and flow into the river.
--   **Urban land use** - when an area surrounding a river is built on, the anount of impermeable surfaces increase, like concrete and tarmac. Drains and sewers take water directly into the river channel, increasing flood risk.
+-   **Urban land use** - when an area surrounding a river is built on, the amount of impermeable surfaces increase, like concrete and tarmac. Drains and sewers take water directly into the river channel, increasing flood risk.
 
 
 ## River management strategies
 ![enter image description here](https://cheatsheet-assets.ibaguette.com/gcse/geography/SpecContent-RiverManagementStrategies.png)
 *Finally, the last section on paper 1.*
+
 ### Hard engineering 
 
 Involves building artificial structures which try to control rivers.
@@ -749,9 +750,9 @@ As I took the exams in 2022 with optionality, I did not have time or any notes t
 *Here's what the specification says.*
 
 
-HOWEVER, notice how I said the glaciation **GCSE** unit. Luckily, I love Geography and so am currently doing an A level in it, and glaciation just so happens to be one of the physical units.
+HOWEVER, notice how I said the glaciation **GCSE** unit. Luckily, I love Geography so did an A Level in it. Glaciation just so happened to be one of my favourite physical units.
 
-To view the A level cheat sheet with glaciation information on, as well as to perhaps get a taste for the A level in general, go to [this iBaguette cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all#option-b-%E2%80%93-glaciated-landscapes). 
+To view the A Level cheat sheet with glaciation information on, in addition to to perhaps getting a taste for the A Level in general, go to [this iBaguette cheat sheet](https://ibaguette.com/cheatsheets/alevel/geography/all#physical---glaciated-landscapes). 
 
 Note: it contains huge amounts of much more detailed information compared to what you need to know. You can skim read and search through it to find the relevant information.
 
@@ -783,7 +784,7 @@ Cities are also historically situated on rivers (like London^1^ and Paris) and c
 
 In richer countries and continents like Europe, Oceania and North America, the rates of urbanisation have significantly slowed down, as most people have already moved into urban areas thanks to industrial revolutions which have already occurred.  Due to countries' wealth, people in these HICs live for longer and tend to have fewer babies, which could lead to natural decrease in the future.
 
-[China has plans to merge these cities on the Pearl River Delta into one huge megacity with a population of over 140 million, covering 25x more land than London.](https://www.google.com/maps/@22.7316438,113.7223091,182424m/data=!3m1!1e3)
+China has plans to merge these cities on the Pearl River Delta into one huge megacity with a population of over 140 million, covering 25x more land than London. Click [here](https://www.google.com/maps/@22.7316438,113.7223091,182424m/data=!3m1!1e3) to see a Google Maps satellite view.
 
 
 ## Case study: Lagos, Nigeria 
@@ -1086,7 +1087,7 @@ Disadvantages include
 
 ### [tbd] Example of a local scheme an LIC/NEE
 
-This section is to be determined as I do not have any notes for it. I had to ask my teacher literally a couple of minutes before the exam about it, as it is right at the end of the specificaiton, for information which I *just* managed to remember. 
+This section is to be determined as I do not have any notes for it. I had to ask my teacher literally a couple of minutes before the exam about it, as it is right at the end of the specification, for information which I *just* managed to remember. 
 
 Despite everyone else betting against me that it wouldn't come up in the exam, it was the last question and a 6 marker in the 2022 exam series. Good luck! 
 
@@ -1117,5 +1118,6 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMzEzNDAxLC0xNjE5NDE1MzkyXX0=
+eyJoaXN0b3J5IjpbLTE3NTIwNTE2MTUsLTE2MTk0MTUzOTJdfQ
+==
 -->
