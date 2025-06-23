@@ -7,9 +7,10 @@
 
 # Complete OCR J277 Computer Science GCSE Cheat Sheet!
 
-> *Written by [Oliver Ling](https://www.linkedin.com/in/oliver-ling/)* (@draggie306).
+> *Written by [Oliver Ling](https://www.linkedin.com/in/oliver-ling/) (@draggie306)*
 
-[Latest content update: 06/05/2025 16:29.](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest general update: 06/05/2025 16:29.
+Last addition: 06/05/2025 15:27](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Looking to smash your exams with easy-to-access, free 1:1 advice from exam survivors? Chat with fellow students, developers, teachers and professionals in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
@@ -27,7 +28,7 @@ Both papers individually are 50% of the total GCSE, and are worth 80 marks each.
 
 For ease of access, I’ve written this in a way designed to be read smoothly across any device, called Markdown. It’s easy to navigate and should look nice to read. To skip to areas you are weak on, I’d recommend using the side bar on the left - you may need to open in desktop site or read on a computer to use the Table of Contents.
 
-All of the Cheat Sheets and revision material on iBaguette are made as 1:1 compliments to their corresponding specification. The J277 spec is available [here](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf).
+All of the Cheat Sheets and revision material on iBaguette are made as 1:1 complements to their corresponding specification. The J277 spec is available [here](https://www.ocr.org.uk/Images/558027-specification-gcse-computer-science-j277.pdf).
 
 # Paper 1
 
@@ -719,10 +720,9 @@ In short, if you want to make money, use a proprietary license. If you want peop
 
 There are 3 words to describe 'computational thinking':
 
-- Abstraction: filtering out and ignoring the parts of problems which are not needed to solve a problem. It is effectively a general overview of the program with specific details removed, for example, the London Underground map.
-- Decomposition: Breaking down a problem into smaller parts which are easier to understand. These smaller parts can be individually solved as they are easier to comprehend, for example creating an app would need graphics, audio, software used to create it, testers, user interface...
-- Algorithmic thinking: thinking logically, just as a computer does. Usually works back from how an intended solution can be reached by working out the steps needed to get there.
-> Sometimes I might get annoyed if you don't think algorithmically...
+- Abstraction: **filtering out and ignoring the parts of problems which are not needed to solve a specific problem.** It is effectively a general overview of the program with specific details removed, for example, the London Underground map - this map shows the stops and lines to get to a destination, but not exact geographical details as they're not needed.
+- Decomposition: **breaking down a problem into smaller parts which are easier to understand**. Smaller parts are easier to comprehend, for example creating an app would need graphics, audio, software used to create it, testers, a user interface. It's much easier to say "Create a sub-program to handle the audio" than "make the whole app from scratch".
+- Algorithmic thinking: **thinking logically, just as a computer does**. Usually works back from how an intended solution can be reached by working out the steps needed to get there. If you can work out the steps needed to solve a problem, you can then write it simply in code. **Flowcharts** are good visualisations of this. 
 
 It is only when a problem is decomposed and abstracted, that the creation of the solution can begin.
 
@@ -795,10 +795,6 @@ A logic error occurs if the expected value on paper does not equal the received 
 
 ![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/le_table.png)
 *From [Bitesize](https://www.bbc.co.uk/bitesize/guides/z4cg4qt/revision/9).*
-
-
-
-
 
 ## 2.1.3 Searching and sorting algorithms
 
@@ -928,7 +924,7 @@ There are comparison and arithmetic operators. (They will give the Boolean value
 - `/`
 	- Division.
 - `MOD`
-	- Modulus. Gives the **remainder**. 20 mod 8 = 4. (16 remainder 4)
+	- Modulo. Gives the **remainder**. 20 mod 8 = 4. (16 remainder 4)
 - `DIV`
 	- Quotient. Gives how many times the number **can be fully divided**. 20 div 8 = 2. (20 divided by 8 is 2 remainder 4.)
 - `^`
@@ -1329,7 +1325,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzU3MTczMiwtNTQ0MTg0NDY0LC0yMD
+eyJoaXN0b3J5IjpbLTE1NjA4NzY0MywtNTQ0MTg0NDY0LC0yMD
 E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
 ODYyNDFdfQ==
 -->
