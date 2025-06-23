@@ -7,6 +7,8 @@
 
 # Complete OCR J277 Computer Science GCSE Cheat Sheet!
 
+> *Written by [Oliver Ling](https://www.linkedin.com/in/oliver-ling/)*.
+
 [Latest general update: 06/05/2025 16:29. 
 Last content addition: 06/05/2025 15:27](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
@@ -1328,7 +1330,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyNjg1Nzg3NSwtNTQ0MTg0NDY0LC0yMD
-E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
-ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbMjgzNDYyNTIyLC01NDQxODQ0NjQsLTIwMT
+YxMzcwMzMsMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMTMxNjY4
+NjI0MV19
 -->
