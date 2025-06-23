@@ -166,6 +166,7 @@ Memory/RAM is small in size compared to secondary storage, but is much faster as
 
 Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow for when memory is filled up. When RAM is full, data which would have gone to memory goes to an area of the disk drive and, when needed by the CPU again, is moved back into RAM. However, virtual memory is *much* slower than even the fastest SSDs, let alone HDDs with their moving parts, so the OS attempts to avoid placing highly-used programs in virtual memory. *More RAM = always better.*
 
+Cache memory is small amounts of incredibly fast but relatively expensive random access memory located within the CPU, used for very common operations. There are typically 3 levels of cache - L1, L2 and L3 - which go down (starting from L1) in cost and speed, but up in capacity. It's 
 
 ## 1.2.2 Secondary storage
 
@@ -1335,7 +1336,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNjI4NTIxMiwtNTQ0MTg0NDY0LC0yMD
-E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
-ODYyNDFdfQ==
+eyJoaXN0b3J5IjpbMjc2MzEzMjY5LC01NDQxODQ0NjQsLTIwMT
+YxMzcwMzMsMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMTMxNjY4
+NjI0MV19
 -->
