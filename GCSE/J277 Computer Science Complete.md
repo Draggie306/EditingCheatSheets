@@ -618,7 +618,7 @@ The OS controls...
 ## 1.5.2 Utility software
 ![OCR GCSE J277 Computer Science Specification, containing section 1.5.1 Operating Systems](https://cheatsheet-assets.ibaguette.com/gcse/compsci/1.5.2_Utility_software.png)
 
-Utility software helps maintain the system. It includes programs involving encryption software, defragmentation and data compression tools. Computers often come with this software built in (even as part of the OS now) to keep the device running smoothly.
+Utility software helps to maintain the system. It includes programs such as encryption software, defragmentation utilities and data compression tools. Computers often come with this software built in to keep the device running smoothly, but not directly as part of the OS.
 
 ### Encryption software
 
@@ -636,7 +636,7 @@ This is terrible for the computer's performance, as the head has to go to loads 
 ![Your device cannot load this image - it may be blocked.](https://cheatsheet-assets.ibaguette.com/gcse/compsci/hard_drive.png)
 *What a hard drive is actually made from. Remember there can be several platters on a large drive!*
 
-**NOTE: Solid-state drives' speeds are not affected by fragmentation. Do NOT EVER try and defrag an SSD!**
+**NOTE: Solid-state drives are not affected by fragmentation. Do NOT EVER try and defrag an SSD!**
 
 
 ### Compression software
@@ -763,7 +763,7 @@ Pseudocode example:
 
 ```py
 while answer_inputted != 'valorant'
-	answer_inputted = input ("What is the worst game?")
+	answer_inputted = input("What is the worst game?")
 		if answer_inputted == "valorant" then
 			print("Correct! you got it right.")
 		else
@@ -788,7 +788,7 @@ It's relatively easy to tell what this 'code' does:
 - Line 9 will print `Wrong` 
 - Line 10 will end the inner (second) `if` statement
 - Line 11 will end the outer (first) `if` statement
-- Line 12 will end this section of the code when the endif statement is triggered
+- Line 12 marks the end of the `while` section of the code.
 
 Notice how there is an `if` statement inside another `if` statement? This is called **nesting**. It can also be used for iteration statements (loops).
 
@@ -1334,7 +1334,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODcwMTAyNjMsLTU0NDE4NDQ2NCwtMj
-AxNjEzNzAzMywxNDE5NjE4MjAyLC0xMTM3NTg4Mjk1LC0xMzE2
-Njg2MjQxXX0=
+eyJoaXN0b3J5IjpbMTgyMjcwMjYxMCwtNTQ0MTg0NDY0LC0yMD
+E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
+ODYyNDFdfQ==
 -->
