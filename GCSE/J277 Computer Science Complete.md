@@ -9,8 +9,8 @@
 
 > *Written by [Oliver Ling](https://www.linkedin.com/in/oliver-ling/) (@draggie306)*.
 
-[Latest general update: 23/06/2025 21:22.
-Last content addition: 23/06/2025 21:16](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
+[Latest general update: 23/06/2025 21:52.
+Last content addition: 23/06/2025 21:46](https://gist.github.com/Draggie306/1072270b844cda3e271d6f484aa9a976)
 
 > Looking to smash your exams with easy-to-access, free 1:1 advice from exam survivors? Chat with students, developers, teachers and exam survivors in the [Baguette Brigade Discord server](https://discord.gg/GfetCXH) who can answer all your questions and give you tips and tricks! 
 > Plus, you can opt to receive automatic notifications whenever new content is added here!
@@ -592,7 +592,7 @@ Multitasking is a classic example of OS' evolution over the years. With CLIs, a 
 
 ### Peripherals and drivers
 
-Peripherals are hardware devices physically connected to a computer like mice, monitors, printers, etc etc (you knew that right... RIGHT?!?)
+Peripherals are hardware devices physically connected to a computer like mice, monitors, printers, etc etc *(you knew that right... RIGHT?!?)*
 
 OSes use drivers to control peripherals. Data is transferred between devices and the CPU, and this needs drivers to manage the interactions between the user and the computer. As drivers contain instructions on how to manage a device, every device connected will have its own associated driver. Any device can be used with a computer, as long as standards (written about above) are met and a driver is available. Drivers are frequently updated to improve the hardware device's performance or to fix a bug.
 > However, if a driver update goes wrong then it will take some extra effort to fix it, as you can't interact with the hardware with the bad driver...
@@ -1339,7 +1339,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwMTAzMTM2LC01NDQxODQ0NjQsLTIwMT
-YxMzcwMzMsMTQxOTYxODIwMiwtMTEzNzU4ODI5NSwtMTMxNjY4
-NjI0MV19
+eyJoaXN0b3J5IjpbMTkxMjIyNTA0NCwtNTQ0MTg0NDY0LC0yMD
+E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
+ODYyNDFdfQ==
 -->
