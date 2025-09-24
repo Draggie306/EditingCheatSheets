@@ -160,13 +160,13 @@ Advantages of these systems include they require less power to run and are cheap
 
 ## 1.2.1 Primary storage
 
-Primary storage consists of RAM (random access memory) and ROM (read-only memory). ROM is non-volatile (retains its data after being powered off) and is usually often now only used to boot the computer, providing for the BIOS or UEFI.
+Primary storage consists of RAM (random access memory) and ROM (read-only memory). ROM is non-volatile (retains its data after being powered off) and is now often only used to boot the computer, providing the BIOS or UEFI start-up instructions.
 
-Memory/RAM is small in size compared to secondary storage, but is much faster as it does not have moving parts or have to retain that information. It is usually from 4-16GB in size. The more RAM a computer has, the more programs and instructions it can store simultaneously.
+Memory/RAM is small in size compared to secondary storage, but is much faster as it does not have moving parts or have to retain that much information. It is usually from 4-16GB in size. The more RAM a computer has, the more programs and instructions it can store simultaneously.
 
-Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow for when memory is filled up. When RAM is full, data which would have gone to memory goes to an area of the disk drive and, when needed by the CPU again, is moved back into RAM. However, virtual memory is *much* slower than primary storage, even using the fastest SSDs, let alone HDDs with their moving parts, so the OS attempts to avoid placing highly-used programs in virtual memory. *More RAM = always better. Apart from its costs.*
+Virtual memory is needed in systems. Virtual memory is an area of secondary storage which is used as an overflow when memory is filled up. When RAM is full, data which would have gone to memory instead goes to an area of the disk drive and, when needed by the CPU, is moved back into RAM. However, virtual memory is *much* slower than primary storage media, even if it uses the fastest SSDs, let alone HDDs with their moving parts, so the OS always attempts to avoid placing highly-used programs in virtual memory. *More RAM = always better. Apart from its costs.*
 
-Cache memory is small amounts of incredibly fast but relatively expensive random access memory located within the CPU, used for very common operations and calculations that may need to be immediately reused. There are typically 3 levels of cache - L1, L2 and L3 - which go down (starting from L1) in cost and speed, but up in capacity. As it is located on the CPU itself, it's much faster than having to go to RAM all the time.
+Cache memory is small amounts of incredibly fast but relatively expensive random access memory located within the CPU itself, used for very common operations and calculations that may need to be immediately reused. There are typically 3 levels of cache - L1, L2 and L3 - which go down (starting from L1) in cost and speed, but up in capacity. As it is located on the CPU itself, it's much faster than having to go to RAM all the time. 
 
 ## 1.2.2 Secondary storage
 
@@ -1339,7 +1339,7 @@ Feel free to share this Cheat Sheet with friends, family and teachers.
 
 > Made with 💕 by Draggie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1OTU2Mzg3NCwtNTQ0MTg0NDY0LC0yMD
+eyJoaXN0b3J5IjpbMTQ2MzcwODc3MSwtNTQ0MTg0NDY0LC0yMD
 E2MTM3MDMzLDE0MTk2MTgyMDIsLTExMzc1ODgyOTUsLTEzMTY2
 ODYyNDFdfQ==
 -->
